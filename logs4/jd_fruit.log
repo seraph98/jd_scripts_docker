@@ -1,0 +1,741 @@
+Jan 07 06:15:01 
+Jan 07 06:15:01 🔔东东农场, 开始!
+Jan 07 06:15:01 开始获取配置文件
+Jan 07 06:15:01 
+Jan 07 06:15:01 
+Jan 07 06:15:01 ====================共1个京东账号Cookie=========
+Jan 07 06:15:01 
+Jan 07 06:15:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 上午6:15:01=====================
+Jan 07 06:15:01 
+Jan 07 06:15:01 由于您环境变量(FRUITSHARECODES)里面未提供助力码，故此处运行将会给脚本内置的码进行助力，请知晓！
+Jan 07 06:15:01 共1个京东账号
+Jan 07 06:15:01 
+Jan 07 06:15:01 您提供了2个账号的农场助力码
+Jan 07 06:15:01 
+Jan 07 06:15:02 
+Jan 07 06:15:02 开始【京东账号1】jd_632e000b42ec6
+Jan 07 06:15:02 
+Jan 07 06:15:02 
+Jan 07 06:15:02 ==============📣系统通知📣==============
+Jan 07 06:15:02 东东农场
+Jan 07 06:15:02 【提示】cookie已失效
+Jan 07 06:15:02 京东账号1 jd_632e000b42ec6
+Jan 07 06:15:02 请重新登录获取
+Jan 07 06:15:02 https://bean.m.jd.com/bean/signIndex.action
+Jan 07 06:15:02 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 07 06:15:02 
+Jan 07 06:15:05 发送通知调用API失败！！
+Jan 07 06:15:05 
+Jan 07 06:15:05 RequestError: socket hang up
+Jan 07 06:15:05     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 07 06:15:05     at Object.onceWrapper (node:events:510:26)
+Jan 07 06:15:05     at ClientRequest.emit (node:events:402:35)
+Jan 07 06:15:05     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 07 06:15:05     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 07 06:15:05     at Socket.emit (node:events:402:35)
+Jan 07 06:15:05     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 07 06:15:05     at connResetException (node:internal/errors:691:14)
+Jan 07 06:15:05     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 07 06:15:05     at Socket.emit (node:events:402:35)
+Jan 07 06:15:05     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 07 06:15:05     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 07 06:15:05   code: 'ECONNRESET',
+Jan 07 06:15:05   timings: {
+Jan 07 06:15:05     start: 1641507305087,
+Jan 07 06:15:05     socket: 1641507305087,
+Jan 07 06:15:05     lookup: 1641507305088,
+Jan 07 06:15:05     connect: 1641507305322,
+Jan 07 06:15:05     secureConnect: undefined,
+Jan 07 06:15:05     upload: 1641507305322,
+Jan 07 06:15:05     response: undefined,
+Jan 07 06:15:05     end: undefined,
+Jan 07 06:15:05     error: 1641507305557,
+Jan 07 06:15:05     abort: undefined,
+Jan 07 06:15:05     phases: {
+Jan 07 06:15:05       wait: 0,
+Jan 07 06:15:05       dns: 1,
+Jan 07 06:15:05       tcp: 234,
+Jan 07 06:15:05       tls: undefined,
+Jan 07 06:15:05       request: 0,
+Jan 07 06:15:05       firstByte: undefined,
+Jan 07 06:15:05       download: undefined,
+Jan 07 06:15:05       total: 470
+Jan 07 06:15:05     }
+Jan 07 06:15:05   }
+Jan 07 06:15:05 }
+Jan 07 06:15:05 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 07 06:15:05 
+Jan 07 06:15:05 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 07 06:15:05 
+Jan 07 06:15:05 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 07 06:15:05 
+Jan 07 06:15:05 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 07 06:15:05 
+Jan 07 06:15:05 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 07 06:15:05 
+Jan 07 06:15:05 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 07 06:15:05 
+Jan 07 06:15:05 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 07 06:15:05 
+Jan 07 06:15:05 
+Jan 07 06:15:05 🔔东东农场, 结束! 🕛 3.965 秒
+Jan 07 06:15:05 
+Jan 07 12:15:00 
+Jan 07 12:15:00 🔔东东农场, 开始!
+Jan 07 12:15:00 开始获取配置文件
+Jan 07 12:15:00 
+Jan 07 12:15:00 
+Jan 07 12:15:00 ====================共1个京东账号Cookie=========
+Jan 07 12:15:00 
+Jan 07 12:15:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 下午12:15:00=====================
+Jan 07 12:15:00 
+Jan 07 12:15:00 由于您环境变量(FRUITSHARECODES)里面未提供助力码，故此处运行将会给脚本内置的码进行助力，请知晓！
+Jan 07 12:15:00 共1个京东账号
+Jan 07 12:15:00 
+Jan 07 12:15:00 您提供了2个账号的农场助力码
+Jan 07 12:15:00 
+Jan 07 12:15:02 
+Jan 07 12:15:02 开始【京东账号1】jd_632e000b42ec6
+Jan 07 12:15:02 
+Jan 07 12:15:02 
+Jan 07 12:15:02 ==============📣系统通知📣==============
+Jan 07 12:15:02 东东农场
+Jan 07 12:15:02 【提示】cookie已失效
+Jan 07 12:15:02 京东账号1 jd_632e000b42ec6
+Jan 07 12:15:02 请重新登录获取
+Jan 07 12:15:02 https://bean.m.jd.com/bean/signIndex.action
+Jan 07 12:15:02 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 07 12:15:02 
+Jan 07 12:15:05 发送通知调用API失败！！
+Jan 07 12:15:05 
+Jan 07 12:15:05 RequestError: socket hang up
+Jan 07 12:15:05     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 07 12:15:05     at Object.onceWrapper (node:events:510:26)
+Jan 07 12:15:05     at ClientRequest.emit (node:events:402:35)
+Jan 07 12:15:05     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 07 12:15:05     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 07 12:15:05     at Socket.emit (node:events:402:35)
+Jan 07 12:15:05     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 07 12:15:05     at connResetException (node:internal/errors:691:14)
+Jan 07 12:15:05     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 07 12:15:05     at Socket.emit (node:events:402:35)
+Jan 07 12:15:05     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 07 12:15:05     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 07 12:15:05   code: 'ECONNRESET',
+Jan 07 12:15:05   timings: {
+Jan 07 12:15:05     start: 1641528904530,
+Jan 07 12:15:05     socket: 1641528904530,
+Jan 07 12:15:05     lookup: 1641528904531,
+Jan 07 12:15:05     connect: 1641528905760,
+Jan 07 12:15:05     secureConnect: undefined,
+Jan 07 12:15:05     upload: 1641528905760,
+Jan 07 12:15:05     response: undefined,
+Jan 07 12:15:05     end: undefined,
+Jan 07 12:15:05     error: 1641528905989,
+Jan 07 12:15:05     abort: undefined,
+Jan 07 12:15:05     phases: {
+Jan 07 12:15:05       wait: 0,
+Jan 07 12:15:05       dns: 1,
+Jan 07 12:15:05       tcp: 1229,
+Jan 07 12:15:05       tls: undefined,
+Jan 07 12:15:05       request: 0,
+Jan 07 12:15:05       firstByte: undefined,
+Jan 07 12:15:05       download: undefined,
+Jan 07 12:15:05       total: 1459
+Jan 07 12:15:05     }
+Jan 07 12:15:05   }
+Jan 07 12:15:05 }
+Jan 07 12:15:05 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 07 12:15:05 
+Jan 07 12:15:05 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 07 12:15:05 
+Jan 07 12:15:05 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 07 12:15:05 
+Jan 07 12:15:05 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 07 12:15:05 
+Jan 07 12:15:05 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 07 12:15:05 
+Jan 07 12:15:05 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 07 12:15:05 
+Jan 07 12:15:05 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 07 12:15:05 
+Jan 07 12:15:05 
+Jan 07 12:15:05 🔔东东农场, 结束! 🕛 5.532 秒
+Jan 07 12:15:05 
+Jan 07 18:15:00 
+Jan 07 18:15:00 🔔东东农场, 开始!
+Jan 07 18:15:00 开始获取配置文件
+Jan 07 18:15:00 
+Jan 07 18:15:00 
+Jan 07 18:15:00 ====================共1个京东账号Cookie=========
+Jan 07 18:15:00 
+Jan 07 18:15:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 下午6:15:00=====================
+Jan 07 18:15:00 
+Jan 07 18:15:00 由于您环境变量(FRUITSHARECODES)里面未提供助力码，故此处运行将会给脚本内置的码进行助力，请知晓！
+Jan 07 18:15:00 共1个京东账号
+Jan 07 18:15:00 
+Jan 07 18:15:00 您提供了2个账号的农场助力码
+Jan 07 18:15:00 
+Jan 07 18:15:02 
+Jan 07 18:15:02 开始【京东账号1】jd_632e000b42ec6
+Jan 07 18:15:02 
+Jan 07 18:15:03 随机取个20码放到您固定的互助码后面(不影响已有固定互助)
+Jan 07 18:15:03 第1个京东账号将要助力的好友["5853550f71014282912b76d95beb84c0","48e6ec73af85409abbfd6bbb1bbed122","68c383d05e4747e5b34a579445db9459","b58ddba3317b44ceb0ac86ea8952998c","8d724eb95e3847b6a1526587d1836f27","a80b7d1db41a4381b742232da9d22443","ce107b8f64d24f62a92292180f764018","c73ea563a77d4464b273503d3838fec1","0dd9a7fd1feb449fb1bf854a3ec0e801","fb14650eae2e41fa9272717ed88dceaf","f291f531c65447cd9bf548c382874f27","cb043978bf5245d49f9f889fcf1f1f1d","85001fb7d71a4a5c9d84e284f822a9b3","35cc5b01e8504fd59fe57983eda1c620","97efed97ad644916b4ae0d1c641047ce","83bae85940a34da4a790d2b06851b156","b778a9e3721547138c54fab0ddb52a9b","9285f1d27dc7453b83f3a4b75e98f7be","55deedbf97bb47e98c584c6d07231bc4","4141938013bf4604beb2c8e082dd2139","14748b177e8b4272a48bf648aafaedf9","6fb6f16ce78e4212985894d857415553","039d9b522386417fb91dc98d0c663ef6","d4a67507d18f4be3b9e50d396427fbfb","b84c9e065c65419a9d40e094bb963508","c7af8c4552744a56b06f2ab7aec6452f","451904fab68a455da014a26831cc1afc","e268a4b157dd4e8783e0c94f04ada9d3","b8669b8e5e4542f7832cb4609db7a541"]
+Jan 07 18:15:03 初始化农场数据异常, 请登录京东 app查看农场0元水果功能是否正常,农场初始化数据: {"code":"3","msg":"not login"}
+Jan 07 18:15:03 
+Jan 07 18:15:03 ==============📣系统通知📣==============
+Jan 07 18:15:03 东东农场
+Jan 07 18:15:03 【京东账号1】jd_632e000b42ec6
+Jan 07 18:15:03 【数据异常】请手动登录京东app查看此账号东东农场是否正常
+Jan 07 18:15:03 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 07 18:15:03 
+Jan 07 18:15:06 发送通知调用API失败！！
+Jan 07 18:15:06 
+Jan 07 18:15:06 RequestError: socket hang up
+Jan 07 18:15:06     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 07 18:15:06     at Object.onceWrapper (node:events:510:26)
+Jan 07 18:15:06     at ClientRequest.emit (node:events:402:35)
+Jan 07 18:15:06     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 07 18:15:06     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 07 18:15:06     at Socket.emit (node:events:402:35)
+Jan 07 18:15:06     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 07 18:15:06     at connResetException (node:internal/errors:691:14)
+Jan 07 18:15:06     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 07 18:15:06     at Socket.emit (node:events:402:35)
+Jan 07 18:15:06     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 07 18:15:06     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 07 18:15:06   code: 'ECONNRESET',
+Jan 07 18:15:06   timings: {
+Jan 07 18:15:06     start: 1641550505679,
+Jan 07 18:15:06     socket: 1641550505679,
+Jan 07 18:15:06     lookup: 1641550505680,
+Jan 07 18:15:06     connect: 1641550505910,
+Jan 07 18:15:06     secureConnect: undefined,
+Jan 07 18:15:06     upload: 1641550505910,
+Jan 07 18:15:06     response: undefined,
+Jan 07 18:15:06     end: undefined,
+Jan 07 18:15:06     error: 1641550506142,
+Jan 07 18:15:06     abort: undefined,
+Jan 07 18:15:06     phases: {
+Jan 07 18:15:06       wait: 0,
+Jan 07 18:15:06       dns: 1,
+Jan 07 18:15:06       tcp: 230,
+Jan 07 18:15:06       tls: undefined,
+Jan 07 18:15:06       request: 0,
+Jan 07 18:15:06       firstByte: undefined,
+Jan 07 18:15:06       download: undefined,
+Jan 07 18:15:06       total: 463
+Jan 07 18:15:06     }
+Jan 07 18:15:06   }
+Jan 07 18:15:06 }
+Jan 07 18:15:06 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 07 18:15:06 
+Jan 07 18:15:06 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 07 18:15:06 
+Jan 07 18:15:06 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 07 18:15:06 
+Jan 07 18:15:06 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 07 18:15:06 
+Jan 07 18:15:06 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 07 18:15:06 
+Jan 07 18:15:06 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 07 18:15:06 
+Jan 07 18:15:06 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 07 18:15:06 
+Jan 07 18:15:06 
+Jan 07 18:15:06 🔔东东农场, 结束! 🕛 5.422 秒
+Jan 07 18:15:06 
+Jan 08 06:15:00 
+Jan 08 06:15:00 🔔东东农场, 开始!
+Jan 08 06:15:00 开始获取配置文件
+Jan 08 06:15:00 
+Jan 08 06:15:00 
+Jan 08 06:15:00 ====================共1个京东账号Cookie=========
+Jan 08 06:15:00 
+Jan 08 06:15:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 上午6:15:00=====================
+Jan 08 06:15:00 
+Jan 08 06:15:00 由于您环境变量(FRUITSHARECODES)里面未提供助力码，故此处运行将会给脚本内置的码进行助力，请知晓！
+Jan 08 06:15:00 共1个京东账号
+Jan 08 06:15:00 
+Jan 08 06:15:00 您提供了2个账号的农场助力码
+Jan 08 06:15:00 
+Jan 08 06:15:01 
+Jan 08 06:15:01 开始【京东账号1】jd_632e000b42ec6
+Jan 08 06:15:01 
+Jan 08 06:15:01 
+Jan 08 06:15:01 ==============📣系统通知📣==============
+Jan 08 06:15:01 东东农场
+Jan 08 06:15:01 【提示】cookie已失效
+Jan 08 06:15:01 京东账号1 jd_632e000b42ec6
+Jan 08 06:15:01 请重新登录获取
+Jan 08 06:15:01 https://bean.m.jd.com/bean/signIndex.action
+Jan 08 06:15:01 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 08 06:15:01 
+Jan 08 06:15:07 发送通知调用API失败！！
+Jan 08 06:15:07 
+Jan 08 06:15:07 RequestError: socket hang up
+Jan 08 06:15:07     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 08 06:15:07     at Object.onceWrapper (node:events:510:26)
+Jan 08 06:15:07     at ClientRequest.emit (node:events:402:35)
+Jan 08 06:15:07     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 08 06:15:07     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 08 06:15:07     at Socket.emit (node:events:402:35)
+Jan 08 06:15:07     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 08 06:15:07     at connResetException (node:internal/errors:691:14)
+Jan 08 06:15:07     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 08 06:15:07     at Socket.emit (node:events:402:35)
+Jan 08 06:15:07     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 08 06:15:07     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 08 06:15:07   code: 'ECONNRESET',
+Jan 08 06:15:07   timings: {
+Jan 08 06:15:07     start: 1641593704177,
+Jan 08 06:15:07     socket: 1641593704177,
+Jan 08 06:15:07     lookup: 1641593704178,
+Jan 08 06:15:07     connect: 1641593707409,
+Jan 08 06:15:07     secureConnect: undefined,
+Jan 08 06:15:07     upload: 1641593707409,
+Jan 08 06:15:07     response: undefined,
+Jan 08 06:15:07     end: undefined,
+Jan 08 06:15:07     error: 1641593707639,
+Jan 08 06:15:07     abort: undefined,
+Jan 08 06:15:07     phases: {
+Jan 08 06:15:07       wait: 0,
+Jan 08 06:15:07       dns: 1,
+Jan 08 06:15:07       tcp: 3231,
+Jan 08 06:15:07       tls: undefined,
+Jan 08 06:15:07       request: 0,
+Jan 08 06:15:07       firstByte: undefined,
+Jan 08 06:15:07       download: undefined,
+Jan 08 06:15:07       total: 3462
+Jan 08 06:15:07     }
+Jan 08 06:15:07   }
+Jan 08 06:15:07 }
+Jan 08 06:15:07 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 08 06:15:07 
+Jan 08 06:15:07 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 08 06:15:07 
+Jan 08 06:15:07 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 08 06:15:07 
+Jan 08 06:15:07 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 08 06:15:07 
+Jan 08 06:15:07 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 08 06:15:07 
+Jan 08 06:15:07 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 08 06:15:07 
+Jan 08 06:15:07 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 08 06:15:07 
+Jan 08 06:15:07 
+Jan 08 06:15:07 🔔东东农场, 结束! 🕛 7.185 秒
+Jan 08 06:15:07 
+Jan 08 12:15:01 
+Jan 08 12:15:01 🔔东东农场, 开始!
+Jan 08 12:15:01 开始获取配置文件
+Jan 08 12:15:01 
+Jan 08 12:15:01 
+Jan 08 12:15:01 ====================共1个京东账号Cookie=========
+Jan 08 12:15:01 
+Jan 08 12:15:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 下午12:15:01=====================
+Jan 08 12:15:01 
+Jan 08 12:15:01 由于您环境变量(FRUITSHARECODES)里面未提供助力码，故此处运行将会给脚本内置的码进行助力，请知晓！
+Jan 08 12:15:01 共1个京东账号
+Jan 08 12:15:01 
+Jan 08 12:15:01 您提供了2个账号的农场助力码
+Jan 08 12:15:01 
+Jan 08 12:15:02 
+Jan 08 12:15:02 开始【京东账号1】jd_632e000b42ec6
+Jan 08 12:15:02 
+Jan 08 12:15:03 随机取个20码放到您固定的互助码后面(不影响已有固定互助)
+Jan 08 12:15:03 第1个京东账号将要助力的好友["5853550f71014282912b76d95beb84c0","48e6ec73af85409abbfd6bbb1bbed122","68c383d05e4747e5b34a579445db9459","b58ddba3317b44ceb0ac86ea8952998c","8d724eb95e3847b6a1526587d1836f27","a80b7d1db41a4381b742232da9d22443","ce107b8f64d24f62a92292180f764018","c73ea563a77d4464b273503d3838fec1","0dd9a7fd1feb449fb1bf854a3ec0e801","10c1f02a642641b281b3f8f74389b285","b43f21a0b5324c09b205de06b381f5a5","e4cd1b852eb9405a83ef02e9ce9f8f9b","f63b1d68926a4f1f9c927f44125e05a5","00ba6aa4c1f6475283fa2665439bd0eb","157bfb6816e3412fb1ff46ec9aa9b4e7","a293a2f8a50c47b0b735da0543513e0e","49bb32046889409d843ccee3b9f68e09","d6a3b62ad1eb4f9b95c42359b37e9253","a0e6cc8b84534c998603916248c25583","5ee4f4a53b7e434b9d5b7b5147816ef5","0cdf0b67c7e9423b82c345380382e408","9c56d25c702d4ab38b1ae7eb1d1a59dd","637de3ef9d2645d98fa715aca3778dba","95b237dd84c542b8a3d2fc73373c0eb4","1054201ed6b841c5b33d8a53ec7a3f32","5f447b0594a743a4b38f0154a4ad757b","ce074f71346440e08282f8e4055929cf","756ad76af27b487cb61842cf3b2b244c","a4fbf223f054438ab2f55923b36e390e"]
+Jan 08 12:15:03 初始化农场数据异常, 请登录京东 app查看农场0元水果功能是否正常,农场初始化数据: {"code":"3","msg":"not login"}
+Jan 08 12:15:03 
+Jan 08 12:15:03 ==============📣系统通知📣==============
+Jan 08 12:15:03 东东农场
+Jan 08 12:15:03 【京东账号1】jd_632e000b42ec6
+Jan 08 12:15:03 【数据异常】请手动登录京东app查看此账号东东农场是否正常
+Jan 08 12:15:03 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 08 12:15:03 
+Jan 08 12:15:07 发送通知调用API失败！！
+Jan 08 12:15:07 
+Jan 08 12:15:07 RequestError: socket hang up
+Jan 08 12:15:07     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 08 12:15:07     at Object.onceWrapper (node:events:510:26)
+Jan 08 12:15:07     at ClientRequest.emit (node:events:402:35)
+Jan 08 12:15:07     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 08 12:15:07     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 08 12:15:07     at Socket.emit (node:events:402:35)
+Jan 08 12:15:07     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 08 12:15:07     at connResetException (node:internal/errors:691:14)
+Jan 08 12:15:07     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 08 12:15:07     at Socket.emit (node:events:402:35)
+Jan 08 12:15:07     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 08 12:15:07     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 08 12:15:07   code: 'ECONNRESET',
+Jan 08 12:15:07   timings: {
+Jan 08 12:15:07     start: 1641615305972,
+Jan 08 12:15:07     socket: 1641615305972,
+Jan 08 12:15:07     lookup: 1641615305973,
+Jan 08 12:15:07     connect: 1641615307204,
+Jan 08 12:15:07     secureConnect: undefined,
+Jan 08 12:15:07     upload: 1641615307204,
+Jan 08 12:15:07     response: undefined,
+Jan 08 12:15:07     end: undefined,
+Jan 08 12:15:07     error: 1641615307437,
+Jan 08 12:15:07     abort: undefined,
+Jan 08 12:15:07     phases: {
+Jan 08 12:15:07       wait: 0,
+Jan 08 12:15:07       dns: 1,
+Jan 08 12:15:07       tcp: 1231,
+Jan 08 12:15:07       tls: undefined,
+Jan 08 12:15:07       request: 0,
+Jan 08 12:15:07       firstByte: undefined,
+Jan 08 12:15:07       download: undefined,
+Jan 08 12:15:07       total: 1465
+Jan 08 12:15:07     }
+Jan 08 12:15:07   }
+Jan 08 12:15:07 }
+Jan 08 12:15:07 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 08 12:15:07 
+Jan 08 12:15:07 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 08 12:15:07 
+Jan 08 12:15:07 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 08 12:15:07 
+Jan 08 12:15:07 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 08 12:15:07 
+Jan 08 12:15:07 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 08 12:15:07 
+Jan 08 12:15:07 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 08 12:15:07 
+Jan 08 12:15:07 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 08 12:15:07 
+Jan 08 12:15:07 
+Jan 08 12:15:07 🔔东东农场, 结束! 🕛 6.221 秒
+Jan 08 12:15:07 
+Jan 08 18:15:00 
+Jan 08 18:15:00 🔔东东农场, 开始!
+Jan 08 18:15:00 开始获取配置文件
+Jan 08 18:15:00 
+Jan 08 18:15:00 
+Jan 08 18:15:00 ====================共1个京东账号Cookie=========
+Jan 08 18:15:00 
+Jan 08 18:15:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 下午6:15:00=====================
+Jan 08 18:15:00 
+Jan 08 18:15:00 由于您环境变量(FRUITSHARECODES)里面未提供助力码，故此处运行将会给脚本内置的码进行助力，请知晓！
+Jan 08 18:15:00 共1个京东账号
+Jan 08 18:15:00 
+Jan 08 18:15:00 您提供了2个账号的农场助力码
+Jan 08 18:15:00 
+Jan 08 18:15:01 
+Jan 08 18:15:01 开始【京东账号1】jd_632e000b42ec6
+Jan 08 18:15:01 
+Jan 08 18:15:01 
+Jan 08 18:15:01 ==============📣系统通知📣==============
+Jan 08 18:15:01 东东农场
+Jan 08 18:15:01 【提示】cookie已失效
+Jan 08 18:15:01 京东账号1 jd_632e000b42ec6
+Jan 08 18:15:01 请重新登录获取
+Jan 08 18:15:01 https://bean.m.jd.com/bean/signIndex.action
+Jan 08 18:15:01 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 08 18:15:01 
+Jan 08 18:15:05 发送通知调用API失败！！
+Jan 08 18:15:05 
+Jan 08 18:15:05 RequestError: socket hang up
+Jan 08 18:15:05     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 08 18:15:05     at Object.onceWrapper (node:events:510:26)
+Jan 08 18:15:05     at ClientRequest.emit (node:events:402:35)
+Jan 08 18:15:05     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 08 18:15:05     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 08 18:15:05     at Socket.emit (node:events:402:35)
+Jan 08 18:15:05     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 08 18:15:05     at connResetException (node:internal/errors:691:14)
+Jan 08 18:15:05     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 08 18:15:05     at Socket.emit (node:events:402:35)
+Jan 08 18:15:05     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 08 18:15:05     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 08 18:15:05   code: 'ECONNRESET',
+Jan 08 18:15:05   timings: {
+Jan 08 18:15:05     start: 1641636904002,
+Jan 08 18:15:05     socket: 1641636904002,
+Jan 08 18:15:05     lookup: 1641636904005,
+Jan 08 18:15:05     connect: 1641636905239,
+Jan 08 18:15:05     secureConnect: undefined,
+Jan 08 18:15:05     upload: 1641636905239,
+Jan 08 18:15:05     response: undefined,
+Jan 08 18:15:05     end: undefined,
+Jan 08 18:15:05     error: 1641636905475,
+Jan 08 18:15:05     abort: undefined,
+Jan 08 18:15:05     phases: {
+Jan 08 18:15:05       wait: 0,
+Jan 08 18:15:05       dns: 3,
+Jan 08 18:15:05       tcp: 1234,
+Jan 08 18:15:05       tls: undefined,
+Jan 08 18:15:05       request: 0,
+Jan 08 18:15:05       firstByte: undefined,
+Jan 08 18:15:05       download: undefined,
+Jan 08 18:15:05       total: 1473
+Jan 08 18:15:05     }
+Jan 08 18:15:05   }
+Jan 08 18:15:05 }
+Jan 08 18:15:05 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 08 18:15:05 
+Jan 08 18:15:05 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 08 18:15:05 
+Jan 08 18:15:05 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 08 18:15:05 
+Jan 08 18:15:05 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 08 18:15:05 
+Jan 08 18:15:05 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 08 18:15:05 
+Jan 08 18:15:05 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 08 18:15:05 
+Jan 08 18:15:05 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 08 18:15:05 
+Jan 08 18:15:05 
+Jan 08 18:15:05 🔔东东农场, 结束! 🕛 5.181 秒
+Jan 08 18:15:05 
+Jan 09 06:15:02 
+Jan 09 06:15:02 🔔东东农场, 开始!
+Jan 09 06:15:02 开始获取配置文件
+Jan 09 06:15:02 
+Jan 09 06:15:02 
+Jan 09 06:15:02 ====================共1个京东账号Cookie=========
+Jan 09 06:15:02 
+Jan 09 06:15:02 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 上午6:15:02=====================
+Jan 09 06:15:02 
+Jan 09 06:15:02 由于您环境变量(FRUITSHARECODES)里面未提供助力码，故此处运行将会给脚本内置的码进行助力，请知晓！
+Jan 09 06:15:02 共1个京东账号
+Jan 09 06:15:02 
+Jan 09 06:15:02 您提供了2个账号的农场助力码
+Jan 09 06:15:02 
+Jan 09 06:15:04 
+Jan 09 06:15:04 开始【京东账号1】jd_632e000b42ec6
+Jan 09 06:15:04 
+Jan 09 06:15:04 随机取个20码放到您固定的互助码后面(不影响已有固定互助)
+Jan 09 06:15:04 第1个京东账号将要助力的好友["5853550f71014282912b76d95beb84c0","48e6ec73af85409abbfd6bbb1bbed122","68c383d05e4747e5b34a579445db9459","b58ddba3317b44ceb0ac86ea8952998c","8d724eb95e3847b6a1526587d1836f27","a80b7d1db41a4381b742232da9d22443","ce107b8f64d24f62a92292180f764018","c73ea563a77d4464b273503d3838fec1","0dd9a7fd1feb449fb1bf854a3ec0e801","051db46572b048bda4c1f88f6753fac4","745c4d1b13934fa7b370e4da5c5cc406","19c7df87b88744558e779db4977c2b73","f29c44edcbee4fc4affde8233980d896","111e985a226a4c51bbfaf23a583ab5f8","949c991c26b249bd9488d00360959572","61dc2f5797d146f98b7b73fdf85b9eec","b122931542e74b61ab8f017c561f08bc","a49aa6464404411aab7b9f65786c02f2","381399f0e10d427a9c64fb01c2517060","bf3d05412f194515bcd97d883f08609f","3b4d9d7841e74f31aceb80513ca57526","bae589827d094f7dbd577fb35cb9cf34","4b96b80808264c7ebbe57742b45b0776","2da61d67d3c244f7aa9fa83adad520f3","a0c3fb39b3ab4838a26c8342d6251ea0","d849601e82e646b9b29b9e3bf77f9bcc","078769c1396543c08052d0d400c5a407","8a84fbc1c5bc4008bb4c44cb7f3a352e","869fc3f6816043b69929026208e8b333"]
+Jan 09 06:15:05 初始化农场数据异常, 请登录京东 app查看农场0元水果功能是否正常,农场初始化数据: {"code":"3","msg":"not login"}
+Jan 09 06:15:05 
+Jan 09 06:15:05 ==============📣系统通知📣==============
+Jan 09 06:15:05 东东农场
+Jan 09 06:15:05 【京东账号1】jd_632e000b42ec6
+Jan 09 06:15:05 【数据异常】请手动登录京东app查看此账号东东农场是否正常
+Jan 09 06:15:05 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 09 06:15:05 
+Jan 09 06:15:07 发送通知调用API失败！！
+Jan 09 06:15:07 
+Jan 09 06:15:07 RequestError: socket hang up
+Jan 09 06:15:07     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 09 06:15:07     at Object.onceWrapper (node:events:510:26)
+Jan 09 06:15:07     at ClientRequest.emit (node:events:402:35)
+Jan 09 06:15:07     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 09 06:15:07     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 09 06:15:07     at Socket.emit (node:events:402:35)
+Jan 09 06:15:07     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 09 06:15:07     at connResetException (node:internal/errors:691:14)
+Jan 09 06:15:07     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 09 06:15:07     at Socket.emit (node:events:402:35)
+Jan 09 06:15:07     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 09 06:15:07     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 09 06:15:07   code: 'ECONNRESET',
+Jan 09 06:15:07   timings: {
+Jan 09 06:15:07     start: 1641680107379,
+Jan 09 06:15:07     socket: 1641680107380,
+Jan 09 06:15:07     lookup: 1641680107380,
+Jan 09 06:15:07     connect: 1641680107610,
+Jan 09 06:15:07     secureConnect: undefined,
+Jan 09 06:15:07     upload: 1641680107611,
+Jan 09 06:15:07     response: undefined,
+Jan 09 06:15:07     end: undefined,
+Jan 09 06:15:07     error: 1641680107840,
+Jan 09 06:15:07     abort: undefined,
+Jan 09 06:15:07     phases: {
+Jan 09 06:15:07       wait: 1,
+Jan 09 06:15:07       dns: 0,
+Jan 09 06:15:07       tcp: 230,
+Jan 09 06:15:07       tls: undefined,
+Jan 09 06:15:07       request: 1,
+Jan 09 06:15:07       firstByte: undefined,
+Jan 09 06:15:07       download: undefined,
+Jan 09 06:15:07       total: 461
+Jan 09 06:15:07     }
+Jan 09 06:15:07   }
+Jan 09 06:15:07 }
+Jan 09 06:15:07 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 09 06:15:07 
+Jan 09 06:15:07 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 09 06:15:07 
+Jan 09 06:15:07 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 09 06:15:07 
+Jan 09 06:15:07 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 09 06:15:07 
+Jan 09 06:15:07 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 09 06:15:07 
+Jan 09 06:15:07 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 09 06:15:07 
+Jan 09 06:15:07 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 09 06:15:07 
+Jan 09 06:15:07 
+Jan 09 06:15:07 🔔东东农场, 结束! 🕛 5.893 秒
+Jan 09 06:15:07 
+Jan 09 12:15:00 
+Jan 09 12:15:00 🔔东东农场, 开始!
+Jan 09 12:15:00 开始获取配置文件
+Jan 09 12:15:00 
+Jan 09 12:15:00 
+Jan 09 12:15:00 ====================共1个京东账号Cookie=========
+Jan 09 12:15:00 
+Jan 09 12:15:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 下午12:15:00=====================
+Jan 09 12:15:01 
+Jan 09 12:15:01 由于您环境变量(FRUITSHARECODES)里面未提供助力码，故此处运行将会给脚本内置的码进行助力，请知晓！
+Jan 09 12:15:01 共1个京东账号
+Jan 09 12:15:01 
+Jan 09 12:15:01 您提供了2个账号的农场助力码
+Jan 09 12:15:01 
+Jan 09 12:15:02 
+Jan 09 12:15:02 开始【京东账号1】jd_632e000b42ec6
+Jan 09 12:15:02 
+Jan 09 12:15:02 
+Jan 09 12:15:02 ==============📣系统通知📣==============
+Jan 09 12:15:02 东东农场
+Jan 09 12:15:02 【提示】cookie已失效
+Jan 09 12:15:02 京东账号1 jd_632e000b42ec6
+Jan 09 12:15:02 请重新登录获取
+Jan 09 12:15:02 https://bean.m.jd.com/bean/signIndex.action
+Jan 09 12:15:02 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 09 12:15:02 
+Jan 09 12:15:08 发送通知调用API失败！！
+Jan 09 12:15:08 
+Jan 09 12:15:08 RequestError: socket hang up
+Jan 09 12:15:08     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 09 12:15:08     at Object.onceWrapper (node:events:510:26)
+Jan 09 12:15:08     at ClientRequest.emit (node:events:402:35)
+Jan 09 12:15:08     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 09 12:15:08     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 09 12:15:08     at Socket.emit (node:events:402:35)
+Jan 09 12:15:08     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 09 12:15:08     at connResetException (node:internal/errors:691:14)
+Jan 09 12:15:08     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 09 12:15:08     at Socket.emit (node:events:402:35)
+Jan 09 12:15:08     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 09 12:15:08     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 09 12:15:08   code: 'ECONNRESET',
+Jan 09 12:15:08   timings: {
+Jan 09 12:15:08     start: 1641701704879,
+Jan 09 12:15:08     socket: 1641701704880,
+Jan 09 12:15:08     lookup: 1641701704881,
+Jan 09 12:15:08     connect: 1641701708113,
+Jan 09 12:15:08     secureConnect: undefined,
+Jan 09 12:15:08     upload: 1641701708113,
+Jan 09 12:15:08     response: undefined,
+Jan 09 12:15:08     end: undefined,
+Jan 09 12:15:08     error: 1641701708343,
+Jan 09 12:15:08     abort: undefined,
+Jan 09 12:15:08     phases: {
+Jan 09 12:15:08       wait: 1,
+Jan 09 12:15:08       dns: 1,
+Jan 09 12:15:08       tcp: 3232,
+Jan 09 12:15:08       tls: undefined,
+Jan 09 12:15:08       request: 0,
+Jan 09 12:15:08       firstByte: undefined,
+Jan 09 12:15:08       download: undefined,
+Jan 09 12:15:08       total: 3464
+Jan 09 12:15:08     }
+Jan 09 12:15:08   }
+Jan 09 12:15:08 }
+Jan 09 12:15:08 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 09 12:15:08 
+Jan 09 12:15:08 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 09 12:15:08 
+Jan 09 12:15:08 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 09 12:15:08 
+Jan 09 12:15:08 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 09 12:15:08 
+Jan 09 12:15:08 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 09 12:15:08 
+Jan 09 12:15:08 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 09 12:15:08 
+Jan 09 12:15:08 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 09 12:15:08 
+Jan 09 12:15:08 
+Jan 09 12:15:08 🔔东东农场, 结束! 🕛 7.53 秒
+Jan 09 12:15:08 
+Jan 09 18:15:01 
+Jan 09 18:15:01 🔔东东农场, 开始!
+Jan 09 18:15:01 开始获取配置文件
+Jan 09 18:15:01 
+Jan 09 18:15:01 
+Jan 09 18:15:01 ====================共1个京东账号Cookie=========
+Jan 09 18:15:01 
+Jan 09 18:15:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 下午6:15:01=====================
+Jan 09 18:15:01 
+Jan 09 18:15:01 由于您环境变量(FRUITSHARECODES)里面未提供助力码，故此处运行将会给脚本内置的码进行助力，请知晓！
+Jan 09 18:15:01 共1个京东账号
+Jan 09 18:15:01 
+Jan 09 18:15:01 您提供了2个账号的农场助力码
+Jan 09 18:15:01 
+Jan 09 18:15:03 
+Jan 09 18:15:03 开始【京东账号1】jd_632e000b42ec6
+Jan 09 18:15:03 
+Jan 09 18:15:03 
+Jan 09 18:15:03 ==============📣系统通知📣==============
+Jan 09 18:15:03 东东农场
+Jan 09 18:15:03 【提示】cookie已失效
+Jan 09 18:15:03 京东账号1 jd_632e000b42ec6
+Jan 09 18:15:03 请重新登录获取
+Jan 09 18:15:03 https://bean.m.jd.com/bean/signIndex.action
+Jan 09 18:15:03 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 09 18:15:03 
+Jan 09 18:15:09 发送通知调用API失败！！
+Jan 09 18:15:09 
+Jan 09 18:15:09 RequestError: socket hang up
+Jan 09 18:15:09     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 09 18:15:09     at Object.onceWrapper (node:events:510:26)
+Jan 09 18:15:09     at ClientRequest.emit (node:events:402:35)
+Jan 09 18:15:09     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 09 18:15:09     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 09 18:15:09     at Socket.emit (node:events:402:35)
+Jan 09 18:15:09     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 09 18:15:09     at connResetException (node:internal/errors:691:14)
+Jan 09 18:15:09     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 09 18:15:09     at Socket.emit (node:events:402:35)
+Jan 09 18:15:09     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 09 18:15:09     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 09 18:15:09   code: 'ECONNRESET',
+Jan 09 18:15:09   timings: {
+Jan 09 18:15:09     start: 1641723305496,
+Jan 09 18:15:09     socket: 1641723305496,
+Jan 09 18:15:09     lookup: 1641723305497,
+Jan 09 18:15:09     connect: 1641723308748,
+Jan 09 18:15:09     secureConnect: undefined,
+Jan 09 18:15:09     upload: 1641723308748,
+Jan 09 18:15:09     response: undefined,
+Jan 09 18:15:09     end: undefined,
+Jan 09 18:15:09     error: 1641723309570,
+Jan 09 18:15:09     abort: undefined,
+Jan 09 18:15:09     phases: {
+Jan 09 18:15:09       wait: 0,
+Jan 09 18:15:09       dns: 1,
+Jan 09 18:15:09       tcp: 3251,
+Jan 09 18:15:09       tls: undefined,
+Jan 09 18:15:09       request: 0,
+Jan 09 18:15:09       firstByte: undefined,
+Jan 09 18:15:09       download: undefined,
+Jan 09 18:15:09       total: 4074
+Jan 09 18:15:09     }
+Jan 09 18:15:09   }
+Jan 09 18:15:09 }
+Jan 09 18:15:09 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 09 18:15:09 
+Jan 09 18:15:09 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 09 18:15:09 
+Jan 09 18:15:09 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 09 18:15:09 
+Jan 09 18:15:09 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 09 18:15:09 
+Jan 09 18:15:09 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 09 18:15:09 
+Jan 09 18:15:09 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 09 18:15:09 
+Jan 09 18:15:09 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 09 18:15:09 
+Jan 09 18:15:09 
+Jan 09 18:15:09 🔔东东农场, 结束! 🕛 8.126 秒
+Jan 09 18:15:09 

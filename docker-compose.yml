@@ -1,0 +1,93 @@
+version: "3"
+services:
+  jd_scripts1: #默认
+    image: aaron2397/jd_scripts
+    # 配置服务器资源约束。此例子中服务被限制为使用内存不超过200M以及cpu不超过 0.2（单核的20%）
+    # 经过实际测试，建议不低于200M
+    # deploy:
+    #   resources:
+    #     limits:
+    #       cpus: '0.2'
+    #       memory: 200M
+    restart: always
+    container_name: yfl
+    tty: true
+    volumes:
+      - ./logs1:/scripts/logs
+      - ./data:/data
+    environment:
+      - PUSH_KEY=SCU121007T14c2dd2073916a88c6eea2ca884268e15f9821433ad51
+      - JD_COOKIE=pt_key=AAJhxIvBADCPi61TCLNlD6BhR3AXDM0EmlmafxvSdFYNrNgBClUlXvTm1jA3lO6rKcn-RIbmlVQ; pt_pin=18055698302_p;
+      - SHARE_CODE_FILE=/root/jd_scripts/logs1/sharecode.log
+      - CRZAY_JOY_COIN_ENABLE=Y
+      - FRUITSHARECODES=670804b458b34fa781d5684f89cacdd5
+      - PETSHARECODES=MTE1NDAxNzgwMDAwMDAwMzg2NDk3MTk=
+      - PLANT_BEAN_SHARECODES=4npkonnsy7xi2pr6zfsbmsz2rc7raqvd4ujg7si
+      - DDFACTORY_SHARECODES=T0225KkcRx0QoVHSch3ynKNbdACjVWnYaS5kRrbA
+      - DREAM_FACTORY_SHARE_CODES=t3lQ6nUwV91EfbfqznMULw==
+      - JDJOY_SHARECODES=OAVSLZO2xz11BWGIiwKkwat9zd5YaBeE
+      - JD_CASH_SHARECODES=eU9Ya--7Mvkjo2nTwydC1g
+      # 互助助码等参数可自行增加，如下。
+      # 京东种豆得豆
+      # - PLANT_BEAN_SHARECODES=
+      
+  jd_scripts2: #默认
+    image: aaron2397/jd_scripts
+    restart: always
+    container_name: wc
+    tty: true
+    volumes:
+      - ./logs2:/scripts/logs
+      - ./data:/data
+    environment:
+      - PUSH_KEY=SCU121007T14c2dd2073916a88c6eea2ca884268e15f9821433ad51
+      - JD_COOKIE=pt_key=AAJhxVoHADCml0z6wM3tFnC6G_BXsQt9zLEAH8bvjB-KaA1btf3Z5JtPruxN7iJ6gPa5mVMRxEo; pt_pin=jd_739d55b768da0;
+      - SHARE_CODE_FILE=/root/jd_scripts/logs2/sharecode.log
+      - CRZAY_JOY_COIN_ENABLE=Y
+      - FRUITSHARECODES=0a93361fe5a648cda1653dcd48a60011
+      - PETSHARECODES=MTE1NDAxNzcwMDAwMDAwMzg2NDk3MDM=
+      - PLANT_BEAN_SHARECODES=ht6k55gvldxtokby7m3mt6o3wa3h7wlwy7o5jii
+      - DDFACTORY_SHARECODES=T018v_VzRRsf_FzUIBib1ACjVWnYaS5kRrbA
+      - DREAM_FACTORY_SHARE_CODES=yA2l7WcJYNjy2GFpUagm0w==
+      - JDJOY_SHARECODES=l_4ibzzMGTXRcmGIP7FRVQ==
+      - JD_CASH_SHARECODES=IhM3aem0b_Ql8Wy6iw
+  jd_scripts3: #默认
+    image: aaron2397/jd_scripts
+    # 配置服务器资源约束。此例子中服务被限制为使用内存不超过200M以及cpu不超过 0.2（单核的20%）
+    # 经过实际测试，建议不低于200M
+    # deploy:
+    #   resources:
+    #     limits:
+    #       cpus: '0.2'
+    #       memory: 200M
+    restart: always
+    container_name: ali_another
+    tty: true
+    volumes:
+      - ./logs3:/scripts/logs
+      - ./data:/data
+    environment:
+      - PUSH_KEY=SCU121007T14c2dd2073916a88c6eea2ca884268e15f9821433ad51
+      - JD_COOKIE=pt_key=AAJhkPyqADCmoGdNyRXldL14HiTmP6pkKjPoA5Lj0MAHIEe8ey6_XSTmF8eW0SVNULVxrj0mK90; pt_pin=jd_GyKLGOwyLAnM;
+      - SHARE_CODE_FILE=/root/jd_scripts/logs3/sharecode.log
+      - CRZAY_JOY_COIN_ENABLE=Y
+  jd_scripts4: #默认
+    image: aaron2397/jd_scripts
+    # 配置服务器资源约束。此例子中服务被限制为使用内存不超过200M以及cpu不超过 0.2（单核的20%）
+    # 经过实际测试，建议不低于200M
+    # deploy:
+    #   resources:
+    #     limits:
+    #       cpus: '0.2'
+    #       memory: 200M
+    restart: always
+    container_name: wu_xiang_rui
+    tty: true
+    volumes:
+      - ./logs4:/scripts/logs
+      - ./data:/data
+    environment:
+      - PUSH_KEY=SCU121007T14c2dd2073916a88c6eea2ca884268e15f9821433ad51
+      - JD_COOKIE=pt_key=AAJhkPs4ADDzXrZTPlHMbQbcyyvhLUE7MgDqFD-hW9ffF5Y8a3sicANkatWQkWWeiMgNyFc5zj8; pt_pin=jd_632e000b42ec6;
+      - SHARE_CODE_FILE=/root/jd_scripts/logs4/sharecode.log
+      - CRZAY_JOY_COIN_ENABLE=Y

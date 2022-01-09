@@ -1,0 +1,540 @@
+Jan 07 00:07:00 
+Jan 07 00:07:00 🔔京东多合一签到, 开始!
+Jan 07 00:07:00 
+Jan 07 00:07:00 ====================共1个京东账号Cookie=========
+Jan 07 00:07:00 
+Jan 07 00:07:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 上午12:07:00=====================
+Jan 07 00:07:00 
+Jan 07 00:07:35 检测到您当前网络环境不能访问外网,将使用jsdelivr CDN下载JD_DailyBonus.js文件
+Jan 07 00:07:35 JD_DailyBonus.js文件 CDN刷新失败
+Jan 07 00:07:38 JD_DailyBonus.js文件下载完毕
+Jan 07 00:07:38 
+Jan 07 00:07:38 
+Jan 07 00:07:38 *****************开始京东账号1 jd_187425zqg京豆签到*******************
+Jan 07 00:07:38 
+Jan 07 00:07:38 开始替换变量
+Jan 07 00:07:38 替换变量完毕
+Jan 07 00:07:38 
+Jan 07 00:07:38 开始执行 京东多合一签到 签到，请稍等...
+Jan 07 00:07:38 
+Jan 07 00:07:44 
+Jan 07 00:07:44 
+Jan 07 00:07:44 *****************2022/1/7 24:07:44 京东账号1 jd_187425zqg 京东多合一签到完成*******************
+Jan 07 00:07:44 
+Jan 07 00:07:44 
+Jan 07 00:07:44 
+Jan 07 00:07:44 ==============📣系统通知📣==============
+Jan 07 00:07:44 京东多合一签到
+Jan 07 00:07:44 【京东号 1】: jd_187425zqg
+Jan 07 00:07:44 【签到时间】:  2022/1/7 24:07:44
+Jan 07 00:07:44 【签到概览】:  成功2个, 失败29个
+Jan 07 00:07:44 【签到奖励】:  1京豆
+Jan 07 00:07:44 【其他奖励】:  0.03现金
+Jan 07 00:07:44 【账号总计】:  2112京豆, 2.22钢镚
+Jan 07 00:07:44 【其他总计】:  0.77金贴, 38.01现金, 0.68红包
+Jan 07 00:07:44 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 07 00:07:44 
+Jan 07 00:07:46 发送通知调用API失败！！
+Jan 07 00:07:46 
+Jan 07 00:07:46 RequestError: socket hang up
+Jan 07 00:07:46     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 07 00:07:46     at Object.onceWrapper (node:events:510:26)
+Jan 07 00:07:46     at ClientRequest.emit (node:events:402:35)
+Jan 07 00:07:46     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 07 00:07:46     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 07 00:07:46     at Socket.emit (node:events:402:35)
+Jan 07 00:07:46     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 07 00:07:46     at connResetException (node:internal/errors:691:14)
+Jan 07 00:07:46     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 07 00:07:46     at Socket.emit (node:events:402:35)
+Jan 07 00:07:46     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 07 00:07:46     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 07 00:07:46   code: 'ECONNRESET',
+Jan 07 00:07:46   timings: {
+Jan 07 00:07:46     start: 1641485266344,
+Jan 07 00:07:46     socket: 1641485266344,
+Jan 07 00:07:46     lookup: 1641485266345,
+Jan 07 00:07:46     connect: 1641485266582,
+Jan 07 00:07:46     secureConnect: undefined,
+Jan 07 00:07:46     upload: 1641485266582,
+Jan 07 00:07:46     response: undefined,
+Jan 07 00:07:46     end: undefined,
+Jan 07 00:07:46     error: 1641485266819,
+Jan 07 00:07:46     abort: undefined,
+Jan 07 00:07:46     phases: {
+Jan 07 00:07:46       wait: 0,
+Jan 07 00:07:46       dns: 1,
+Jan 07 00:07:46       tcp: 237,
+Jan 07 00:07:46       tls: undefined,
+Jan 07 00:07:46       request: 0,
+Jan 07 00:07:46       firstByte: undefined,
+Jan 07 00:07:46       download: undefined,
+Jan 07 00:07:46       total: 475
+Jan 07 00:07:46     }
+Jan 07 00:07:46   }
+Jan 07 00:07:46 }
+Jan 07 00:07:46 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 07 00:07:46 
+Jan 07 00:07:46 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 07 00:07:46 
+Jan 07 00:07:46 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 07 00:07:46 
+Jan 07 00:07:46 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 07 00:07:46 
+Jan 07 00:07:46 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 07 00:07:46 
+Jan 07 00:07:46 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 07 00:07:46 
+Jan 07 00:07:46 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 07 00:07:46 
+Jan 07 00:07:46 
+Jan 07 00:07:46 🔔京东多合一签到, 结束! 🕛 46.021 秒
+Jan 07 00:07:46 
+Jan 07 17:07:01 
+Jan 07 17:07:01 🔔京东多合一签到, 开始!
+Jan 07 17:07:01 
+Jan 07 17:07:01 ====================共1个京东账号Cookie=========
+Jan 07 17:07:01 
+Jan 07 17:07:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 下午5:07:01=====================
+Jan 07 17:07:01 
+Jan 07 17:07:35 检测到您当前网络环境不能访问外网,将使用jsdelivr CDN下载JD_DailyBonus.js文件
+Jan 07 17:07:35 JD_DailyBonus.js文件 CDN刷新失败
+Jan 07 17:07:36 JD_DailyBonus.js文件下载完毕
+Jan 07 17:07:36 
+Jan 07 17:07:36 
+Jan 07 17:07:37 *****************开始京东账号1 jd_187425zqg京豆签到*******************
+Jan 07 17:07:37 
+Jan 07 17:07:37 开始替换变量
+Jan 07 17:07:37 替换变量完毕
+Jan 07 17:07:37 
+Jan 07 17:07:37 开始执行 京东多合一签到 签到，请稍等...
+Jan 07 17:07:37 
+Jan 07 17:07:41 
+Jan 07 17:07:41 
+Jan 07 17:07:41 *****************2022/1/7 17:07:41 京东账号1 jd_187425zqg 京东多合一签到完成*******************
+Jan 07 17:07:41 
+Jan 07 17:07:41 
+Jan 07 17:07:41 
+Jan 07 17:07:41 ==============📣系统通知📣==============
+Jan 07 17:07:41 京东多合一签到
+Jan 07 17:07:41 【京东号 1】: jd_187425zqg
+Jan 07 17:07:41 【签到时间】:  2022/1/7 17:07:41
+Jan 07 17:07:41 【签到概览】:  失败31个
+Jan 07 17:07:41 【账号总计】:  2151京豆, 2.22钢镚
+Jan 07 17:07:41 【其他总计】:  0.84金贴, 38.13现金, 1.44红包
+Jan 07 17:07:41 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 07 17:07:41 
+Jan 07 17:07:44 发送通知调用API失败！！
+Jan 07 17:07:44 
+Jan 07 17:07:44 RequestError: socket hang up
+Jan 07 17:07:44     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 07 17:07:44     at Object.onceWrapper (node:events:510:26)
+Jan 07 17:07:44     at ClientRequest.emit (node:events:402:35)
+Jan 07 17:07:44     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 07 17:07:44     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 07 17:07:44     at Socket.emit (node:events:402:35)
+Jan 07 17:07:44     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 07 17:07:44     at connResetException (node:internal/errors:691:14)
+Jan 07 17:07:44     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 07 17:07:44     at Socket.emit (node:events:402:35)
+Jan 07 17:07:44     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 07 17:07:44     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 07 17:07:44   code: 'ECONNRESET',
+Jan 07 17:07:44   timings: {
+Jan 07 17:07:44     start: 1641546464142,
+Jan 07 17:07:44     socket: 1641546464143,
+Jan 07 17:07:44     lookup: 1641546464143,
+Jan 07 17:07:44     connect: 1641546464388,
+Jan 07 17:07:44     secureConnect: undefined,
+Jan 07 17:07:44     upload: 1641546464388,
+Jan 07 17:07:44     response: undefined,
+Jan 07 17:07:44     end: undefined,
+Jan 07 17:07:44     error: 1641546464633,
+Jan 07 17:07:44     abort: undefined,
+Jan 07 17:07:44     phases: {
+Jan 07 17:07:44       wait: 1,
+Jan 07 17:07:44       dns: 0,
+Jan 07 17:07:44       tcp: 245,
+Jan 07 17:07:44       tls: undefined,
+Jan 07 17:07:44       request: 0,
+Jan 07 17:07:44       firstByte: undefined,
+Jan 07 17:07:44       download: undefined,
+Jan 07 17:07:44       total: 491
+Jan 07 17:07:44     }
+Jan 07 17:07:44   }
+Jan 07 17:07:44 }
+Jan 07 17:07:44 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 07 17:07:44 
+Jan 07 17:07:44 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 07 17:07:44 
+Jan 07 17:07:44 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 07 17:07:44 
+Jan 07 17:07:44 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 07 17:07:44 
+Jan 07 17:07:44 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 07 17:07:44 
+Jan 07 17:07:44 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 07 17:07:44 
+Jan 07 17:07:44 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 07 17:07:44 
+Jan 07 17:07:44 
+Jan 07 17:07:44 🔔京东多合一签到, 结束! 🕛 43.466 秒
+Jan 07 17:07:44 
+Jan 08 00:07:00 
+Jan 08 00:07:00 🔔京东多合一签到, 开始!
+Jan 08 00:07:00 
+Jan 08 00:07:00 ====================共1个京东账号Cookie=========
+Jan 08 00:07:00 
+Jan 08 00:07:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 上午12:07:00=====================
+Jan 08 00:07:00 
+Jan 08 00:07:35 检测到您当前网络环境不能访问外网,将使用jsdelivr CDN下载JD_DailyBonus.js文件
+Jan 08 00:07:35 JD_DailyBonus.js文件 CDN刷新失败
+Jan 08 00:07:36 JD_DailyBonus.js文件下载完毕
+Jan 08 00:07:36 
+Jan 08 00:07:36 
+Jan 08 00:07:36 *****************开始京东账号1 jd_187425zqg京豆签到*******************
+Jan 08 00:07:36 
+Jan 08 00:07:36 开始替换变量
+Jan 08 00:07:36 替换变量完毕
+Jan 08 00:07:36 
+Jan 08 00:07:36 开始执行 京东多合一签到 签到，请稍等...
+Jan 08 00:07:36 
+Jan 08 00:07:41 
+Jan 08 00:07:41 
+Jan 08 00:07:41 *****************2022/1/8 24:07:41 京东账号1 jd_187425zqg 京东多合一签到完成*******************
+Jan 08 00:07:41 
+Jan 08 00:07:41 
+Jan 08 00:07:41 
+Jan 08 00:07:41 ==============📣系统通知📣==============
+Jan 08 00:07:41 京东多合一签到
+Jan 08 00:07:41 【京东号 1】: jd_187425zqg
+Jan 08 00:07:41 【签到时间】:  2022/1/8 24:07:41
+Jan 08 00:07:41 【签到概览】:  成功2个, 失败29个
+Jan 08 00:07:41 【签到奖励】:  2京豆
+Jan 08 00:07:41 【其他奖励】:  0.04现金
+Jan 08 00:07:41 【账号总计】:  2171京豆, 2.22钢镚
+Jan 08 00:07:41 【其他总计】:  0.84金贴, 38.17现金, 1.29红包
+Jan 08 00:07:41 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 08 00:07:41 
+Jan 08 00:07:44 发送通知调用API失败！！
+Jan 08 00:07:44 
+Jan 08 00:07:44 RequestError: socket hang up
+Jan 08 00:07:44     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 08 00:07:44     at Object.onceWrapper (node:events:510:26)
+Jan 08 00:07:44     at ClientRequest.emit (node:events:402:35)
+Jan 08 00:07:44     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 08 00:07:44     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 08 00:07:44     at Socket.emit (node:events:402:35)
+Jan 08 00:07:44     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 08 00:07:44     at connResetException (node:internal/errors:691:14)
+Jan 08 00:07:44     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 08 00:07:44     at Socket.emit (node:events:402:35)
+Jan 08 00:07:44     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 08 00:07:44     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 08 00:07:44   code: 'ECONNRESET',
+Jan 08 00:07:44   timings: {
+Jan 08 00:07:44     start: 1641571664229,
+Jan 08 00:07:44     socket: 1641571664230,
+Jan 08 00:07:44     lookup: 1641571664231,
+Jan 08 00:07:44     connect: 1641571664468,
+Jan 08 00:07:44     secureConnect: undefined,
+Jan 08 00:07:44     upload: 1641571664469,
+Jan 08 00:07:44     response: undefined,
+Jan 08 00:07:44     end: undefined,
+Jan 08 00:07:44     error: 1641571664706,
+Jan 08 00:07:44     abort: undefined,
+Jan 08 00:07:44     phases: {
+Jan 08 00:07:44       wait: 1,
+Jan 08 00:07:44       dns: 1,
+Jan 08 00:07:44       tcp: 237,
+Jan 08 00:07:44       tls: undefined,
+Jan 08 00:07:44       request: 1,
+Jan 08 00:07:44       firstByte: undefined,
+Jan 08 00:07:44       download: undefined,
+Jan 08 00:07:44       total: 477
+Jan 08 00:07:44     }
+Jan 08 00:07:44   }
+Jan 08 00:07:44 }
+Jan 08 00:07:44 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 08 00:07:44 
+Jan 08 00:07:44 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 08 00:07:44 
+Jan 08 00:07:44 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 08 00:07:44 
+Jan 08 00:07:44 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 08 00:07:44 
+Jan 08 00:07:44 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 08 00:07:44 
+Jan 08 00:07:44 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 08 00:07:44 
+Jan 08 00:07:44 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 08 00:07:44 
+Jan 08 00:07:44 
+Jan 08 00:07:44 🔔京东多合一签到, 结束! 🕛 44.1 秒
+Jan 08 00:07:44 
+Jan 08 17:07:00 
+Jan 08 17:07:00 🔔京东多合一签到, 开始!
+Jan 08 17:07:00 
+Jan 08 17:07:00 ====================共1个京东账号Cookie=========
+Jan 08 17:07:00 
+Jan 08 17:07:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 下午5:07:00=====================
+Jan 08 17:07:00 
+Jan 08 17:11:36 JD_DailyBonus.js文件下载完毕
+Jan 08 17:11:36 
+Jan 08 17:11:36 
+Jan 08 17:11:36 *****************开始京东账号1 jd_187425zqg京豆签到*******************
+Jan 08 17:11:36 
+Jan 08 17:11:36 开始替换变量
+Jan 08 17:11:36 替换变量完毕
+Jan 08 17:11:36 
+Jan 08 17:11:36 开始执行 京东多合一签到 签到，请稍等...
+Jan 08 17:11:36 
+Jan 08 17:11:41 
+Jan 08 17:11:41 
+Jan 08 17:11:41 *****************2022/1/8 17:11:41 京东账号1 jd_187425zqg 京东多合一签到完成*******************
+Jan 08 17:11:41 
+Jan 08 17:11:41 
+Jan 08 17:11:41 
+Jan 08 17:11:41 ==============📣系统通知📣==============
+Jan 08 17:11:41 京东多合一签到
+Jan 08 17:11:41 【京东号 1】: jd_187425zqg
+Jan 08 17:11:41 【签到时间】:  2022/1/8 17:11:41
+Jan 08 17:11:41 【签到概览】:  失败31个
+Jan 08 17:11:41 【账号总计】:  2192京豆, 2.22钢镚
+Jan 08 17:11:41 【其他总计】:  0.00金贴, 38.28现金, 1.6红包
+Jan 08 17:11:41 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 08 17:11:41 
+Jan 08 17:11:45 发送通知调用API失败！！
+Jan 08 17:11:45 
+Jan 08 17:11:45 RequestError: socket hang up
+Jan 08 17:11:45     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 08 17:11:45     at Object.onceWrapper (node:events:510:26)
+Jan 08 17:11:45     at ClientRequest.emit (node:events:402:35)
+Jan 08 17:11:45     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 08 17:11:45     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 08 17:11:45     at Socket.emit (node:events:402:35)
+Jan 08 17:11:45     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 08 17:11:45     at connResetException (node:internal/errors:691:14)
+Jan 08 17:11:45     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 08 17:11:45     at Socket.emit (node:events:402:35)
+Jan 08 17:11:45     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 08 17:11:45     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 08 17:11:45   code: 'ECONNRESET',
+Jan 08 17:11:45   timings: {
+Jan 08 17:11:45     start: 1641633103677,
+Jan 08 17:11:45     socket: 1641633103678,
+Jan 08 17:11:45     lookup: 1641633103678,
+Jan 08 17:11:45     connect: 1641633104912,
+Jan 08 17:11:45     secureConnect: undefined,
+Jan 08 17:11:45     upload: 1641633104913,
+Jan 08 17:11:45     response: undefined,
+Jan 08 17:11:45     end: undefined,
+Jan 08 17:11:45     error: 1641633105142,
+Jan 08 17:11:45     abort: undefined,
+Jan 08 17:11:45     phases: {
+Jan 08 17:11:45       wait: 1,
+Jan 08 17:11:45       dns: 0,
+Jan 08 17:11:45       tcp: 1234,
+Jan 08 17:11:45       tls: undefined,
+Jan 08 17:11:45       request: 1,
+Jan 08 17:11:45       firstByte: undefined,
+Jan 08 17:11:45       download: undefined,
+Jan 08 17:11:45       total: 1465
+Jan 08 17:11:45     }
+Jan 08 17:11:45   }
+Jan 08 17:11:45 }
+Jan 08 17:11:45 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 08 17:11:45 
+Jan 08 17:11:45 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 08 17:11:45 
+Jan 08 17:11:45 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 08 17:11:45 
+Jan 08 17:11:45 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 08 17:11:45 
+Jan 08 17:11:45 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 08 17:11:45 
+Jan 08 17:11:45 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 08 17:11:45 
+Jan 08 17:11:45 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 08 17:11:45 
+Jan 08 17:11:45 
+Jan 08 17:11:45 🔔京东多合一签到, 结束! 🕛 284.306 秒
+Jan 08 17:11:45 
+Jan 09 00:07:00 
+Jan 09 00:07:00 🔔京东多合一签到, 开始!
+Jan 09 00:07:00 
+Jan 09 00:07:00 ====================共1个京东账号Cookie=========
+Jan 09 00:07:00 
+Jan 09 00:07:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 上午12:07:00=====================
+Jan 09 00:07:00 
+Jan 09 00:14:33 JD_DailyBonus.js文件下载完毕
+Jan 09 00:14:33 
+Jan 09 00:14:33 
+Jan 09 00:14:33 *****************开始京东账号1 jd_187425zqg京豆签到*******************
+Jan 09 00:14:33 
+Jan 09 00:14:33 开始替换变量
+Jan 09 00:14:33 替换变量完毕
+Jan 09 00:14:33 
+Jan 09 00:14:33 开始执行 京东多合一签到 签到，请稍等...
+Jan 09 00:14:33 
+Jan 09 00:14:38 
+Jan 09 00:14:38 
+Jan 09 00:14:38 *****************2022/1/9 24:14:38 京东账号1 jd_187425zqg 京东多合一签到完成*******************
+Jan 09 00:14:38 
+Jan 09 00:14:38 
+Jan 09 00:14:38 
+Jan 09 00:14:38 ==============📣系统通知📣==============
+Jan 09 00:14:38 京东多合一签到
+Jan 09 00:14:38 【京东号 1】: jd_187425zqg
+Jan 09 00:14:38 【签到时间】:  2022/1/9 24:14:38
+Jan 09 00:14:38 【签到概览】:  成功2个, 失败29个
+Jan 09 00:14:38 【签到奖励】:  2京豆
+Jan 09 00:14:38 【其他奖励】:  0.02现金
+Jan 09 00:14:38 【账号总计】:  2212京豆, 2.22钢镚
+Jan 09 00:14:38 【其他总计】:  0.00金贴, 38.31现金, 1.09红包
+Jan 09 00:14:38 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 09 00:14:38 
+Jan 09 00:14:42 发送通知调用API失败！！
+Jan 09 00:14:42 
+Jan 09 00:14:42 RequestError: socket hang up
+Jan 09 00:14:42     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 09 00:14:42     at Object.onceWrapper (node:events:510:26)
+Jan 09 00:14:42     at ClientRequest.emit (node:events:402:35)
+Jan 09 00:14:42     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 09 00:14:42     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 09 00:14:42     at Socket.emit (node:events:402:35)
+Jan 09 00:14:42     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 09 00:14:42     at connResetException (node:internal/errors:691:14)
+Jan 09 00:14:42     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 09 00:14:42     at Socket.emit (node:events:402:35)
+Jan 09 00:14:42     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 09 00:14:42     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 09 00:14:42   code: 'ECONNRESET',
+Jan 09 00:14:42   timings: {
+Jan 09 00:14:42     start: 1641658480665,
+Jan 09 00:14:42     socket: 1641658480665,
+Jan 09 00:14:42     lookup: 1641658480666,
+Jan 09 00:14:42     connect: 1641658481913,
+Jan 09 00:14:42     secureConnect: undefined,
+Jan 09 00:14:42     upload: 1641658481913,
+Jan 09 00:14:42     response: undefined,
+Jan 09 00:14:42     end: undefined,
+Jan 09 00:14:42     error: 1641658482163,
+Jan 09 00:14:42     abort: undefined,
+Jan 09 00:14:42     phases: {
+Jan 09 00:14:42       wait: 0,
+Jan 09 00:14:42       dns: 1,
+Jan 09 00:14:42       tcp: 1247,
+Jan 09 00:14:42       tls: undefined,
+Jan 09 00:14:42       request: 0,
+Jan 09 00:14:42       firstByte: undefined,
+Jan 09 00:14:42       download: undefined,
+Jan 09 00:14:42       total: 1498
+Jan 09 00:14:42     }
+Jan 09 00:14:42   }
+Jan 09 00:14:42 }
+Jan 09 00:14:42 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 09 00:14:42 
+Jan 09 00:14:42 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 09 00:14:42 
+Jan 09 00:14:42 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 09 00:14:42 
+Jan 09 00:14:42 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 09 00:14:42 
+Jan 09 00:14:42 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 09 00:14:42 
+Jan 09 00:14:42 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 09 00:14:42 
+Jan 09 00:14:42 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 09 00:14:42 
+Jan 09 00:14:42 
+Jan 09 00:14:42 🔔京东多合一签到, 结束! 🕛 461.803 秒
+Jan 09 00:14:42 
+Jan 09 17:07:00 
+Jan 09 17:07:00 🔔京东多合一签到, 开始!
+Jan 09 17:07:00 
+Jan 09 17:07:00 ====================共1个京东账号Cookie=========
+Jan 09 17:07:00 
+Jan 09 17:07:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 下午5:07:00=====================
+Jan 09 17:07:00 
+Jan 09 17:13:30 JD_DailyBonus.js文件下载完毕
+Jan 09 17:13:30 
+Jan 09 17:13:30 
+Jan 09 17:13:31 *****************开始京东账号1 jd_187425zqg京豆签到*******************
+Jan 09 17:13:31 
+Jan 09 17:13:31 开始替换变量
+Jan 09 17:13:31 替换变量完毕
+Jan 09 17:13:31 
+Jan 09 17:13:31 开始执行 京东多合一签到 签到，请稍等...
+Jan 09 17:13:31 
+Jan 09 17:13:35 
+Jan 09 17:13:35 
+Jan 09 17:13:35 *****************2022/1/9 17:13:35 京东账号1 jd_187425zqg 京东多合一签到完成*******************
+Jan 09 17:13:35 
+Jan 09 17:13:35 
+Jan 09 17:13:35 
+Jan 09 17:13:35 ==============📣系统通知📣==============
+Jan 09 17:13:35 京东多合一签到
+Jan 09 17:13:35 【京东号 1】: jd_187425zqg
+Jan 09 17:13:35 【签到时间】:  2022/1/9 17:13:35
+Jan 09 17:13:35 【签到概览】:  失败31个
+Jan 09 17:13:35 【账号总计】:  2241京豆, 2.22钢镚
+Jan 09 17:13:35 【其他总计】:  0.07金贴, 38.48现金, 1.7红包
+Jan 09 17:13:35 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 09 17:13:35 
+Jan 09 17:13:39 发送通知调用API失败！！
+Jan 09 17:13:39 
+Jan 09 17:13:39 RequestError: socket hang up
+Jan 09 17:13:39     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 09 17:13:39     at Object.onceWrapper (node:events:510:26)
+Jan 09 17:13:39     at ClientRequest.emit (node:events:402:35)
+Jan 09 17:13:39     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 09 17:13:39     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 09 17:13:39     at Socket.emit (node:events:402:35)
+Jan 09 17:13:39     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 09 17:13:39     at connResetException (node:internal/errors:691:14)
+Jan 09 17:13:39     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 09 17:13:39     at Socket.emit (node:events:402:35)
+Jan 09 17:13:39     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 09 17:13:39     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 09 17:13:39   code: 'ECONNRESET',
+Jan 09 17:13:39   timings: {
+Jan 09 17:13:39     start: 1641719617975,
+Jan 09 17:13:39     socket: 1641719617976,
+Jan 09 17:13:39     lookup: 1641719617976,
+Jan 09 17:13:39     connect: 1641719619223,
+Jan 09 17:13:39     secureConnect: undefined,
+Jan 09 17:13:39     upload: 1641719619224,
+Jan 09 17:13:39     response: undefined,
+Jan 09 17:13:39     end: undefined,
+Jan 09 17:13:39     error: 1641719619464,
+Jan 09 17:13:39     abort: undefined,
+Jan 09 17:13:39     phases: {
+Jan 09 17:13:39       wait: 1,
+Jan 09 17:13:39       dns: 0,
+Jan 09 17:13:39       tcp: 1247,
+Jan 09 17:13:39       tls: undefined,
+Jan 09 17:13:39       request: 1,
+Jan 09 17:13:39       firstByte: undefined,
+Jan 09 17:13:39       download: undefined,
+Jan 09 17:13:39       total: 1489
+Jan 09 17:13:39     }
+Jan 09 17:13:39   }
+Jan 09 17:13:39 }
+Jan 09 17:13:39 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 09 17:13:39 
+Jan 09 17:13:39 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 09 17:13:39 
+Jan 09 17:13:39 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 09 17:13:39 
+Jan 09 17:13:39 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 09 17:13:39 
+Jan 09 17:13:39 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 09 17:13:39 
+Jan 09 17:13:39 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 09 17:13:39 
+Jan 09 17:13:39 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 09 17:13:39 
+Jan 09 17:13:39 
+Jan 09 17:13:39 🔔京东多合一签到, 结束! 🕛 398.83 秒
+Jan 09 17:13:39 

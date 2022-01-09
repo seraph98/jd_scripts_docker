@@ -1,0 +1,624 @@
+Jan 07 00:20:01 
+Jan 07 00:20:01 🔔众筹许愿池, 开始!
+Jan 07 00:20:01 
+Jan 07 00:20:01 ====================共1个京东账号Cookie=========
+Jan 07 00:20:01 
+Jan 07 00:20:02 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 上午12:20:01=====================
+Jan 07 00:20:02 
+Jan 07 00:20:04 
+Jan 07 00:20:04 *******开始【京东账号1】jd_632e000b42ec6*********
+Jan 07 00:20:04 
+Jan 07 00:20:04 
+Jan 07 00:20:04 ==============📣系统通知📣==============
+Jan 07 00:20:04 众筹许愿池
+Jan 07 00:20:04 【提示】cookie已失效
+Jan 07 00:20:04 京东账号1 jd_632e000b42ec6
+Jan 07 00:20:04 请重新登录获取
+Jan 07 00:20:04 https://bean.m.jd.com/bean/signIndex.action
+Jan 07 00:20:04 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 07 00:20:04 
+Jan 07 00:20:08 发送通知调用API失败！！
+Jan 07 00:20:08 
+Jan 07 00:20:08 RequestError: socket hang up
+Jan 07 00:20:08     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 07 00:20:08     at Object.onceWrapper (node:events:510:26)
+Jan 07 00:20:08     at ClientRequest.emit (node:events:402:35)
+Jan 07 00:20:08     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 07 00:20:08     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 07 00:20:08     at Socket.emit (node:events:402:35)
+Jan 07 00:20:08     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 07 00:20:08     at connResetException (node:internal/errors:691:14)
+Jan 07 00:20:08     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 07 00:20:08     at Socket.emit (node:events:402:35)
+Jan 07 00:20:08     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 07 00:20:08     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 07 00:20:08   code: 'ECONNRESET',
+Jan 07 00:20:08   timings: {
+Jan 07 00:20:08     start: 1641486006617,
+Jan 07 00:20:08     socket: 1641486006618,
+Jan 07 00:20:08     lookup: 1641486006619,
+Jan 07 00:20:08     connect: 1641486007854,
+Jan 07 00:20:08     secureConnect: undefined,
+Jan 07 00:20:08     upload: 1641486007854,
+Jan 07 00:20:08     response: undefined,
+Jan 07 00:20:08     end: undefined,
+Jan 07 00:20:08     error: 1641486008093,
+Jan 07 00:20:08     abort: undefined,
+Jan 07 00:20:08     phases: {
+Jan 07 00:20:08       wait: 1,
+Jan 07 00:20:08       dns: 1,
+Jan 07 00:20:08       tcp: 1235,
+Jan 07 00:20:08       tls: undefined,
+Jan 07 00:20:08       request: 0,
+Jan 07 00:20:08       firstByte: undefined,
+Jan 07 00:20:08       download: undefined,
+Jan 07 00:20:08       total: 1476
+Jan 07 00:20:08     }
+Jan 07 00:20:08   }
+Jan 07 00:20:08 }
+Jan 07 00:20:08 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 07 00:20:08 
+Jan 07 00:20:08 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 07 00:20:08 
+Jan 07 00:20:08 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 07 00:20:08 
+Jan 07 00:20:08 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 07 00:20:08 
+Jan 07 00:20:08 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 07 00:20:08 
+Jan 07 00:20:08 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 07 00:20:08 
+Jan 07 00:20:08 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 07 00:20:08 
+Jan 07 00:20:20 开始内部助力
+Jan 07 00:20:20 
+Jan 07 00:20:20 开始助力第1个活动：1111点心动
+Jan 07 00:20:20 
+Jan 07 00:20:20 jd_632e000b42ec6 去助力 88489948 的助力码 T011tvV3SBcQ8VwDjRXlq-7zx55awQ
+Jan 07 00:20:20 
+Jan 07 00:20:20 ❗️众筹许愿池, 错误!
+Jan 07 00:20:20 TypeError: Cannot read properties of undefined (reading 'bizMsg')
+Jan 07 00:20:20     at /scripts/jd_wish.js:246:47
+Jan 07 00:20:20     at got.post.then.message (/scripts/jd_wish.js:419:5772)
+Jan 07 00:20:20     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 07 00:20:22 开始助力第2个活动：JOY年尾之旅
+Jan 07 00:20:22 
+Jan 07 00:20:22 开始助力第3个活动：PLUS生活特权
+Jan 07 00:20:22 
+Jan 07 00:20:22 
+Jan 07 00:20:22 🔔众筹许愿池, 结束! 🕛 20.345 秒
+Jan 07 00:20:22 
+Jan 07 02:20:01 
+Jan 07 02:20:01 🔔众筹许愿池, 开始!
+Jan 07 02:20:01 
+Jan 07 02:20:01 ====================共1个京东账号Cookie=========
+Jan 07 02:20:01 
+Jan 07 02:20:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 上午2:20:01=====================
+Jan 07 02:20:01 
+Jan 07 02:20:02 
+Jan 07 02:20:02 *******开始【京东账号1】jd_632e000b42ec6*********
+Jan 07 02:20:02 
+Jan 07 02:20:02 
+Jan 07 02:20:02 ==============📣系统通知📣==============
+Jan 07 02:20:02 众筹许愿池
+Jan 07 02:20:02 【提示】cookie已失效
+Jan 07 02:20:02 京东账号1 jd_632e000b42ec6
+Jan 07 02:20:02 请重新登录获取
+Jan 07 02:20:02 https://bean.m.jd.com/bean/signIndex.action
+Jan 07 02:20:02 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 07 02:20:02 
+Jan 07 02:20:05 发送通知调用API失败！！
+Jan 07 02:20:05 
+Jan 07 02:20:05 RequestError: socket hang up
+Jan 07 02:20:05     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 07 02:20:05     at Object.onceWrapper (node:events:510:26)
+Jan 07 02:20:05     at ClientRequest.emit (node:events:402:35)
+Jan 07 02:20:05     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 07 02:20:05     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 07 02:20:05     at Socket.emit (node:events:402:35)
+Jan 07 02:20:05     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 07 02:20:05     at connResetException (node:internal/errors:691:14)
+Jan 07 02:20:05     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 07 02:20:05     at Socket.emit (node:events:402:35)
+Jan 07 02:20:05     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 07 02:20:05     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 07 02:20:05   code: 'ECONNRESET',
+Jan 07 02:20:05   timings: {
+Jan 07 02:20:05     start: 1641493204972,
+Jan 07 02:20:05     socket: 1641493204973,
+Jan 07 02:20:05     lookup: 1641493204974,
+Jan 07 02:20:05     connect: 1641493205207,
+Jan 07 02:20:05     secureConnect: undefined,
+Jan 07 02:20:05     upload: 1641493205207,
+Jan 07 02:20:05     response: undefined,
+Jan 07 02:20:05     end: undefined,
+Jan 07 02:20:05     error: 1641493205441,
+Jan 07 02:20:05     abort: undefined,
+Jan 07 02:20:05     phases: {
+Jan 07 02:20:05       wait: 1,
+Jan 07 02:20:05       dns: 1,
+Jan 07 02:20:05       tcp: 233,
+Jan 07 02:20:05       tls: undefined,
+Jan 07 02:20:05       request: 0,
+Jan 07 02:20:05       firstByte: undefined,
+Jan 07 02:20:05       download: undefined,
+Jan 07 02:20:05       total: 469
+Jan 07 02:20:05     }
+Jan 07 02:20:05   }
+Jan 07 02:20:05 }
+Jan 07 02:20:05 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 07 02:20:05 
+Jan 07 02:20:05 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 07 02:20:05 
+Jan 07 02:20:05 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 07 02:20:05 
+Jan 07 02:20:05 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 07 02:20:05 
+Jan 07 02:20:05 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 07 02:20:05 
+Jan 07 02:20:05 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 07 02:20:05 
+Jan 07 02:20:05 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 07 02:20:05 
+Jan 07 02:20:17 开始内部助力
+Jan 07 02:20:17 
+Jan 07 02:20:17 开始助力第1个活动：1111点心动
+Jan 07 02:20:17 
+Jan 07 02:20:17 jd_632e000b42ec6 去助力 88489948 的助力码 T011tvV3SBcQ8VwDjRXlq-7zx55awQ
+Jan 07 02:20:17 
+Jan 07 02:20:17 ❗️众筹许愿池, 错误!
+Jan 07 02:20:17 TypeError: Cannot read properties of undefined (reading 'bizMsg')
+Jan 07 02:20:17     at /scripts/jd_wish.js:246:47
+Jan 07 02:20:17     at got.post.then.message (/scripts/jd_wish.js:419:5772)
+Jan 07 02:20:17     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 07 02:20:19 开始助力第2个活动：JOY年尾之旅
+Jan 07 02:20:19 
+Jan 07 02:20:19 开始助力第3个活动：PLUS生活特权
+Jan 07 02:20:19 
+Jan 07 02:20:19 
+Jan 07 02:20:19 🔔众筹许愿池, 结束! 🕛 17.916 秒
+Jan 07 02:20:19 
+Jan 08 00:20:01 
+Jan 08 00:20:01 🔔众筹许愿池, 开始!
+Jan 08 00:20:01 
+Jan 08 00:20:01 ====================共1个京东账号Cookie=========
+Jan 08 00:20:01 
+Jan 08 00:20:02 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 上午12:20:01=====================
+Jan 08 00:20:02 
+Jan 08 00:20:04 
+Jan 08 00:20:04 *******开始【京东账号1】jd_632e000b42ec6*********
+Jan 08 00:20:04 
+Jan 08 00:20:04 
+Jan 08 00:20:04 ==============📣系统通知📣==============
+Jan 08 00:20:04 众筹许愿池
+Jan 08 00:20:04 【提示】cookie已失效
+Jan 08 00:20:04 京东账号1 jd_632e000b42ec6
+Jan 08 00:20:04 请重新登录获取
+Jan 08 00:20:04 https://bean.m.jd.com/bean/signIndex.action
+Jan 08 00:20:04 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 08 00:20:04 
+Jan 08 00:20:08 发送通知调用API失败！！
+Jan 08 00:20:08 
+Jan 08 00:20:08 RequestError: socket hang up
+Jan 08 00:20:08     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 08 00:20:08     at Object.onceWrapper (node:events:510:26)
+Jan 08 00:20:08     at ClientRequest.emit (node:events:402:35)
+Jan 08 00:20:08     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 08 00:20:08     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 08 00:20:08     at Socket.emit (node:events:402:35)
+Jan 08 00:20:08     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 08 00:20:08     at connResetException (node:internal/errors:691:14)
+Jan 08 00:20:08     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 08 00:20:08     at Socket.emit (node:events:402:35)
+Jan 08 00:20:08     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 08 00:20:08     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 08 00:20:08   code: 'ECONNRESET',
+Jan 08 00:20:08   timings: {
+Jan 08 00:20:08     start: 1641572406743,
+Jan 08 00:20:08     socket: 1641572406744,
+Jan 08 00:20:08     lookup: 1641572406749,
+Jan 08 00:20:08     connect: 1641572407991,
+Jan 08 00:20:08     secureConnect: undefined,
+Jan 08 00:20:08     upload: 1641572407991,
+Jan 08 00:20:08     response: undefined,
+Jan 08 00:20:08     end: undefined,
+Jan 08 00:20:08     error: 1641572408235,
+Jan 08 00:20:08     abort: undefined,
+Jan 08 00:20:08     phases: {
+Jan 08 00:20:08       wait: 1,
+Jan 08 00:20:08       dns: 5,
+Jan 08 00:20:08       tcp: 1242,
+Jan 08 00:20:08       tls: undefined,
+Jan 08 00:20:08       request: 0,
+Jan 08 00:20:08       firstByte: undefined,
+Jan 08 00:20:08       download: undefined,
+Jan 08 00:20:08       total: 1492
+Jan 08 00:20:08     }
+Jan 08 00:20:08   }
+Jan 08 00:20:08 }
+Jan 08 00:20:08 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 08 00:20:08 
+Jan 08 00:20:08 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 08 00:20:08 
+Jan 08 00:20:08 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 08 00:20:08 
+Jan 08 00:20:08 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 08 00:20:08 
+Jan 08 00:20:08 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 08 00:20:08 
+Jan 08 00:20:08 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 08 00:20:08 
+Jan 08 00:20:08 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 08 00:20:08 
+Jan 08 00:20:09 开始内部助力
+Jan 08 00:20:09 
+Jan 08 00:20:09 开始助力第1个活动：1111点心动
+Jan 08 00:20:09 
+Jan 08 00:20:09 jd_632e000b42ec6 去助力 zhaosen2580 的助力码 T0159KUiH11Mq1bSKBoDjRXlq-7zx55awQ
+Jan 08 00:20:09 
+Jan 08 00:20:09 ❗️众筹许愿池, 错误!
+Jan 08 00:20:09 TypeError: Cannot read properties of undefined (reading 'bizMsg')
+Jan 08 00:20:09     at /scripts/jd_wish.js:246:47
+Jan 08 00:20:09     at got.post.then.message (/scripts/jd_wish.js:419:5772)
+Jan 08 00:20:09     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 08 00:20:11 jd_632e000b42ec6 去助力 jd_gYZtkBfPpRVv 的助力码 T0205KkcF3dzsQ-ldnq09pFMDjRXlq-7zx55awQ
+Jan 08 00:20:12 
+Jan 08 00:20:12 ❗️众筹许愿池, 错误!
+Jan 08 00:20:12 TypeError: Cannot read properties of undefined (reading 'bizMsg')
+Jan 08 00:20:12     at /scripts/jd_wish.js:246:47
+Jan 08 00:20:12     at got.post.then.message (/scripts/jd_wish.js:419:5772)
+Jan 08 00:20:12     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 08 00:20:14 jd_632e000b42ec6 去助力 jd_41df9b41af810 的助力码 T0225KkcRB9No12FJBulwv8LdADjRXlq-7zx55awQ
+Jan 08 00:20:14 
+Jan 08 00:20:14 ❗️众筹许愿池, 错误!
+Jan 08 00:20:14 TypeError: Cannot read properties of undefined (reading 'bizMsg')
+Jan 08 00:20:14     at /scripts/jd_wish.js:246:47
+Jan 08 00:20:14     at got.post.then.message (/scripts/jd_wish.js:419:5772)
+Jan 08 00:20:14     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 08 00:20:16 jd_632e000b42ec6 去助力 jd_47ee22449e303 的助力码 T0225KkcRBlMoFbVJB79wfQKdwDjRXlq-7zx55awQ
+Jan 08 00:20:16 
+Jan 08 00:20:16 ❗️众筹许愿池, 错误!
+Jan 08 00:20:16 TypeError: Cannot read properties of undefined (reading 'bizMsg')
+Jan 08 00:20:16     at /scripts/jd_wish.js:246:47
+Jan 08 00:20:16     at got.post.then.message (/scripts/jd_wish.js:419:5772)
+Jan 08 00:20:16     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 08 00:20:18 jd_632e000b42ec6 去助力 jd_4346918b58d6e 的助力码 T0225KkcRB0d813WKEjxnKMMIQDjRXlq-7zx55awQ
+Jan 08 00:20:18 
+Jan 08 00:20:18 ❗️众筹许愿池, 错误!
+Jan 08 00:20:18 TypeError: Cannot read properties of undefined (reading 'bizMsg')
+Jan 08 00:20:18     at /scripts/jd_wish.js:246:47
+Jan 08 00:20:18     at got.post.then.message (/scripts/jd_wish.js:419:5772)
+Jan 08 00:20:18     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 08 00:20:20 jd_632e000b42ec6 去助力 u_5747590e21e24 的助力码 T020-5J2Rxoe8F3XdRj1wfUODjRXlq-7zx55awQ
+Jan 08 00:20:20 
+Jan 08 00:20:20 ❗️众筹许愿池, 错误!
+Jan 08 00:20:20 TypeError: Cannot read properties of undefined (reading 'bizMsg')
+Jan 08 00:20:20     at /scripts/jd_wish.js:246:47
+Jan 08 00:20:20     at got.post.then.message (/scripts/jd_wish.js:419:5772)
+Jan 08 00:20:20     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 08 00:20:22 jd_632e000b42ec6 去助力 liuz9988 的助力码 T0114qQ2ChcQ_VwDjRXlq-7zx55awQ
+Jan 08 00:20:22 
+Jan 08 00:20:22 ❗️众筹许愿池, 错误!
+Jan 08 00:20:22 TypeError: Cannot read properties of undefined (reading 'bizMsg')
+Jan 08 00:20:22     at /scripts/jd_wish.js:246:47
+Jan 08 00:20:22     at got.post.then.message (/scripts/jd_wish.js:419:5772)
+Jan 08 00:20:22     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 08 00:20:24 jd_632e000b42ec6 去助力 88489948 的助力码 T011tvV3SBcQ8VwDjRXlq-7zx55awQ
+Jan 08 00:20:24 
+Jan 08 00:20:24 ❗️众筹许愿池, 错误!
+Jan 08 00:20:24 TypeError: Cannot read properties of undefined (reading 'bizMsg')
+Jan 08 00:20:24     at /scripts/jd_wish.js:246:47
+Jan 08 00:20:24     at got.post.then.message (/scripts/jd_wish.js:419:5772)
+Jan 08 00:20:24     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 08 00:20:26 开始助力第2个活动：JOY年尾之旅
+Jan 08 00:20:26 
+Jan 08 00:20:26 开始助力第3个活动：PLUS生活特权
+Jan 08 00:20:26 
+Jan 08 00:20:26 
+Jan 08 00:20:26 🔔众筹许愿池, 结束! 🕛 25.154 秒
+Jan 08 00:20:26 
+Jan 08 02:20:01 
+Jan 08 02:20:01 🔔众筹许愿池, 开始!
+Jan 08 02:20:01 
+Jan 08 02:20:01 ====================共1个京东账号Cookie=========
+Jan 08 02:20:01 
+Jan 08 02:20:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 上午2:20:01=====================
+Jan 08 02:20:01 
+Jan 08 02:20:02 
+Jan 08 02:20:02 *******开始【京东账号1】jd_632e000b42ec6*********
+Jan 08 02:20:02 
+Jan 08 02:20:02 
+Jan 08 02:20:02 ==============📣系统通知📣==============
+Jan 08 02:20:02 众筹许愿池
+Jan 08 02:20:02 【提示】cookie已失效
+Jan 08 02:20:02 京东账号1 jd_632e000b42ec6
+Jan 08 02:20:02 请重新登录获取
+Jan 08 02:20:02 https://bean.m.jd.com/bean/signIndex.action
+Jan 08 02:20:02 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 08 02:20:02 
+Jan 08 02:20:06 发送通知调用API失败！！
+Jan 08 02:20:06 
+Jan 08 02:20:06 RequestError: socket hang up
+Jan 08 02:20:06     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 08 02:20:06     at Object.onceWrapper (node:events:510:26)
+Jan 08 02:20:06     at ClientRequest.emit (node:events:402:35)
+Jan 08 02:20:06     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 08 02:20:06     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 08 02:20:06     at Socket.emit (node:events:402:35)
+Jan 08 02:20:06     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 08 02:20:06     at connResetException (node:internal/errors:691:14)
+Jan 08 02:20:06     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 08 02:20:06     at Socket.emit (node:events:402:35)
+Jan 08 02:20:06     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 08 02:20:06     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 08 02:20:06   code: 'ECONNRESET',
+Jan 08 02:20:06   timings: {
+Jan 08 02:20:06     start: 1641579605152,
+Jan 08 02:20:06     socket: 1641579605152,
+Jan 08 02:20:06     lookup: 1641579605154,
+Jan 08 02:20:06     connect: 1641579606388,
+Jan 08 02:20:06     secureConnect: undefined,
+Jan 08 02:20:06     upload: 1641579606388,
+Jan 08 02:20:06     response: undefined,
+Jan 08 02:20:06     end: undefined,
+Jan 08 02:20:06     error: 1641579606625,
+Jan 08 02:20:06     abort: undefined,
+Jan 08 02:20:06     phases: {
+Jan 08 02:20:06       wait: 0,
+Jan 08 02:20:06       dns: 2,
+Jan 08 02:20:06       tcp: 1234,
+Jan 08 02:20:06       tls: undefined,
+Jan 08 02:20:06       request: 0,
+Jan 08 02:20:06       firstByte: undefined,
+Jan 08 02:20:06       download: undefined,
+Jan 08 02:20:06       total: 1473
+Jan 08 02:20:06     }
+Jan 08 02:20:06   }
+Jan 08 02:20:06 }
+Jan 08 02:20:06 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 08 02:20:06 
+Jan 08 02:20:06 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 08 02:20:06 
+Jan 08 02:20:06 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 08 02:20:06 
+Jan 08 02:20:06 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 08 02:20:06 
+Jan 08 02:20:06 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 08 02:20:06 
+Jan 08 02:20:06 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 08 02:20:06 
+Jan 08 02:20:06 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 08 02:20:06 
+Jan 08 02:20:18 开始内部助力
+Jan 08 02:20:18 
+Jan 08 02:20:18 开始助力第1个活动：1111点心动
+Jan 08 02:20:18 
+Jan 08 02:20:18 开始助力第2个活动：JOY年尾之旅
+Jan 08 02:20:18 
+Jan 08 02:20:18 开始助力第3个活动：PLUS生活特权
+Jan 08 02:20:18 
+Jan 08 02:20:18 
+Jan 08 02:20:18 🔔众筹许愿池, 结束! 🕛 16.955 秒
+Jan 08 02:20:18 
+Jan 09 00:20:01 
+Jan 09 00:20:01 🔔众筹许愿池, 开始!
+Jan 09 00:20:01 
+Jan 09 00:20:01 ====================共1个京东账号Cookie=========
+Jan 09 00:20:01 
+Jan 09 00:20:02 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 上午12:20:01=====================
+Jan 09 00:20:02 
+Jan 09 00:20:03 
+Jan 09 00:20:03 *******开始【京东账号1】jd_632e000b42ec6*********
+Jan 09 00:20:03 
+Jan 09 00:20:03 
+Jan 09 00:20:03 ==============📣系统通知📣==============
+Jan 09 00:20:03 众筹许愿池
+Jan 09 00:20:03 【提示】cookie已失效
+Jan 09 00:20:03 京东账号1 jd_632e000b42ec6
+Jan 09 00:20:03 请重新登录获取
+Jan 09 00:20:03 https://bean.m.jd.com/bean/signIndex.action
+Jan 09 00:20:03 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 09 00:20:03 
+Jan 09 00:20:07 发送通知调用API失败！！
+Jan 09 00:20:07 
+Jan 09 00:20:07 RequestError: socket hang up
+Jan 09 00:20:07     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 09 00:20:07     at Object.onceWrapper (node:events:510:26)
+Jan 09 00:20:07     at ClientRequest.emit (node:events:402:35)
+Jan 09 00:20:07     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 09 00:20:07     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 09 00:20:07     at Socket.emit (node:events:402:35)
+Jan 09 00:20:07     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 09 00:20:07     at connResetException (node:internal/errors:691:14)
+Jan 09 00:20:07     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 09 00:20:07     at Socket.emit (node:events:402:35)
+Jan 09 00:20:07     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 09 00:20:07     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 09 00:20:07   code: 'ECONNRESET',
+Jan 09 00:20:07   timings: {
+Jan 09 00:20:07     start: 1641658806288,
+Jan 09 00:20:07     socket: 1641658806288,
+Jan 09 00:20:07     lookup: 1641658806289,
+Jan 09 00:20:07     connect: 1641658807528,
+Jan 09 00:20:07     secureConnect: undefined,
+Jan 09 00:20:07     upload: 1641658807529,
+Jan 09 00:20:07     response: undefined,
+Jan 09 00:20:07     end: undefined,
+Jan 09 00:20:07     error: 1641658807770,
+Jan 09 00:20:07     abort: undefined,
+Jan 09 00:20:07     phases: {
+Jan 09 00:20:07       wait: 0,
+Jan 09 00:20:07       dns: 1,
+Jan 09 00:20:07       tcp: 1239,
+Jan 09 00:20:07       tls: undefined,
+Jan 09 00:20:07       request: 1,
+Jan 09 00:20:07       firstByte: undefined,
+Jan 09 00:20:07       download: undefined,
+Jan 09 00:20:07       total: 1482
+Jan 09 00:20:07     }
+Jan 09 00:20:07   }
+Jan 09 00:20:07 }
+Jan 09 00:20:07 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 09 00:20:07 
+Jan 09 00:20:07 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 09 00:20:07 
+Jan 09 00:20:07 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 09 00:20:07 
+Jan 09 00:20:07 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 09 00:20:07 
+Jan 09 00:20:07 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 09 00:20:07 
+Jan 09 00:20:07 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 09 00:20:07 
+Jan 09 00:20:07 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 09 00:20:07 
+Jan 09 00:20:08 开始内部助力
+Jan 09 00:20:08 
+Jan 09 00:20:08 开始助力第1个活动：1111点心动
+Jan 09 00:20:08 
+Jan 09 00:20:08 jd_632e000b42ec6 去助力 zhaosen2580 的助力码 T0159KUiH11Mq1bSKBoDjRXlq-7zx55awQ
+Jan 09 00:20:08 
+Jan 09 00:20:08 ❗️众筹许愿池, 错误!
+Jan 09 00:20:08 TypeError: Cannot read properties of undefined (reading 'bizMsg')
+Jan 09 00:20:08     at /scripts/jd_wish.js:246:47
+Jan 09 00:20:08     at got.post.then.message (/scripts/jd_wish.js:419:5772)
+Jan 09 00:20:08     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 09 00:20:10 jd_632e000b42ec6 去助力 jd_gYZtkBfPpRVv 的助力码 T0205KkcF3dzsQ-ldnq09pFMDjRXlq-7zx55awQ
+Jan 09 00:20:10 
+Jan 09 00:20:10 ❗️众筹许愿池, 错误!
+Jan 09 00:20:10 TypeError: Cannot read properties of undefined (reading 'bizMsg')
+Jan 09 00:20:10     at /scripts/jd_wish.js:246:47
+Jan 09 00:20:10     at got.post.then.message (/scripts/jd_wish.js:419:5772)
+Jan 09 00:20:10     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 09 00:20:12 jd_632e000b42ec6 去助力 jd_41df9b41af810 的助力码 T0225KkcRB9No12FJBulwv8LdADjRXlq-7zx55awQ
+Jan 09 00:20:12 
+Jan 09 00:20:12 ❗️众筹许愿池, 错误!
+Jan 09 00:20:12 TypeError: Cannot read properties of undefined (reading 'bizMsg')
+Jan 09 00:20:12     at /scripts/jd_wish.js:246:47
+Jan 09 00:20:12     at got.post.then.message (/scripts/jd_wish.js:419:5772)
+Jan 09 00:20:12     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 09 00:20:14 jd_632e000b42ec6 去助力 jd_47ee22449e303 的助力码 T0225KkcRBlMoFbVJB79wfQKdwDjRXlq-7zx55awQ
+Jan 09 00:20:14 
+Jan 09 00:20:14 ❗️众筹许愿池, 错误!
+Jan 09 00:20:14 TypeError: Cannot read properties of undefined (reading 'bizMsg')
+Jan 09 00:20:14     at /scripts/jd_wish.js:246:47
+Jan 09 00:20:14     at got.post.then.message (/scripts/jd_wish.js:419:5772)
+Jan 09 00:20:14     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 09 00:20:16 jd_632e000b42ec6 去助力 jd_4346918b58d6e 的助力码 T0225KkcRB0d813WKEjxnKMMIQDjRXlq-7zx55awQ
+Jan 09 00:20:17 
+Jan 09 00:20:17 ❗️众筹许愿池, 错误!
+Jan 09 00:20:17 TypeError: Cannot read properties of undefined (reading 'bizMsg')
+Jan 09 00:20:17     at /scripts/jd_wish.js:246:47
+Jan 09 00:20:17     at got.post.then.message (/scripts/jd_wish.js:419:5772)
+Jan 09 00:20:17     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 09 00:20:19 jd_632e000b42ec6 去助力 u_5747590e21e24 的助力码 T020-5J2Rxoe8F3XdRj1wfUODjRXlq-7zx55awQ
+Jan 09 00:20:19 
+Jan 09 00:20:19 ❗️众筹许愿池, 错误!
+Jan 09 00:20:19 TypeError: Cannot read properties of undefined (reading 'bizMsg')
+Jan 09 00:20:19     at /scripts/jd_wish.js:246:47
+Jan 09 00:20:19     at got.post.then.message (/scripts/jd_wish.js:419:5772)
+Jan 09 00:20:19     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 09 00:20:21 jd_632e000b42ec6 去助力 liuz9988 的助力码 T0114qQ2ChcQ_VwDjRXlq-7zx55awQ
+Jan 09 00:20:21 
+Jan 09 00:20:21 ❗️众筹许愿池, 错误!
+Jan 09 00:20:21 TypeError: Cannot read properties of undefined (reading 'bizMsg')
+Jan 09 00:20:21     at /scripts/jd_wish.js:246:47
+Jan 09 00:20:21     at got.post.then.message (/scripts/jd_wish.js:419:5772)
+Jan 09 00:20:21     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 09 00:20:23 jd_632e000b42ec6 去助力 88489948 的助力码 T011tvV3SBcQ8VwDjRXlq-7zx55awQ
+Jan 09 00:20:23 
+Jan 09 00:20:23 ❗️众筹许愿池, 错误!
+Jan 09 00:20:23 TypeError: Cannot read properties of undefined (reading 'bizMsg')
+Jan 09 00:20:23     at /scripts/jd_wish.js:246:47
+Jan 09 00:20:23     at got.post.then.message (/scripts/jd_wish.js:419:5772)
+Jan 09 00:20:23     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 09 00:20:25 开始助力第2个活动：JOY年尾之旅
+Jan 09 00:20:25 
+Jan 09 00:20:25 开始助力第3个活动：PLUS生活特权
+Jan 09 00:20:25 
+Jan 09 00:20:25 
+Jan 09 00:20:25 🔔众筹许愿池, 结束! 🕛 23.83 秒
+Jan 09 00:20:25 
+Jan 09 02:20:01 
+Jan 09 02:20:01 🔔众筹许愿池, 开始!
+Jan 09 02:20:01 
+Jan 09 02:20:01 ====================共1个京东账号Cookie=========
+Jan 09 02:20:01 
+Jan 09 02:20:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 上午2:20:01=====================
+Jan 09 02:20:01 
+Jan 09 02:20:02 
+Jan 09 02:20:02 *******开始【京东账号1】jd_632e000b42ec6*********
+Jan 09 02:20:02 
+Jan 09 02:20:02 
+Jan 09 02:20:02 ==============📣系统通知📣==============
+Jan 09 02:20:02 众筹许愿池
+Jan 09 02:20:02 【提示】cookie已失效
+Jan 09 02:20:02 京东账号1 jd_632e000b42ec6
+Jan 09 02:20:02 请重新登录获取
+Jan 09 02:20:02 https://bean.m.jd.com/bean/signIndex.action
+Jan 09 02:20:02 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 09 02:20:02 
+Jan 09 02:20:06 发送通知调用API失败！！
+Jan 09 02:20:06 
+Jan 09 02:20:06 RequestError: socket hang up
+Jan 09 02:20:06     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 09 02:20:06     at Object.onceWrapper (node:events:510:26)
+Jan 09 02:20:06     at ClientRequest.emit (node:events:402:35)
+Jan 09 02:20:06     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 09 02:20:06     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 09 02:20:06     at Socket.emit (node:events:402:35)
+Jan 09 02:20:06     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 09 02:20:06     at connResetException (node:internal/errors:691:14)
+Jan 09 02:20:06     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 09 02:20:06     at Socket.emit (node:events:402:35)
+Jan 09 02:20:06     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 09 02:20:06     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 09 02:20:06   code: 'ECONNRESET',
+Jan 09 02:20:06   timings: {
+Jan 09 02:20:06     start: 1641666004914,
+Jan 09 02:20:06     socket: 1641666004914,
+Jan 09 02:20:06     lookup: 1641666004915,
+Jan 09 02:20:06     connect: 1641666006152,
+Jan 09 02:20:06     secureConnect: undefined,
+Jan 09 02:20:06     upload: 1641666006152,
+Jan 09 02:20:06     response: undefined,
+Jan 09 02:20:06     end: undefined,
+Jan 09 02:20:06     error: 1641666006949,
+Jan 09 02:20:06     abort: undefined,
+Jan 09 02:20:06     phases: {
+Jan 09 02:20:06       wait: 0,
+Jan 09 02:20:06       dns: 1,
+Jan 09 02:20:06       tcp: 1237,
+Jan 09 02:20:06       tls: undefined,
+Jan 09 02:20:06       request: 0,
+Jan 09 02:20:06       firstByte: undefined,
+Jan 09 02:20:06       download: undefined,
+Jan 09 02:20:06       total: 2035
+Jan 09 02:20:06     }
+Jan 09 02:20:06   }
+Jan 09 02:20:06 }
+Jan 09 02:20:06 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 09 02:20:06 
+Jan 09 02:20:06 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 09 02:20:06 
+Jan 09 02:20:06 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 09 02:20:06 
+Jan 09 02:20:06 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 09 02:20:06 
+Jan 09 02:20:06 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 09 02:20:06 
+Jan 09 02:20:06 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 09 02:20:06 
+Jan 09 02:20:06 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 09 02:20:06 
+Jan 09 02:20:08 开始内部助力
+Jan 09 02:20:08 
+Jan 09 02:20:08 开始助力第1个活动：1111点心动
+Jan 09 02:20:08 
+Jan 09 02:20:08 开始助力第2个活动：JOY年尾之旅
+Jan 09 02:20:08 
+Jan 09 02:20:08 开始助力第3个活动：PLUS生活特权
+Jan 09 02:20:08 
+Jan 09 02:20:08 
+Jan 09 02:20:08 🔔众筹许愿池, 结束! 🕛 6.89 秒
+Jan 09 02:20:08 

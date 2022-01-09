@@ -1,0 +1,3967 @@
+Jan 09 03:00:01 
+Jan 09 03:00:01 🔔城城领现金, 开始!
+Jan 09 03:00:01 
+Jan 09 03:00:01 ====================共1个京东账号Cookie=========
+Jan 09 03:00:01 
+Jan 09 03:00:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 上午3:00:01=====================
+Jan 09 03:00:01 
+Jan 09 03:00:01 脚本不会自动抽奖，建议活动快结束开启，默认关闭(在10.29日自动开启抽奖),如需自动抽奖请设置环境变量  JD_CITY_EXCHANGE 为true
+Jan 09 03:00:01 
+Jan 09 03:00:01 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 09 03:00:01 
+Jan 09 03:00:01 
+Jan 09 03:00:01 
+Jan 09 03:00:01 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 03:00:01 
+Jan 09 03:00:03 
+Jan 09 03:00:03 第1个京东账号将要助力的好友["-ryUXatZM2ZBZxbNH9jF9Hcgpj3LgC6O","-ryUXa8IYG1Ca0DBQo_Dog8z6g4JgbB-","5Yf-XqgLY21DNhDFH9nBu-Xw0trebxk","_LG-E6UFbmwPLxKIBsq14w","qOD_UaUFYmwPLxKIBsq14w","oeD9UaQEYm1CYRGrCpeJ95PhSEZ5","5LelEP1SZ2VBZ16ISpeJ5sAU","-ryUXf4EbmVFYxbMTNiX8d8SMLU-zIlA","-ryUXvgIYW1AYhLEGNzG8rDe06ZjSquB","9O_5XKsFZ2BAfhXNT9LH8H8rEJb3C_IK","ryUX6tYN2YRZRvHSdmU80IkK0h0ywU8","-ryUX_8FZmYWMhbNS4rH8iL7sMIJ9D2r","ryUXf8IY2AVNRLNS46Rox2AA0KcA44p","-ryUBP53BxEEP1CWEbKNuxy1mdkCymI","6r-nE-tNJzEXL17EBpfUh10","ryUDNJyJy0aB1OGIIKduwy-NlXarlA","oe_yWqsJe2FKYRXGTNzGu-WiqRym3hQ","-ryUJ9ldOBwqI1CQPoWYu_iK5k3gpMI","G4Xswe2mRgy-e4CeHtY10G4auYtJRTWysDPF7cNWPpliICkbweQ","ryUX6wEMDURNRXDG42QpNTVecHx5FEw","HY3iz-inRwyqeIDWW5gzmv46VCWGo_O7KqKuRDGG2GI","-rGlDuZUOSFFYRXHBpfFuwsGeRo","-ryUXqkEYmdDMkHDS4mQ821PGQfc3pRP","6LKtBeVZJSgPY16IW6vR","d0dujym5sOH2tZdxBpfFu-a-RB4","Rty4yO2mDUbvfs_WW41tktQwIPDV-iqw5VAG","RtGKvbPXBk7dG8LTVa5bmgdOESc6GlUQdNiJJRWwVobXru8C","RtGKoKnHGHDjONr6UbNlmjb3mf-IfEZGfc0L3KU-uCUe_vor"]
+Jan 09 03:00:03 
+Jan 09 03:00:03 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXatZM2ZBZxbNH9jF9Hcgpj3LgC6O】
+Jan 09 03:00:04 
+Jan 09 03:00:04 
+Jan 09 03:00:04 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 03:00:04 
+Jan 09 03:00:04 
+Jan 09 03:00:04 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXa8IYG1Ca0DBQo_Dog8z6g4JgbB-】
+Jan 09 03:00:05 
+Jan 09 03:00:05 
+Jan 09 03:00:05 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 03:00:05 
+Jan 09 03:00:05 
+Jan 09 03:00:05 jd_GyKLGOwyLAnM 开始助力 助力池 【5Yf-XqgLY21DNhDFH9nBu-Xw0trebxk】
+Jan 09 03:00:06 
+Jan 09 03:00:06 
+Jan 09 03:00:06 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 03:00:06 
+Jan 09 03:00:06 
+Jan 09 03:00:06 jd_GyKLGOwyLAnM 开始助力 助力池 【_LG-E6UFbmwPLxKIBsq14w】
+Jan 09 03:00:08 
+Jan 09 03:00:08 
+Jan 09 03:00:08 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 03:00:08 
+Jan 09 03:00:08 
+Jan 09 03:00:08 jd_GyKLGOwyLAnM 开始助力 助力池 【qOD_UaUFYmwPLxKIBsq14w】
+Jan 09 03:00:09 
+Jan 09 03:00:09 
+Jan 09 03:00:09 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 03:00:09 
+Jan 09 03:00:09 
+Jan 09 03:00:09 jd_GyKLGOwyLAnM 开始助力 助力池 【oeD9UaQEYm1CYRGrCpeJ95PhSEZ5】
+Jan 09 03:00:10 
+Jan 09 03:00:10 
+Jan 09 03:00:10 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 03:00:10 
+Jan 09 03:00:10 
+Jan 09 03:00:10 jd_GyKLGOwyLAnM 开始助力 助力池 【5LelEP1SZ2VBZ16ISpeJ5sAU】
+Jan 09 03:00:11 
+Jan 09 03:00:11 
+Jan 09 03:00:11 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 03:00:11 
+Jan 09 03:00:11 
+Jan 09 03:00:11 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXf4EbmVFYxbMTNiX8d8SMLU-zIlA】
+Jan 09 03:00:12 
+Jan 09 03:00:12 
+Jan 09 03:00:12 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 03:00:12 
+Jan 09 03:00:12 
+Jan 09 03:00:12 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXvgIYW1AYhLEGNzG8rDe06ZjSquB】
+Jan 09 03:00:13 
+Jan 09 03:00:13 
+Jan 09 03:00:13 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 03:00:13 
+Jan 09 03:00:13 
+Jan 09 03:00:13 jd_GyKLGOwyLAnM 开始助力 助力池 【9O_5XKsFZ2BAfhXNT9LH8H8rEJb3C_IK】
+Jan 09 03:00:14 
+Jan 09 03:00:14 
+Jan 09 03:00:14 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 03:00:14 
+Jan 09 03:00:14 
+Jan 09 03:00:14 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUX6tYN2YRZRvHSdmU80IkK0h0ywU8】
+Jan 09 03:00:16 
+Jan 09 03:00:16 
+Jan 09 03:00:16 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 03:00:16 
+Jan 09 03:00:16 
+Jan 09 03:00:16 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUX_8FZmYWMhbNS4rH8iL7sMIJ9D2r】
+Jan 09 03:00:17 
+Jan 09 03:00:17 
+Jan 09 03:00:17 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 03:00:17 
+Jan 09 03:00:17 
+Jan 09 03:00:17 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUXf8IY2AVNRLNS46Rox2AA0KcA44p】
+Jan 09 03:00:18 
+Jan 09 03:00:18 
+Jan 09 03:00:18 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 03:00:18 
+Jan 09 03:00:18 
+Jan 09 03:00:18 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUBP53BxEEP1CWEbKNuxy1mdkCymI】
+Jan 09 03:00:19 
+Jan 09 03:00:19 
+Jan 09 03:00:19 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 03:00:19 
+Jan 09 03:00:19 
+Jan 09 03:00:19 jd_GyKLGOwyLAnM 开始助力 助力池 【6r-nE-tNJzEXL17EBpfUh10】
+Jan 09 03:00:20 
+Jan 09 03:00:20 
+Jan 09 03:00:20 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 03:00:20 
+Jan 09 03:00:20 
+Jan 09 03:00:20 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUDNJyJy0aB1OGIIKduwy-NlXarlA】
+Jan 09 03:00:21 
+Jan 09 03:00:21 
+Jan 09 03:00:21 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 03:00:21 
+Jan 09 03:00:21 
+Jan 09 03:00:21 jd_GyKLGOwyLAnM 开始助力 助力池 【oe_yWqsJe2FKYRXGTNzGu-WiqRym3hQ】
+Jan 09 03:00:22 
+Jan 09 03:00:22 
+Jan 09 03:00:22 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 03:00:22 
+Jan 09 03:00:22 
+Jan 09 03:00:22 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUJ9ldOBwqI1CQPoWYu_iK5k3gpMI】
+Jan 09 03:00:24 
+Jan 09 03:00:24 
+Jan 09 03:00:24 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 03:00:24 
+Jan 09 03:00:24 
+Jan 09 03:00:24 jd_GyKLGOwyLAnM 开始助力 助力池 【G4Xswe2mRgy-e4CeHtY10G4auYtJRTWysDPF7cNWPpliICkbweQ】
+Jan 09 03:00:25 
+Jan 09 03:00:25 
+Jan 09 03:00:25 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 03:00:25 
+Jan 09 03:00:25 
+Jan 09 03:00:25 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUX6wEMDURNRXDG42QpNTVecHx5FEw】
+Jan 09 03:00:26 
+Jan 09 03:00:26 
+Jan 09 03:00:26 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 03:00:26 
+Jan 09 03:00:26 
+Jan 09 03:00:26 jd_GyKLGOwyLAnM 开始助力 助力池 【HY3iz-inRwyqeIDWW5gzmv46VCWGo_O7KqKuRDGG2GI】
+Jan 09 03:00:27 
+Jan 09 03:00:27 
+Jan 09 03:00:27 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 03:00:27 
+Jan 09 03:00:27 
+Jan 09 03:00:27 jd_GyKLGOwyLAnM 开始助力 助力池 【-rGlDuZUOSFFYRXHBpfFuwsGeRo】
+Jan 09 03:00:28 
+Jan 09 03:00:28 
+Jan 09 03:00:28 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 03:00:28 
+Jan 09 03:00:28 
+Jan 09 03:00:28 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXqkEYmdDMkHDS4mQ821PGQfc3pRP】
+Jan 09 03:00:29 
+Jan 09 03:00:29 
+Jan 09 03:00:29 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 03:00:29 
+Jan 09 03:00:29 
+Jan 09 03:00:29 jd_GyKLGOwyLAnM 开始助力 助力池 【6LKtBeVZJSgPY16IW6vR】
+Jan 09 03:00:30 
+Jan 09 03:00:30 
+Jan 09 03:00:30 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 03:00:30 
+Jan 09 03:00:30 
+Jan 09 03:00:30 jd_GyKLGOwyLAnM 开始助力 助力池 【d0dujym5sOH2tZdxBpfFu-a-RB4】
+Jan 09 03:00:31 
+Jan 09 03:00:31 
+Jan 09 03:00:31 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 03:00:31 
+Jan 09 03:00:31 
+Jan 09 03:00:31 jd_GyKLGOwyLAnM 开始助力 助力池 【Rty4yO2mDUbvfs_WW41tktQwIPDV-iqw5VAG】
+Jan 09 03:00:33 
+Jan 09 03:00:33 
+Jan 09 03:00:33 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 03:00:33 
+Jan 09 03:00:33 
+Jan 09 03:00:33 jd_GyKLGOwyLAnM 开始助力 助力池 【RtGKvbPXBk7dG8LTVa5bmgdOESc6GlUQdNiJJRWwVobXru8C】
+Jan 09 03:00:34 
+Jan 09 03:00:34 
+Jan 09 03:00:34 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 03:00:34 
+Jan 09 03:00:34 
+Jan 09 03:00:34 jd_GyKLGOwyLAnM 开始助力 助力池 【RtGKoKnHGHDjONr6UbNlmjb3mf-IfEZGfc0L3KU-uCUe_vor】
+Jan 09 03:00:35 
+Jan 09 03:00:35 
+Jan 09 03:00:35 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 03:00:35 
+Jan 09 03:00:36 
+Jan 09 03:00:36 🔔城城领现金, 结束! 🕛 35.508 秒
+Jan 09 03:00:36 
+Jan 09 04:00:01 
+Jan 09 04:00:01 🔔城城领现金, 开始!
+Jan 09 04:00:01 
+Jan 09 04:00:01 ====================共1个京东账号Cookie=========
+Jan 09 04:00:01 
+Jan 09 04:00:02 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 上午4:00:01=====================
+Jan 09 04:00:02 
+Jan 09 04:00:02 脚本不会自动抽奖，建议活动快结束开启，默认关闭(在10.29日自动开启抽奖),如需自动抽奖请设置环境变量  JD_CITY_EXCHANGE 为true
+Jan 09 04:00:03 
+Jan 09 04:00:03 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 09 04:00:03 
+Jan 09 04:00:03 
+Jan 09 04:00:03 
+Jan 09 04:00:03 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 04:00:03 
+Jan 09 04:00:06 
+Jan 09 04:00:06 第1个京东账号将要助力的好友["_LG-E6UFbmwPLxKIBsq14w","qOD_UaUFYmwPLxKIBsq14w","oeD9UaQEYm1CYRGrCpeJ95PhSEZ5","5LelEP1SZ2VBZ16ISpeJ5sAU","-ryUXf4EbmVFYxbMTNiX8d8SMLU-zIlA","-ryUXvgIYW1AYhLEGNzG8rDe06ZjSquB","0pmZLt11GGxCYhvGBpfFu52LJ0s","ryUX6tYN2YRZRvHSdmU80IkK0h0ywU8","57yuOddJMBwbGGGDM5-Ju4IRx3U8HQ","RtGKgrX3OH_VPtn_TrxamtmZaPiOT8f4qS0L3lKAIJ6bzlMM","ryUXq0MZjUQZEeXGNjM9nAxXw4c_yir","-ryUXq8OYGdDYkSXSojMox11bDe7MkHE","-ryUXK1dMGEQMRrHQtvM_52-huzlwUUJ","pOD_X60OYmJDfhTGT9vC9UGdv-mxn07W_Yk","8relDvRFMycGPV6ISpeJ5uj1","-ryUX68PNWQQZhTBS9vA_6ciT4HGrqWk","-ryUXvhdZWBBNhHDQorFpM2CIUgRVyFD","qOrzWqoPe2ZDaxPBTdzDu2E8Z01iq7Q","RtGKi6TROmzgBuLNRoVBmkG2jOUnLaSyn6IaE2WZwaIX6I74","-ryUXKgKYmZDZxLMQo7C9KdZ2YdxPMeL","57yPD9FLHxIDClCXLISJu-z6xwEJIg","oeH7XKwMbm1EL17EBpfUh7w","RtGKzb6tRgyme4ScENVm0rHAkkT9JqxG87nLZAuCKkkIOLEHDQ","ryUX6lfYGEQNxfATo7A8aw6jja-pM2h","-ryUPM9lGCMfGGGFO6Osu2W1fFxgumM"]
+Jan 09 04:00:06 
+Jan 09 04:00:06 jd_GyKLGOwyLAnM 开始助力 助力池 【_LG-E6UFbmwPLxKIBsq14w】
+Jan 09 04:00:07 
+Jan 09 04:00:07 
+Jan 09 04:00:07 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 04:00:07 
+Jan 09 04:00:07 
+Jan 09 04:00:07 jd_GyKLGOwyLAnM 开始助力 助力池 【qOD_UaUFYmwPLxKIBsq14w】
+Jan 09 04:00:08 
+Jan 09 04:00:08 
+Jan 09 04:00:08 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 04:00:08 
+Jan 09 04:00:08 
+Jan 09 04:00:08 jd_GyKLGOwyLAnM 开始助力 助力池 【oeD9UaQEYm1CYRGrCpeJ95PhSEZ5】
+Jan 09 04:00:10 
+Jan 09 04:00:10 
+Jan 09 04:00:10 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 04:00:10 
+Jan 09 04:00:10 
+Jan 09 04:00:10 jd_GyKLGOwyLAnM 开始助力 助力池 【5LelEP1SZ2VBZ16ISpeJ5sAU】
+Jan 09 04:00:11 
+Jan 09 04:00:11 
+Jan 09 04:00:11 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 04:00:11 
+Jan 09 04:00:11 
+Jan 09 04:00:11 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXf4EbmVFYxbMTNiX8d8SMLU-zIlA】
+Jan 09 04:00:12 
+Jan 09 04:00:12 
+Jan 09 04:00:12 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 04:00:12 
+Jan 09 04:00:12 
+Jan 09 04:00:12 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXvgIYW1AYhLEGNzG8rDe06ZjSquB】
+Jan 09 04:00:13 
+Jan 09 04:00:13 
+Jan 09 04:00:13 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 04:00:13 
+Jan 09 04:00:13 
+Jan 09 04:00:13 jd_GyKLGOwyLAnM 开始助力 助力池 【0pmZLt11GGxCYhvGBpfFu52LJ0s】
+Jan 09 04:00:14 
+Jan 09 04:00:14 
+Jan 09 04:00:14 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 04:00:14 
+Jan 09 04:00:14 
+Jan 09 04:00:14 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUX6tYN2YRZRvHSdmU80IkK0h0ywU8】
+Jan 09 04:00:15 
+Jan 09 04:00:15 
+Jan 09 04:00:15 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 04:00:15 
+Jan 09 04:00:15 
+Jan 09 04:00:15 jd_GyKLGOwyLAnM 开始助力 助力池 【57yuOddJMBwbGGGDM5-Ju4IRx3U8HQ】
+Jan 09 04:00:16 
+Jan 09 04:00:16 
+Jan 09 04:00:16 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 04:00:16 
+Jan 09 04:00:16 
+Jan 09 04:00:16 jd_GyKLGOwyLAnM 开始助力 助力池 【RtGKgrX3OH_VPtn_TrxamtmZaPiOT8f4qS0L3lKAIJ6bzlMM】
+Jan 09 04:00:17 
+Jan 09 04:00:17 
+Jan 09 04:00:17 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 04:00:17 
+Jan 09 04:00:17 
+Jan 09 04:00:17 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUXq0MZjUQZEeXGNjM9nAxXw4c_yir】
+Jan 09 04:00:19 
+Jan 09 04:00:19 
+Jan 09 04:00:19 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 04:00:19 
+Jan 09 04:00:19 
+Jan 09 04:00:19 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXq8OYGdDYkSXSojMox11bDe7MkHE】
+Jan 09 04:00:20 
+Jan 09 04:00:20 
+Jan 09 04:00:20 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 04:00:20 
+Jan 09 04:00:20 
+Jan 09 04:00:20 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXK1dMGEQMRrHQtvM_52-huzlwUUJ】
+Jan 09 04:00:21 
+Jan 09 04:00:21 
+Jan 09 04:00:21 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 04:00:21 
+Jan 09 04:00:21 
+Jan 09 04:00:21 jd_GyKLGOwyLAnM 开始助力 助力池 【pOD_X60OYmJDfhTGT9vC9UGdv-mxn07W_Yk】
+Jan 09 04:00:22 
+Jan 09 04:00:22 
+Jan 09 04:00:22 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 04:00:22 
+Jan 09 04:00:22 
+Jan 09 04:00:22 jd_GyKLGOwyLAnM 开始助力 助力池 【8relDvRFMycGPV6ISpeJ5uj1】
+Jan 09 04:00:23 
+Jan 09 04:00:23 
+Jan 09 04:00:23 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 04:00:23 
+Jan 09 04:00:23 
+Jan 09 04:00:23 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUX68PNWQQZhTBS9vA_6ciT4HGrqWk】
+Jan 09 04:00:24 
+Jan 09 04:00:24 
+Jan 09 04:00:24 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 04:00:24 
+Jan 09 04:00:24 
+Jan 09 04:00:24 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXvhdZWBBNhHDQorFpM2CIUgRVyFD】
+Jan 09 04:00:25 
+Jan 09 04:00:25 
+Jan 09 04:00:25 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 04:00:25 
+Jan 09 04:00:25 
+Jan 09 04:00:25 jd_GyKLGOwyLAnM 开始助力 助力池 【qOrzWqoPe2ZDaxPBTdzDu2E8Z01iq7Q】
+Jan 09 04:00:27 
+Jan 09 04:00:27 
+Jan 09 04:00:27 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 04:00:27 
+Jan 09 04:00:27 
+Jan 09 04:00:27 jd_GyKLGOwyLAnM 开始助力 助力池 【RtGKi6TROmzgBuLNRoVBmkG2jOUnLaSyn6IaE2WZwaIX6I74】
+Jan 09 04:00:28 
+Jan 09 04:00:28 
+Jan 09 04:00:28 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 04:00:28 
+Jan 09 04:00:28 
+Jan 09 04:00:28 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXKgKYmZDZxLMQo7C9KdZ2YdxPMeL】
+Jan 09 04:00:29 
+Jan 09 04:00:29 
+Jan 09 04:00:29 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 04:00:29 
+Jan 09 04:00:29 
+Jan 09 04:00:29 jd_GyKLGOwyLAnM 开始助力 助力池 【57yPD9FLHxIDClCXLISJu-z6xwEJIg】
+Jan 09 04:00:30 
+Jan 09 04:00:30 
+Jan 09 04:00:30 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 04:00:30 
+Jan 09 04:00:30 
+Jan 09 04:00:30 jd_GyKLGOwyLAnM 开始助力 助力池 【oeH7XKwMbm1EL17EBpfUh7w】
+Jan 09 04:00:31 
+Jan 09 04:00:31 
+Jan 09 04:00:31 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 04:00:31 
+Jan 09 04:00:31 
+Jan 09 04:00:31 jd_GyKLGOwyLAnM 开始助力 助力池 【RtGKzb6tRgyme4ScENVm0rHAkkT9JqxG87nLZAuCKkkIOLEHDQ】
+Jan 09 04:00:32 
+Jan 09 04:00:32 
+Jan 09 04:00:32 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 04:00:32 
+Jan 09 04:00:32 
+Jan 09 04:00:32 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUX6lfYGEQNxfATo7A8aw6jja-pM2h】
+Jan 09 04:00:33 
+Jan 09 04:00:33 
+Jan 09 04:00:33 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 04:00:33 
+Jan 09 04:00:33 
+Jan 09 04:00:33 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUPM9lGCMfGGGFO6Osu2W1fFxgumM】
+Jan 09 04:00:35 
+Jan 09 04:00:35 
+Jan 09 04:00:35 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 04:00:35 
+Jan 09 04:00:36 
+Jan 09 04:00:36 🔔城城领现金, 结束! 🕛 34.441 秒
+Jan 09 04:00:36 
+Jan 09 05:00:01 
+Jan 09 05:00:01 🔔城城领现金, 开始!
+Jan 09 05:00:01 
+Jan 09 05:00:01 ====================共1个京东账号Cookie=========
+Jan 09 05:00:01 
+Jan 09 05:00:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 上午5:00:01=====================
+Jan 09 05:00:01 
+Jan 09 05:00:01 脚本不会自动抽奖，建议活动快结束开启，默认关闭(在10.29日自动开启抽奖),如需自动抽奖请设置环境变量  JD_CITY_EXCHANGE 为true
+Jan 09 05:00:01 
+Jan 09 05:00:01 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 09 05:00:01 
+Jan 09 05:00:01 
+Jan 09 05:00:01 
+Jan 09 05:00:01 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 05:00:01 
+Jan 09 05:00:03 
+Jan 09 05:00:03 第1个京东账号将要助力的好友["_LG-E6UFbmwPLxKIBsq14w","qOD_UaUFYmwPLxKIBsq14w","oeD9UaQEYm1CYRGrCpeJ95PhSEZ5","5LelEP1SZ2VBZ16ISpeJ5sAU","-ryUXf4EbmVFYxbMTNiX8d8SMLU-zIlA","-ryUXvgIYW1AYhLEGNzG8rDe06ZjSquB","-ryUAvJwBAA6KnqjOZ2Tu-wNzXVyoVE","dX14jSaGs_HAtKx_BpfFu9bgwTI","eV9ajwSjZ21KYBPES96Ju_qirxekoA","-ryULvdGODsYFGC9PJGUuwoS9h_Qtb0","57yFL_NGMhUZK2aNMbGcu80C9WTC2U0","ryUX6oPYzBHN0PNGdnNpGWn--CeQ021","yRFyH1oelqAXqC8hwmuI1wOI85ZLmimnqXPbJY8GIuiaYgQd4aQ","ryUXK1dbjIVYhXFG4iXoZn_aTNiDf0e","dmBijwaqsc73tpJ7n1t6Lp1dd6Wucld95AA","-ryUXv8Nb2NAYUbFTd_B_yYAtS5r-_AQ","2I2KJ9tmHh0_GmzNTZeJ93852r2s","-ryUXKUJZTUSakSRHNyRog_rQg9xJ3fB","ryUXv1eYzdKNxKVG4jMpjpXp6VBgqLJ","dXVbjSSxvvvetaJen2FuI1NGZ3fttdpMfdE","-ryUGdF_ATsdEnOuCKK2u-AyBswkX5A","RtGKzeyjEAOmKIGZQ9BmgkWtDRgoe8C1iaw858jtIMB9ORQTUg","HYbsy-WiQgOif4L1V5h_muHXzW_QVDG2unBjEWBqFLCYYg","HYDmzeWnQgqmd4L1V5h_mu7mfppbRKXM-VRu1xItTqPSKA","-ryUXv0OZmYVaxqXH4_HoUVVxvDwD1mb"]
+Jan 09 05:00:03 
+Jan 09 05:00:03 jd_GyKLGOwyLAnM 开始助力 助力池 【_LG-E6UFbmwPLxKIBsq14w】
+Jan 09 05:00:04 
+Jan 09 05:00:04 
+Jan 09 05:00:04 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 05:00:04 
+Jan 09 05:00:04 
+Jan 09 05:00:04 jd_GyKLGOwyLAnM 开始助力 助力池 【qOD_UaUFYmwPLxKIBsq14w】
+Jan 09 05:00:05 
+Jan 09 05:00:05 
+Jan 09 05:00:05 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 05:00:05 
+Jan 09 05:00:05 
+Jan 09 05:00:05 jd_GyKLGOwyLAnM 开始助力 助力池 【oeD9UaQEYm1CYRGrCpeJ95PhSEZ5】
+Jan 09 05:00:06 
+Jan 09 05:00:06 
+Jan 09 05:00:06 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 05:00:06 
+Jan 09 05:00:06 
+Jan 09 05:00:06 jd_GyKLGOwyLAnM 开始助力 助力池 【5LelEP1SZ2VBZ16ISpeJ5sAU】
+Jan 09 05:00:08 
+Jan 09 05:00:08 
+Jan 09 05:00:08 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 05:00:08 
+Jan 09 05:00:08 
+Jan 09 05:00:08 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXf4EbmVFYxbMTNiX8d8SMLU-zIlA】
+Jan 09 05:00:09 
+Jan 09 05:00:09 
+Jan 09 05:00:09 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 05:00:09 
+Jan 09 05:00:09 
+Jan 09 05:00:09 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXvgIYW1AYhLEGNzG8rDe06ZjSquB】
+Jan 09 05:00:10 
+Jan 09 05:00:10 
+Jan 09 05:00:10 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 05:00:10 
+Jan 09 05:00:10 
+Jan 09 05:00:10 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUAvJwBAA6KnqjOZ2Tu-wNzXVyoVE】
+Jan 09 05:00:11 
+Jan 09 05:00:11 
+Jan 09 05:00:11 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 05:00:11 
+Jan 09 05:00:11 
+Jan 09 05:00:11 jd_GyKLGOwyLAnM 开始助力 助力池 【dX14jSaGs_HAtKx_BpfFu9bgwTI】
+Jan 09 05:00:12 
+Jan 09 05:00:12 
+Jan 09 05:00:12 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 05:00:12 
+Jan 09 05:00:12 
+Jan 09 05:00:12 jd_GyKLGOwyLAnM 开始助力 助力池 【eV9ajwSjZ21KYBPES96Ju_qirxekoA】
+Jan 09 05:00:13 
+Jan 09 05:00:13 
+Jan 09 05:00:13 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 05:00:13 
+Jan 09 05:00:13 
+Jan 09 05:00:13 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryULvdGODsYFGC9PJGUuwoS9h_Qtb0】
+Jan 09 05:00:14 
+Jan 09 05:00:14 
+Jan 09 05:00:14 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 05:00:14 
+Jan 09 05:00:14 
+Jan 09 05:00:14 jd_GyKLGOwyLAnM 开始助力 助力池 【57yFL_NGMhUZK2aNMbGcu80C9WTC2U0】
+Jan 09 05:00:16 
+Jan 09 05:00:16 
+Jan 09 05:00:16 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 05:00:16 
+Jan 09 05:00:16 
+Jan 09 05:00:16 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUX6oPYzBHN0PNGdnNpGWn--CeQ021】
+Jan 09 05:00:17 
+Jan 09 05:00:17 
+Jan 09 05:00:17 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 05:00:17 
+Jan 09 05:00:17 
+Jan 09 05:00:17 jd_GyKLGOwyLAnM 开始助力 助力池 【yRFyH1oelqAXqC8hwmuI1wOI85ZLmimnqXPbJY8GIuiaYgQd4aQ】
+Jan 09 05:00:18 
+Jan 09 05:00:18 
+Jan 09 05:00:18 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 05:00:18 
+Jan 09 05:00:18 
+Jan 09 05:00:18 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUXK1dbjIVYhXFG4iXoZn_aTNiDf0e】
+Jan 09 05:00:19 
+Jan 09 05:00:19 
+Jan 09 05:00:19 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 05:00:19 
+Jan 09 05:00:19 
+Jan 09 05:00:19 jd_GyKLGOwyLAnM 开始助力 助力池 【dmBijwaqsc73tpJ7n1t6Lp1dd6Wucld95AA】
+Jan 09 05:00:20 
+Jan 09 05:00:20 
+Jan 09 05:00:20 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 05:00:20 
+Jan 09 05:00:20 
+Jan 09 05:00:20 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXv8Nb2NAYUbFTd_B_yYAtS5r-_AQ】
+Jan 09 05:00:21 
+Jan 09 05:00:21 
+Jan 09 05:00:21 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 05:00:21 
+Jan 09 05:00:21 
+Jan 09 05:00:21 jd_GyKLGOwyLAnM 开始助力 助力池 【2I2KJ9tmHh0_GmzNTZeJ93852r2s】
+Jan 09 05:00:22 
+Jan 09 05:00:22 
+Jan 09 05:00:22 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 05:00:22 
+Jan 09 05:00:22 
+Jan 09 05:00:22 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXKUJZTUSakSRHNyRog_rQg9xJ3fB】
+Jan 09 05:00:24 
+Jan 09 05:00:24 
+Jan 09 05:00:24 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 05:00:24 
+Jan 09 05:00:24 
+Jan 09 05:00:24 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUXv1eYzdKNxKVG4jMpjpXp6VBgqLJ】
+Jan 09 05:00:25 
+Jan 09 05:00:25 
+Jan 09 05:00:25 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 05:00:25 
+Jan 09 05:00:25 
+Jan 09 05:00:25 jd_GyKLGOwyLAnM 开始助力 助力池 【dXVbjSSxvvvetaJen2FuI1NGZ3fttdpMfdE】
+Jan 09 05:00:26 
+Jan 09 05:00:26 
+Jan 09 05:00:26 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 05:00:26 
+Jan 09 05:00:26 
+Jan 09 05:00:26 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUGdF_ATsdEnOuCKK2u-AyBswkX5A】
+Jan 09 05:00:27 
+Jan 09 05:00:27 
+Jan 09 05:00:27 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 05:00:27 
+Jan 09 05:00:27 
+Jan 09 05:00:27 jd_GyKLGOwyLAnM 开始助力 助力池 【RtGKzeyjEAOmKIGZQ9BmgkWtDRgoe8C1iaw858jtIMB9ORQTUg】
+Jan 09 05:00:28 
+Jan 09 05:00:28 
+Jan 09 05:00:28 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 05:00:28 
+Jan 09 05:00:28 
+Jan 09 05:00:28 jd_GyKLGOwyLAnM 开始助力 助力池 【HYbsy-WiQgOif4L1V5h_muHXzW_QVDG2unBjEWBqFLCYYg】
+Jan 09 05:00:29 
+Jan 09 05:00:29 
+Jan 09 05:00:29 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 05:00:29 
+Jan 09 05:00:29 
+Jan 09 05:00:29 jd_GyKLGOwyLAnM 开始助力 助力池 【HYDmzeWnQgqmd4L1V5h_mu7mfppbRKXM-VRu1xItTqPSKA】
+Jan 09 05:00:30 
+Jan 09 05:00:30 
+Jan 09 05:00:30 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 05:00:30 
+Jan 09 05:00:30 
+Jan 09 05:00:30 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXv0OZmYVaxqXH4_HoUVVxvDwD1mb】
+Jan 09 05:00:32 
+Jan 09 05:00:32 
+Jan 09 05:00:32 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 05:00:32 
+Jan 09 05:00:33 
+Jan 09 05:00:33 🔔城城领现金, 结束! 🕛 32.008 秒
+Jan 09 05:00:33 
+Jan 09 06:00:01 
+Jan 09 06:00:01 🔔城城领现金, 开始!
+Jan 09 06:00:01 
+Jan 09 06:00:01 ====================共1个京东账号Cookie=========
+Jan 09 06:00:01 
+Jan 09 06:00:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 上午6:00:01=====================
+Jan 09 06:00:01 
+Jan 09 06:00:01 脚本不会自动抽奖，建议活动快结束开启，默认关闭(在10.29日自动开启抽奖),如需自动抽奖请设置环境变量  JD_CITY_EXCHANGE 为true
+Jan 09 06:00:01 
+Jan 09 06:00:01 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 09 06:00:01 
+Jan 09 06:00:01 
+Jan 09 06:00:01 
+Jan 09 06:00:01 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:00:01 
+Jan 09 06:00:03 
+Jan 09 06:00:03 第1个京东账号将要助力的好友["_LG-E6UFbmwPLxKIBsq14w","qOD_UaUFYmwPLxKIBsq14w","oeD9UaQEYm1CYRGrCpeJ95PhSEZ5","5LelEP1SZ2VBZ16ISpeJ5sAU","-ryUXf4EbmVFYxbMTNiX8d8SMLU-zIlA","-ryUXvgIYW1AYhLEGNzG8rDe06ZjSquB","ryUX6QJNzIQZxCRTdjDo_vH5p2eJUSR","-ryUAv1pIDEHEXekKJGwu8fTB34ebFo","ryUX6kLNWBHZBfGGYrH8bdXEDwO61v5","ryUXKkONDBEYBfBT93A9JP_xkv_03qM","47CuB_tRMzUdL17EBpfUh-M","-ryUAPJaHwwVGEyyFKWluwZfYvSDTTw","ryUAPJaHwwVGEyyFKWluwZfYvSDTTw","962yHPkEb2xKL17EBpfUh3M","encryptedPin=RnFixDUKaGLaydQQroZ0WjlKTmlNwjEBF38","-ryUB_R7ExknIG6yEJO9uw6oLD4rqYM","57e4Gs1AKmQPLwO0Xg≈","oen5XKwFZmBHZ32ZBpfFu3EJ4iY","ryUXagNNzdFZ0bCHIjEoQafTY0nFvmN","-ryUX6hYYWIWYhSQHNiX8fyP758EiwX-","Rty4yO2mDUbvfs_WW41tktQwIPDV-iqw5VAG","oevzWKwOYGRKYhurCpeJ996CL9GG","-ryUGMZmPwE2G2yDK6meu_fiDDFIiNE","ryUXPlZMmBBMUeSSNnAomgEGJthxEWd","ryUXv0OMGxLMhvMTNLDpPlWQJQoExTa"]
+Jan 09 06:00:03 
+Jan 09 06:00:03 jd_GyKLGOwyLAnM 开始助力 助力池 【_LG-E6UFbmwPLxKIBsq14w】
+Jan 09 06:00:04 
+Jan 09 06:00:04 
+Jan 09 06:00:04 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:00:04 
+Jan 09 06:00:04 
+Jan 09 06:00:04 jd_GyKLGOwyLAnM 开始助力 助力池 【qOD_UaUFYmwPLxKIBsq14w】
+Jan 09 06:00:05 
+Jan 09 06:00:05 
+Jan 09 06:00:05 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:00:05 
+Jan 09 06:00:05 
+Jan 09 06:00:05 jd_GyKLGOwyLAnM 开始助力 助力池 【oeD9UaQEYm1CYRGrCpeJ95PhSEZ5】
+Jan 09 06:00:07 
+Jan 09 06:00:07 
+Jan 09 06:00:07 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:00:07 
+Jan 09 06:00:07 
+Jan 09 06:00:07 jd_GyKLGOwyLAnM 开始助力 助力池 【5LelEP1SZ2VBZ16ISpeJ5sAU】
+Jan 09 06:00:08 
+Jan 09 06:00:08 
+Jan 09 06:00:08 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:00:08 
+Jan 09 06:00:08 
+Jan 09 06:00:08 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXf4EbmVFYxbMTNiX8d8SMLU-zIlA】
+Jan 09 06:00:09 
+Jan 09 06:00:09 
+Jan 09 06:00:09 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:00:09 
+Jan 09 06:00:09 
+Jan 09 06:00:09 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXvgIYW1AYhLEGNzG8rDe06ZjSquB】
+Jan 09 06:00:10 
+Jan 09 06:00:10 
+Jan 09 06:00:10 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:00:10 
+Jan 09 06:00:10 
+Jan 09 06:00:10 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUX6QJNzIQZxCRTdjDo_vH5p2eJUSR】
+Jan 09 06:00:11 
+Jan 09 06:00:11 
+Jan 09 06:00:11 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:00:11 
+Jan 09 06:00:11 
+Jan 09 06:00:11 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUAv1pIDEHEXekKJGwu8fTB34ebFo】
+Jan 09 06:00:12 
+Jan 09 06:00:12 
+Jan 09 06:00:12 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:00:12 
+Jan 09 06:00:12 
+Jan 09 06:00:12 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUX6kLNWBHZBfGGYrH8bdXEDwO61v5】
+Jan 09 06:00:13 
+Jan 09 06:00:13 
+Jan 09 06:00:13 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:00:13 
+Jan 09 06:00:13 
+Jan 09 06:00:13 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUXKkONDBEYBfBT93A9JP_xkv_03qM】
+Jan 09 06:00:15 
+Jan 09 06:00:15 
+Jan 09 06:00:15 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:00:15 
+Jan 09 06:00:15 
+Jan 09 06:00:15 jd_GyKLGOwyLAnM 开始助力 助力池 【47CuB_tRMzUdL17EBpfUh-M】
+Jan 09 06:00:16 
+Jan 09 06:00:16 
+Jan 09 06:00:16 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:00:16 
+Jan 09 06:00:16 
+Jan 09 06:00:16 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUAPJaHwwVGEyyFKWluwZfYvSDTTw】
+Jan 09 06:00:17 
+Jan 09 06:00:17 
+Jan 09 06:00:17 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:00:17 
+Jan 09 06:00:17 
+Jan 09 06:00:17 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUAPJaHwwVGEyyFKWluwZfYvSDTTw】
+Jan 09 06:00:18 
+Jan 09 06:00:18 
+Jan 09 06:00:18 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:00:18 
+Jan 09 06:00:18 
+Jan 09 06:00:18 jd_GyKLGOwyLAnM 开始助力 助力池 【962yHPkEb2xKL17EBpfUh3M】
+Jan 09 06:00:19 
+Jan 09 06:00:19 
+Jan 09 06:00:19 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:00:19 
+Jan 09 06:00:19 
+Jan 09 06:00:19 jd_GyKLGOwyLAnM 开始助力 助力池 【encryptedPin=RnFixDUKaGLaydQQroZ0WjlKTmlNwjEBF38】
+Jan 09 06:00:20 
+Jan 09 06:00:20 
+Jan 09 06:00:20 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:00:20 
+Jan 09 06:00:20 
+Jan 09 06:00:20 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUB_R7ExknIG6yEJO9uw6oLD4rqYM】
+Jan 09 06:00:21 
+Jan 09 06:00:21 
+Jan 09 06:00:21 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:00:21 
+Jan 09 06:00:21 
+Jan 09 06:00:21 jd_GyKLGOwyLAnM 开始助力 助力池 【57e4Gs1AKmQPLwO0Xg≈】
+Jan 09 06:00:23 
+Jan 09 06:00:23 
+Jan 09 06:00:23 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:00:23 
+Jan 09 06:00:23 
+Jan 09 06:00:23 jd_GyKLGOwyLAnM 开始助力 助力池 【oen5XKwFZmBHZ32ZBpfFu3EJ4iY】
+Jan 09 06:00:24 
+Jan 09 06:00:24 
+Jan 09 06:00:24 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:00:24 
+Jan 09 06:00:24 
+Jan 09 06:00:24 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUXagNNzdFZ0bCHIjEoQafTY0nFvmN】
+Jan 09 06:00:25 
+Jan 09 06:00:25 
+Jan 09 06:00:25 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:00:25 
+Jan 09 06:00:25 
+Jan 09 06:00:25 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUX6hYYWIWYhSQHNiX8fyP758EiwX-】
+Jan 09 06:00:26 
+Jan 09 06:00:26 
+Jan 09 06:00:26 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:00:26 
+Jan 09 06:00:26 
+Jan 09 06:00:26 jd_GyKLGOwyLAnM 开始助力 助力池 【Rty4yO2mDUbvfs_WW41tktQwIPDV-iqw5VAG】
+Jan 09 06:00:27 
+Jan 09 06:00:27 
+Jan 09 06:00:27 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:00:27 
+Jan 09 06:00:27 
+Jan 09 06:00:27 jd_GyKLGOwyLAnM 开始助力 助力池 【oevzWKwOYGRKYhurCpeJ996CL9GG】
+Jan 09 06:00:28 
+Jan 09 06:00:28 
+Jan 09 06:00:28 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:00:28 
+Jan 09 06:00:28 
+Jan 09 06:00:28 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUGMZmPwE2G2yDK6meu_fiDDFIiNE】
+Jan 09 06:00:29 
+Jan 09 06:00:29 
+Jan 09 06:00:29 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:00:29 
+Jan 09 06:00:29 
+Jan 09 06:00:29 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUXPlZMmBBMUeSSNnAomgEGJthxEWd】
+Jan 09 06:00:30 
+Jan 09 06:00:30 
+Jan 09 06:00:30 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:00:30 
+Jan 09 06:00:30 
+Jan 09 06:00:30 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUXv0OMGxLMhvMTNLDpPlWQJQoExTa】
+Jan 09 06:00:32 
+Jan 09 06:00:32 
+Jan 09 06:00:32 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:00:32 
+Jan 09 06:00:33 
+Jan 09 06:00:33 🔔城城领现金, 结束! 🕛 32.039 秒
+Jan 09 06:00:33 
+Jan 09 07:00:00 
+Jan 09 07:00:00 🔔城城领现金, 开始!
+Jan 09 07:00:00 
+Jan 09 07:00:00 ====================共1个京东账号Cookie=========
+Jan 09 07:00:00 
+Jan 09 07:00:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 上午7:00:00=====================
+Jan 09 07:00:00 
+Jan 09 07:00:00 脚本不会自动抽奖，建议活动快结束开启，默认关闭(在10.29日自动开启抽奖),如需自动抽奖请设置环境变量  JD_CITY_EXCHANGE 为true
+Jan 09 07:00:00 
+Jan 09 07:00:00 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 09 07:00:00 
+Jan 09 07:00:00 
+Jan 09 07:00:00 ==============📣系统通知📣==============
+Jan 09 07:00:00 城城领现金
+Jan 09 07:00:00 【提示】cookie已失效
+Jan 09 07:00:00 京东账号1 jd_GyKLGOwyLAnM
+Jan 09 07:00:00 请重新登录获取
+Jan 09 07:00:00 https://bean.m.jd.com/bean/signIndex.action
+Jan 09 07:00:00 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 09 07:00:00 
+Jan 09 07:00:04 发送通知调用API失败！！
+Jan 09 07:00:04 
+Jan 09 07:00:04 RequestError: socket hang up
+Jan 09 07:00:04     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 09 07:00:04     at Object.onceWrapper (node:events:510:26)
+Jan 09 07:00:04     at ClientRequest.emit (node:events:402:35)
+Jan 09 07:00:04     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 09 07:00:04     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 09 07:00:04     at Socket.emit (node:events:402:35)
+Jan 09 07:00:04     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 09 07:00:04     at connResetException (node:internal/errors:691:14)
+Jan 09 07:00:04     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 09 07:00:04     at Socket.emit (node:events:402:35)
+Jan 09 07:00:04     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 09 07:00:04     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 09 07:00:04   code: 'ECONNRESET',
+Jan 09 07:00:04   timings: {
+Jan 09 07:00:04     start: 1641682803239,
+Jan 09 07:00:04     socket: 1641682803239,
+Jan 09 07:00:04     lookup: 1641682803244,
+Jan 09 07:00:04     connect: 1641682804472,
+Jan 09 07:00:04     secureConnect: undefined,
+Jan 09 07:00:04     upload: 1641682804472,
+Jan 09 07:00:04     response: undefined,
+Jan 09 07:00:04     end: undefined,
+Jan 09 07:00:04     error: 1641682804702,
+Jan 09 07:00:04     abort: undefined,
+Jan 09 07:00:04     phases: {
+Jan 09 07:00:04       wait: 0,
+Jan 09 07:00:04       dns: 5,
+Jan 09 07:00:04       tcp: 1228,
+Jan 09 07:00:04       tls: undefined,
+Jan 09 07:00:04       request: 0,
+Jan 09 07:00:04       firstByte: undefined,
+Jan 09 07:00:04       download: undefined,
+Jan 09 07:00:04       total: 1463
+Jan 09 07:00:04     }
+Jan 09 07:00:04   }
+Jan 09 07:00:04 }
+Jan 09 07:00:04 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 09 07:00:04 
+Jan 09 07:00:04 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 09 07:00:04 
+Jan 09 07:00:04 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 09 07:00:04 
+Jan 09 07:00:04 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 09 07:00:04 
+Jan 09 07:00:04 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 09 07:00:04 
+Jan 09 07:00:04 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 09 07:00:04 
+Jan 09 07:00:04 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 09 07:00:04 
+Jan 09 07:00:06 
+Jan 09 07:00:06 第1个京东账号将要助力的好友["_LG-E6UFbmwPLxKIBsq14w","qOD_UaUFYmwPLxKIBsq14w","oeD9UaQEYm1CYRGrCpeJ95PhSEZ5","5LelEP1SZ2VBZ16ISpeJ5sAU","-ryUXf4EbmVFYxbMTNiX8d8SMLU-zIlA","-ryUXvgIYW1AYhLEGNzG8rDe06ZjSquB","-ryULNdmPDYkJm2gMJ27u6yaEMNjfFg","-ryUBdpZIBcdJFKYE72nu0il7uqoBBM","-ryUXKhZZmNFN0DFQ46TplwJoevBmDIN＆-ryUXa1ZYmMWakHBGIqXojwoDFECuFGf","yKu7BfVIKihDL17VOs8","-ryUXPgNZGRBYhLGStjB8rKiJVaBeHK7","-ryUAv1pIDEHEXekKJGwu8fTB34ebFo","RtGKzO71Qwj2f9GdEIYw33nVHGVfjfT7LNStgso9dyVTXukYfQ","ryUPs1lFxAyHFiBPKaZuzQiu0j19cA","-ryULN1GIAE2G3OiGI64uw0ot7NbnG0","-ryUXqgFNGcXZBCXSd_HoqB519gDyh_t","puH_UKgMZmdeZhfFTN_Bu-b23UFV0Dk","ryUX6hYYWIWYhSQHNiX8fyP758EiwX","ryUKPd-GB8nH3qbFI6fu0Ou7ChHkoA","oezzWKUNZmVLfhDES9zE83e5oiFlLXjq","HYTlwe-kQheleoCYFtA20zmg4zhoOup81j35un093PS8NFDcGg","D175nmxxDwPLxKIBsq14w","HYDgyO2hQwuke4H1V5h_mkPlgla_4VclHEjHzVl41yp6IA","-ryUHNZWHgQ3AXCVKK2yuzOIYQT07Vc","57y8OdFVAAQFHUanD4OJu2s0r5a3iA"]
+Jan 09 07:00:06 
+Jan 09 07:00:06 jd_GyKLGOwyLAnM 开始助力 助力池 【_LG-E6UFbmwPLxKIBsq14w】
+Jan 09 07:00:07 
+Jan 09 07:00:07 
+Jan 09 07:00:07 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 07:00:07 
+Jan 09 07:00:07 
+Jan 09 07:00:07 jd_GyKLGOwyLAnM 开始助力 助力池 【qOD_UaUFYmwPLxKIBsq14w】
+Jan 09 07:00:08 
+Jan 09 07:00:08 
+Jan 09 07:00:08 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 07:00:08 
+Jan 09 07:00:08 
+Jan 09 07:00:08 jd_GyKLGOwyLAnM 开始助力 助力池 【oeD9UaQEYm1CYRGrCpeJ95PhSEZ5】
+Jan 09 07:00:09 
+Jan 09 07:00:09 
+Jan 09 07:00:09 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 07:00:09 
+Jan 09 07:00:09 
+Jan 09 07:00:09 jd_GyKLGOwyLAnM 开始助力 助力池 【5LelEP1SZ2VBZ16ISpeJ5sAU】
+Jan 09 07:00:10 
+Jan 09 07:00:10 
+Jan 09 07:00:10 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 07:00:10 
+Jan 09 07:00:10 
+Jan 09 07:00:10 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXf4EbmVFYxbMTNiX8d8SMLU-zIlA】
+Jan 09 07:00:12 
+Jan 09 07:00:12 
+Jan 09 07:00:12 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 07:00:12 
+Jan 09 07:00:12 
+Jan 09 07:00:12 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXvgIYW1AYhLEGNzG8rDe06ZjSquB】
+Jan 09 07:00:13 
+Jan 09 07:00:13 
+Jan 09 07:00:13 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 07:00:13 
+Jan 09 07:00:13 
+Jan 09 07:00:13 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryULNdmPDYkJm2gMJ27u6yaEMNjfFg】
+Jan 09 07:00:14 
+Jan 09 07:00:14 
+Jan 09 07:00:14 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 07:00:14 
+Jan 09 07:00:14 
+Jan 09 07:00:14 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUBdpZIBcdJFKYE72nu0il7uqoBBM】
+Jan 09 07:00:15 
+Jan 09 07:00:15 
+Jan 09 07:00:15 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 07:00:15 
+Jan 09 07:00:15 
+Jan 09 07:00:15 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXKhZZmNFN0DFQ46TplwJoevBmDIN＆-ryUXa1ZYmMWakHBGIqXojwoDFECuFGf】
+Jan 09 07:00:16 
+Jan 09 07:00:16 
+Jan 09 07:00:16 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 07:00:16 
+Jan 09 07:00:16 
+Jan 09 07:00:16 jd_GyKLGOwyLAnM 开始助力 助力池 【yKu7BfVIKihDL17VOs8】
+Jan 09 07:00:17 
+Jan 09 07:00:17 
+Jan 09 07:00:17 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 07:00:17 
+Jan 09 07:00:17 
+Jan 09 07:00:17 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXPgNZGRBYhLGStjB8rKiJVaBeHK7】
+Jan 09 07:00:18 
+Jan 09 07:00:18 
+Jan 09 07:00:18 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 07:00:18 
+Jan 09 07:00:18 
+Jan 09 07:00:18 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUAv1pIDEHEXekKJGwu8fTB34ebFo】
+Jan 09 07:00:20 
+Jan 09 07:00:20 
+Jan 09 07:00:20 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 07:00:20 
+Jan 09 07:00:20 
+Jan 09 07:00:20 jd_GyKLGOwyLAnM 开始助力 助力池 【RtGKzO71Qwj2f9GdEIYw33nVHGVfjfT7LNStgso9dyVTXukYfQ】
+Jan 09 07:00:21 
+Jan 09 07:00:21 
+Jan 09 07:00:21 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 07:00:21 
+Jan 09 07:00:21 
+Jan 09 07:00:21 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUPs1lFxAyHFiBPKaZuzQiu0j19cA】
+Jan 09 07:00:22 
+Jan 09 07:00:22 
+Jan 09 07:00:22 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 07:00:22 
+Jan 09 07:00:22 
+Jan 09 07:00:22 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryULN1GIAE2G3OiGI64uw0ot7NbnG0】
+Jan 09 07:00:23 
+Jan 09 07:00:23 
+Jan 09 07:00:23 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 07:00:23 
+Jan 09 07:00:23 
+Jan 09 07:00:23 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXqgFNGcXZBCXSd_HoqB519gDyh_t】
+Jan 09 07:00:24 
+Jan 09 07:00:24 
+Jan 09 07:00:24 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 07:00:24 
+Jan 09 07:00:24 
+Jan 09 07:00:24 jd_GyKLGOwyLAnM 开始助力 助力池 【puH_UKgMZmdeZhfFTN_Bu-b23UFV0Dk】
+Jan 09 07:00:25 
+Jan 09 07:00:25 
+Jan 09 07:00:25 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 07:00:25 
+Jan 09 07:00:25 
+Jan 09 07:00:25 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUX6hYYWIWYhSQHNiX8fyP758EiwX】
+Jan 09 07:00:26 
+Jan 09 07:00:26 
+Jan 09 07:00:26 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 07:00:26 
+Jan 09 07:00:26 
+Jan 09 07:00:26 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUKPd-GB8nH3qbFI6fu0Ou7ChHkoA】
+Jan 09 07:00:28 
+Jan 09 07:00:28 
+Jan 09 07:00:28 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 07:00:28 
+Jan 09 07:00:28 
+Jan 09 07:00:28 jd_GyKLGOwyLAnM 开始助力 助力池 【oezzWKUNZmVLfhDES9zE83e5oiFlLXjq】
+Jan 09 07:00:29 
+Jan 09 07:00:29 
+Jan 09 07:00:29 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 07:00:29 
+Jan 09 07:00:29 
+Jan 09 07:00:29 jd_GyKLGOwyLAnM 开始助力 助力池 【HYTlwe-kQheleoCYFtA20zmg4zhoOup81j35un093PS8NFDcGg】
+Jan 09 07:00:30 
+Jan 09 07:00:30 
+Jan 09 07:00:30 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 07:00:30 
+Jan 09 07:00:30 
+Jan 09 07:00:30 jd_GyKLGOwyLAnM 开始助力 助力池 【D175nmxxDwPLxKIBsq14w】
+Jan 09 07:00:31 
+Jan 09 07:00:31 
+Jan 09 07:00:31 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 07:00:31 
+Jan 09 07:00:31 
+Jan 09 07:00:31 jd_GyKLGOwyLAnM 开始助力 助力池 【HYDgyO2hQwuke4H1V5h_mkPlgla_4VclHEjHzVl41yp6IA】
+Jan 09 07:00:32 
+Jan 09 07:00:32 
+Jan 09 07:00:32 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 07:00:32 
+Jan 09 07:00:32 
+Jan 09 07:00:32 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUHNZWHgQ3AXCVKK2yuzOIYQT07Vc】
+Jan 09 07:00:33 
+Jan 09 07:00:33 
+Jan 09 07:00:33 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 07:00:33 
+Jan 09 07:00:33 
+Jan 09 07:00:33 jd_GyKLGOwyLAnM 开始助力 助力池 【57y8OdFVAAQFHUanD4OJu2s0r5a3iA】
+Jan 09 07:00:34 
+Jan 09 07:00:34 
+Jan 09 07:00:34 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 07:00:34 
+Jan 09 07:00:35 
+Jan 09 07:00:35 🔔城城领现金, 结束! 🕛 35.75 秒
+Jan 09 07:00:35 
+Jan 09 08:00:00 
+Jan 09 08:00:00 🔔城城领现金, 开始!
+Jan 09 08:00:00 
+Jan 09 08:00:00 ====================共1个京东账号Cookie=========
+Jan 09 08:00:00 
+Jan 09 08:00:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 上午8:00:00=====================
+Jan 09 08:00:00 
+Jan 09 08:00:00 脚本不会自动抽奖，建议活动快结束开启，默认关闭(在10.29日自动开启抽奖),如需自动抽奖请设置环境变量  JD_CITY_EXCHANGE 为true
+Jan 09 08:00:00 
+Jan 09 08:00:00 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 09 08:00:00 
+Jan 09 08:00:00 
+Jan 09 08:00:00 
+Jan 09 08:00:00 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 08:00:00 
+Jan 09 08:00:02 
+Jan 09 08:00:02 第1个京东账号将要助力的好友["_LG-E6UFbmwPLxKIBsq14w","qOD_UaUFYmwPLxKIBsq14w","oeD9UaQEYm1CYRGrCpeJ95PhSEZ5","5LelEP1SZ2VBZ16ISpeJ5sAU","-ryUXf4EbmVFYxbMTNiX8d8SMLU-zIlA","-ryUXvgIYW1AYhLEGNzG8rDe06ZjSquB","-ryUX_peYG1FYhSQTtiQpTxj7ChZSb2O","oevzXKwNYGNHYRarCpeJ92l9pHRY","57mnB-lIbygPY16IW6vR","oe76W6wPY2dCfhTDSNjB9jDr-UOilyBc","-ryUXqsLM2IRMUaWTN7DpcXRqssQC0pz","ryUXP1Zb2VGYkaWTtuR9pycPPFJfa3p","-ryUXKxfb2xEZhuSSNKT9AFI6jvfXSqo","oeD7Wq4LY2dGaxKrCpeJ97cr7GCo","ryUA_h9DjYfAUChPaWSu_Zk_u5_kO8","qOr-X6wNZmxHDE-IBtuJu_X0bg","-ryUBcl3GAcSN069FoO-u9ZC5lFli0E","ryUIMhQOh4XA1eSG72AuziseiYNkes","-ryUXalaMzdDNhuQSdjN9JCqtY1xEnGc","57y_JftZDjUCMWe5PZGJu_fwTXlirA","-ryUIf5vBxgaPXqeG5yRu6tbuzy6DQQ","0oH-XKoKKihDL17VOs8","-ryUXvoMMGZBZxuXSomT9oVj2p1of9wd","57ytBPZ2NwMfJUSXFpyJu3wnz0B5tQ","-ryUXaoIZzEXNxuXHt3E__YFKw7fFIRn"]
+Jan 09 08:00:02 
+Jan 09 08:00:02 jd_GyKLGOwyLAnM 开始助力 助力池 【_LG-E6UFbmwPLxKIBsq14w】
+Jan 09 08:00:03 
+Jan 09 08:00:03 
+Jan 09 08:00:03 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 08:00:03 
+Jan 09 08:00:03 
+Jan 09 08:00:03 jd_GyKLGOwyLAnM 开始助力 助力池 【qOD_UaUFYmwPLxKIBsq14w】
+Jan 09 08:00:04 
+Jan 09 08:00:04 
+Jan 09 08:00:04 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 08:00:04 
+Jan 09 08:00:04 
+Jan 09 08:00:04 jd_GyKLGOwyLAnM 开始助力 助力池 【oeD9UaQEYm1CYRGrCpeJ95PhSEZ5】
+Jan 09 08:00:05 
+Jan 09 08:00:05 
+Jan 09 08:00:05 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 08:00:05 
+Jan 09 08:00:05 
+Jan 09 08:00:05 jd_GyKLGOwyLAnM 开始助力 助力池 【5LelEP1SZ2VBZ16ISpeJ5sAU】
+Jan 09 08:00:07 
+Jan 09 08:00:07 
+Jan 09 08:00:07 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 08:00:07 
+Jan 09 08:00:07 
+Jan 09 08:00:07 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXf4EbmVFYxbMTNiX8d8SMLU-zIlA】
+Jan 09 08:00:08 
+Jan 09 08:00:08 
+Jan 09 08:00:08 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 08:00:08 
+Jan 09 08:00:08 
+Jan 09 08:00:08 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXvgIYW1AYhLEGNzG8rDe06ZjSquB】
+Jan 09 08:00:09 
+Jan 09 08:00:09 
+Jan 09 08:00:09 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 08:00:09 
+Jan 09 08:00:09 
+Jan 09 08:00:09 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUX_peYG1FYhSQTtiQpTxj7ChZSb2O】
+Jan 09 08:00:10 
+Jan 09 08:00:10 
+Jan 09 08:00:10 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 08:00:10 
+Jan 09 08:00:10 
+Jan 09 08:00:10 jd_GyKLGOwyLAnM 开始助力 助力池 【oevzXKwNYGNHYRarCpeJ92l9pHRY】
+Jan 09 08:00:11 
+Jan 09 08:00:11 
+Jan 09 08:00:11 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 08:00:11 
+Jan 09 08:00:11 
+Jan 09 08:00:11 jd_GyKLGOwyLAnM 开始助力 助力池 【57mnB-lIbygPY16IW6vR】
+Jan 09 08:00:12 
+Jan 09 08:00:12 
+Jan 09 08:00:12 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 08:00:12 
+Jan 09 08:00:12 
+Jan 09 08:00:12 jd_GyKLGOwyLAnM 开始助力 助力池 【oe76W6wPY2dCfhTDSNjB9jDr-UOilyBc】
+Jan 09 08:00:13 
+Jan 09 08:00:13 
+Jan 09 08:00:13 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 08:00:13 
+Jan 09 08:00:13 
+Jan 09 08:00:13 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXqsLM2IRMUaWTN7DpcXRqssQC0pz】
+Jan 09 08:00:15 
+Jan 09 08:00:15 
+Jan 09 08:00:15 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 08:00:15 
+Jan 09 08:00:15 
+Jan 09 08:00:15 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUXP1Zb2VGYkaWTtuR9pycPPFJfa3p】
+Jan 09 08:00:16 
+Jan 09 08:00:16 
+Jan 09 08:00:16 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 08:00:16 
+Jan 09 08:00:16 
+Jan 09 08:00:16 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXKxfb2xEZhuSSNKT9AFI6jvfXSqo】
+Jan 09 08:00:17 
+Jan 09 08:00:17 
+Jan 09 08:00:17 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 08:00:17 
+Jan 09 08:00:17 
+Jan 09 08:00:17 jd_GyKLGOwyLAnM 开始助力 助力池 【oeD7Wq4LY2dGaxKrCpeJ97cr7GCo】
+Jan 09 08:00:18 
+Jan 09 08:00:18 
+Jan 09 08:00:18 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 08:00:18 
+Jan 09 08:00:18 
+Jan 09 08:00:18 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUA_h9DjYfAUChPaWSu_Zk_u5_kO8】
+Jan 09 08:00:19 
+Jan 09 08:00:19 
+Jan 09 08:00:19 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 08:00:19 
+Jan 09 08:00:19 
+Jan 09 08:00:19 jd_GyKLGOwyLAnM 开始助力 助力池 【qOr-X6wNZmxHDE-IBtuJu_X0bg】
+Jan 09 08:00:20 
+Jan 09 08:00:20 
+Jan 09 08:00:20 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 08:00:20 
+Jan 09 08:00:20 
+Jan 09 08:00:20 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUBcl3GAcSN069FoO-u9ZC5lFli0E】
+Jan 09 08:00:21 
+Jan 09 08:00:21 
+Jan 09 08:00:21 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 08:00:21 
+Jan 09 08:00:21 
+Jan 09 08:00:21 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUIMhQOh4XA1eSG72AuziseiYNkes】
+Jan 09 08:00:23 
+Jan 09 08:00:23 
+Jan 09 08:00:23 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 08:00:23 
+Jan 09 08:00:23 
+Jan 09 08:00:23 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXalaMzdDNhuQSdjN9JCqtY1xEnGc】
+Jan 09 08:00:24 
+Jan 09 08:00:24 
+Jan 09 08:00:24 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 08:00:24 
+Jan 09 08:00:24 
+Jan 09 08:00:24 jd_GyKLGOwyLAnM 开始助力 助力池 【57y_JftZDjUCMWe5PZGJu_fwTXlirA】
+Jan 09 08:00:25 
+Jan 09 08:00:25 
+Jan 09 08:00:25 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 08:00:25 
+Jan 09 08:00:25 
+Jan 09 08:00:25 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUIf5vBxgaPXqeG5yRu6tbuzy6DQQ】
+Jan 09 08:00:26 
+Jan 09 08:00:26 
+Jan 09 08:00:26 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 08:00:26 
+Jan 09 08:00:26 
+Jan 09 08:00:26 jd_GyKLGOwyLAnM 开始助力 助力池 【0oH-XKoKKihDL17VOs8】
+Jan 09 08:00:27 
+Jan 09 08:00:27 
+Jan 09 08:00:27 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 08:00:27 
+Jan 09 08:00:27 
+Jan 09 08:00:27 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXvoMMGZBZxuXSomT9oVj2p1of9wd】
+Jan 09 08:00:28 
+Jan 09 08:00:28 
+Jan 09 08:00:28 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 08:00:28 
+Jan 09 08:00:28 
+Jan 09 08:00:28 jd_GyKLGOwyLAnM 开始助力 助力池 【57ytBPZ2NwMfJUSXFpyJu3wnz0B5tQ】
+Jan 09 08:00:29 
+Jan 09 08:00:29 
+Jan 09 08:00:29 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 08:00:29 
+Jan 09 08:00:29 
+Jan 09 08:00:29 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXaoIZzEXNxuXHt3E__YFKw7fFIRn】
+Jan 09 08:00:31 
+Jan 09 08:00:31 
+Jan 09 08:00:31 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 08:00:31 
+Jan 09 08:00:32 
+Jan 09 08:00:32 🔔城城领现金, 结束! 🕛 31.878 秒
+Jan 09 08:00:32 
+Jan 09 09:00:00 
+Jan 09 09:00:00 🔔城城领现金, 开始!
+Jan 09 09:00:00 
+Jan 09 09:00:00 ====================共1个京东账号Cookie=========
+Jan 09 09:00:00 
+Jan 09 09:00:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 上午9:00:00=====================
+Jan 09 09:00:00 
+Jan 09 09:00:00 脚本不会自动抽奖，建议活动快结束开启，默认关闭(在10.29日自动开启抽奖),如需自动抽奖请设置环境变量  JD_CITY_EXCHANGE 为true
+Jan 09 09:00:00 
+Jan 09 09:00:00 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 09 09:00:00 
+Jan 09 09:00:00 
+Jan 09 09:00:00 ==============📣系统通知📣==============
+Jan 09 09:00:00 城城领现金
+Jan 09 09:00:00 【提示】cookie已失效
+Jan 09 09:00:00 京东账号1 jd_GyKLGOwyLAnM
+Jan 09 09:00:00 请重新登录获取
+Jan 09 09:00:00 https://bean.m.jd.com/bean/signIndex.action
+Jan 09 09:00:00 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 09 09:00:00 
+Jan 09 09:00:03 发送通知调用API失败！！
+Jan 09 09:00:03 
+Jan 09 09:00:03 RequestError: socket hang up
+Jan 09 09:00:03     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 09 09:00:03     at Object.onceWrapper (node:events:510:26)
+Jan 09 09:00:03     at ClientRequest.emit (node:events:402:35)
+Jan 09 09:00:03     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 09 09:00:03     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 09 09:00:03     at Socket.emit (node:events:402:35)
+Jan 09 09:00:03     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 09 09:00:03     at connResetException (node:internal/errors:691:14)
+Jan 09 09:00:03     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 09 09:00:03     at Socket.emit (node:events:402:35)
+Jan 09 09:00:03     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 09 09:00:03     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 09 09:00:03   code: 'ECONNRESET',
+Jan 09 09:00:03   timings: {
+Jan 09 09:00:03     start: 1641690003183,
+Jan 09 09:00:03     socket: 1641690003184,
+Jan 09 09:00:03     lookup: 1641690003185,
+Jan 09 09:00:03     connect: 1641690003422,
+Jan 09 09:00:03     secureConnect: undefined,
+Jan 09 09:00:03     upload: 1641690003422,
+Jan 09 09:00:03     response: undefined,
+Jan 09 09:00:03     end: undefined,
+Jan 09 09:00:03     error: 1641690003651,
+Jan 09 09:00:03     abort: undefined,
+Jan 09 09:00:03     phases: {
+Jan 09 09:00:03       wait: 1,
+Jan 09 09:00:03       dns: 1,
+Jan 09 09:00:03       tcp: 237,
+Jan 09 09:00:03       tls: undefined,
+Jan 09 09:00:03       request: 0,
+Jan 09 09:00:03       firstByte: undefined,
+Jan 09 09:00:03       download: undefined,
+Jan 09 09:00:03       total: 468
+Jan 09 09:00:03     }
+Jan 09 09:00:03   }
+Jan 09 09:00:03 }
+Jan 09 09:00:03 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 09 09:00:03 
+Jan 09 09:00:03 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 09 09:00:03 
+Jan 09 09:00:03 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 09 09:00:03 
+Jan 09 09:00:03 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 09 09:00:03 
+Jan 09 09:00:03 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 09 09:00:03 
+Jan 09 09:00:03 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 09 09:00:03 
+Jan 09 09:00:03 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 09 09:00:03 
+Jan 09 09:00:05 
+Jan 09 09:00:05 第1个京东账号将要助力的好友["6rCqBu9ZOGZGaxKIBtuJu56Ing","-ryUXa1YMG0RZxOVHNPE973xtMTuDdtO","-ryUXvgIYW1AYhLEGNzG8rDe06ZjSquB","-ryUH9lPOCA9J3ijAJqGu26a1jiFaDU","eVhWjBKHsc73t5pCnHJ3In3rmM9SafMimdo","K-qBa4MZ2QPLxKIBsq14w","-ryUXawMZW0QMETFS9KUo8pg4rozm3lN","-ryUAutJBQISAlK3KbytuxnaM8isNww","qO79WK4MKihDL17VOs8","46yqB_BFJTwaL17EBpfUhxQ","_LG-BPlVPD0SPH2ZFY6Ju3vcm4ek_A","-ryUXP0OYzJBZBSQQtPApi4iLWO7wb21","ryUXK8KN2JENhKSQtLFpOBDkwN3Kb8R","dGFfjz2ZZGZDZF6ISpeJ5u4j","-ryUXaQJNTIVNxfCH4iRpk02tUUPGfkI","-ryUXK4IZDYWMRTNTYrFph6w9iD_gygF","oezzWKUNZmVLfhDES9zE83e5oiFlLXjq","-ryUGdF_ATsdEnOuCKK2u-AyBswkX5A","-ryUM-5bMCMiNGG3DImfu5zplaS3W1E","dWhygSuTZ2dKL17EBpfUh4M","ryUDfNNMgw8HGGtNoCju4iCDWaHuXc","-ryUIvt_Dy0rA3SWAqKiuwzMoO1KeUw"]
+Jan 09 09:00:05 
+Jan 09 09:00:05 jd_GyKLGOwyLAnM 开始助力 助力池 【6rCqBu9ZOGZGaxKIBtuJu56Ing】
+Jan 09 09:00:06 
+Jan 09 09:00:06 
+Jan 09 09:00:06 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 09:00:06 
+Jan 09 09:00:06 
+Jan 09 09:00:06 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXa1YMG0RZxOVHNPE973xtMTuDdtO】
+Jan 09 09:00:07 
+Jan 09 09:00:07 
+Jan 09 09:00:07 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 09:00:07 
+Jan 09 09:00:07 
+Jan 09 09:00:07 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXvgIYW1AYhLEGNzG8rDe06ZjSquB】
+Jan 09 09:00:08 
+Jan 09 09:00:08 
+Jan 09 09:00:08 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 09:00:08 
+Jan 09 09:00:08 
+Jan 09 09:00:08 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUH9lPOCA9J3ijAJqGu26a1jiFaDU】
+Jan 09 09:00:10 
+Jan 09 09:00:10 
+Jan 09 09:00:10 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 09:00:10 
+Jan 09 09:00:10 
+Jan 09 09:00:10 jd_GyKLGOwyLAnM 开始助力 助力池 【eVhWjBKHsc73t5pCnHJ3In3rmM9SafMimdo】
+Jan 09 09:00:11 
+Jan 09 09:00:11 
+Jan 09 09:00:11 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 09:00:11 
+Jan 09 09:00:11 
+Jan 09 09:00:11 jd_GyKLGOwyLAnM 开始助力 助力池 【K-qBa4MZ2QPLxKIBsq14w】
+Jan 09 09:00:12 
+Jan 09 09:00:12 
+Jan 09 09:00:12 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 09:00:12 
+Jan 09 09:00:12 
+Jan 09 09:00:12 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXawMZW0QMETFS9KUo8pg4rozm3lN】
+Jan 09 09:00:13 
+Jan 09 09:00:13 
+Jan 09 09:00:13 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 09:00:13 
+Jan 09 09:00:13 
+Jan 09 09:00:13 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUAutJBQISAlK3KbytuxnaM8isNww】
+Jan 09 09:00:14 
+Jan 09 09:00:14 
+Jan 09 09:00:14 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 09:00:14 
+Jan 09 09:00:14 
+Jan 09 09:00:14 jd_GyKLGOwyLAnM 开始助力 助力池 【qO79WK4MKihDL17VOs8】
+Jan 09 09:00:15 
+Jan 09 09:00:15 
+Jan 09 09:00:15 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 09:00:15 
+Jan 09 09:00:15 
+Jan 09 09:00:15 jd_GyKLGOwyLAnM 开始助力 助力池 【46yqB_BFJTwaL17EBpfUhxQ】
+Jan 09 09:00:16 
+Jan 09 09:00:16 
+Jan 09 09:00:16 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 09:00:16 
+Jan 09 09:00:16 
+Jan 09 09:00:16 jd_GyKLGOwyLAnM 开始助力 助力池 【_LG-BPlVPD0SPH2ZFY6Ju3vcm4ek_A】
+Jan 09 09:00:18 
+Jan 09 09:00:18 
+Jan 09 09:00:18 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 09:00:18 
+Jan 09 09:00:18 
+Jan 09 09:00:18 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXP0OYzJBZBSQQtPApi4iLWO7wb21】
+Jan 09 09:00:19 
+Jan 09 09:00:19 
+Jan 09 09:00:19 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 09:00:19 
+Jan 09 09:00:19 
+Jan 09 09:00:19 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUXK8KN2JENhKSQtLFpOBDkwN3Kb8R】
+Jan 09 09:00:20 
+Jan 09 09:00:20 
+Jan 09 09:00:20 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 09:00:20 
+Jan 09 09:00:20 
+Jan 09 09:00:20 jd_GyKLGOwyLAnM 开始助力 助力池 【dGFfjz2ZZGZDZF6ISpeJ5u4j】
+Jan 09 09:00:21 
+Jan 09 09:00:21 
+Jan 09 09:00:21 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 09:00:21 
+Jan 09 09:00:21 
+Jan 09 09:00:21 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXaQJNTIVNxfCH4iRpk02tUUPGfkI】
+Jan 09 09:00:22 
+Jan 09 09:00:22 
+Jan 09 09:00:22 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 09:00:22 
+Jan 09 09:00:22 
+Jan 09 09:00:22 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXK4IZDYWMRTNTYrFph6w9iD_gygF】
+Jan 09 09:00:23 
+Jan 09 09:00:23 
+Jan 09 09:00:23 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 09:00:23 
+Jan 09 09:00:23 
+Jan 09 09:00:23 jd_GyKLGOwyLAnM 开始助力 助力池 【oezzWKUNZmVLfhDES9zE83e5oiFlLXjq】
+Jan 09 09:00:24 
+Jan 09 09:00:24 
+Jan 09 09:00:24 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 09:00:24 
+Jan 09 09:00:24 
+Jan 09 09:00:24 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUGdF_ATsdEnOuCKK2u-AyBswkX5A】
+Jan 09 09:00:26 
+Jan 09 09:00:26 
+Jan 09 09:00:26 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 09:00:26 
+Jan 09 09:00:26 
+Jan 09 09:00:26 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUM-5bMCMiNGG3DImfu5zplaS3W1E】
+Jan 09 09:00:27 
+Jan 09 09:00:27 
+Jan 09 09:00:27 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 09:00:27 
+Jan 09 09:00:27 
+Jan 09 09:00:27 jd_GyKLGOwyLAnM 开始助力 助力池 【dWhygSuTZ2dKL17EBpfUh4M】
+Jan 09 09:00:28 
+Jan 09 09:00:28 
+Jan 09 09:00:28 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 09:00:28 
+Jan 09 09:00:28 
+Jan 09 09:00:28 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUDfNNMgw8HGGtNoCju4iCDWaHuXc】
+Jan 09 09:00:29 
+Jan 09 09:00:29 
+Jan 09 09:00:29 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 09:00:29 
+Jan 09 09:00:29 
+Jan 09 09:00:29 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUIvt_Dy0rA3SWAqKiuwzMoO1KeUw】
+Jan 09 09:00:30 
+Jan 09 09:00:30 
+Jan 09 09:00:30 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 09:00:30 
+Jan 09 09:00:31 
+Jan 09 09:00:31 🔔城城领现金, 结束! 🕛 31.311 秒
+Jan 09 09:00:31 
+Jan 09 10:00:00 
+Jan 09 10:00:00 🔔城城领现金, 开始!
+Jan 09 10:00:00 
+Jan 09 10:00:00 ====================共1个京东账号Cookie=========
+Jan 09 10:00:00 
+Jan 09 10:00:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 上午10:00:00=====================
+Jan 09 10:00:00 
+Jan 09 10:00:00 脚本不会自动抽奖，建议活动快结束开启，默认关闭(在10.29日自动开启抽奖),如需自动抽奖请设置环境变量  JD_CITY_EXCHANGE 为true
+Jan 09 10:00:01 
+Jan 09 10:00:01 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 09 10:00:01 
+Jan 09 10:00:01 
+Jan 09 10:00:01 
+Jan 09 10:00:01 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 10:00:01 
+Jan 09 10:00:04 
+Jan 09 10:00:04 第1个京东账号将要助力的好友["6rCqBu9ZOGZGaxKIBtuJu56Ing","-ryUXa1YMG0RZxOVHNPE973xtMTuDdtO","-ryUXvgIYW1AYhLEGNzG8rDe06ZjSquB","ryUX6QEZ2dAaxHBSN-T8S-U98-2l5Oy","57yEAO5xAgE5JHOVL4aJu1Eo38HLGQ","-ryUXP9eZmRCZ0fCGd2W8Z-gZLHxoz_l","-ryUX6RZbzVLZxDMTtqWprQxNFMIMtxC","ouj6X9h9GBAyHV6ISpeJ5pMe","-ry4AflSJTwWPUXEStqJu8WuhzICWg","QOqvlKnoDUajMs_WTop3gwjJehX2Fa_8nTo","_rG8DPVFNygPY16IW6vR","ryUXv8ObjEWMkTFT4jC8Nsym1onaxM-","RtGKz-_wQwqhfIKSEtA21yIbxk8yNGAMzpBBmipLJMuu0QvtRg","-ryUBfBOEyMeIky_G7izu8ZWs3h6G2s","4LGhAOkNZmBGZV6ISpeJ5jSs","-ryUEe15ExcbKVWwEJGvu2k1JmmiOQ4","RtGKzOX2FA7yd9CTE4VggOvr7F9nEvqQpp0HnT_gRu6Az8jXSA","-ryUXKxeZGMQNhrNSt7NoeB_iEz0-jWh","ryUX_8Jb20RahuSSY-Q9ki9NRlWaHeM","ryUXKoFMG1BZEPFSN2WpZKjNsZLBZCr","RtGKzeyjEAOmKIGZQ9BmgkWtDRgoe8C1iaw858jtIMB9ORQTUg","ryUBe15HTwYN1idF7yFu-7LOjdIHcU"]
+Jan 09 10:00:04 
+Jan 09 10:00:04 jd_GyKLGOwyLAnM 开始助力 助力池 【6rCqBu9ZOGZGaxKIBtuJu56Ing】
+Jan 09 10:00:05 
+Jan 09 10:00:05 
+Jan 09 10:00:05 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 10:00:05 
+Jan 09 10:00:05 
+Jan 09 10:00:05 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXa1YMG0RZxOVHNPE973xtMTuDdtO】
+Jan 09 10:00:06 
+Jan 09 10:00:06 
+Jan 09 10:00:06 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 10:00:06 
+Jan 09 10:00:06 
+Jan 09 10:00:06 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXvgIYW1AYhLEGNzG8rDe06ZjSquB】
+Jan 09 10:00:07 
+Jan 09 10:00:07 
+Jan 09 10:00:07 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 10:00:07 
+Jan 09 10:00:07 
+Jan 09 10:00:07 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUX6QEZ2dAaxHBSN-T8S-U98-2l5Oy】
+Jan 09 10:00:08 
+Jan 09 10:00:08 
+Jan 09 10:00:08 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 10:00:08 
+Jan 09 10:00:08 
+Jan 09 10:00:08 jd_GyKLGOwyLAnM 开始助力 助力池 【57yEAO5xAgE5JHOVL4aJu1Eo38HLGQ】
+Jan 09 10:00:09 
+Jan 09 10:00:09 
+Jan 09 10:00:09 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 10:00:09 
+Jan 09 10:00:09 
+Jan 09 10:00:09 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXP9eZmRCZ0fCGd2W8Z-gZLHxoz_l】
+Jan 09 10:00:10 
+Jan 09 10:00:10 
+Jan 09 10:00:10 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 10:00:10 
+Jan 09 10:00:10 
+Jan 09 10:00:10 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUX6RZbzVLZxDMTtqWprQxNFMIMtxC】
+Jan 09 10:00:12 
+Jan 09 10:00:12 
+Jan 09 10:00:12 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 10:00:12 
+Jan 09 10:00:12 
+Jan 09 10:00:12 jd_GyKLGOwyLAnM 开始助力 助力池 【ouj6X9h9GBAyHV6ISpeJ5pMe】
+Jan 09 10:00:13 
+Jan 09 10:00:13 
+Jan 09 10:00:13 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 10:00:13 
+Jan 09 10:00:13 
+Jan 09 10:00:13 jd_GyKLGOwyLAnM 开始助力 助力池 【-ry4AflSJTwWPUXEStqJu8WuhzICWg】
+Jan 09 10:00:14 
+Jan 09 10:00:14 
+Jan 09 10:00:14 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 10:00:14 
+Jan 09 10:00:14 
+Jan 09 10:00:14 jd_GyKLGOwyLAnM 开始助力 助力池 【QOqvlKnoDUajMs_WTop3gwjJehX2Fa_8nTo】
+Jan 09 10:00:15 
+Jan 09 10:00:15 
+Jan 09 10:00:15 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 10:00:15 
+Jan 09 10:00:15 
+Jan 09 10:00:15 jd_GyKLGOwyLAnM 开始助力 助力池 【_rG8DPVFNygPY16IW6vR】
+Jan 09 10:00:16 
+Jan 09 10:00:16 
+Jan 09 10:00:16 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 10:00:16 
+Jan 09 10:00:16 
+Jan 09 10:00:16 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUXv8ObjEWMkTFT4jC8Nsym1onaxM-】
+Jan 09 10:00:17 
+Jan 09 10:00:17 
+Jan 09 10:00:17 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 10:00:17 
+Jan 09 10:00:17 
+Jan 09 10:00:17 jd_GyKLGOwyLAnM 开始助力 助力池 【RtGKz-_wQwqhfIKSEtA21yIbxk8yNGAMzpBBmipLJMuu0QvtRg】
+Jan 09 10:00:18 
+Jan 09 10:00:18 
+Jan 09 10:00:18 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 10:00:18 
+Jan 09 10:00:18 
+Jan 09 10:00:18 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUBfBOEyMeIky_G7izu8ZWs3h6G2s】
+Jan 09 10:00:20 
+Jan 09 10:00:20 
+Jan 09 10:00:20 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 10:00:20 
+Jan 09 10:00:20 
+Jan 09 10:00:20 jd_GyKLGOwyLAnM 开始助力 助力池 【4LGhAOkNZmBGZV6ISpeJ5jSs】
+Jan 09 10:00:21 
+Jan 09 10:00:21 
+Jan 09 10:00:21 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 10:00:21 
+Jan 09 10:00:21 
+Jan 09 10:00:21 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUEe15ExcbKVWwEJGvu2k1JmmiOQ4】
+Jan 09 10:00:22 
+Jan 09 10:00:22 
+Jan 09 10:00:22 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 10:00:22 
+Jan 09 10:00:22 
+Jan 09 10:00:22 jd_GyKLGOwyLAnM 开始助力 助力池 【RtGKzOX2FA7yd9CTE4VggOvr7F9nEvqQpp0HnT_gRu6Az8jXSA】
+Jan 09 10:00:23 
+Jan 09 10:00:23 
+Jan 09 10:00:23 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 10:00:23 
+Jan 09 10:00:23 
+Jan 09 10:00:23 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXKxeZGMQNhrNSt7NoeB_iEz0-jWh】
+Jan 09 10:00:24 
+Jan 09 10:00:24 
+Jan 09 10:00:24 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 10:00:24 
+Jan 09 10:00:24 
+Jan 09 10:00:24 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUX_8Jb20RahuSSY-Q9ki9NRlWaHeM】
+Jan 09 10:00:25 
+Jan 09 10:00:25 
+Jan 09 10:00:25 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 10:00:25 
+Jan 09 10:00:25 
+Jan 09 10:00:25 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUXKoFMG1BZEPFSN2WpZKjNsZLBZCr】
+Jan 09 10:00:26 
+Jan 09 10:00:26 
+Jan 09 10:00:26 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 10:00:26 
+Jan 09 10:00:26 
+Jan 09 10:00:26 jd_GyKLGOwyLAnM 开始助力 助力池 【RtGKzeyjEAOmKIGZQ9BmgkWtDRgoe8C1iaw858jtIMB9ORQTUg】
+Jan 09 10:00:28 
+Jan 09 10:00:28 
+Jan 09 10:00:28 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 10:00:28 
+Jan 09 10:00:28 
+Jan 09 10:00:28 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUBe15HTwYN1idF7yFu-7LOjdIHcU】
+Jan 09 10:00:29 
+Jan 09 10:00:29 
+Jan 09 10:00:29 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 10:00:29 
+Jan 09 10:00:30 
+Jan 09 10:00:30 🔔城城领现金, 结束! 🕛 29.734 秒
+Jan 09 10:00:30 
+Jan 09 11:00:00 
+Jan 09 11:00:00 🔔城城领现金, 开始!
+Jan 09 11:00:00 
+Jan 09 11:00:00 ====================共1个京东账号Cookie=========
+Jan 09 11:00:00 
+Jan 09 11:00:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 上午11:00:00=====================
+Jan 09 11:00:00 
+Jan 09 11:00:00 脚本不会自动抽奖，建议活动快结束开启，默认关闭(在10.29日自动开启抽奖),如需自动抽奖请设置环境变量  JD_CITY_EXCHANGE 为true
+Jan 09 11:00:00 
+Jan 09 11:00:00 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 09 11:00:00 
+Jan 09 11:00:00 
+Jan 09 11:00:00 ==============📣系统通知📣==============
+Jan 09 11:00:00 城城领现金
+Jan 09 11:00:00 【提示】cookie已失效
+Jan 09 11:00:00 京东账号1 jd_GyKLGOwyLAnM
+Jan 09 11:00:00 请重新登录获取
+Jan 09 11:00:00 https://bean.m.jd.com/bean/signIndex.action
+Jan 09 11:00:00 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 09 11:00:00 
+Jan 09 11:00:03 发送通知调用API失败！！
+Jan 09 11:00:03 
+Jan 09 11:00:03 RequestError: socket hang up
+Jan 09 11:00:03     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 09 11:00:03     at Object.onceWrapper (node:events:510:26)
+Jan 09 11:00:03     at ClientRequest.emit (node:events:402:35)
+Jan 09 11:00:03     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 09 11:00:03     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 09 11:00:03     at Socket.emit (node:events:402:35)
+Jan 09 11:00:03     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 09 11:00:03     at connResetException (node:internal/errors:691:14)
+Jan 09 11:00:03     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 09 11:00:03     at Socket.emit (node:events:402:35)
+Jan 09 11:00:03     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 09 11:00:03     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 09 11:00:03   code: 'ECONNRESET',
+Jan 09 11:00:03   timings: {
+Jan 09 11:00:03     start: 1641697203423,
+Jan 09 11:00:03     socket: 1641697203423,
+Jan 09 11:00:03     lookup: 1641697203424,
+Jan 09 11:00:03     connect: 1641697203659,
+Jan 09 11:00:03     secureConnect: undefined,
+Jan 09 11:00:03     upload: 1641697203659,
+Jan 09 11:00:03     response: undefined,
+Jan 09 11:00:03     end: undefined,
+Jan 09 11:00:03     error: 1641697203889,
+Jan 09 11:00:03     abort: undefined,
+Jan 09 11:00:03     phases: {
+Jan 09 11:00:03       wait: 0,
+Jan 09 11:00:03       dns: 1,
+Jan 09 11:00:03       tcp: 235,
+Jan 09 11:00:03       tls: undefined,
+Jan 09 11:00:03       request: 0,
+Jan 09 11:00:03       firstByte: undefined,
+Jan 09 11:00:03       download: undefined,
+Jan 09 11:00:03       total: 466
+Jan 09 11:00:03     }
+Jan 09 11:00:03   }
+Jan 09 11:00:03 }
+Jan 09 11:00:03 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 09 11:00:03 
+Jan 09 11:00:03 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 09 11:00:03 
+Jan 09 11:00:03 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 09 11:00:03 
+Jan 09 11:00:03 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 09 11:00:03 
+Jan 09 11:00:03 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 09 11:00:03 
+Jan 09 11:00:03 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 09 11:00:03 
+Jan 09 11:00:03 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 09 11:00:03 
+Jan 09 11:00:04 
+Jan 09 11:00:04 第1个京东账号将要助力的好友["6rCqBu9ZOGZGaxKIBtuJu56Ing","-ryUXa1YMG0RZxOVHNPE973xtMTuDdtO","-ryUXvgIYW1AYhLEGNzG8rDe06ZjSquB","-ryUXK4MZjdCYhLCGduTpsFO3eLgy-X_","-ryUXqwEMDBKYEPDQt2U8D482nKc4FVx","-ryUXqgEM2NHY0CRQ9PD9dHTB_8BJTK0","-ryUXKwJZzJHZ0PDH9vH9nczqvpYibu9","ryUX6UPbmREYUGWTo_D8WyUWkaeC6Vp","ryUX_oMM2BFMRfDG9zB8kMyO_soM14s","W9GbsrL5GEnEP8TzZrNlmpaHS_ZtAHepCvzCGvJjh2SnhwvV","ryUx6haYjdBMBVFQonM92nOjk4_GIUE","ryUBPRFJx4yAXC8A42guy7fvReoAZU","-ryUB_R7ExknIG6yEJO9uw6oLD4rqYM","wKqkD3iE4CgPY16IW6vR","-ryUXahdbzIVZEfGSNjHpZ969Ccrzjkk","RtGKzuXyEw72f4GaQ4Ux3tKVMULz9PEqBZzDc9Y5iTVMbSytww","57y6B9NQAwQ3I1u2KJ6Ju0YstobANg","dlNCgD-ys-T8t5tiStvH8CJ0BjG22H_w","_LmiEPVSMWVKan2ZBpfFuwSmVEk","HYTlwe-kQheleoCYFtA20zmg4zhoOup81j35un093PS8NFDcGg","-ryUXKwINWdCaxTCGd3Eo_gWRoxLkFdL","-ryUXK4EMmESa0CQSdqQoVUpSU7r_Ym0"]
+Jan 09 11:00:04 
+Jan 09 11:00:04 jd_GyKLGOwyLAnM 开始助力 助力池 【6rCqBu9ZOGZGaxKIBtuJu56Ing】
+Jan 09 11:00:05 
+Jan 09 11:00:05 
+Jan 09 11:00:05 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 11:00:05 
+Jan 09 11:00:05 
+Jan 09 11:00:05 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXa1YMG0RZxOVHNPE973xtMTuDdtO】
+Jan 09 11:00:07 
+Jan 09 11:00:07 
+Jan 09 11:00:07 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 11:00:07 
+Jan 09 11:00:07 
+Jan 09 11:00:07 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXvgIYW1AYhLEGNzG8rDe06ZjSquB】
+Jan 09 11:00:08 
+Jan 09 11:00:08 
+Jan 09 11:00:08 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 11:00:08 
+Jan 09 11:00:08 
+Jan 09 11:00:08 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXK4MZjdCYhLCGduTpsFO3eLgy-X_】
+Jan 09 11:00:09 
+Jan 09 11:00:09 
+Jan 09 11:00:09 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 11:00:09 
+Jan 09 11:00:09 
+Jan 09 11:00:09 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXqwEMDBKYEPDQt2U8D482nKc4FVx】
+Jan 09 11:00:10 
+Jan 09 11:00:10 
+Jan 09 11:00:10 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 11:00:10 
+Jan 09 11:00:10 
+Jan 09 11:00:10 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXqgEM2NHY0CRQ9PD9dHTB_8BJTK0】
+Jan 09 11:00:11 
+Jan 09 11:00:11 
+Jan 09 11:00:11 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 11:00:11 
+Jan 09 11:00:11 
+Jan 09 11:00:11 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXKwJZzJHZ0PDH9vH9nczqvpYibu9】
+Jan 09 11:00:12 
+Jan 09 11:00:12 
+Jan 09 11:00:12 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 11:00:12 
+Jan 09 11:00:12 
+Jan 09 11:00:12 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUX6UPbmREYUGWTo_D8WyUWkaeC6Vp】
+Jan 09 11:00:13 
+Jan 09 11:00:13 
+Jan 09 11:00:13 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 11:00:13 
+Jan 09 11:00:13 
+Jan 09 11:00:13 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUX_oMM2BFMRfDG9zB8kMyO_soM14s】
+Jan 09 11:00:15 
+Jan 09 11:00:15 
+Jan 09 11:00:15 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 11:00:15 
+Jan 09 11:00:15 
+Jan 09 11:00:15 jd_GyKLGOwyLAnM 开始助力 助力池 【W9GbsrL5GEnEP8TzZrNlmpaHS_ZtAHepCvzCGvJjh2SnhwvV】
+Jan 09 11:00:16 
+Jan 09 11:00:16 
+Jan 09 11:00:16 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 11:00:16 
+Jan 09 11:00:16 
+Jan 09 11:00:16 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUx6haYjdBMBVFQonM92nOjk4_GIUE】
+Jan 09 11:00:17 
+Jan 09 11:00:17 
+Jan 09 11:00:17 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 11:00:17 
+Jan 09 11:00:17 
+Jan 09 11:00:17 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUBPRFJx4yAXC8A42guy7fvReoAZU】
+Jan 09 11:00:18 
+Jan 09 11:00:18 
+Jan 09 11:00:18 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 11:00:18 
+Jan 09 11:00:18 
+Jan 09 11:00:18 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUB_R7ExknIG6yEJO9uw6oLD4rqYM】
+Jan 09 11:00:19 
+Jan 09 11:00:19 
+Jan 09 11:00:19 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 11:00:19 
+Jan 09 11:00:19 
+Jan 09 11:00:19 jd_GyKLGOwyLAnM 开始助力 助力池 【wKqkD3iE4CgPY16IW6vR】
+Jan 09 11:00:20 
+Jan 09 11:00:20 
+Jan 09 11:00:20 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 11:00:20 
+Jan 09 11:00:20 
+Jan 09 11:00:20 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXahdbzIVZEfGSNjHpZ969Ccrzjkk】
+Jan 09 11:00:21 
+Jan 09 11:00:21 
+Jan 09 11:00:21 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 11:00:21 
+Jan 09 11:00:21 
+Jan 09 11:00:21 jd_GyKLGOwyLAnM 开始助力 助力池 【RtGKzuXyEw72f4GaQ4Ux3tKVMULz9PEqBZzDc9Y5iTVMbSytww】
+Jan 09 11:00:23 
+Jan 09 11:00:23 
+Jan 09 11:00:23 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 11:00:23 
+Jan 09 11:00:23 
+Jan 09 11:00:23 jd_GyKLGOwyLAnM 开始助力 助力池 【57y6B9NQAwQ3I1u2KJ6Ju0YstobANg】
+Jan 09 11:00:24 
+Jan 09 11:00:24 
+Jan 09 11:00:24 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 11:00:24 
+Jan 09 11:00:24 
+Jan 09 11:00:24 jd_GyKLGOwyLAnM 开始助力 助力池 【dlNCgD-ys-T8t5tiStvH8CJ0BjG22H_w】
+Jan 09 11:00:25 
+Jan 09 11:00:25 
+Jan 09 11:00:25 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 11:00:25 
+Jan 09 11:00:25 
+Jan 09 11:00:25 jd_GyKLGOwyLAnM 开始助力 助力池 【_LmiEPVSMWVKan2ZBpfFuwSmVEk】
+Jan 09 11:00:26 
+Jan 09 11:00:26 
+Jan 09 11:00:26 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 11:00:26 
+Jan 09 11:00:26 
+Jan 09 11:00:26 jd_GyKLGOwyLAnM 开始助力 助力池 【HYTlwe-kQheleoCYFtA20zmg4zhoOup81j35un093PS8NFDcGg】
+Jan 09 11:00:27 
+Jan 09 11:00:27 
+Jan 09 11:00:27 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 11:00:27 
+Jan 09 11:00:27 
+Jan 09 11:00:27 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXKwINWdCaxTCGd3Eo_gWRoxLkFdL】
+Jan 09 11:00:28 
+Jan 09 11:00:28 
+Jan 09 11:00:28 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 11:00:28 
+Jan 09 11:00:28 
+Jan 09 11:00:28 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXK4EMmESa0CQSdqQoVUpSU7r_Ym0】
+Jan 09 11:00:29 
+Jan 09 11:00:29 
+Jan 09 11:00:29 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 11:00:29 
+Jan 09 11:00:31 
+Jan 09 11:00:31 🔔城城领现金, 结束! 🕛 30.504 秒
+Jan 09 11:00:31 
+Jan 09 12:00:00 
+Jan 09 12:00:00 🔔城城领现金, 开始!
+Jan 09 12:00:00 
+Jan 09 12:00:00 ====================共1个京东账号Cookie=========
+Jan 09 12:00:00 
+Jan 09 12:00:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 下午12:00:00=====================
+Jan 09 12:00:00 
+Jan 09 12:00:00 脚本不会自动抽奖，建议活动快结束开启，默认关闭(在10.29日自动开启抽奖),如需自动抽奖请设置环境变量  JD_CITY_EXCHANGE 为true
+Jan 09 12:00:01 
+Jan 09 12:00:01 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 09 12:00:01 
+Jan 09 12:00:01 
+Jan 09 12:00:01 ==============📣系统通知📣==============
+Jan 09 12:00:01 城城领现金
+Jan 09 12:00:01 【提示】cookie已失效
+Jan 09 12:00:01 京东账号1 jd_GyKLGOwyLAnM
+Jan 09 12:00:01 请重新登录获取
+Jan 09 12:00:01 https://bean.m.jd.com/bean/signIndex.action
+Jan 09 12:00:01 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 09 12:00:01 
+Jan 09 12:00:03 发送通知调用API失败！！
+Jan 09 12:00:03 
+Jan 09 12:00:03 RequestError: socket hang up
+Jan 09 12:00:03     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 09 12:00:03     at Object.onceWrapper (node:events:510:26)
+Jan 09 12:00:03     at ClientRequest.emit (node:events:402:35)
+Jan 09 12:00:03     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 09 12:00:03     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 09 12:00:03     at Socket.emit (node:events:402:35)
+Jan 09 12:00:03     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 09 12:00:03     at connResetException (node:internal/errors:691:14)
+Jan 09 12:00:03     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 09 12:00:03     at Socket.emit (node:events:402:35)
+Jan 09 12:00:03     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 09 12:00:03     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 09 12:00:03   code: 'ECONNRESET',
+Jan 09 12:00:03   timings: {
+Jan 09 12:00:03     start: 1641700803456,
+Jan 09 12:00:03     socket: 1641700803457,
+Jan 09 12:00:03     lookup: 1641700803458,
+Jan 09 12:00:03     connect: 1641700803706,
+Jan 09 12:00:03     secureConnect: undefined,
+Jan 09 12:00:03     upload: 1641700803706,
+Jan 09 12:00:03     response: undefined,
+Jan 09 12:00:03     end: undefined,
+Jan 09 12:00:03     error: 1641700803957,
+Jan 09 12:00:03     abort: undefined,
+Jan 09 12:00:03     phases: {
+Jan 09 12:00:03       wait: 1,
+Jan 09 12:00:03       dns: 1,
+Jan 09 12:00:03       tcp: 248,
+Jan 09 12:00:03       tls: undefined,
+Jan 09 12:00:03       request: 0,
+Jan 09 12:00:03       firstByte: undefined,
+Jan 09 12:00:03       download: undefined,
+Jan 09 12:00:03       total: 501
+Jan 09 12:00:03     }
+Jan 09 12:00:03   }
+Jan 09 12:00:03 }
+Jan 09 12:00:03 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 09 12:00:03 
+Jan 09 12:00:03 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 09 12:00:03 
+Jan 09 12:00:03 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 09 12:00:03 
+Jan 09 12:00:03 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 09 12:00:03 
+Jan 09 12:00:03 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 09 12:00:03 
+Jan 09 12:00:03 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 09 12:00:03 
+Jan 09 12:00:03 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 09 12:00:03 
+Jan 09 12:00:15 
+Jan 09 12:00:15 第1个京东账号将要助力的好友["6rCqBu9ZOGZGaxKIBtuJu56Ing","-ryUXa1YMG0RZxOVHNPE973xtMTuDdtO","-ryUXvgIYW1AYhLEGNzG8rDe06ZjSquB","-ryUXa1dY21KZhWQH9rF9-b-05zyho4q","-ryUXPkFYGERMBSQH9vA9CEmTWrUZnWB","eHd8jBOXsNzitKpMnWNN8vcOP9SYSa1dY7U","ryUXa0IMDBEZUfFHo3A8tg0QfMLbBZt","ouH-UK4LY2YsPl6ISpeJ5vgS","-K2qB_tNPzoUOUuRSdnCu3ClE5drP1o","oev8UKgKZGxADE-IBtuJuxsAsg","-ryUAPJaHwwVGEyyFKWluwZfYvSDTTw","-ryUXqUMYDASNhGSTtPF8wJEgjmn8U3B","RtGKz-_wQwqhfIKSEtA21yIbxk8yNGAMzpBBmipLJMuu0QvtRg","-ryUXv8Nb2NAYUbFTd_B_yYAtS5r-_AQ","-ryUP-pXIBoEMlGRAIOGu6N0aIbisro","-ryUIOxGJQAiNXueHL22u1wnVdQGEmU","9LGlDuRJOGZDYheIBtuJuzgcqg","ryUXa4EYzJBNRvMHorA_0K2MbjY-4Gw","o-n7W6gJY3lFZBHBSdOJuzYhBR_kpg","_LG-UKkNZ2FKL17EBpfUh68","ryUXKpebzBHa0eRSN6U9TYeJXABrivt","oeD4X6sNZGVLYxWrCpeJ9-KfcT5T"]
+Jan 09 12:00:15 
+Jan 09 12:00:15 jd_GyKLGOwyLAnM 开始助力 助力池 【6rCqBu9ZOGZGaxKIBtuJu56Ing】
+Jan 09 12:00:17 
+Jan 09 12:00:17 
+Jan 09 12:00:17 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 12:00:17 
+Jan 09 12:00:17 
+Jan 09 12:00:17 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXa1YMG0RZxOVHNPE973xtMTuDdtO】
+Jan 09 12:00:18 
+Jan 09 12:00:18 
+Jan 09 12:00:18 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 12:00:18 
+Jan 09 12:00:18 
+Jan 09 12:00:18 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXvgIYW1AYhLEGNzG8rDe06ZjSquB】
+Jan 09 12:00:19 
+Jan 09 12:00:19 
+Jan 09 12:00:19 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 12:00:19 
+Jan 09 12:00:19 
+Jan 09 12:00:19 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXa1dY21KZhWQH9rF9-b-05zyho4q】
+Jan 09 12:00:20 
+Jan 09 12:00:20 
+Jan 09 12:00:20 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 12:00:20 
+Jan 09 12:00:20 
+Jan 09 12:00:20 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXPkFYGERMBSQH9vA9CEmTWrUZnWB】
+Jan 09 12:00:21 
+Jan 09 12:00:21 
+Jan 09 12:00:21 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 12:00:21 
+Jan 09 12:00:21 
+Jan 09 12:00:21 jd_GyKLGOwyLAnM 开始助力 助力池 【eHd8jBOXsNzitKpMnWNN8vcOP9SYSa1dY7U】
+Jan 09 12:00:22 
+Jan 09 12:00:22 
+Jan 09 12:00:22 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 12:00:22 
+Jan 09 12:00:22 
+Jan 09 12:00:22 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUXa0IMDBEZUfFHo3A8tg0QfMLbBZt】
+Jan 09 12:00:24 
+Jan 09 12:00:24 
+Jan 09 12:00:24 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 12:00:24 
+Jan 09 12:00:24 
+Jan 09 12:00:24 jd_GyKLGOwyLAnM 开始助力 助力池 【ouH-UK4LY2YsPl6ISpeJ5vgS】
+Jan 09 12:00:25 
+Jan 09 12:00:25 
+Jan 09 12:00:25 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 12:00:25 
+Jan 09 12:00:25 
+Jan 09 12:00:25 jd_GyKLGOwyLAnM 开始助力 助力池 【-K2qB_tNPzoUOUuRSdnCu3ClE5drP1o】
+Jan 09 12:00:26 
+Jan 09 12:00:26 
+Jan 09 12:00:26 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 12:00:26 
+Jan 09 12:00:26 
+Jan 09 12:00:26 jd_GyKLGOwyLAnM 开始助力 助力池 【oev8UKgKZGxADE-IBtuJuxsAsg】
+Jan 09 12:00:27 
+Jan 09 12:00:27 
+Jan 09 12:00:27 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 12:00:27 
+Jan 09 12:00:27 
+Jan 09 12:00:27 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUAPJaHwwVGEyyFKWluwZfYvSDTTw】
+Jan 09 12:00:28 
+Jan 09 12:00:28 
+Jan 09 12:00:28 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 12:00:28 
+Jan 09 12:00:28 
+Jan 09 12:00:28 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXqUMYDASNhGSTtPF8wJEgjmn8U3B】
+Jan 09 12:00:29 
+Jan 09 12:00:29 
+Jan 09 12:00:29 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 12:00:29 
+Jan 09 12:00:29 
+Jan 09 12:00:29 jd_GyKLGOwyLAnM 开始助力 助力池 【RtGKz-_wQwqhfIKSEtA21yIbxk8yNGAMzpBBmipLJMuu0QvtRg】
+Jan 09 12:00:30 
+Jan 09 12:00:30 
+Jan 09 12:00:30 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 12:00:30 
+Jan 09 12:00:30 
+Jan 09 12:00:30 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXv8Nb2NAYUbFTd_B_yYAtS5r-_AQ】
+Jan 09 12:00:31 
+Jan 09 12:00:31 
+Jan 09 12:00:31 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 12:00:31 
+Jan 09 12:00:31 
+Jan 09 12:00:31 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUP-pXIBoEMlGRAIOGu6N0aIbisro】
+Jan 09 12:00:33 
+Jan 09 12:00:33 
+Jan 09 12:00:33 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 12:00:33 
+Jan 09 12:00:33 
+Jan 09 12:00:33 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUIOxGJQAiNXueHL22u1wnVdQGEmU】
+Jan 09 12:00:34 
+Jan 09 12:00:34 
+Jan 09 12:00:34 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 12:00:34 
+Jan 09 12:00:34 
+Jan 09 12:00:34 jd_GyKLGOwyLAnM 开始助力 助力池 【9LGlDuRJOGZDYheIBtuJuzgcqg】
+Jan 09 12:00:35 
+Jan 09 12:00:35 
+Jan 09 12:00:35 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 12:00:35 
+Jan 09 12:00:35 
+Jan 09 12:00:35 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUXa4EYzJBNRvMHorA_0K2MbjY-4Gw】
+Jan 09 12:00:36 
+Jan 09 12:00:36 
+Jan 09 12:00:36 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 12:00:36 
+Jan 09 12:00:36 
+Jan 09 12:00:36 jd_GyKLGOwyLAnM 开始助力 助力池 【o-n7W6gJY3lFZBHBSdOJuzYhBR_kpg】
+Jan 09 12:00:37 
+Jan 09 12:00:37 
+Jan 09 12:00:37 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 12:00:37 
+Jan 09 12:00:37 
+Jan 09 12:00:37 jd_GyKLGOwyLAnM 开始助力 助力池 【_LG-UKkNZ2FKL17EBpfUh68】
+Jan 09 12:00:38 
+Jan 09 12:00:38 
+Jan 09 12:00:38 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 12:00:38 
+Jan 09 12:00:38 
+Jan 09 12:00:38 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUXKpebzBHa0eRSN6U9TYeJXABrivt】
+Jan 09 12:00:39 
+Jan 09 12:00:39 
+Jan 09 12:00:39 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 12:00:39 
+Jan 09 12:00:39 
+Jan 09 12:00:39 jd_GyKLGOwyLAnM 开始助力 助力池 【oeD4X6sNZGVLYxWrCpeJ9-KfcT5T】
+Jan 09 12:00:41 
+Jan 09 12:00:41 
+Jan 09 12:00:41 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 12:00:41 
+Jan 09 12:00:42 
+Jan 09 12:00:42 🔔城城领现金, 结束! 🕛 41.612 秒
+Jan 09 12:00:42 
+Jan 09 13:00:01 
+Jan 09 13:00:01 🔔城城领现金, 开始!
+Jan 09 13:00:01 
+Jan 09 13:00:01 ====================共1个京东账号Cookie=========
+Jan 09 13:00:01 
+Jan 09 13:00:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 下午1:00:01=====================
+Jan 09 13:00:01 
+Jan 09 13:00:01 脚本不会自动抽奖，建议活动快结束开启，默认关闭(在10.29日自动开启抽奖),如需自动抽奖请设置环境变量  JD_CITY_EXCHANGE 为true
+Jan 09 13:00:02 
+Jan 09 13:00:02 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 09 13:00:02 
+Jan 09 13:00:02 
+Jan 09 13:00:02 
+Jan 09 13:00:02 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 13:00:02 
+Jan 09 13:00:05 
+Jan 09 13:00:05 第1个京东账号将要助力的好友["6rCqBu9ZOGZGaxKIBtuJu56Ing","-ryUXa1YMG0RZxOVHNPE973xtMTuDdtO","-ryUX_8JM2dKZxXMH4jGpZgbDZVGDSfw","-ryUL8leIjUDAnSfNoCYu8ar4zkff9w","-ryUXagOMDFAMRuXSYmQ9fvalNRt20ai","-ryUXqUOb2EWa0SXHt_E8mjxxHf0SrBW","-ryUXaQFNTIXNUfGQojNo6DztNY13hRf","-ryUXK0LZmVDa0eXT93EpluBaePOebhI","XiDPRGWSqeQ1j4qyPLP8VPULnU_zow","-ryUI_hkFwwiA3O9CZyPu4vf_SAbFtw","-ryUXqQOMGQVYEfGGImX8qN8Rc5qxrwG","-rmyGvRZJDgcMEmIBtuJu4eMag","-ryUX6kKYDdKYhTASYiW9xSQsVMNE1Ms","-ryUX64EY2ZAYhDDHNvMo3bgq78o8Fn2","-ryUXvgIYW1AYhLEGNzG8rDe06ZjSquB","ryUPNBRAxcrA1axI7Oiux8JU1fbZSE","ryUX6teM2UXZ0bDSNzEoQeVktil4bSW","ryUDdJoGTocAEmaEpmtu0QuLMIAxe8","d05kjgWXs-7VtbVRBpfFuxXdWqs","-ryUXfoMbmxLYRLFTd7CpgHuJdKeZP7A","-ryUEPh2HBEdGHO_M7O9u_NddK2DiGw","oez_Xa8EY2JLfhbEStzH_gsDxS0enbzA","oen9Xa4OZWBHL17EBpfUh7M","-ryUXPlfbjdAMBXNSdqT8nFZB2rToRbx","-ryUX_lYZGVHMBqSSt-XorxU6UtJA_ML","-ryUXvoOZ2BGYxrDSYnH8-Y7ifJ7BuZS","ryUXPgIZzdCY0fASY2XpXJQ2K3foanA","d1ZAgRy5v837tKZFnHZFIlXDX-V5nBBkdb-hD_o","-ryUXK4LNTVAMhGXH43ApHP-q2sJUT_m","ryUXaVeYzARYBPNSNrA9MzLHCPUr6CV","p-D4XqsNbnlBYxfGTN3N_3xALHhsh_E7","-ryUXK4EMmESa0CQSdqQoVUpSU7r_Ym0","-ryUXKkNYWJLMReRHN7GoZpBpnpPUs-Q","ryUXKsOMmFDZEGRTtyU_j6qO6oUdtw0"]
+Jan 09 13:00:05 
+Jan 09 13:00:05 jd_GyKLGOwyLAnM 开始助力 助力池 【6rCqBu9ZOGZGaxKIBtuJu56Ing】
+Jan 09 13:00:06 
+Jan 09 13:00:06 
+Jan 09 13:00:06 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 13:00:06 
+Jan 09 13:00:06 
+Jan 09 13:00:06 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXa1YMG0RZxOVHNPE973xtMTuDdtO】
+Jan 09 13:00:08 
+Jan 09 13:00:08 
+Jan 09 13:00:08 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 13:00:08 
+Jan 09 13:00:08 
+Jan 09 13:00:08 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUX_8JM2dKZxXMH4jGpZgbDZVGDSfw】
+Jan 09 13:00:09 
+Jan 09 13:00:09 
+Jan 09 13:00:09 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 13:00:09 
+Jan 09 13:00:09 
+Jan 09 13:00:09 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUL8leIjUDAnSfNoCYu8ar4zkff9w】
+Jan 09 13:00:10 
+Jan 09 13:00:10 
+Jan 09 13:00:10 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 13:00:10 
+Jan 09 13:00:10 
+Jan 09 13:00:10 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXagOMDFAMRuXSYmQ9fvalNRt20ai】
+Jan 09 13:00:11 
+Jan 09 13:00:11 
+Jan 09 13:00:11 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 13:00:11 
+Jan 09 13:00:11 
+Jan 09 13:00:11 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXqUOb2EWa0SXHt_E8mjxxHf0SrBW】
+Jan 09 13:00:12 
+Jan 09 13:00:12 
+Jan 09 13:00:12 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 13:00:12 
+Jan 09 13:00:12 
+Jan 09 13:00:12 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXaQFNTIXNUfGQojNo6DztNY13hRf】
+Jan 09 13:00:13 
+Jan 09 13:00:13 
+Jan 09 13:00:13 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 13:00:13 
+Jan 09 13:00:13 
+Jan 09 13:00:13 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXK0LZmVDa0eXT93EpluBaePOebhI】
+Jan 09 13:00:14 
+Jan 09 13:00:14 
+Jan 09 13:00:14 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 13:00:14 
+Jan 09 13:00:14 
+Jan 09 13:00:14 jd_GyKLGOwyLAnM 开始助力 助力池 【XiDPRGWSqeQ1j4qyPLP8VPULnU_zow】
+Jan 09 13:00:16 
+Jan 09 13:00:16 
+Jan 09 13:00:16 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 13:00:16 
+Jan 09 13:00:16 
+Jan 09 13:00:16 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUI_hkFwwiA3O9CZyPu4vf_SAbFtw】
+Jan 09 13:00:17 
+Jan 09 13:00:17 
+Jan 09 13:00:17 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 13:00:17 
+Jan 09 13:00:17 
+Jan 09 13:00:17 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXqQOMGQVYEfGGImX8qN8Rc5qxrwG】
+Jan 09 13:00:18 
+Jan 09 13:00:18 
+Jan 09 13:00:18 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 13:00:18 
+Jan 09 13:00:18 
+Jan 09 13:00:18 jd_GyKLGOwyLAnM 开始助力 助力池 【-rmyGvRZJDgcMEmIBtuJu4eMag】
+Jan 09 13:00:19 
+Jan 09 13:00:19 
+Jan 09 13:00:19 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 13:00:19 
+Jan 09 13:00:19 
+Jan 09 13:00:19 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUX6kKYDdKYhTASYiW9xSQsVMNE1Ms】
+Jan 09 13:00:20 
+Jan 09 13:00:20 
+Jan 09 13:00:20 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 13:00:20 
+Jan 09 13:00:20 
+Jan 09 13:00:20 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUX64EY2ZAYhDDHNvMo3bgq78o8Fn2】
+Jan 09 13:00:21 
+Jan 09 13:00:21 
+Jan 09 13:00:21 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 13:00:21 
+Jan 09 13:00:21 
+Jan 09 13:00:21 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXvgIYW1AYhLEGNzG8rDe06ZjSquB】
+Jan 09 13:00:22 
+Jan 09 13:00:22 
+Jan 09 13:00:22 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 13:00:22 
+Jan 09 13:00:22 
+Jan 09 13:00:22 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUPNBRAxcrA1axI7Oiux8JU1fbZSE】
+Jan 09 13:00:24 
+Jan 09 13:00:24 
+Jan 09 13:00:24 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 13:00:24 
+Jan 09 13:00:24 
+Jan 09 13:00:24 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUX6teM2UXZ0bDSNzEoQeVktil4bSW】
+Jan 09 13:00:25 
+Jan 09 13:00:25 
+Jan 09 13:00:25 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 13:00:25 
+Jan 09 13:00:25 
+Jan 09 13:00:25 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUDdJoGTocAEmaEpmtu0QuLMIAxe8】
+Jan 09 13:00:26 
+Jan 09 13:00:26 
+Jan 09 13:00:26 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 13:00:26 
+Jan 09 13:00:26 
+Jan 09 13:00:26 jd_GyKLGOwyLAnM 开始助力 助力池 【d05kjgWXs-7VtbVRBpfFuxXdWqs】
+Jan 09 13:00:27 
+Jan 09 13:00:27 
+Jan 09 13:00:27 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 13:00:27 
+Jan 09 13:00:27 
+Jan 09 13:00:27 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXfoMbmxLYRLFTd7CpgHuJdKeZP7A】
+Jan 09 13:00:28 
+Jan 09 13:00:28 
+Jan 09 13:00:28 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 13:00:28 
+Jan 09 13:00:28 
+Jan 09 13:00:28 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUEPh2HBEdGHO_M7O9u_NddK2DiGw】
+Jan 09 13:00:29 
+Jan 09 13:00:29 
+Jan 09 13:00:29 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 13:00:29 
+Jan 09 13:00:29 
+Jan 09 13:00:29 jd_GyKLGOwyLAnM 开始助力 助力池 【oez_Xa8EY2JLfhbEStzH_gsDxS0enbzA】
+Jan 09 13:00:30 
+Jan 09 13:00:30 
+Jan 09 13:00:30 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 13:00:30 
+Jan 09 13:00:30 
+Jan 09 13:00:30 jd_GyKLGOwyLAnM 开始助力 助力池 【oen9Xa4OZWBHL17EBpfUh7M】
+Jan 09 13:00:31 
+Jan 09 13:00:31 
+Jan 09 13:00:31 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 13:00:31 
+Jan 09 13:00:31 
+Jan 09 13:00:31 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXPlfbjdAMBXNSdqT8nFZB2rToRbx】
+Jan 09 13:00:33 
+Jan 09 13:00:33 
+Jan 09 13:00:33 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 13:00:33 
+Jan 09 13:00:33 
+Jan 09 13:00:33 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUX_lYZGVHMBqSSt-XorxU6UtJA_ML】
+Jan 09 13:00:34 
+Jan 09 13:00:34 
+Jan 09 13:00:34 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 13:00:34 
+Jan 09 13:00:34 
+Jan 09 13:00:34 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXvoOZ2BGYxrDSYnH8-Y7ifJ7BuZS】
+Jan 09 13:00:35 
+Jan 09 13:00:35 
+Jan 09 13:00:35 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 13:00:35 
+Jan 09 13:00:35 
+Jan 09 13:00:35 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUXPgIZzdCY0fASY2XpXJQ2K3foanA】
+Jan 09 13:00:36 
+Jan 09 13:00:36 
+Jan 09 13:00:36 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 13:00:36 
+Jan 09 13:00:36 
+Jan 09 13:00:36 jd_GyKLGOwyLAnM 开始助力 助力池 【d1ZAgRy5v837tKZFnHZFIlXDX-V5nBBkdb-hD_o】
+Jan 09 13:00:37 
+Jan 09 13:00:37 
+Jan 09 13:00:37 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 13:00:37 
+Jan 09 13:00:37 
+Jan 09 13:00:37 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXK4LNTVAMhGXH43ApHP-q2sJUT_m】
+Jan 09 13:00:38 
+Jan 09 13:00:38 
+Jan 09 13:00:38 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 13:00:38 
+Jan 09 13:00:38 
+Jan 09 13:00:38 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUXaVeYzARYBPNSNrA9MzLHCPUr6CV】
+Jan 09 13:00:39 
+Jan 09 13:00:39 
+Jan 09 13:00:39 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 13:00:39 
+Jan 09 13:00:39 
+Jan 09 13:00:39 jd_GyKLGOwyLAnM 开始助力 助力池 【p-D4XqsNbnlBYxfGTN3N_3xALHhsh_E7】
+Jan 09 13:00:41 
+Jan 09 13:00:41 
+Jan 09 13:00:41 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 13:00:41 
+Jan 09 13:00:41 
+Jan 09 13:00:41 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXK4EMmESa0CQSdqQoVUpSU7r_Ym0】
+Jan 09 13:00:42 
+Jan 09 13:00:42 
+Jan 09 13:00:42 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 13:00:42 
+Jan 09 13:00:42 
+Jan 09 13:00:42 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXKkNYWJLMReRHN7GoZpBpnpPUs-Q】
+Jan 09 13:00:43 
+Jan 09 13:00:43 
+Jan 09 13:00:43 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 13:00:43 
+Jan 09 13:00:43 
+Jan 09 13:00:43 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUXKsOMmFDZEGRTtyU_j6qO6oUdtw0】
+Jan 09 13:00:44 
+Jan 09 13:00:44 
+Jan 09 13:00:44 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 13:00:44 
+Jan 09 13:00:45 
+Jan 09 13:00:45 🔔城城领现金, 结束! 🕛 44.606 秒
+Jan 09 13:00:45 
+Jan 09 14:00:00 
+Jan 09 14:00:00 🔔城城领现金, 开始!
+Jan 09 14:00:00 
+Jan 09 14:00:00 ====================共1个京东账号Cookie=========
+Jan 09 14:00:00 
+Jan 09 14:00:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 下午2:00:00=====================
+Jan 09 14:00:00 
+Jan 09 14:00:00 脚本不会自动抽奖，建议活动快结束开启，默认关闭(在10.29日自动开启抽奖),如需自动抽奖请设置环境变量  JD_CITY_EXCHANGE 为true
+Jan 09 14:00:01 
+Jan 09 14:00:01 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 09 14:00:01 
+Jan 09 14:00:01 
+Jan 09 14:00:01 
+Jan 09 14:00:01 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 14:00:01 
+Jan 09 14:00:04 
+Jan 09 14:00:04 第1个京东账号将要助力的好友["6rCqBu9ZOGZGaxKIBtuJu56Ing","-ryUXa1YMG0RZxOVHNPE973xtMTuDdtO","-ryUX_8JM2dKZxXMH4jGpZgbDZVGDSfw","-ryUL8leIjUDAnSfNoCYu8ar4zkff9w","-ryUXagOMDFAMRuXSYmQ9fvalNRt20ai","-ryUXqUOb2EWa0SXHt_E8mjxxHf0SrBW","-ryUXaQFNTIXNUfGQojNo6DztNY13hRf","-ryUXK0LZmVDa0eXT93EpluBaePOebhI","XiDPRGWSqeQ1j4qyPLP8VPULnU_zow","-ryUI_hkFwwiA3O9CZyPu4vf_SAbFtw","-ryUXqQOMGQVYEfGGImX8qN8Rc5qxrwG","-rmyGvRZJDgcMEmIBtuJu4eMag","-ryUX6kKYDdKYhTASYiW9xSQsVMNE1Ms","-ryUX64EY2ZAYhDDHNvMo3bgq78o8Fn2","-ryUXvgIYW1AYhLEGNzG8rDe06ZjSquB","pu3yW6QFb2FBDE-IBtuJuyB8_w","9O_5XKsFZ2BAfhXNT9LH8H8rEJb3C_IK","ryUXq8MMGQWNhOWSt-ToYRZk5pqLc1W","-ryUXfpeZDJLaxSSS46ToQ7XgPEcw6Im","d1NcjC29HBCX668c1EITU04hPnqri1WjLIc3ImiCxQ","-ryUH897ExUiPFqNGKyCu5_Hi8iFoFI","eXtFgSO7sMPTtLVhTd7M_gbCogpv2fuc","-ryUOOVsOzw4P0WzP4eiu6bv1EIzdhA","-ryUK-hoOR8qBmmVLLiWux5M0otYUYI","oej5Xq0OZWxLfhfNSdnG8pWcNWU34OkU","-ryUXqoJY2IWMkHFTdvB8Y3Cr1a2tUkT","-ryUXa9YNWERZRKXQt_D8Mu_oBfpQ-SN","-ryUO8pyGiMnKWe9AIaHuy1nGjbQORk","57y6B9NQAwQ3I1u2KJ6Ju0YstobANg","yA19EX8KlqAXqCgezk-bAvDsl5sq5PM4idfnnm6dYGcSnqEvllws","-ryUXK4LNTVAMhGXH43ApHP-q2sJUT_m","-ryUXP1eZWZEMUfESYmU9OrNA1TnBi5P","d0dujym5sOH2tZdxBpfFu-a-RB4","_LGuBfVZJSgPY16IW6vR"]
+Jan 09 14:00:04 
+Jan 09 14:00:04 jd_GyKLGOwyLAnM 开始助力 助力池 【6rCqBu9ZOGZGaxKIBtuJu56Ing】
+Jan 09 14:00:05 
+Jan 09 14:00:05 
+Jan 09 14:00:05 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 14:00:05 
+Jan 09 14:00:05 
+Jan 09 14:00:05 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXa1YMG0RZxOVHNPE973xtMTuDdtO】
+Jan 09 14:00:06 
+Jan 09 14:00:06 
+Jan 09 14:00:06 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 14:00:06 
+Jan 09 14:00:06 
+Jan 09 14:00:06 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUX_8JM2dKZxXMH4jGpZgbDZVGDSfw】
+Jan 09 14:00:07 
+Jan 09 14:00:07 
+Jan 09 14:00:07 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 14:00:07 
+Jan 09 14:00:07 
+Jan 09 14:00:07 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUL8leIjUDAnSfNoCYu8ar4zkff9w】
+Jan 09 14:00:08 
+Jan 09 14:00:08 
+Jan 09 14:00:08 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 14:00:08 
+Jan 09 14:00:08 
+Jan 09 14:00:08 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXagOMDFAMRuXSYmQ9fvalNRt20ai】
+Jan 09 14:00:10 
+Jan 09 14:00:10 
+Jan 09 14:00:10 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 14:00:10 
+Jan 09 14:00:10 
+Jan 09 14:00:10 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXqUOb2EWa0SXHt_E8mjxxHf0SrBW】
+Jan 09 14:00:11 
+Jan 09 14:00:11 
+Jan 09 14:00:11 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 14:00:11 
+Jan 09 14:00:11 
+Jan 09 14:00:11 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXaQFNTIXNUfGQojNo6DztNY13hRf】
+Jan 09 14:00:12 
+Jan 09 14:00:12 
+Jan 09 14:00:12 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 14:00:12 
+Jan 09 14:00:12 
+Jan 09 14:00:12 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXK0LZmVDa0eXT93EpluBaePOebhI】
+Jan 09 14:00:13 
+Jan 09 14:00:13 
+Jan 09 14:00:13 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 14:00:13 
+Jan 09 14:00:13 
+Jan 09 14:00:13 jd_GyKLGOwyLAnM 开始助力 助力池 【XiDPRGWSqeQ1j4qyPLP8VPULnU_zow】
+Jan 09 14:00:14 
+Jan 09 14:00:14 
+Jan 09 14:00:14 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 14:00:14 
+Jan 09 14:00:14 
+Jan 09 14:00:14 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUI_hkFwwiA3O9CZyPu4vf_SAbFtw】
+Jan 09 14:00:15 
+Jan 09 14:00:15 
+Jan 09 14:00:15 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 14:00:15 
+Jan 09 14:00:15 
+Jan 09 14:00:15 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXqQOMGQVYEfGGImX8qN8Rc5qxrwG】
+Jan 09 14:00:16 
+Jan 09 14:00:16 
+Jan 09 14:00:16 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 14:00:16 
+Jan 09 14:00:16 
+Jan 09 14:00:16 jd_GyKLGOwyLAnM 开始助力 助力池 【-rmyGvRZJDgcMEmIBtuJu4eMag】
+Jan 09 14:00:18 
+Jan 09 14:00:18 
+Jan 09 14:00:18 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 14:00:18 
+Jan 09 14:00:18 
+Jan 09 14:00:18 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUX6kKYDdKYhTASYiW9xSQsVMNE1Ms】
+Jan 09 14:00:19 
+Jan 09 14:00:19 
+Jan 09 14:00:19 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 14:00:19 
+Jan 09 14:00:19 
+Jan 09 14:00:19 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUX64EY2ZAYhDDHNvMo3bgq78o8Fn2】
+Jan 09 14:00:20 
+Jan 09 14:00:20 
+Jan 09 14:00:20 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 14:00:20 
+Jan 09 14:00:20 
+Jan 09 14:00:20 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXvgIYW1AYhLEGNzG8rDe06ZjSquB】
+Jan 09 14:00:21 
+Jan 09 14:00:21 
+Jan 09 14:00:21 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 14:00:21 
+Jan 09 14:00:21 
+Jan 09 14:00:21 jd_GyKLGOwyLAnM 开始助力 助力池 【pu3yW6QFb2FBDE-IBtuJuyB8_w】
+Jan 09 14:00:22 
+Jan 09 14:00:22 
+Jan 09 14:00:22 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 14:00:22 
+Jan 09 14:00:22 
+Jan 09 14:00:22 jd_GyKLGOwyLAnM 开始助力 助力池 【9O_5XKsFZ2BAfhXNT9LH8H8rEJb3C_IK】
+Jan 09 14:00:23 
+Jan 09 14:00:23 
+Jan 09 14:00:23 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 14:00:23 
+Jan 09 14:00:23 
+Jan 09 14:00:23 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUXq8MMGQWNhOWSt-ToYRZk5pqLc1W】
+Jan 09 14:00:24 
+Jan 09 14:00:24 
+Jan 09 14:00:24 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 14:00:24 
+Jan 09 14:00:24 
+Jan 09 14:00:24 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXfpeZDJLaxSSS46ToQ7XgPEcw6Im】
+Jan 09 14:00:26 
+Jan 09 14:00:26 
+Jan 09 14:00:26 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 14:00:26 
+Jan 09 14:00:26 
+Jan 09 14:00:26 jd_GyKLGOwyLAnM 开始助力 助力池 【d1NcjC29HBCX668c1EITU04hPnqri1WjLIc3ImiCxQ】
+Jan 09 14:00:27 
+Jan 09 14:00:27 
+Jan 09 14:00:27 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 14:00:27 
+Jan 09 14:00:27 
+Jan 09 14:00:27 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUH897ExUiPFqNGKyCu5_Hi8iFoFI】
+Jan 09 14:00:28 
+Jan 09 14:00:28 
+Jan 09 14:00:28 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 14:00:28 
+Jan 09 14:00:28 
+Jan 09 14:00:28 jd_GyKLGOwyLAnM 开始助力 助力池 【eXtFgSO7sMPTtLVhTd7M_gbCogpv2fuc】
+Jan 09 14:00:29 
+Jan 09 14:00:29 
+Jan 09 14:00:29 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 14:00:29 
+Jan 09 14:00:29 
+Jan 09 14:00:29 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUOOVsOzw4P0WzP4eiu6bv1EIzdhA】
+Jan 09 14:00:30 
+Jan 09 14:00:30 
+Jan 09 14:00:30 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 14:00:30 
+Jan 09 14:00:30 
+Jan 09 14:00:30 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUK-hoOR8qBmmVLLiWux5M0otYUYI】
+Jan 09 14:00:31 
+Jan 09 14:00:31 
+Jan 09 14:00:31 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 14:00:31 
+Jan 09 14:00:31 
+Jan 09 14:00:31 jd_GyKLGOwyLAnM 开始助力 助力池 【oej5Xq0OZWxLfhfNSdnG8pWcNWU34OkU】
+Jan 09 14:00:32 
+Jan 09 14:00:32 
+Jan 09 14:00:32 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 14:00:32 
+Jan 09 14:00:32 
+Jan 09 14:00:32 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXqoJY2IWMkHFTdvB8Y3Cr1a2tUkT】
+Jan 09 14:00:33 
+Jan 09 14:00:33 
+Jan 09 14:00:33 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 14:00:33 
+Jan 09 14:00:33 
+Jan 09 14:00:33 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXa9YNWERZRKXQt_D8Mu_oBfpQ-SN】
+Jan 09 14:00:35 
+Jan 09 14:00:35 
+Jan 09 14:00:35 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 14:00:35 
+Jan 09 14:00:35 
+Jan 09 14:00:35 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUO8pyGiMnKWe9AIaHuy1nGjbQORk】
+Jan 09 14:00:36 
+Jan 09 14:00:36 
+Jan 09 14:00:36 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 14:00:36 
+Jan 09 14:00:36 
+Jan 09 14:00:36 jd_GyKLGOwyLAnM 开始助力 助力池 【57y6B9NQAwQ3I1u2KJ6Ju0YstobANg】
+Jan 09 14:00:37 
+Jan 09 14:00:37 
+Jan 09 14:00:37 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 14:00:37 
+Jan 09 14:00:37 
+Jan 09 14:00:37 jd_GyKLGOwyLAnM 开始助力 助力池 【yA19EX8KlqAXqCgezk-bAvDsl5sq5PM4idfnnm6dYGcSnqEvllws】
+Jan 09 14:00:38 
+Jan 09 14:00:38 
+Jan 09 14:00:38 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 14:00:38 
+Jan 09 14:00:38 
+Jan 09 14:00:38 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXK4LNTVAMhGXH43ApHP-q2sJUT_m】
+Jan 09 14:00:39 
+Jan 09 14:00:39 
+Jan 09 14:00:39 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 14:00:39 
+Jan 09 14:00:39 
+Jan 09 14:00:39 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXP1eZWZEMUfESYmU9OrNA1TnBi5P】
+Jan 09 14:00:40 
+Jan 09 14:00:40 
+Jan 09 14:00:40 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 14:00:40 
+Jan 09 14:00:40 
+Jan 09 14:00:40 jd_GyKLGOwyLAnM 开始助力 助力池 【d0dujym5sOH2tZdxBpfFu-a-RB4】
+Jan 09 14:00:41 
+Jan 09 14:00:41 
+Jan 09 14:00:41 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 14:00:41 
+Jan 09 14:00:41 
+Jan 09 14:00:41 jd_GyKLGOwyLAnM 开始助力 助力池 【_LGuBfVZJSgPY16IW6vR】
+Jan 09 14:00:43 
+Jan 09 14:00:43 
+Jan 09 14:00:43 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 14:00:43 
+Jan 09 14:00:44 
+Jan 09 14:00:44 🔔城城领现金, 结束! 🕛 43.447 秒
+Jan 09 14:00:44 
+Jan 09 15:00:01 
+Jan 09 15:00:01 🔔城城领现金, 开始!
+Jan 09 15:00:01 
+Jan 09 15:00:01 ====================共1个京东账号Cookie=========
+Jan 09 15:00:01 
+Jan 09 15:00:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 下午3:00:01=====================
+Jan 09 15:00:01 
+Jan 09 15:00:01 脚本不会自动抽奖，建议活动快结束开启，默认关闭(在10.29日自动开启抽奖),如需自动抽奖请设置环境变量  JD_CITY_EXCHANGE 为true
+Jan 09 15:00:01 
+Jan 09 15:00:01 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 09 15:00:01 
+Jan 09 15:00:01 
+Jan 09 15:00:01 
+Jan 09 15:00:01 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 15:00:01 
+Jan 09 15:00:05 
+Jan 09 15:00:05 第1个京东账号将要助力的好友["6rCqBu9ZOGZGaxKIBtuJu56Ing","-ryUXa1YMG0RZxOVHNPE973xtMTuDdtO","-ryUX_8JM2dKZxXMH4jGpZgbDZVGDSfw","-ryUL8leIjUDAnSfNoCYu8ar4zkff9w","-ryUXagOMDFAMRuXSYmQ9fvalNRt20ai","-ryUXqUOb2EWa0SXHt_E8mjxxHf0SrBW","-ryUXaQFNTIXNUfGQojNo6DztNY13hRf","-ryUXK0LZmVDa0eXT93EpluBaePOebhI","XiDPRGWSqeQ1j4qyPLP8VPULnU_zow","-ryUI_hkFwwiA3O9CZyPu4vf_SAbFtw","-ryUXqQOMGQVYEfGGImX8qN8Rc5qxrwG","-rmyGvRZJDgcMEmIBtuJu4eMag","-ryUX6kKYDdKYhTASYiW9xSQsVMNE1Ms","-ryUX64EY2ZAYhDDHNvMo3bgq78o8Fn2","-ryUXvgIYW1AYhLEGNzG8rDe06ZjSquB","ouz5XaQKY2VLfhPFTdLD9NnTZrIVb5Kn","oev-XKoJYmFLYBqrCpeJ950mVlfR","57yFMNJ3HAwbI0qXO72kuxffTTuhFsk","ryUXK1eYDBKZBvDHIiW8oxM30UMii6S","4-n4XqsMYWRKaxLHQ9zM9-z99wAtfAKPzg","-ryUXaUIYDZGNhGRS9_ApuN2M4M0o9QE","ryUXq0KMDBBaxeWTN2QpY9hKAS22XQD","-L28DPVINzoUL17EBpfUh2o","oej5Xq0OZWxLfhfNSdnG8pWcNWU34OkU","-ryUDsV5PAM2EHWsFaCku57gmAFjZOY","ryUX6sNZ2FDZEbHG9LBpkPytOcD93Ss","-ryUX6hYYWIWYhSQHNiX8fyP758EiwX-","-ryUM-RtAhE1IGGRDqWwu3L7ij-cPJM","RtGKu63wN3vnFOrIUr5amuoPiGExyOoBUH5IcAwc0Epv7bY0","ryUXahYb2VGNhLETNPN_wdQ0CeZscoY","-ryUXK5eY2RAZkPFTN2UopuLTxTOvCM-","-ryUXK0ENGxCNRDETYmR97PMZ-vWCBGy","-ryUGfVyARwFC2u1HqSQu1J7U9TDis8","-ryUXasKZDdDa0aSH9yXpHl2QSeKMPvE"]
+Jan 09 15:00:05 
+Jan 09 15:00:05 jd_GyKLGOwyLAnM 开始助力 助力池 【6rCqBu9ZOGZGaxKIBtuJu56Ing】
+Jan 09 15:00:06 
+Jan 09 15:00:06 
+Jan 09 15:00:06 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 15:00:06 
+Jan 09 15:00:06 
+Jan 09 15:00:06 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXa1YMG0RZxOVHNPE973xtMTuDdtO】
+Jan 09 15:00:07 
+Jan 09 15:00:07 
+Jan 09 15:00:07 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 15:00:07 
+Jan 09 15:00:07 
+Jan 09 15:00:07 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUX_8JM2dKZxXMH4jGpZgbDZVGDSfw】
+Jan 09 15:00:08 
+Jan 09 15:00:08 
+Jan 09 15:00:08 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 15:00:08 
+Jan 09 15:00:08 
+Jan 09 15:00:08 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUL8leIjUDAnSfNoCYu8ar4zkff9w】
+Jan 09 15:00:09 
+Jan 09 15:00:09 
+Jan 09 15:00:09 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 15:00:09 
+Jan 09 15:00:09 
+Jan 09 15:00:09 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXagOMDFAMRuXSYmQ9fvalNRt20ai】
+Jan 09 15:00:10 
+Jan 09 15:00:10 
+Jan 09 15:00:10 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 15:00:10 
+Jan 09 15:00:10 
+Jan 09 15:00:10 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXqUOb2EWa0SXHt_E8mjxxHf0SrBW】
+Jan 09 15:00:12 
+Jan 09 15:00:12 
+Jan 09 15:00:12 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 15:00:12 
+Jan 09 15:00:12 
+Jan 09 15:00:12 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXaQFNTIXNUfGQojNo6DztNY13hRf】
+Jan 09 15:00:13 
+Jan 09 15:00:13 
+Jan 09 15:00:13 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 15:00:13 
+Jan 09 15:00:13 
+Jan 09 15:00:13 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXK0LZmVDa0eXT93EpluBaePOebhI】
+Jan 09 15:00:14 
+Jan 09 15:00:14 
+Jan 09 15:00:14 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 15:00:14 
+Jan 09 15:00:14 
+Jan 09 15:00:14 jd_GyKLGOwyLAnM 开始助力 助力池 【XiDPRGWSqeQ1j4qyPLP8VPULnU_zow】
+Jan 09 15:00:15 
+Jan 09 15:00:15 
+Jan 09 15:00:15 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 15:00:15 
+Jan 09 15:00:15 
+Jan 09 15:00:15 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUI_hkFwwiA3O9CZyPu4vf_SAbFtw】
+Jan 09 15:00:16 
+Jan 09 15:00:16 
+Jan 09 15:00:16 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 15:00:16 
+Jan 09 15:00:16 
+Jan 09 15:00:16 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXqQOMGQVYEfGGImX8qN8Rc5qxrwG】
+Jan 09 15:00:17 
+Jan 09 15:00:17 
+Jan 09 15:00:17 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 15:00:17 
+Jan 09 15:00:17 
+Jan 09 15:00:17 jd_GyKLGOwyLAnM 开始助力 助力池 【-rmyGvRZJDgcMEmIBtuJu4eMag】
+Jan 09 15:00:18 
+Jan 09 15:00:18 
+Jan 09 15:00:18 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 15:00:18 
+Jan 09 15:00:18 
+Jan 09 15:00:18 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUX6kKYDdKYhTASYiW9xSQsVMNE1Ms】
+Jan 09 15:00:20 
+Jan 09 15:00:20 
+Jan 09 15:00:20 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 15:00:20 
+Jan 09 15:00:20 
+Jan 09 15:00:20 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUX64EY2ZAYhDDHNvMo3bgq78o8Fn2】
+Jan 09 15:00:21 
+Jan 09 15:00:21 
+Jan 09 15:00:21 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 15:00:21 
+Jan 09 15:00:21 
+Jan 09 15:00:21 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXvgIYW1AYhLEGNzG8rDe06ZjSquB】
+Jan 09 15:00:22 
+Jan 09 15:00:22 
+Jan 09 15:00:22 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 15:00:22 
+Jan 09 15:00:22 
+Jan 09 15:00:22 jd_GyKLGOwyLAnM 开始助力 助力池 【ouz5XaQKY2VLfhPFTdLD9NnTZrIVb5Kn】
+Jan 09 15:00:23 
+Jan 09 15:00:23 
+Jan 09 15:00:23 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 15:00:23 
+Jan 09 15:00:23 
+Jan 09 15:00:23 jd_GyKLGOwyLAnM 开始助力 助力池 【oev-XKoJYmFLYBqrCpeJ950mVlfR】
+Jan 09 15:00:24 
+Jan 09 15:00:24 
+Jan 09 15:00:24 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 15:00:24 
+Jan 09 15:00:24 
+Jan 09 15:00:24 jd_GyKLGOwyLAnM 开始助力 助力池 【57yFMNJ3HAwbI0qXO72kuxffTTuhFsk】
+Jan 09 15:00:25 
+Jan 09 15:00:25 
+Jan 09 15:00:25 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 15:00:25 
+Jan 09 15:00:25 
+Jan 09 15:00:25 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUXK1eYDBKZBvDHIiW8oxM30UMii6S】
+Jan 09 15:00:26 
+Jan 09 15:00:26 
+Jan 09 15:00:26 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 15:00:26 
+Jan 09 15:00:26 
+Jan 09 15:00:26 jd_GyKLGOwyLAnM 开始助力 助力池 【4-n4XqsMYWRKaxLHQ9zM9-z99wAtfAKPzg】
+Jan 09 15:00:28 
+Jan 09 15:00:28 
+Jan 09 15:00:28 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 15:00:28 
+Jan 09 15:00:28 
+Jan 09 15:00:28 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXaUIYDZGNhGRS9_ApuN2M4M0o9QE】
+Jan 09 15:00:29 
+Jan 09 15:00:29 
+Jan 09 15:00:29 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 15:00:29 
+Jan 09 15:00:29 
+Jan 09 15:00:29 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUXq0KMDBBaxeWTN2QpY9hKAS22XQD】
+Jan 09 15:00:30 
+Jan 09 15:00:30 
+Jan 09 15:00:30 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 15:00:30 
+Jan 09 15:00:30 
+Jan 09 15:00:30 jd_GyKLGOwyLAnM 开始助力 助力池 【-L28DPVINzoUL17EBpfUh2o】
+Jan 09 15:00:31 
+Jan 09 15:00:31 
+Jan 09 15:00:31 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 15:00:31 
+Jan 09 15:00:31 
+Jan 09 15:00:31 jd_GyKLGOwyLAnM 开始助力 助力池 【oej5Xq0OZWxLfhfNSdnG8pWcNWU34OkU】
+Jan 09 15:00:32 
+Jan 09 15:00:32 
+Jan 09 15:00:32 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 15:00:32 
+Jan 09 15:00:32 
+Jan 09 15:00:32 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUDsV5PAM2EHWsFaCku57gmAFjZOY】
+Jan 09 15:00:33 
+Jan 09 15:00:33 
+Jan 09 15:00:33 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 15:00:33 
+Jan 09 15:00:33 
+Jan 09 15:00:33 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUX6sNZ2FDZEbHG9LBpkPytOcD93Ss】
+Jan 09 15:00:34 
+Jan 09 15:00:34 
+Jan 09 15:00:34 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 15:00:34 
+Jan 09 15:00:34 
+Jan 09 15:00:34 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUX6hYYWIWYhSQHNiX8fyP758EiwX-】
+Jan 09 15:00:36 
+Jan 09 15:00:36 
+Jan 09 15:00:36 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 15:00:36 
+Jan 09 15:00:36 
+Jan 09 15:00:36 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUM-RtAhE1IGGRDqWwu3L7ij-cPJM】
+Jan 09 15:00:37 
+Jan 09 15:00:37 
+Jan 09 15:00:37 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 15:00:37 
+Jan 09 15:00:37 
+Jan 09 15:00:37 jd_GyKLGOwyLAnM 开始助力 助力池 【RtGKu63wN3vnFOrIUr5amuoPiGExyOoBUH5IcAwc0Epv7bY0】
+Jan 09 15:00:38 
+Jan 09 15:00:38 
+Jan 09 15:00:38 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 15:00:38 
+Jan 09 15:00:38 
+Jan 09 15:00:38 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUXahYb2VGNhLETNPN_wdQ0CeZscoY】
+Jan 09 15:00:39 
+Jan 09 15:00:39 
+Jan 09 15:00:39 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 15:00:39 
+Jan 09 15:00:39 
+Jan 09 15:00:39 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXK5eY2RAZkPFTN2UopuLTxTOvCM-】
+Jan 09 15:00:40 
+Jan 09 15:00:40 
+Jan 09 15:00:40 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 15:00:40 
+Jan 09 15:00:40 
+Jan 09 15:00:40 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXK0ENGxCNRDETYmR97PMZ-vWCBGy】
+Jan 09 15:00:41 
+Jan 09 15:00:41 
+Jan 09 15:00:41 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 15:00:41 
+Jan 09 15:00:41 
+Jan 09 15:00:41 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUGfVyARwFC2u1HqSQu1J7U9TDis8】
+Jan 09 15:00:42 
+Jan 09 15:00:42 
+Jan 09 15:00:42 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 15:00:42 
+Jan 09 15:00:42 
+Jan 09 15:00:42 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXasKZDdDa0aSH9yXpHl2QSeKMPvE】
+Jan 09 15:00:44 
+Jan 09 15:00:44 
+Jan 09 15:00:44 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 15:00:44 
+Jan 09 15:00:45 
+Jan 09 15:00:45 🔔城城领现金, 结束! 🕛 44.152 秒
+Jan 09 15:00:45 
+Jan 09 16:00:01 
+Jan 09 16:00:01 🔔城城领现金, 开始!
+Jan 09 16:00:01 
+Jan 09 16:00:01 ====================共1个京东账号Cookie=========
+Jan 09 16:00:01 
+Jan 09 16:00:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 下午4:00:01=====================
+Jan 09 16:00:01 
+Jan 09 16:00:01 脚本不会自动抽奖，建议活动快结束开启，默认关闭(在10.29日自动开启抽奖),如需自动抽奖请设置环境变量  JD_CITY_EXCHANGE 为true
+Jan 09 16:00:02 
+Jan 09 16:00:02 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 09 16:00:02 
+Jan 09 16:00:02 
+Jan 09 16:00:02 
+Jan 09 16:00:02 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 16:00:02 
+Jan 09 16:00:16 
+Jan 09 16:00:16 第1个京东账号将要助力的好友["6rCqBu9ZOGZGaxKIBtuJu56Ing","-ryUXa1YMG0RZxOVHNPE973xtMTuDdtO","-ryUXvgIYW1AYhLEGNzG8rDe06ZjSquB","-ryUH9lPOCA9J3ijAJqGu26a1jiFaDU","_LCnWa0OYCgPY16IW6vR","ryUXq9YM2BHNUaVHo2TpJiCVdoiEwA9","yKu7BfVIKihDL17VOs8","ryUXPlfYjcRMUDCTNzG9bDhAS1ToUJq","-ryUXv1YNzBLMkPFTtrC9kMXu-Z90q8e","ryUXv8ObjEWMkTFT4jC8Nsym1onaxM-","W9G8lZX9OV7DIenMTZB_mtMsOpJ4hdr667q4EmDW1o3n1y0","oeD8XqWMZGZFYRCrcpeJ93k8bLGt","4-n4XqsMYWRKaxLHQ9zM9-z99wAtfAKPzg","-ryUXK5YZ2dKZhaXTInC9yG1mI7dszck","-ryUOOVsOzw4P0WzP4eiu6bv1EIzdhA","-ryUBcl3GAcSN069FoO-u9ZC5lFli0E","57y4D8h2PSY1CUCOM6aJu4nT2sMcqQ","pOH8XKoOZmJHL17EBpfUh8k","ryUXvoFY2cRZBrBHI-U9_txAj6xKPlC","6LKtBeVZJSgPY16IW6vR","yThkHkAulLIVf4XWW5gzmvvtJJOQPngpxspo3dHGwCU","HYbsy-WiQgOif4L1V5h_muHXzW_QVDG2unBjEWBqFLCYYg"]
+Jan 09 16:00:16 
+Jan 09 16:00:16 jd_GyKLGOwyLAnM 开始助力 助力池 【6rCqBu9ZOGZGaxKIBtuJu56Ing】
+Jan 09 16:00:17 
+Jan 09 16:00:17 
+Jan 09 16:00:17 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 16:00:17 
+Jan 09 16:00:17 
+Jan 09 16:00:17 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXa1YMG0RZxOVHNPE973xtMTuDdtO】
+Jan 09 16:00:19 
+Jan 09 16:00:19 
+Jan 09 16:00:19 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 16:00:19 
+Jan 09 16:00:19 
+Jan 09 16:00:19 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXvgIYW1AYhLEGNzG8rDe06ZjSquB】
+Jan 09 16:00:20 
+Jan 09 16:00:20 
+Jan 09 16:00:20 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 16:00:20 
+Jan 09 16:00:20 
+Jan 09 16:00:20 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUH9lPOCA9J3ijAJqGu26a1jiFaDU】
+Jan 09 16:00:21 
+Jan 09 16:00:21 
+Jan 09 16:00:21 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 16:00:21 
+Jan 09 16:00:21 
+Jan 09 16:00:21 jd_GyKLGOwyLAnM 开始助力 助力池 【_LCnWa0OYCgPY16IW6vR】
+Jan 09 16:00:21 刷新CDN异常 Response code 503 (Service Unavailable)
+Jan 09 16:00:22 
+Jan 09 16:00:22 
+Jan 09 16:00:22 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 16:00:22 
+Jan 09 16:00:22 
+Jan 09 16:00:22 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUXq9YM2BHNUaVHo2TpJiCVdoiEwA9】
+Jan 09 16:00:23 
+Jan 09 16:00:23 
+Jan 09 16:00:23 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 16:00:23 
+Jan 09 16:00:23 
+Jan 09 16:00:23 jd_GyKLGOwyLAnM 开始助力 助力池 【yKu7BfVIKihDL17VOs8】
+Jan 09 16:00:24 
+Jan 09 16:00:24 
+Jan 09 16:00:24 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 16:00:24 
+Jan 09 16:00:24 
+Jan 09 16:00:24 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUXPlfYjcRMUDCTNzG9bDhAS1ToUJq】
+Jan 09 16:00:25 
+Jan 09 16:00:25 
+Jan 09 16:00:25 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 16:00:25 
+Jan 09 16:00:25 
+Jan 09 16:00:25 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXv1YNzBLMkPFTtrC9kMXu-Z90q8e】
+Jan 09 16:00:27 
+Jan 09 16:00:27 
+Jan 09 16:00:27 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 16:00:27 
+Jan 09 16:00:27 
+Jan 09 16:00:27 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUXv8ObjEWMkTFT4jC8Nsym1onaxM-】
+Jan 09 16:00:28 
+Jan 09 16:00:28 
+Jan 09 16:00:28 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 16:00:28 
+Jan 09 16:00:28 
+Jan 09 16:00:28 jd_GyKLGOwyLAnM 开始助力 助力池 【W9G8lZX9OV7DIenMTZB_mtMsOpJ4hdr667q4EmDW1o3n1y0】
+Jan 09 16:00:29 
+Jan 09 16:00:29 
+Jan 09 16:00:29 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 16:00:29 
+Jan 09 16:00:29 
+Jan 09 16:00:29 jd_GyKLGOwyLAnM 开始助力 助力池 【oeD8XqWMZGZFYRCrcpeJ93k8bLGt】
+Jan 09 16:00:30 
+Jan 09 16:00:30 
+Jan 09 16:00:30 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 16:00:30 
+Jan 09 16:00:30 
+Jan 09 16:00:30 jd_GyKLGOwyLAnM 开始助力 助力池 【4-n4XqsMYWRKaxLHQ9zM9-z99wAtfAKPzg】
+Jan 09 16:00:31 
+Jan 09 16:00:31 
+Jan 09 16:00:31 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 16:00:31 
+Jan 09 16:00:31 
+Jan 09 16:00:31 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXK5YZ2dKZhaXTInC9yG1mI7dszck】
+Jan 09 16:00:32 
+Jan 09 16:00:32 
+Jan 09 16:00:32 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 16:00:32 
+Jan 09 16:00:32 
+Jan 09 16:00:32 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUOOVsOzw4P0WzP4eiu6bv1EIzdhA】
+Jan 09 16:00:33 
+Jan 09 16:00:33 
+Jan 09 16:00:33 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 16:00:33 
+Jan 09 16:00:33 
+Jan 09 16:00:33 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUBcl3GAcSN069FoO-u9ZC5lFli0E】
+Jan 09 16:00:35 
+Jan 09 16:00:35 
+Jan 09 16:00:35 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 16:00:35 
+Jan 09 16:00:35 
+Jan 09 16:00:35 jd_GyKLGOwyLAnM 开始助力 助力池 【57y4D8h2PSY1CUCOM6aJu4nT2sMcqQ】
+Jan 09 16:00:36 
+Jan 09 16:00:36 
+Jan 09 16:00:36 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 16:00:36 
+Jan 09 16:00:36 
+Jan 09 16:00:36 jd_GyKLGOwyLAnM 开始助力 助力池 【pOH8XKoOZmJHL17EBpfUh8k】
+Jan 09 16:00:37 
+Jan 09 16:00:37 
+Jan 09 16:00:37 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 16:00:37 
+Jan 09 16:00:37 
+Jan 09 16:00:37 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUXvoFY2cRZBrBHI-U9_txAj6xKPlC】
+Jan 09 16:00:38 
+Jan 09 16:00:38 
+Jan 09 16:00:38 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 16:00:38 
+Jan 09 16:00:38 
+Jan 09 16:00:38 jd_GyKLGOwyLAnM 开始助力 助力池 【6LKtBeVZJSgPY16IW6vR】
+Jan 09 16:00:39 
+Jan 09 16:00:39 
+Jan 09 16:00:39 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 16:00:39 
+Jan 09 16:00:39 
+Jan 09 16:00:39 jd_GyKLGOwyLAnM 开始助力 助力池 【yThkHkAulLIVf4XWW5gzmvvtJJOQPngpxspo3dHGwCU】
+Jan 09 16:00:40 
+Jan 09 16:00:40 
+Jan 09 16:00:40 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 16:00:40 
+Jan 09 16:00:40 
+Jan 09 16:00:40 jd_GyKLGOwyLAnM 开始助力 助力池 【HYbsy-WiQgOif4L1V5h_muHXzW_QVDG2unBjEWBqFLCYYg】
+Jan 09 16:00:41 
+Jan 09 16:00:41 
+Jan 09 16:00:41 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 16:00:41 
+Jan 09 16:00:43 
+Jan 09 16:00:43 🔔城城领现金, 结束! 🕛 41.616 秒
+Jan 09 16:00:43 
+Jan 09 17:00:01 
+Jan 09 17:00:01 🔔城城领现金, 开始!
+Jan 09 17:00:01 
+Jan 09 17:00:01 ====================共1个京东账号Cookie=========
+Jan 09 17:00:01 
+Jan 09 17:00:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 下午5:00:01=====================
+Jan 09 17:00:01 
+Jan 09 17:00:01 脚本不会自动抽奖，建议活动快结束开启，默认关闭(在10.29日自动开启抽奖),如需自动抽奖请设置环境变量  JD_CITY_EXCHANGE 为true
+Jan 09 17:00:01 
+Jan 09 17:00:01 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 09 17:00:01 
+Jan 09 17:00:01 
+Jan 09 17:00:01 
+Jan 09 17:00:01 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 17:00:01 
+Jan 09 17:00:04 
+Jan 09 17:00:04 第1个京东账号将要助力的好友["6rCqBu9ZOGZGaxKIBtuJu56Ing","-ryUXa1YMG0RZxOVHNPE973xtMTuDdtO","-ryUX_8JM2dKZxXMH4jGpZgbDZVGDSfw","-ryUL8leIjUDAnSfNoCYu8ar4zkff9w","-ryUXagOMDFAMRuXSYmQ9fvalNRt20ai","-ryUXqUOb2EWa0SXHt_E8mjxxHf0SrBW","-ryUXaQFNTIXNUfGQojNo6DztNY13hRf","-ryUXK0LZmVDa0eXT93EpluBaePOebhI","-ryUXa0OZTYVMBWRQtyR91AGunl7CG9r","-ryUI_hkFwwiA3O9CZyPu4vf_SAbFtw","-ryUXqQOMGQVYEfGGImX8qN8Rc5qxrwG","-rmyGvRZJDgcMEmIBtuJu4eMag","-ryUX6kKYDdKYhTASYiW9xSQsVMNE1Ms","-ryUX64EY2ZAYhDDHNvMo3bgq78o8Fn2","-ryUXvgIYW1AYhLEGNzG8rDe06ZjSquB","ryUL_t3HTMJGla2DKC_u_7aQsOjDlI","6bmlDvZVMz8YOEmIBtuJu010mw","ryUX6tdNGcRY0GQQo7E9KmNjLGp2Y-b","-ryUX6wKYWVGMkPAQ9uTos-Q_8b8T7j4","RtGKzuSnRQ6geYCeEdRgg-S196IH17WvyCGCuzQvtGoEr8mivA","6rCqB_tWPzFCaxHMSN7F905eMMReW93BooIp","","-ryUXqgFNGcXZBCXSd_HoqB519gDyh_t","-ryUXK5YZ2dKZhaXTInC9yG1mI7dszck","ryUA_h9DjYfAUChPaWSu_Zk_u5_kO8","4LGhAOkNZmBGZV6ISpeJ5jSs","GIPhyOujQAKmEd7WW5gzmpsAoCwhxAaYiJKf3hJjgHw","57yPD9FLHxIDClCXLISJu-z6xwEJIg","p-n8WawFYGZKL17EBpfUhwQ","-ryUXP8NM2REMBCWG4nB8dhYoffnv8bo","6uHyjDibsc3OL17EBpfUh0g","-ryUXKVdMzJDZESXG9zA8qZQnGW3sBl_","-ryUXaUFNzZLYEeSSY_H8LVr2tONG1Tw","-ryUXa4Lb2cXNhvMSYnApr4jeCpdJ19Z"]
+Jan 09 17:00:04 
+Jan 09 17:00:04 jd_GyKLGOwyLAnM 开始助力 助力池 【6rCqBu9ZOGZGaxKIBtuJu56Ing】
+Jan 09 17:00:05 
+Jan 09 17:00:05 
+Jan 09 17:00:05 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 17:00:05 
+Jan 09 17:00:05 
+Jan 09 17:00:05 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXa1YMG0RZxOVHNPE973xtMTuDdtO】
+Jan 09 17:00:06 
+Jan 09 17:00:06 
+Jan 09 17:00:06 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 17:00:06 
+Jan 09 17:00:06 
+Jan 09 17:00:06 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUX_8JM2dKZxXMH4jGpZgbDZVGDSfw】
+Jan 09 17:00:07 
+Jan 09 17:00:07 
+Jan 09 17:00:07 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 17:00:07 
+Jan 09 17:00:07 
+Jan 09 17:00:07 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUL8leIjUDAnSfNoCYu8ar4zkff9w】
+Jan 09 17:00:08 
+Jan 09 17:00:08 
+Jan 09 17:00:08 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 17:00:08 
+Jan 09 17:00:08 
+Jan 09 17:00:08 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXagOMDFAMRuXSYmQ9fvalNRt20ai】
+Jan 09 17:00:09 
+Jan 09 17:00:09 
+Jan 09 17:00:09 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 17:00:09 
+Jan 09 17:00:09 
+Jan 09 17:00:09 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXqUOb2EWa0SXHt_E8mjxxHf0SrBW】
+Jan 09 17:00:10 
+Jan 09 17:00:10 
+Jan 09 17:00:10 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 17:00:10 
+Jan 09 17:00:10 
+Jan 09 17:00:10 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXaQFNTIXNUfGQojNo6DztNY13hRf】
+Jan 09 17:00:12 
+Jan 09 17:00:12 
+Jan 09 17:00:12 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 17:00:12 
+Jan 09 17:00:12 
+Jan 09 17:00:12 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXK0LZmVDa0eXT93EpluBaePOebhI】
+Jan 09 17:00:13 
+Jan 09 17:00:13 
+Jan 09 17:00:13 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 17:00:13 
+Jan 09 17:00:13 
+Jan 09 17:00:13 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXa0OZTYVMBWRQtyR91AGunl7CG9r】
+Jan 09 17:00:14 
+Jan 09 17:00:14 
+Jan 09 17:00:14 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 17:00:14 
+Jan 09 17:00:14 
+Jan 09 17:00:14 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUI_hkFwwiA3O9CZyPu4vf_SAbFtw】
+Jan 09 17:00:15 
+Jan 09 17:00:15 
+Jan 09 17:00:15 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 17:00:15 
+Jan 09 17:00:15 
+Jan 09 17:00:15 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXqQOMGQVYEfGGImX8qN8Rc5qxrwG】
+Jan 09 17:00:16 
+Jan 09 17:00:16 
+Jan 09 17:00:16 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 17:00:16 
+Jan 09 17:00:16 
+Jan 09 17:00:16 jd_GyKLGOwyLAnM 开始助力 助力池 【-rmyGvRZJDgcMEmIBtuJu4eMag】
+Jan 09 17:00:17 
+Jan 09 17:00:17 
+Jan 09 17:00:17 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 17:00:17 
+Jan 09 17:00:17 
+Jan 09 17:00:17 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUX6kKYDdKYhTASYiW9xSQsVMNE1Ms】
+Jan 09 17:00:18 
+Jan 09 17:00:18 
+Jan 09 17:00:18 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 17:00:18 
+Jan 09 17:00:18 
+Jan 09 17:00:18 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUX64EY2ZAYhDDHNvMo3bgq78o8Fn2】
+Jan 09 17:00:19 
+Jan 09 17:00:19 
+Jan 09 17:00:19 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 17:00:19 
+Jan 09 17:00:19 
+Jan 09 17:00:19 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXvgIYW1AYhLEGNzG8rDe06ZjSquB】
+Jan 09 17:00:21 
+Jan 09 17:00:21 
+Jan 09 17:00:21 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 17:00:21 
+Jan 09 17:00:21 
+Jan 09 17:00:21 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUL_t3HTMJGla2DKC_u_7aQsOjDlI】
+Jan 09 17:00:22 
+Jan 09 17:00:22 
+Jan 09 17:00:22 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 17:00:22 
+Jan 09 17:00:22 
+Jan 09 17:00:22 jd_GyKLGOwyLAnM 开始助力 助力池 【6bmlDvZVMz8YOEmIBtuJu010mw】
+Jan 09 17:00:23 
+Jan 09 17:00:23 
+Jan 09 17:00:23 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 17:00:23 
+Jan 09 17:00:23 
+Jan 09 17:00:23 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUX6tdNGcRY0GQQo7E9KmNjLGp2Y-b】
+Jan 09 17:00:24 
+Jan 09 17:00:24 
+Jan 09 17:00:24 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 17:00:24 
+Jan 09 17:00:24 
+Jan 09 17:00:24 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUX6wKYWVGMkPAQ9uTos-Q_8b8T7j4】
+Jan 09 17:00:25 
+Jan 09 17:00:25 
+Jan 09 17:00:25 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 17:00:25 
+Jan 09 17:00:25 
+Jan 09 17:00:25 jd_GyKLGOwyLAnM 开始助力 助力池 【RtGKzuSnRQ6geYCeEdRgg-S196IH17WvyCGCuzQvtGoEr8mivA】
+Jan 09 17:00:26 
+Jan 09 17:00:26 
+Jan 09 17:00:26 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 17:00:26 
+Jan 09 17:00:26 
+Jan 09 17:00:26 jd_GyKLGOwyLAnM 开始助力 助力池 【6rCqB_tWPzFCaxHMSN7F905eMMReW93BooIp】
+Jan 09 17:00:27 
+Jan 09 17:00:27 
+Jan 09 17:00:27 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 17:00:27 
+Jan 09 17:00:27 
+Jan 09 17:00:27 jd_GyKLGOwyLAnM 开始助力 助力池 【】
+Jan 09 17:00:29 
+Jan 09 17:00:29 
+Jan 09 17:00:29 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 17:00:29 
+Jan 09 17:00:29 
+Jan 09 17:00:29 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXqgFNGcXZBCXSd_HoqB519gDyh_t】
+Jan 09 17:00:30 
+Jan 09 17:00:30 
+Jan 09 17:00:30 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 17:00:30 
+Jan 09 17:00:30 
+Jan 09 17:00:30 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXK5YZ2dKZhaXTInC9yG1mI7dszck】
+Jan 09 17:00:31 
+Jan 09 17:00:31 
+Jan 09 17:00:31 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 17:00:31 
+Jan 09 17:00:31 
+Jan 09 17:00:31 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUA_h9DjYfAUChPaWSu_Zk_u5_kO8】
+Jan 09 17:00:32 
+Jan 09 17:00:32 
+Jan 09 17:00:32 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 17:00:32 
+Jan 09 17:00:32 
+Jan 09 17:00:32 jd_GyKLGOwyLAnM 开始助力 助力池 【4LGhAOkNZmBGZV6ISpeJ5jSs】
+Jan 09 17:00:33 
+Jan 09 17:00:33 
+Jan 09 17:00:33 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 17:00:33 
+Jan 09 17:00:33 
+Jan 09 17:00:33 jd_GyKLGOwyLAnM 开始助力 助力池 【GIPhyOujQAKmEd7WW5gzmpsAoCwhxAaYiJKf3hJjgHw】
+Jan 09 17:00:34 
+Jan 09 17:00:34 
+Jan 09 17:00:34 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 17:00:34 
+Jan 09 17:00:34 
+Jan 09 17:00:34 jd_GyKLGOwyLAnM 开始助力 助力池 【57yPD9FLHxIDClCXLISJu-z6xwEJIg】
+Jan 09 17:00:35 
+Jan 09 17:00:35 
+Jan 09 17:00:35 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 17:00:35 
+Jan 09 17:00:35 
+Jan 09 17:00:35 jd_GyKLGOwyLAnM 开始助力 助力池 【p-n8WawFYGZKL17EBpfUhwQ】
+Jan 09 17:00:37 
+Jan 09 17:00:37 
+Jan 09 17:00:37 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 17:00:37 
+Jan 09 17:00:37 
+Jan 09 17:00:37 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXP8NM2REMBCWG4nB8dhYoffnv8bo】
+Jan 09 17:00:38 
+Jan 09 17:00:38 
+Jan 09 17:00:38 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 17:00:38 
+Jan 09 17:00:38 
+Jan 09 17:00:38 jd_GyKLGOwyLAnM 开始助力 助力池 【6uHyjDibsc3OL17EBpfUh0g】
+Jan 09 17:00:39 
+Jan 09 17:00:39 
+Jan 09 17:00:39 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 17:00:39 
+Jan 09 17:00:39 
+Jan 09 17:00:39 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXKVdMzJDZESXG9zA8qZQnGW3sBl_】
+Jan 09 17:00:40 
+Jan 09 17:00:40 
+Jan 09 17:00:40 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 17:00:40 
+Jan 09 17:00:40 
+Jan 09 17:00:40 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXaUFNzZLYEeSSY_H8LVr2tONG1Tw】
+Jan 09 17:00:41 
+Jan 09 17:00:41 
+Jan 09 17:00:41 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 17:00:41 
+Jan 09 17:00:41 
+Jan 09 17:00:41 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXa4Lb2cXNhvMSYnApr4jeCpdJ19Z】
+Jan 09 17:00:42 
+Jan 09 17:00:42 
+Jan 09 17:00:42 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 17:00:42 
+Jan 09 17:00:43 
+Jan 09 17:00:43 🔔城城领现金, 结束! 🕛 42.816 秒
+Jan 09 17:00:43 
+Jan 09 18:00:01 
+Jan 09 18:00:01 🔔城城领现金, 开始!
+Jan 09 18:00:01 
+Jan 09 18:00:01 ====================共1个京东账号Cookie=========
+Jan 09 18:00:01 
+Jan 09 18:00:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 下午6:00:01=====================
+Jan 09 18:00:01 
+Jan 09 18:00:01 脚本不会自动抽奖，建议活动快结束开启，默认关闭(在10.29日自动开启抽奖),如需自动抽奖请设置环境变量  JD_CITY_EXCHANGE 为true
+Jan 09 18:00:01 
+Jan 09 18:00:01 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 09 18:00:01 
+Jan 09 18:00:01 
+Jan 09 18:00:01 ==============📣系统通知📣==============
+Jan 09 18:00:01 城城领现金
+Jan 09 18:00:01 【提示】cookie已失效
+Jan 09 18:00:01 京东账号1 jd_GyKLGOwyLAnM
+Jan 09 18:00:01 请重新登录获取
+Jan 09 18:00:01 https://bean.m.jd.com/bean/signIndex.action
+Jan 09 18:00:01 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 09 18:00:01 
+Jan 09 18:00:05 发送通知调用API失败！！
+Jan 09 18:00:05 
+Jan 09 18:00:05 RequestError: socket hang up
+Jan 09 18:00:05     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 09 18:00:05     at Object.onceWrapper (node:events:510:26)
+Jan 09 18:00:05     at ClientRequest.emit (node:events:402:35)
+Jan 09 18:00:05     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 09 18:00:05     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 09 18:00:05     at Socket.emit (node:events:402:35)
+Jan 09 18:00:05     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 09 18:00:05     at connResetException (node:internal/errors:691:14)
+Jan 09 18:00:05     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 09 18:00:05     at Socket.emit (node:events:402:35)
+Jan 09 18:00:05     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 09 18:00:05     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 09 18:00:05   code: 'ECONNRESET',
+Jan 09 18:00:05   timings: {
+Jan 09 18:00:05     start: 1641722403939,
+Jan 09 18:00:05     socket: 1641722403939,
+Jan 09 18:00:05     lookup: 1641722403941,
+Jan 09 18:00:05     connect: 1641722405187,
+Jan 09 18:00:05     secureConnect: undefined,
+Jan 09 18:00:05     upload: 1641722405188,
+Jan 09 18:00:05     response: undefined,
+Jan 09 18:00:05     end: undefined,
+Jan 09 18:00:05     error: 1641722405430,
+Jan 09 18:00:05     abort: undefined,
+Jan 09 18:00:05     phases: {
+Jan 09 18:00:05       wait: 0,
+Jan 09 18:00:05       dns: 2,
+Jan 09 18:00:05       tcp: 1246,
+Jan 09 18:00:05       tls: undefined,
+Jan 09 18:00:05       request: 1,
+Jan 09 18:00:05       firstByte: undefined,
+Jan 09 18:00:05       download: undefined,
+Jan 09 18:00:05       total: 1491
+Jan 09 18:00:05     }
+Jan 09 18:00:05   }
+Jan 09 18:00:05 }
+Jan 09 18:00:05 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 09 18:00:05 
+Jan 09 18:00:05 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 09 18:00:05 
+Jan 09 18:00:05 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 09 18:00:05 
+Jan 09 18:00:05 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 09 18:00:05 
+Jan 09 18:00:05 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 09 18:00:05 
+Jan 09 18:00:05 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 09 18:00:05 
+Jan 09 18:00:05 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 09 18:00:05 
+Jan 09 18:00:06 
+Jan 09 18:00:06 第1个京东账号将要助力的好友["6rCqBu9ZOGZGaxKIBtuJu56Ing","-ryUXa1YMG0RZxOVHNPE973xtMTuDdtO","-ryUX_8JM2dKZxXMH4jGpZgbDZVGDSfw","-ryUL8leIjUDAnSfNoCYu8ar4zkff9w","-ryUXagOMDFAMRuXSYmQ9fvalNRt20ai","-ryUXqUOb2EWa0SXHt_E8mjxxHf0SrBW","-ryUXaQFNTIXNUfGQojNo6DztNY13hRf","-ryUXK0LZmVDa0eXT93EpluBaePOebhI","-ryUXa0OZTYVMBWRQtyR91AGunl7CG9r","-ryUI_hkFwwiA3O9CZyPu4vf_SAbFtw","-ryUXqQOMGQVYEfGGImX8qN8Rc5qxrwG","-rmyGvRZJDgcMEmIBtuJu4eMag","-ryUX6kKYDdKYhTASYiW9xSQsVMNE1Ms","-ryUX64EY2ZAYhDDHNvMo3bgq78o8Fn2","-ryUXvgIYW1AYhLEGNzG8rDe06ZjSquB","oeH_Xa8MY2xeZhbHTtnNu6GAiz_l8yI","-ryUX6RZbzVLZxDMTtqWprQxNFMIMtxC","qOGoBf1OPSgPY16IW6vR","-ryUJ9hIIxcABG-zPb-9u5KmuTxb3o4","-ryUXfpeZDJLaxSSS46ToQ7XgPEcw6Im","ryUXaULN2wRYxvNStjN8MnQHAkYBoeT","qOj_XakOb2xEDE-IBtuJuxUouA","ryUMfp1Pxo6N1GuH6qvu3MWpiS7InY","ouH-UK4LY2YsPl6ISpeJ5vgS","ryUCuhvMRopFHK8GKOMuxNWHeG","oej4XK0Kb2VEZX2ZBpfFu2RcdR0","ryULNJtBAcHOXGNNaCQu24Qe19fcCM","57yGOsZPPSQZGU6NPY-Ju9SIQe_s_Q","ouj8XqsOYWNGfhbFS9vE8H5M36LJUiTskJU","4-nzXKwPYmNKaxfAQtPB9MSVw9C-KsN4nA","ryUX6wEMDURNRXDG42QpNTVecHx5FEw","-ryUXqkNYDZDZhqQTdqQ9quMIXOnstKm","-ryUXakJNGNKNUfBH9rC8poUHli7JqUW","-ryUXKhZMGYVZBLGTdnGpDMGBHA8_b90"]
+Jan 09 18:00:06 
+Jan 09 18:00:06 jd_GyKLGOwyLAnM 开始助力 助力池 【6rCqBu9ZOGZGaxKIBtuJu56Ing】
+Jan 09 18:00:07 
+Jan 09 18:00:07 
+Jan 09 18:00:07 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 18:00:07 
+Jan 09 18:00:07 
+Jan 09 18:00:07 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXa1YMG0RZxOVHNPE973xtMTuDdtO】
+Jan 09 18:00:08 
+Jan 09 18:00:08 
+Jan 09 18:00:08 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 18:00:08 
+Jan 09 18:00:08 
+Jan 09 18:00:08 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUX_8JM2dKZxXMH4jGpZgbDZVGDSfw】
+Jan 09 18:00:09 
+Jan 09 18:00:09 
+Jan 09 18:00:09 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 18:00:09 
+Jan 09 18:00:09 
+Jan 09 18:00:09 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUL8leIjUDAnSfNoCYu8ar4zkff9w】
+Jan 09 18:00:10 
+Jan 09 18:00:10 
+Jan 09 18:00:10 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 18:00:10 
+Jan 09 18:00:10 
+Jan 09 18:00:10 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXagOMDFAMRuXSYmQ9fvalNRt20ai】
+Jan 09 18:00:12 
+Jan 09 18:00:12 
+Jan 09 18:00:12 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 18:00:12 
+Jan 09 18:00:12 
+Jan 09 18:00:12 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXqUOb2EWa0SXHt_E8mjxxHf0SrBW】
+Jan 09 18:00:13 
+Jan 09 18:00:13 
+Jan 09 18:00:13 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 18:00:13 
+Jan 09 18:00:13 
+Jan 09 18:00:13 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXaQFNTIXNUfGQojNo6DztNY13hRf】
+Jan 09 18:00:14 
+Jan 09 18:00:14 
+Jan 09 18:00:14 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 18:00:14 
+Jan 09 18:00:14 
+Jan 09 18:00:14 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXK0LZmVDa0eXT93EpluBaePOebhI】
+Jan 09 18:00:15 
+Jan 09 18:00:15 
+Jan 09 18:00:15 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 18:00:15 
+Jan 09 18:00:15 
+Jan 09 18:00:15 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXa0OZTYVMBWRQtyR91AGunl7CG9r】
+Jan 09 18:00:16 
+Jan 09 18:00:16 
+Jan 09 18:00:16 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 18:00:16 
+Jan 09 18:00:16 
+Jan 09 18:00:16 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUI_hkFwwiA3O9CZyPu4vf_SAbFtw】
+Jan 09 18:00:17 
+Jan 09 18:00:17 
+Jan 09 18:00:17 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 18:00:17 
+Jan 09 18:00:17 
+Jan 09 18:00:17 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXqQOMGQVYEfGGImX8qN8Rc5qxrwG】
+Jan 09 18:00:18 
+Jan 09 18:00:18 
+Jan 09 18:00:18 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 18:00:18 
+Jan 09 18:00:18 
+Jan 09 18:00:18 jd_GyKLGOwyLAnM 开始助力 助力池 【-rmyGvRZJDgcMEmIBtuJu4eMag】
+Jan 09 18:00:20 
+Jan 09 18:00:20 
+Jan 09 18:00:20 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 18:00:20 
+Jan 09 18:00:20 
+Jan 09 18:00:20 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUX6kKYDdKYhTASYiW9xSQsVMNE1Ms】
+Jan 09 18:00:21 
+Jan 09 18:00:21 
+Jan 09 18:00:21 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 18:00:21 
+Jan 09 18:00:21 
+Jan 09 18:00:21 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUX64EY2ZAYhDDHNvMo3bgq78o8Fn2】
+Jan 09 18:00:22 
+Jan 09 18:00:22 
+Jan 09 18:00:22 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 18:00:22 
+Jan 09 18:00:22 
+Jan 09 18:00:22 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXvgIYW1AYhLEGNzG8rDe06ZjSquB】
+Jan 09 18:00:23 
+Jan 09 18:00:23 
+Jan 09 18:00:23 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 18:00:23 
+Jan 09 18:00:23 
+Jan 09 18:00:23 jd_GyKLGOwyLAnM 开始助力 助力池 【oeH_Xa8MY2xeZhbHTtnNu6GAiz_l8yI】
+Jan 09 18:00:24 
+Jan 09 18:00:24 
+Jan 09 18:00:24 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 18:00:24 
+Jan 09 18:00:24 
+Jan 09 18:00:24 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUX6RZbzVLZxDMTtqWprQxNFMIMtxC】
+Jan 09 18:00:25 
+Jan 09 18:00:25 
+Jan 09 18:00:25 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 18:00:25 
+Jan 09 18:00:25 
+Jan 09 18:00:25 jd_GyKLGOwyLAnM 开始助力 助力池 【qOGoBf1OPSgPY16IW6vR】
+Jan 09 18:00:26 
+Jan 09 18:00:26 
+Jan 09 18:00:26 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 18:00:26 
+Jan 09 18:00:26 
+Jan 09 18:00:26 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUJ9hIIxcABG-zPb-9u5KmuTxb3o4】
+Jan 09 18:00:28 
+Jan 09 18:00:28 
+Jan 09 18:00:28 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 18:00:28 
+Jan 09 18:00:28 
+Jan 09 18:00:28 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXfpeZDJLaxSSS46ToQ7XgPEcw6Im】
+Jan 09 18:00:29 
+Jan 09 18:00:29 
+Jan 09 18:00:29 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 18:00:29 
+Jan 09 18:00:29 
+Jan 09 18:00:29 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUXaULN2wRYxvNStjN8MnQHAkYBoeT】
+Jan 09 18:00:30 
+Jan 09 18:00:30 
+Jan 09 18:00:30 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 18:00:30 
+Jan 09 18:00:30 
+Jan 09 18:00:30 jd_GyKLGOwyLAnM 开始助力 助力池 【qOj_XakOb2xEDE-IBtuJuxUouA】
+Jan 09 18:00:31 
+Jan 09 18:00:31 
+Jan 09 18:00:31 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 18:00:31 
+Jan 09 18:00:31 
+Jan 09 18:00:31 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUMfp1Pxo6N1GuH6qvu3MWpiS7InY】
+Jan 09 18:00:32 
+Jan 09 18:00:32 
+Jan 09 18:00:32 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 18:00:32 
+Jan 09 18:00:32 
+Jan 09 18:00:32 jd_GyKLGOwyLAnM 开始助力 助力池 【ouH-UK4LY2YsPl6ISpeJ5vgS】
+Jan 09 18:00:33 
+Jan 09 18:00:33 
+Jan 09 18:00:33 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 18:00:33 
+Jan 09 18:00:33 
+Jan 09 18:00:33 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUCuhvMRopFHK8GKOMuxNWHeG】
+Jan 09 18:00:34 
+Jan 09 18:00:34 
+Jan 09 18:00:34 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 18:00:34 
+Jan 09 18:00:34 
+Jan 09 18:00:34 jd_GyKLGOwyLAnM 开始助力 助力池 【oej4XK0Kb2VEZX2ZBpfFu2RcdR0】
+Jan 09 18:00:36 
+Jan 09 18:00:36 
+Jan 09 18:00:36 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 18:00:36 
+Jan 09 18:00:36 
+Jan 09 18:00:36 jd_GyKLGOwyLAnM 开始助力 助力池 【ryULNJtBAcHOXGNNaCQu24Qe19fcCM】
+Jan 09 18:00:37 
+Jan 09 18:00:37 
+Jan 09 18:00:37 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 18:00:37 
+Jan 09 18:00:37 
+Jan 09 18:00:37 jd_GyKLGOwyLAnM 开始助力 助力池 【57yGOsZPPSQZGU6NPY-Ju9SIQe_s_Q】
+Jan 09 18:00:38 
+Jan 09 18:00:38 
+Jan 09 18:00:38 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 18:00:38 
+Jan 09 18:00:38 
+Jan 09 18:00:38 jd_GyKLGOwyLAnM 开始助力 助力池 【ouj8XqsOYWNGfhbFS9vE8H5M36LJUiTskJU】
+Jan 09 18:00:39 
+Jan 09 18:00:39 
+Jan 09 18:00:39 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 18:00:39 
+Jan 09 18:00:39 
+Jan 09 18:00:39 jd_GyKLGOwyLAnM 开始助力 助力池 【4-nzXKwPYmNKaxfAQtPB9MSVw9C-KsN4nA】
+Jan 09 18:00:40 
+Jan 09 18:00:40 
+Jan 09 18:00:40 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 18:00:40 
+Jan 09 18:00:40 
+Jan 09 18:00:40 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUX6wEMDURNRXDG42QpNTVecHx5FEw】
+Jan 09 18:00:41 
+Jan 09 18:00:41 
+Jan 09 18:00:41 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 18:00:41 
+Jan 09 18:00:41 
+Jan 09 18:00:41 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXqkNYDZDZhqQTdqQ9quMIXOnstKm】
+Jan 09 18:00:42 
+Jan 09 18:00:42 
+Jan 09 18:00:42 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 18:00:42 
+Jan 09 18:00:42 
+Jan 09 18:00:42 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXakJNGNKNUfBH9rC8poUHli7JqUW】
+Jan 09 18:00:43 
+Jan 09 18:00:43 
+Jan 09 18:00:43 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 18:00:43 
+Jan 09 18:00:43 
+Jan 09 18:00:43 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXKhZMGYVZBLGTdnGpDMGBHA8_b90】
+Jan 09 18:00:45 
+Jan 09 18:00:45 
+Jan 09 18:00:45 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 18:00:45 
+Jan 09 18:00:46 
+Jan 09 18:00:46 🔔城城领现金, 结束! 🕛 45.212 秒
+Jan 09 18:00:46 
+Jan 09 19:00:01 
+Jan 09 19:00:01 🔔城城领现金, 开始!
+Jan 09 19:00:01 
+Jan 09 19:00:01 ====================共1个京东账号Cookie=========
+Jan 09 19:00:01 
+Jan 09 19:00:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 下午7:00:01=====================
+Jan 09 19:00:01 
+Jan 09 19:00:01 脚本不会自动抽奖，建议活动快结束开启，默认关闭(在10.29日自动开启抽奖),如需自动抽奖请设置环境变量  JD_CITY_EXCHANGE 为true
+Jan 09 19:00:02 
+Jan 09 19:00:02 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 09 19:00:02 
+Jan 09 19:00:03 
+Jan 09 19:00:03 
+Jan 09 19:00:03 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 19:00:03 
+Jan 09 19:00:16 
+Jan 09 19:00:16 第1个京东账号将要助力的好友["6rCqBu9ZOGZGaxKIBtuJu56Ing","-ryUXa1YMG0RZxOVHNPE973xtMTuDdtO","-ryUXvgIYW1AYhLEGNzG8rDe06ZjSquB","d05kjgWXs-7VtbVRBpfFuxXdWqs","qKnXakKKihDL17VOs8","pez_WaQPYWReaxfCTtzD9ZOa5-1JqkG6Zg","57GlAvVSZWUPLxKIBsq14w","572lDf0OZmRLfX2ZBpfFux70HAs","-ryUXq8JNGVLZBOQSdKTo7SySMlWZbW6","-72uB_dIMyAPLxKIBsq14w","dkVFjieWsOr7L17EBpfUh2U","ryUX_gIZGdFNhGSSdmQolEHnXpAIcGP","dGFfjz2ZZGZDZF6ISpeJ5u4j","-ryUA_lvDCcGJXeTH6qYu7QNp4T_eVg","ryUXKhebmEVYkbDTIqX8XXRQo4c2cWF","-ryUXakPYGUQakTMHNKR9jPEXC6UmdN1","-7mlDvddODMsMFqNBpfFu68dx2s","oejyWKoIb2xeYRbDSdPD9rE_IbwQt8Nnrw","RtGKzb-kElz1f4SaHoUz1jrvB47s2bcACmu-8hAyCIeyEiLAdg","-ryUXatfZzdLZhPAGY_Ho0YsMHDQGfVf","HYbsy-WiQgOif4L1V5h_muHXzW_QVDG2unBjEWBqFLCYYg","ryUDfNNMgw8HGGtNoCju4iCDWaHuXc"]
+Jan 09 19:00:16 
+Jan 09 19:00:16 jd_GyKLGOwyLAnM 开始助力 助力池 【6rCqBu9ZOGZGaxKIBtuJu56Ing】
+Jan 09 19:00:17 
+Jan 09 19:00:17 
+Jan 09 19:00:17 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 19:00:17 
+Jan 09 19:00:17 
+Jan 09 19:00:17 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXa1YMG0RZxOVHNPE973xtMTuDdtO】
+Jan 09 19:00:18 
+Jan 09 19:00:18 
+Jan 09 19:00:18 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 19:00:18 
+Jan 09 19:00:18 
+Jan 09 19:00:18 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXvgIYW1AYhLEGNzG8rDe06ZjSquB】
+Jan 09 19:00:19 
+Jan 09 19:00:19 
+Jan 09 19:00:19 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 19:00:19 
+Jan 09 19:00:19 
+Jan 09 19:00:19 jd_GyKLGOwyLAnM 开始助力 助力池 【d05kjgWXs-7VtbVRBpfFuxXdWqs】
+Jan 09 19:00:20 
+Jan 09 19:00:20 
+Jan 09 19:00:20 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 19:00:20 
+Jan 09 19:00:20 
+Jan 09 19:00:20 jd_GyKLGOwyLAnM 开始助力 助力池 【qKnXakKKihDL17VOs8】
+Jan 09 19:00:21 
+Jan 09 19:00:21 
+Jan 09 19:00:21 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 19:00:21 
+Jan 09 19:00:21 
+Jan 09 19:00:21 jd_GyKLGOwyLAnM 开始助力 助力池 【pez_WaQPYWReaxfCTtzD9ZOa5-1JqkG6Zg】
+Jan 09 19:00:22 
+Jan 09 19:00:22 
+Jan 09 19:00:22 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 19:00:22 
+Jan 09 19:00:22 
+Jan 09 19:00:22 jd_GyKLGOwyLAnM 开始助力 助力池 【57GlAvVSZWUPLxKIBsq14w】
+Jan 09 19:00:24 
+Jan 09 19:00:24 
+Jan 09 19:00:24 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 19:00:24 
+Jan 09 19:00:24 
+Jan 09 19:00:24 jd_GyKLGOwyLAnM 开始助力 助力池 【572lDf0OZmRLfX2ZBpfFux70HAs】
+Jan 09 19:00:25 
+Jan 09 19:00:25 
+Jan 09 19:00:25 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 19:00:25 
+Jan 09 19:00:25 
+Jan 09 19:00:25 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXq8JNGVLZBOQSdKTo7SySMlWZbW6】
+Jan 09 19:00:26 
+Jan 09 19:00:26 
+Jan 09 19:00:26 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 19:00:26 
+Jan 09 19:00:26 
+Jan 09 19:00:26 jd_GyKLGOwyLAnM 开始助力 助力池 【-72uB_dIMyAPLxKIBsq14w】
+Jan 09 19:00:27 
+Jan 09 19:00:27 
+Jan 09 19:00:27 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 19:00:27 
+Jan 09 19:00:27 
+Jan 09 19:00:27 jd_GyKLGOwyLAnM 开始助力 助力池 【dkVFjieWsOr7L17EBpfUh2U】
+Jan 09 19:00:28 
+Jan 09 19:00:28 
+Jan 09 19:00:28 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 19:00:28 
+Jan 09 19:00:28 
+Jan 09 19:00:28 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUX_gIZGdFNhGSSdmQolEHnXpAIcGP】
+Jan 09 19:00:29 
+Jan 09 19:00:29 
+Jan 09 19:00:29 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 19:00:29 
+Jan 09 19:00:29 
+Jan 09 19:00:29 jd_GyKLGOwyLAnM 开始助力 助力池 【dGFfjz2ZZGZDZF6ISpeJ5u4j】
+Jan 09 19:00:30 
+Jan 09 19:00:30 
+Jan 09 19:00:30 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 19:00:30 
+Jan 09 19:00:30 
+Jan 09 19:00:30 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUA_lvDCcGJXeTH6qYu7QNp4T_eVg】
+Jan 09 19:00:32 
+Jan 09 19:00:32 
+Jan 09 19:00:32 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 19:00:32 
+Jan 09 19:00:32 
+Jan 09 19:00:32 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUXKhebmEVYkbDTIqX8XXRQo4c2cWF】
+Jan 09 19:00:33 
+Jan 09 19:00:33 
+Jan 09 19:00:33 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 19:00:33 
+Jan 09 19:00:33 
+Jan 09 19:00:33 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXakPYGUQakTMHNKR9jPEXC6UmdN1】
+Jan 09 19:00:34 
+Jan 09 19:00:34 
+Jan 09 19:00:34 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 19:00:34 
+Jan 09 19:00:34 
+Jan 09 19:00:34 jd_GyKLGOwyLAnM 开始助力 助力池 【-7mlDvddODMsMFqNBpfFu68dx2s】
+Jan 09 19:00:35 
+Jan 09 19:00:35 
+Jan 09 19:00:35 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 19:00:35 
+Jan 09 19:00:35 
+Jan 09 19:00:35 jd_GyKLGOwyLAnM 开始助力 助力池 【oejyWKoIb2xeYRbDSdPD9rE_IbwQt8Nnrw】
+Jan 09 19:00:36 
+Jan 09 19:00:36 
+Jan 09 19:00:36 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 19:00:36 
+Jan 09 19:00:36 
+Jan 09 19:00:36 jd_GyKLGOwyLAnM 开始助力 助力池 【RtGKzb-kElz1f4SaHoUz1jrvB47s2bcACmu-8hAyCIeyEiLAdg】
+Jan 09 19:00:37 
+Jan 09 19:00:37 
+Jan 09 19:00:37 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 19:00:37 
+Jan 09 19:00:37 
+Jan 09 19:00:37 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXatfZzdLZhPAGY_Ho0YsMHDQGfVf】
+Jan 09 19:00:38 
+Jan 09 19:00:38 
+Jan 09 19:00:38 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 19:00:38 
+Jan 09 19:00:38 
+Jan 09 19:00:38 jd_GyKLGOwyLAnM 开始助力 助力池 【HYbsy-WiQgOif4L1V5h_muHXzW_QVDG2unBjEWBqFLCYYg】
+Jan 09 19:00:40 
+Jan 09 19:00:40 
+Jan 09 19:00:40 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 19:00:40 
+Jan 09 19:00:40 
+Jan 09 19:00:40 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUDfNNMgw8HGGtNoCju4iCDWaHuXc】
+Jan 09 19:00:41 
+Jan 09 19:00:41 
+Jan 09 19:00:41 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 19:00:41 
+Jan 09 19:00:42 
+Jan 09 19:00:42 🔔城城领现金, 结束! 🕛 40.631 秒
+Jan 09 19:00:42 
+Jan 09 20:00:00 
+Jan 09 20:00:00 🔔城城领现金, 开始!
+Jan 09 20:00:00 
+Jan 09 20:00:00 ====================共1个京东账号Cookie=========
+Jan 09 20:00:00 
+Jan 09 20:00:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 下午8:00:00=====================
+Jan 09 20:00:00 
+Jan 09 20:00:00 脚本不会自动抽奖，建议活动快结束开启，默认关闭(在10.29日自动开启抽奖),如需自动抽奖请设置环境变量  JD_CITY_EXCHANGE 为true
+Jan 09 20:00:00 
+Jan 09 20:00:00 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 09 20:00:00 
+Jan 09 20:00:00 
+Jan 09 20:00:00 ==============📣系统通知📣==============
+Jan 09 20:00:00 城城领现金
+Jan 09 20:00:00 【提示】cookie已失效
+Jan 09 20:00:00 京东账号1 jd_GyKLGOwyLAnM
+Jan 09 20:00:00 请重新登录获取
+Jan 09 20:00:00 https://bean.m.jd.com/bean/signIndex.action
+Jan 09 20:00:00 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 09 20:00:00 
+Jan 09 20:00:04 发送通知调用API失败！！
+Jan 09 20:00:04 
+Jan 09 20:00:04 RequestError: socket hang up
+Jan 09 20:00:04     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 09 20:00:04     at Object.onceWrapper (node:events:510:26)
+Jan 09 20:00:04     at ClientRequest.emit (node:events:402:35)
+Jan 09 20:00:04     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 09 20:00:04     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 09 20:00:04     at Socket.emit (node:events:402:35)
+Jan 09 20:00:04     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 09 20:00:04     at connResetException (node:internal/errors:691:14)
+Jan 09 20:00:04     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 09 20:00:04     at Socket.emit (node:events:402:35)
+Jan 09 20:00:04     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 09 20:00:04     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 09 20:00:04   code: 'ECONNRESET',
+Jan 09 20:00:04   timings: {
+Jan 09 20:00:04     start: 1641729603204,
+Jan 09 20:00:04     socket: 1641729603205,
+Jan 09 20:00:04     lookup: 1641729603206,
+Jan 09 20:00:04     connect: 1641729604450,
+Jan 09 20:00:04     secureConnect: undefined,
+Jan 09 20:00:04     upload: 1641729604450,
+Jan 09 20:00:04     response: undefined,
+Jan 09 20:00:04     end: undefined,
+Jan 09 20:00:04     error: 1641729604701,
+Jan 09 20:00:04     abort: undefined,
+Jan 09 20:00:04     phases: {
+Jan 09 20:00:04       wait: 1,
+Jan 09 20:00:04       dns: 1,
+Jan 09 20:00:04       tcp: 1244,
+Jan 09 20:00:04       tls: undefined,
+Jan 09 20:00:04       request: 0,
+Jan 09 20:00:04       firstByte: undefined,
+Jan 09 20:00:04       download: undefined,
+Jan 09 20:00:04       total: 1497
+Jan 09 20:00:04     }
+Jan 09 20:00:04   }
+Jan 09 20:00:04 }
+Jan 09 20:00:04 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 09 20:00:04 
+Jan 09 20:00:04 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 09 20:00:04 
+Jan 09 20:00:04 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 09 20:00:04 
+Jan 09 20:00:04 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 09 20:00:04 
+Jan 09 20:00:04 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 09 20:00:04 
+Jan 09 20:00:04 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 09 20:00:04 
+Jan 09 20:00:04 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 09 20:00:04 
+Jan 09 20:00:17 
+Jan 09 20:00:17 第1个京东账号将要助力的好友["6rCqBu9ZOGZGaxKIBtuJu56Ing","-ryUXa1YMG0RZxOVHNPE973xtMTuDdtO","-ryUX_8JM2dKZxXMH4jGpZgbDZVGDSfw","-ryUL8leIjUDAnSfNoCYu8ar4zkff9w","-ryUXagOMDFAMRuXSYmQ9fvalNRt20ai","-ryUXqUOb2EWa0SXHt_E8mjxxHf0SrBW","-ryUXaQFNTIXNUfGQojNo6DztNY13hRf","-ryUXK0LZmVDa0eXT93EpluBaePOebhI","XiDPRGWSqeQ1j4qyPLP8VPULnU_zow","-ryUI_hkFwwiA3O9CZyPu4vf_SAbFtw","-ryUXqQOMGQVYEfGGImX8qN8Rc5qxrwG","-rmyGvRZJDgcMEmIBtuJu4eMag","-ryUX6kKYDdKYhTASYiW9xSQsVMNE1Ms","-ryUX64EY2ZAYhDDHNvMo3bgq78o8Fn2","-ryUXvgIYW1AYhLEGNzG8rDe06ZjSquB","-ryUXaRYYGQWMkfGSNvNoxwWaka8dHKR","ryUX6QEZ2dAaxHBSN-T8S-U98-2l5Oy","-ryUXfgFZmBBZRTNGdiU9DDXXrCULQsP","-ryUJdhrHzM4AGyWFKOWu-ItKX279TQ","-ryUXv1YNzBLMkPFTtrC9kMXu-Z90q8e","-ryUCO1KAh0cPlqlAriSu2gyBze55rA","eEtWji6CsdXGtqF7klt0u50oAk76Mt0","HYzkwOykSQOqY4aZENYw3uhFFj40-ZoPLqNV4htJtT4NMMA_DQ","-ryUGM97IAEYNHCzNJmeu_OnsubN738","qOj_XakOb2xEDE-IBtuJuxUouA","-ryUX6lfYWxCZEeRQ9iUpBXGJs9zMX7r","-K2qB_tNPzoUOUuRSdnCu3ClE5drP1o","dGRTgSiRsuzztphjBpfFu-37IFg","RtGKz-itFFuqfdHOE9Ix33jWqAixOPqzivCeFqK5W8kQt3IbeA","-ryUX60LYmMVYhSWQ93M_7pUEDhrxtmF","-ryUOfdTGjMmBlu9CrOQuyRTotqNh04","-ryUXKwINWdCaxTCGd3Eo_gWRoxLkFdL","-ryUXK4EMmESa0CQSdqQoVUpSU7r_Ym0","ryUDfNNMgw8HGGtNoCju4iCDWaHuXc"]
+Jan 09 20:00:17 
+Jan 09 20:00:17 jd_GyKLGOwyLAnM 开始助力 助力池 【6rCqBu9ZOGZGaxKIBtuJu56Ing】
+Jan 09 20:00:18 
+Jan 09 20:00:18 
+Jan 09 20:00:18 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 20:00:18 
+Jan 09 20:00:18 
+Jan 09 20:00:18 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXa1YMG0RZxOVHNPE973xtMTuDdtO】
+Jan 09 20:00:19 
+Jan 09 20:00:19 
+Jan 09 20:00:19 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 20:00:19 
+Jan 09 20:00:19 
+Jan 09 20:00:19 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUX_8JM2dKZxXMH4jGpZgbDZVGDSfw】
+Jan 09 20:00:21 
+Jan 09 20:00:21 
+Jan 09 20:00:21 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 20:00:21 
+Jan 09 20:00:21 
+Jan 09 20:00:21 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUL8leIjUDAnSfNoCYu8ar4zkff9w】
+Jan 09 20:00:22 
+Jan 09 20:00:22 
+Jan 09 20:00:22 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 20:00:22 
+Jan 09 20:00:22 
+Jan 09 20:00:22 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXagOMDFAMRuXSYmQ9fvalNRt20ai】
+Jan 09 20:00:23 
+Jan 09 20:00:23 
+Jan 09 20:00:23 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 20:00:23 
+Jan 09 20:00:23 
+Jan 09 20:00:23 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXqUOb2EWa0SXHt_E8mjxxHf0SrBW】
+Jan 09 20:00:24 
+Jan 09 20:00:24 
+Jan 09 20:00:24 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 20:00:24 
+Jan 09 20:00:24 
+Jan 09 20:00:24 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXaQFNTIXNUfGQojNo6DztNY13hRf】
+Jan 09 20:00:25 
+Jan 09 20:00:25 
+Jan 09 20:00:25 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 20:00:25 
+Jan 09 20:00:25 
+Jan 09 20:00:25 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXK0LZmVDa0eXT93EpluBaePOebhI】
+Jan 09 20:00:26 
+Jan 09 20:00:26 
+Jan 09 20:00:26 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 20:00:26 
+Jan 09 20:00:26 
+Jan 09 20:00:26 jd_GyKLGOwyLAnM 开始助力 助力池 【XiDPRGWSqeQ1j4qyPLP8VPULnU_zow】
+Jan 09 20:00:27 
+Jan 09 20:00:27 
+Jan 09 20:00:27 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 20:00:27 
+Jan 09 20:00:27 
+Jan 09 20:00:27 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUI_hkFwwiA3O9CZyPu4vf_SAbFtw】
+Jan 09 20:00:29 
+Jan 09 20:00:29 
+Jan 09 20:00:29 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 20:00:29 
+Jan 09 20:00:29 
+Jan 09 20:00:29 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXqQOMGQVYEfGGImX8qN8Rc5qxrwG】
+Jan 09 20:00:30 
+Jan 09 20:00:30 
+Jan 09 20:00:30 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 20:00:30 
+Jan 09 20:00:30 
+Jan 09 20:00:30 jd_GyKLGOwyLAnM 开始助力 助力池 【-rmyGvRZJDgcMEmIBtuJu4eMag】
+Jan 09 20:00:31 
+Jan 09 20:00:31 
+Jan 09 20:00:31 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 20:00:31 
+Jan 09 20:00:31 
+Jan 09 20:00:31 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUX6kKYDdKYhTASYiW9xSQsVMNE1Ms】
+Jan 09 20:00:32 
+Jan 09 20:00:32 
+Jan 09 20:00:32 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 20:00:32 
+Jan 09 20:00:32 
+Jan 09 20:00:32 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUX64EY2ZAYhDDHNvMo3bgq78o8Fn2】
+Jan 09 20:00:33 
+Jan 09 20:00:33 
+Jan 09 20:00:33 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 20:00:33 
+Jan 09 20:00:33 
+Jan 09 20:00:33 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXvgIYW1AYhLEGNzG8rDe06ZjSquB】
+Jan 09 20:00:34 
+Jan 09 20:00:34 
+Jan 09 20:00:34 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 20:00:34 
+Jan 09 20:00:34 
+Jan 09 20:00:34 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXaRYYGQWMkfGSNvNoxwWaka8dHKR】
+Jan 09 20:00:35 
+Jan 09 20:00:35 
+Jan 09 20:00:35 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 20:00:35 
+Jan 09 20:00:35 
+Jan 09 20:00:35 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUX6QEZ2dAaxHBSN-T8S-U98-2l5Oy】
+Jan 09 20:00:37 
+Jan 09 20:00:37 
+Jan 09 20:00:37 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 20:00:37 
+Jan 09 20:00:37 
+Jan 09 20:00:37 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXfgFZmBBZRTNGdiU9DDXXrCULQsP】
+Jan 09 20:00:38 
+Jan 09 20:00:38 
+Jan 09 20:00:38 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 20:00:38 
+Jan 09 20:00:38 
+Jan 09 20:00:38 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUJdhrHzM4AGyWFKOWu-ItKX279TQ】
+Jan 09 20:00:39 
+Jan 09 20:00:39 
+Jan 09 20:00:39 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 20:00:39 
+Jan 09 20:00:39 
+Jan 09 20:00:39 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXv1YNzBLMkPFTtrC9kMXu-Z90q8e】
+Jan 09 20:00:40 
+Jan 09 20:00:40 
+Jan 09 20:00:40 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 20:00:40 
+Jan 09 20:00:40 
+Jan 09 20:00:40 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUCO1KAh0cPlqlAriSu2gyBze55rA】
+Jan 09 20:00:41 
+Jan 09 20:00:41 
+Jan 09 20:00:41 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 20:00:41 
+Jan 09 20:00:41 
+Jan 09 20:00:41 jd_GyKLGOwyLAnM 开始助力 助力池 【eEtWji6CsdXGtqF7klt0u50oAk76Mt0】
+Jan 09 20:00:42 
+Jan 09 20:00:42 
+Jan 09 20:00:42 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 20:00:42 
+Jan 09 20:00:42 
+Jan 09 20:00:42 jd_GyKLGOwyLAnM 开始助力 助力池 【HYzkwOykSQOqY4aZENYw3uhFFj40-ZoPLqNV4htJtT4NMMA_DQ】
+Jan 09 20:00:43 
+Jan 09 20:00:43 
+Jan 09 20:00:43 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 20:00:43 
+Jan 09 20:00:43 
+Jan 09 20:00:43 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUGM97IAEYNHCzNJmeu_OnsubN738】
+Jan 09 20:00:45 
+Jan 09 20:00:45 
+Jan 09 20:00:45 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 20:00:45 
+Jan 09 20:00:45 
+Jan 09 20:00:45 jd_GyKLGOwyLAnM 开始助力 助力池 【qOj_XakOb2xEDE-IBtuJuxUouA】
+Jan 09 20:00:46 
+Jan 09 20:00:46 
+Jan 09 20:00:46 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 20:00:46 
+Jan 09 20:00:46 
+Jan 09 20:00:46 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUX6lfYWxCZEeRQ9iUpBXGJs9zMX7r】
+Jan 09 20:00:47 
+Jan 09 20:00:47 
+Jan 09 20:00:47 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 20:00:47 
+Jan 09 20:00:47 
+Jan 09 20:00:47 jd_GyKLGOwyLAnM 开始助力 助力池 【-K2qB_tNPzoUOUuRSdnCu3ClE5drP1o】
+Jan 09 20:00:48 
+Jan 09 20:00:48 
+Jan 09 20:00:48 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 20:00:48 
+Jan 09 20:00:48 
+Jan 09 20:00:48 jd_GyKLGOwyLAnM 开始助力 助力池 【dGRTgSiRsuzztphjBpfFu-37IFg】
+Jan 09 20:00:49 
+Jan 09 20:00:49 
+Jan 09 20:00:49 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 20:00:49 
+Jan 09 20:00:49 
+Jan 09 20:00:49 jd_GyKLGOwyLAnM 开始助力 助力池 【RtGKz-itFFuqfdHOE9Ix33jWqAixOPqzivCeFqK5W8kQt3IbeA】
+Jan 09 20:00:50 
+Jan 09 20:00:50 
+Jan 09 20:00:50 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 20:00:50 
+Jan 09 20:00:50 
+Jan 09 20:00:50 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUX60LYmMVYhSWQ93M_7pUEDhrxtmF】
+Jan 09 20:00:51 
+Jan 09 20:00:51 
+Jan 09 20:00:51 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 20:00:51 
+Jan 09 20:00:51 
+Jan 09 20:00:51 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUOfdTGjMmBlu9CrOQuyRTotqNh04】
+Jan 09 20:00:52 
+Jan 09 20:00:52 
+Jan 09 20:00:52 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 20:00:52 
+Jan 09 20:00:52 
+Jan 09 20:00:52 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXKwINWdCaxTCGd3Eo_gWRoxLkFdL】
+Jan 09 20:00:54 
+Jan 09 20:00:54 
+Jan 09 20:00:54 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 20:00:54 
+Jan 09 20:00:54 
+Jan 09 20:00:54 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXK4EMmESa0CQSdqQoVUpSU7r_Ym0】
+Jan 09 20:00:55 
+Jan 09 20:00:55 
+Jan 09 20:00:55 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 20:00:55 
+Jan 09 20:00:55 
+Jan 09 20:00:55 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUDfNNMgw8HGGtNoCju4iCDWaHuXc】
+Jan 09 20:00:56 
+Jan 09 20:00:56 
+Jan 09 20:00:56 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 20:00:56 
+Jan 09 20:00:57 
+Jan 09 20:00:57 🔔城城领现金, 结束! 🕛 57.343 秒
+Jan 09 20:00:57 
+Jan 09 21:00:00 
+Jan 09 21:00:00 🔔城城领现金, 开始!
+Jan 09 21:00:00 
+Jan 09 21:00:00 ====================共1个京东账号Cookie=========
+Jan 09 21:00:00 
+Jan 09 21:00:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 下午9:00:00=====================
+Jan 09 21:00:00 
+Jan 09 21:00:00 脚本不会自动抽奖，建议活动快结束开启，默认关闭(在10.29日自动开启抽奖),如需自动抽奖请设置环境变量  JD_CITY_EXCHANGE 为true
+Jan 09 21:00:00 
+Jan 09 21:00:00 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 09 21:00:00 
+Jan 09 21:00:00 
+Jan 09 21:00:00 ==============📣系统通知📣==============
+Jan 09 21:00:00 城城领现金
+Jan 09 21:00:00 【提示】cookie已失效
+Jan 09 21:00:00 京东账号1 jd_GyKLGOwyLAnM
+Jan 09 21:00:00 请重新登录获取
+Jan 09 21:00:00 https://bean.m.jd.com/bean/signIndex.action
+Jan 09 21:00:00 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 09 21:00:00 
+Jan 09 21:00:04 发送通知调用API失败！！
+Jan 09 21:00:04 
+Jan 09 21:00:04 RequestError: socket hang up
+Jan 09 21:00:04     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 09 21:00:04     at Object.onceWrapper (node:events:510:26)
+Jan 09 21:00:04     at ClientRequest.emit (node:events:402:35)
+Jan 09 21:00:04     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 09 21:00:04     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 09 21:00:04     at Socket.emit (node:events:402:35)
+Jan 09 21:00:04     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 09 21:00:04     at connResetException (node:internal/errors:691:14)
+Jan 09 21:00:04     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 09 21:00:04     at Socket.emit (node:events:402:35)
+Jan 09 21:00:04     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 09 21:00:04     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 09 21:00:04   code: 'ECONNRESET',
+Jan 09 21:00:04   timings: {
+Jan 09 21:00:04     start: 1641733203201,
+Jan 09 21:00:04     socket: 1641733203202,
+Jan 09 21:00:04     lookup: 1641733203203,
+Jan 09 21:00:04     connect: 1641733204458,
+Jan 09 21:00:04     secureConnect: undefined,
+Jan 09 21:00:04     upload: 1641733204458,
+Jan 09 21:00:04     response: undefined,
+Jan 09 21:00:04     end: undefined,
+Jan 09 21:00:04     error: 1641733204706,
+Jan 09 21:00:04     abort: undefined,
+Jan 09 21:00:04     phases: {
+Jan 09 21:00:04       wait: 1,
+Jan 09 21:00:04       dns: 1,
+Jan 09 21:00:04       tcp: 1255,
+Jan 09 21:00:04       tls: undefined,
+Jan 09 21:00:04       request: 0,
+Jan 09 21:00:04       firstByte: undefined,
+Jan 09 21:00:04       download: undefined,
+Jan 09 21:00:04       total: 1505
+Jan 09 21:00:04     }
+Jan 09 21:00:04   }
+Jan 09 21:00:04 }
+Jan 09 21:00:04 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 09 21:00:04 
+Jan 09 21:00:04 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 09 21:00:04 
+Jan 09 21:00:04 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 09 21:00:04 
+Jan 09 21:00:04 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 09 21:00:04 
+Jan 09 21:00:04 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 09 21:00:04 
+Jan 09 21:00:04 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 09 21:00:04 
+Jan 09 21:00:04 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 09 21:00:04 
+Jan 09 21:00:16 
+Jan 09 21:00:16 第1个京东账号将要助力的好友["-ryUX_8JM2dKZxXMH4jGpZgbDZVGDSfw","-ryUL8leIjUDAnSfNoCYu8ar4zkff9w","-ryUXagOMDFAMRuXSYmQ9fvalNRt20ai","-ryUXqUOb2EWa0SXHt_E8mjxxHf0SrBW","-ryUXaQFNTIXNUfGQojNo6DztNY13hRf","-ryUXK0LZmVDa0eXT93EpluBaePOebhI","-ryUXa0OZTYVMBWRQtyR91AGunl7CG9r","-ryUI_hkFwwiA3O9CZyPu4vf_SAbFtw","-ryUXqQOMGQVYEfGGImX8qN8Rc5qxrwG","-rmyGvRZJDgcMEmIBtuJu4eMag","-ryUX6kKYDdKYhTASYiW9xSQsVMNE1Ms","-ryUX64EY2ZAYhDDHNvMo3bgq78o8Fn2","-ryUXqtYYmVKZxvGHo3M8nUjMKLDUDJC","our8X6wFZmFLfhPCQt7E_gBqYpK29drw","-ryUX64MYWxLakTDT4_Font1ICMu4DEI","-ryUXKtZMGVEZhDGGdLB82bD17ElrJJb","-ryUXK4OZGdLZUDDSI3B9COpAMYStrmt","-ryUX60EZmIQahfMTt6R_vJnFAlC-06o","97ekDasOZWRFaxGIBtuJu8QPJw","-ryUX6xdM2ASZhfFQ4jG9RYWmrN6eCHo","-ryUBfV1JD4ABkGNG6OXu9dYD-YqNGA","-ryUXvgIYW1AYhLEGNzG8rDe06ZjSquB","-ryUXa1dY21KZhWQH9rF9-b-05zyho4q","TJASTT0225KkcRU8b8VKBIhn9wv4KdwCTdWnoaRzTcjeQOc","-ryUDfhaBT4aEViEL5ucu3B5I3gFkPo","-ryUXqhfYGxCMBDCHNnGpQBPTAvH4FRC","-ryUXPlaMmFEN0THTd7DpHTWuHr5M9DO","-ryUXa8NZDBGahTAHt_C_xMuqnsQKBM7","-ryUX6oPb21KNxqQS92Uojp3gMVc8NN0","-ryUMfh6PiwiHle-CKKxuyb9542foKo","-ryUCtFmLDsrA1aiGJ-vuy0mXtYPyTo","-ryUXPhaYzAVaxHHG4nDptMJUDmUPaa4","-ryUCN1XDiwSJGmcKaKFu3sFBqRvXQw","dGBXjA-Zs_DUtKtvnlFP_kpJY2CkOyKjTspq","RtGKl7XeCHbeD_LfUrxRmlx9WVWrSaA2_GvQCfTmhhqKUZ1H","VdqggrTxA0bvMoPWW5hqiH9R4BDMNTpOiS1s2Q","2oqYLcN7OyEyGhLETN2Ju2UlxRSXfA","ryUXPlZMmBBMUeSSNnAomgEGJthxEWd","-ryUXq4EYzJGNhTGTtzDovCSKzFdXGiz","ryUANtEEQEHOmuiFISlu2X4rH468yA","eVxmjCWPsdr6ZhLASd2JuzSZEvYXzA"]
+Jan 09 21:00:16 
+Jan 09 21:00:16 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUX_8JM2dKZxXMH4jGpZgbDZVGDSfw】
+Jan 09 21:00:18 
+Jan 09 21:00:18 
+Jan 09 21:00:18 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 21:00:18 
+Jan 09 21:00:18 
+Jan 09 21:00:18 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUL8leIjUDAnSfNoCYu8ar4zkff9w】
+Jan 09 21:00:19 
+Jan 09 21:00:19 
+Jan 09 21:00:19 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 21:00:19 
+Jan 09 21:00:19 
+Jan 09 21:00:19 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXagOMDFAMRuXSYmQ9fvalNRt20ai】
+Jan 09 21:00:20 
+Jan 09 21:00:20 
+Jan 09 21:00:20 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 21:00:20 
+Jan 09 21:00:20 
+Jan 09 21:00:20 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXqUOb2EWa0SXHt_E8mjxxHf0SrBW】
+Jan 09 21:00:21 
+Jan 09 21:00:21 
+Jan 09 21:00:21 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 21:00:21 
+Jan 09 21:00:21 
+Jan 09 21:00:21 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXaQFNTIXNUfGQojNo6DztNY13hRf】
+Jan 09 21:00:22 
+Jan 09 21:00:22 
+Jan 09 21:00:22 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 21:00:22 
+Jan 09 21:00:22 
+Jan 09 21:00:22 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXK0LZmVDa0eXT93EpluBaePOebhI】
+Jan 09 21:00:23 
+Jan 09 21:00:23 
+Jan 09 21:00:23 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 21:00:23 
+Jan 09 21:00:23 
+Jan 09 21:00:23 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXa0OZTYVMBWRQtyR91AGunl7CG9r】
+Jan 09 21:00:24 
+Jan 09 21:00:24 
+Jan 09 21:00:24 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 21:00:24 
+Jan 09 21:00:24 
+Jan 09 21:00:24 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUI_hkFwwiA3O9CZyPu4vf_SAbFtw】
+Jan 09 21:00:25 
+Jan 09 21:00:25 
+Jan 09 21:00:25 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 21:00:25 
+Jan 09 21:00:25 
+Jan 09 21:00:25 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXqQOMGQVYEfGGImX8qN8Rc5qxrwG】
+Jan 09 21:00:27 
+Jan 09 21:00:27 
+Jan 09 21:00:27 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 21:00:27 
+Jan 09 21:00:27 
+Jan 09 21:00:27 jd_GyKLGOwyLAnM 开始助力 助力池 【-rmyGvRZJDgcMEmIBtuJu4eMag】
+Jan 09 21:00:28 
+Jan 09 21:00:28 
+Jan 09 21:00:28 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 21:00:28 
+Jan 09 21:00:28 
+Jan 09 21:00:28 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUX6kKYDdKYhTASYiW9xSQsVMNE1Ms】
+Jan 09 21:00:29 
+Jan 09 21:00:29 
+Jan 09 21:00:29 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 21:00:29 
+Jan 09 21:00:29 
+Jan 09 21:00:29 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUX64EY2ZAYhDDHNvMo3bgq78o8Fn2】
+Jan 09 21:00:30 
+Jan 09 21:00:30 
+Jan 09 21:00:30 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 21:00:30 
+Jan 09 21:00:30 
+Jan 09 21:00:30 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXqtYYmVKZxvGHo3M8nUjMKLDUDJC】
+Jan 09 21:00:31 
+Jan 09 21:00:31 
+Jan 09 21:00:31 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 21:00:31 
+Jan 09 21:00:31 
+Jan 09 21:00:31 jd_GyKLGOwyLAnM 开始助力 助力池 【our8X6wFZmFLfhPCQt7E_gBqYpK29drw】
+Jan 09 21:00:32 
+Jan 09 21:00:32 
+Jan 09 21:00:32 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 21:00:32 
+Jan 09 21:00:32 
+Jan 09 21:00:32 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUX64MYWxLakTDT4_Font1ICMu4DEI】
+Jan 09 21:00:33 
+Jan 09 21:00:33 
+Jan 09 21:00:33 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 21:00:33 
+Jan 09 21:00:33 
+Jan 09 21:00:33 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXKtZMGVEZhDGGdLB82bD17ElrJJb】
+Jan 09 21:00:35 
+Jan 09 21:00:35 
+Jan 09 21:00:35 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 21:00:35 
+Jan 09 21:00:35 
+Jan 09 21:00:35 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXK4OZGdLZUDDSI3B9COpAMYStrmt】
+Jan 09 21:00:36 
+Jan 09 21:00:36 
+Jan 09 21:00:36 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 21:00:36 
+Jan 09 21:00:36 
+Jan 09 21:00:36 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUX60EZmIQahfMTt6R_vJnFAlC-06o】
+Jan 09 21:00:37 
+Jan 09 21:00:37 
+Jan 09 21:00:37 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 21:00:37 
+Jan 09 21:00:37 
+Jan 09 21:00:37 jd_GyKLGOwyLAnM 开始助力 助力池 【97ekDasOZWRFaxGIBtuJu8QPJw】
+Jan 09 21:00:38 
+Jan 09 21:00:38 
+Jan 09 21:00:38 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 21:00:38 
+Jan 09 21:00:38 
+Jan 09 21:00:38 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUX6xdM2ASZhfFQ4jG9RYWmrN6eCHo】
+Jan 09 21:00:39 
+Jan 09 21:00:39 
+Jan 09 21:00:39 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 21:00:39 
+Jan 09 21:00:39 
+Jan 09 21:00:39 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUBfV1JD4ABkGNG6OXu9dYD-YqNGA】
+Jan 09 21:00:40 
+Jan 09 21:00:40 
+Jan 09 21:00:40 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 21:00:40 
+Jan 09 21:00:40 
+Jan 09 21:00:40 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXvgIYW1AYhLEGNzG8rDe06ZjSquB】
+Jan 09 21:00:41 
+Jan 09 21:00:41 
+Jan 09 21:00:41 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 21:00:41 
+Jan 09 21:00:41 
+Jan 09 21:00:41 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXa1dY21KZhWQH9rF9-b-05zyho4q】
+Jan 09 21:00:43 
+Jan 09 21:00:43 
+Jan 09 21:00:43 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 21:00:43 
+Jan 09 21:00:43 
+Jan 09 21:00:43 jd_GyKLGOwyLAnM 开始助力 助力池 【TJASTT0225KkcRU8b8VKBIhn9wv4KdwCTdWnoaRzTcjeQOc】
+Jan 09 21:00:44 
+Jan 09 21:00:44 
+Jan 09 21:00:44 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 21:00:44 
+Jan 09 21:00:44 
+Jan 09 21:00:44 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUDfhaBT4aEViEL5ucu3B5I3gFkPo】
+Jan 09 21:00:45 
+Jan 09 21:00:45 
+Jan 09 21:00:45 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 21:00:45 
+Jan 09 21:00:45 
+Jan 09 21:00:45 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXqhfYGxCMBDCHNnGpQBPTAvH4FRC】
+Jan 09 21:00:46 
+Jan 09 21:00:46 
+Jan 09 21:00:46 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 21:00:46 
+Jan 09 21:00:46 
+Jan 09 21:00:46 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXPlaMmFEN0THTd7DpHTWuHr5M9DO】
+Jan 09 21:00:47 
+Jan 09 21:00:47 
+Jan 09 21:00:47 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 21:00:47 
+Jan 09 21:00:47 
+Jan 09 21:00:47 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXa8NZDBGahTAHt_C_xMuqnsQKBM7】
+Jan 09 21:00:48 
+Jan 09 21:00:48 
+Jan 09 21:00:48 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 21:00:48 
+Jan 09 21:00:48 
+Jan 09 21:00:48 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUX6oPb21KNxqQS92Uojp3gMVc8NN0】
+Jan 09 21:00:49 
+Jan 09 21:00:49 
+Jan 09 21:00:49 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 21:00:49 
+Jan 09 21:00:49 
+Jan 09 21:00:49 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUMfh6PiwiHle-CKKxuyb9542foKo】
+Jan 09 21:00:51 
+Jan 09 21:00:51 
+Jan 09 21:00:51 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 21:00:51 
+Jan 09 21:00:51 
+Jan 09 21:00:51 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUCtFmLDsrA1aiGJ-vuy0mXtYPyTo】
+Jan 09 21:00:52 
+Jan 09 21:00:52 
+Jan 09 21:00:52 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 21:00:52 
+Jan 09 21:00:52 
+Jan 09 21:00:52 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXPhaYzAVaxHHG4nDptMJUDmUPaa4】
+Jan 09 21:00:53 
+Jan 09 21:00:53 
+Jan 09 21:00:53 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 21:00:53 
+Jan 09 21:00:53 
+Jan 09 21:00:53 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUCN1XDiwSJGmcKaKFu3sFBqRvXQw】
+Jan 09 21:00:54 
+Jan 09 21:00:54 
+Jan 09 21:00:54 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 21:00:54 
+Jan 09 21:00:54 
+Jan 09 21:00:54 jd_GyKLGOwyLAnM 开始助力 助力池 【dGBXjA-Zs_DUtKtvnlFP_kpJY2CkOyKjTspq】
+Jan 09 21:00:55 
+Jan 09 21:00:55 
+Jan 09 21:00:55 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 21:00:55 
+Jan 09 21:00:55 
+Jan 09 21:00:55 jd_GyKLGOwyLAnM 开始助力 助力池 【RtGKl7XeCHbeD_LfUrxRmlx9WVWrSaA2_GvQCfTmhhqKUZ1H】
+Jan 09 21:00:56 
+Jan 09 21:00:56 
+Jan 09 21:00:56 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 21:00:56 
+Jan 09 21:00:56 
+Jan 09 21:00:56 jd_GyKLGOwyLAnM 开始助力 助力池 【VdqggrTxA0bvMoPWW5hqiH9R4BDMNTpOiS1s2Q】
+Jan 09 21:00:57 
+Jan 09 21:00:57 
+Jan 09 21:00:57 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 21:00:57 
+Jan 09 21:00:57 
+Jan 09 21:00:57 jd_GyKLGOwyLAnM 开始助力 助力池 【2oqYLcN7OyEyGhLETN2Ju2UlxRSXfA】
+Jan 09 21:00:58 
+Jan 09 21:00:58 
+Jan 09 21:00:58 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 21:00:58 
+Jan 09 21:00:58 
+Jan 09 21:00:58 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUXPlZMmBBMUeSSNnAomgEGJthxEWd】
+Jan 09 21:01:00 
+Jan 09 21:01:00 
+Jan 09 21:01:00 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 21:01:00 
+Jan 09 21:01:00 
+Jan 09 21:01:00 jd_GyKLGOwyLAnM 开始助力 助力池 【-ryUXq4EYzJGNhTGTtzDovCSKzFdXGiz】
+Jan 09 21:01:01 
+Jan 09 21:01:01 
+Jan 09 21:01:01 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 21:01:01 
+Jan 09 21:01:01 
+Jan 09 21:01:01 jd_GyKLGOwyLAnM 开始助力 助力池 【ryUANtEEQEHOmuiFISlu2X4rH468yA】
+Jan 09 21:01:02 
+Jan 09 21:01:02 
+Jan 09 21:01:02 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 21:01:02 
+Jan 09 21:01:02 
+Jan 09 21:01:02 jd_GyKLGOwyLAnM 开始助力 助力池 【eVxmjCWPsdr6ZhLASd2JuzSZEvYXzA】
+Jan 09 21:01:03 
+Jan 09 21:01:03 
+Jan 09 21:01:03 city_getHomeData失败:{"code":-30001,"msg":"登陆失败"}
+Jan 09 21:01:03 
+Jan 09 21:01:04 
+Jan 09 21:01:04 🔔城城领现金, 结束! 🕛 64.432 秒
+Jan 09 21:01:04 

@@ -1,0 +1,112 @@
+Jan 07 02:10:00 
+Jan 07 02:10:00 🔔京喜签到-喜豆, 开始!
+Jan 07 02:10:00 
+Jan 07 02:10:00 ====================共1个京东账号Cookie=========
+Jan 07 02:10:00 
+Jan 07 02:10:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 上午2:10:00=====================
+Jan 07 02:10:00 
+Jan 07 02:10:01 获取签名参数成功！
+Jan 07 02:10:01 fp: 3549530349957164
+Jan 07 02:10:01 token: tk01wb14b1bc130nkDc4wNaZ17SLjoZejqsNJc8aZ33fmqJg1dcsCfUD8KsfCkfQkTXoC9IlKtTU3pnj4REix+6D3F46
+Jan 07 02:10:01 enCryptMethodJD: function test(tk,fp,ts,ai,algo){var rd='RkCohrAwMgGe';var str=`${tk}${fp}${ts}${ai}${rd}`;return algo.SHA256(str)}
+Jan 07 02:10:02 
+Jan 07 02:10:02 ******开始【京东账号1】15305562330_p*********
+Jan 07 02:10:02 
+Jan 07 02:10:04 开始做喜豆任务
+Jan 07 02:10:04 {"errmsg":"sqactive error","getniu":0,"nexttime":0,"prizetype":0,"ret":1,"sendhb":"0","sendxd":0,"todayamount":"0"}
+Jan 07 02:10:06 
+Jan 07 02:10:06 🔔京喜签到-喜豆, 结束! 🕛 5.883 秒
+Jan 07 02:10:06 
+Jan 07 09:10:00 
+Jan 07 09:10:00 🔔京喜签到-喜豆, 开始!
+Jan 07 09:10:00 
+Jan 07 09:10:00 ====================共1个京东账号Cookie=========
+Jan 07 09:10:00 
+Jan 07 09:10:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 上午9:10:00=====================
+Jan 07 09:10:00 
+Jan 07 09:10:02 获取签名参数成功！
+Jan 07 09:10:02 fp: 9730767157128164
+Jan 07 09:10:02 token: tk01w87fd1ade30nmn3ZafzHjied3giS99uBx0t2Dq48QTK1Hb02D9GRXZmBVYAkpWKKE29n8WN4Tmavf272at3RPj7k
+Jan 07 09:10:02 enCryptMethodJD: function test(tk,fp,ts,ai,algo){var rd='Pm/3s536km+X';var str=`${tk}${fp}${ts}${ai}${rd}`;return algo.HmacSHA256(str,tk)}
+Jan 07 09:10:03 
+Jan 07 09:10:03 ******开始【京东账号1】15305562330_p*********
+Jan 07 09:10:03 
+Jan 07 09:10:05 开始做喜豆任务
+Jan 07 09:10:05 {"errmsg":"sqactive error","getniu":0,"nexttime":0,"prizetype":0,"ret":1,"sendhb":"0","sendxd":0,"todayamount":"0"}
+Jan 07 09:10:07 
+Jan 07 09:10:07 🔔京喜签到-喜豆, 结束! 🕛 6.987 秒
+Jan 07 09:10:07 
+Jan 08 02:10:00 
+Jan 08 02:10:00 🔔京喜签到-喜豆, 开始!
+Jan 08 02:10:00 
+Jan 08 02:10:00 ====================共1个京东账号Cookie=========
+Jan 08 02:10:00 
+Jan 08 02:10:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 上午2:10:00=====================
+Jan 08 02:10:00 
+Jan 08 02:10:01 获取签名参数成功！
+Jan 08 02:10:01 fp: 5732841058237164
+Jan 08 02:10:01 token: tk01w9dd61c3630nME9LMX4FbhyvC8pW/eLZSdgfMMTdPZLclNgHi2hJd96UFokXXilkKgbUZ9xck9DffdIlPg6LBIYd
+Jan 08 02:10:01 enCryptMethodJD: function test(tk,fp,ts,ai,algo){var rd='r0zChq4lo7T/';var str=`${tk}${fp}${ts}${ai}${rd}`;return algo.SHA256(str)}
+Jan 08 02:10:01 
+Jan 08 02:10:01 ******开始【京东账号1】15305562330_p*********
+Jan 08 02:10:01 
+Jan 08 02:10:04 开始做喜豆任务
+Jan 08 02:10:04 {"errmsg":"sqactive error","getniu":0,"nexttime":0,"prizetype":0,"ret":1,"sendhb":"0","sendxd":0,"todayamount":"0"}
+Jan 08 02:10:06 
+Jan 08 02:10:06 🔔京喜签到-喜豆, 结束! 🕛 5.839 秒
+Jan 08 02:10:06 
+Jan 08 09:10:01 
+Jan 08 09:10:01 🔔京喜签到-喜豆, 开始!
+Jan 08 09:10:01 
+Jan 08 09:10:01 ====================共1个京东账号Cookie=========
+Jan 08 09:10:01 
+Jan 08 09:10:02 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 上午9:10:01=====================
+Jan 08 09:10:02 
+Jan 08 09:10:03 获取签名参数成功！
+Jan 08 09:10:03 fp: 6848806282525164
+Jan 08 09:10:03 token: tk01wb7a51cc730n2m8YeXSZiXzCY9bdDMLOcqv4jc1RiHsRtecGJVSGY1Qy/Td/utesxKLjkThExg1rgwene8J3GCsG
+Jan 08 09:10:03 enCryptMethodJD: function test(tk,fp,ts,ai,algo){var rd='TFrQvcrrNtsX';var str=`${tk}${fp}${ts}${ai}${rd}`;return algo.MD5(str)}
+Jan 08 09:10:04 
+Jan 08 09:10:04 ******开始【京东账号1】15305562330_p*********
+Jan 08 09:10:04 
+Jan 08 09:10:06 喜豆任务已完成
+Jan 08 09:10:06 
+Jan 08 09:10:06 🔔京喜签到-喜豆, 结束! 🕛 4.699 秒
+Jan 08 09:10:06 
+Jan 09 02:10:00 
+Jan 09 02:10:00 🔔京喜签到-喜豆, 开始!
+Jan 09 02:10:00 
+Jan 09 02:10:00 ====================共1个京东账号Cookie=========
+Jan 09 02:10:00 
+Jan 09 02:10:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 上午2:10:00=====================
+Jan 09 02:10:00 
+Jan 09 02:10:00 获取签名参数成功！
+Jan 09 02:10:00 fp: 7711728376452164
+Jan 09 02:10:00 token: tk01wb6db1c8d30nu6Bzr1BxcUY1iEY/HvBpwC1tfZyQbzhJjboCm9y9A2pEcK6Wq9v9+q3yHqjqlYJpBFsQ/BSzWZxA
+Jan 09 02:10:00 enCryptMethodJD: function test(tk,fp,ts,ai,algo){var rd='lnFCGPhnCtpP';var str=`${tk}${fp}${ts}${ai}${rd}`;return algo.SHA512(str)}
+Jan 09 02:10:01 
+Jan 09 02:10:01 ******开始【京东账号1】15305562330_p*********
+Jan 09 02:10:01 
+Jan 09 02:10:03 开始做喜豆任务
+Jan 09 02:10:04 {"errmsg":"sqactive error","getniu":0,"nexttime":0,"prizetype":0,"ret":1,"sendhb":"0","sendxd":0,"todayamount":"0"}
+Jan 09 02:10:06 
+Jan 09 02:10:06 🔔京喜签到-喜豆, 结束! 🕛 5.766 秒
+Jan 09 02:10:06 
+Jan 09 09:10:01 
+Jan 09 09:10:01 🔔京喜签到-喜豆, 开始!
+Jan 09 09:10:01 
+Jan 09 09:10:01 ====================共1个京东账号Cookie=========
+Jan 09 09:10:01 
+Jan 09 09:10:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 上午9:10:01=====================
+Jan 09 09:10:01 
+Jan 09 09:10:02 获取签名参数成功！
+Jan 09 09:10:02 fp: 9048088814154164
+Jan 09 09:10:02 token: tk01wc9761c3d30noFsgSoVwoBr0tYZqn1jrq2P64XZnbTP1UZEpUbDYxMy+INVNhq8a7Cligr50RbxHCgdJHx7+GJYI
+Jan 09 09:10:02 enCryptMethodJD: function test(tk,fp,ts,ai,algo){var rd='4155OjalliMH';var str=`${tk}${fp}${ts}${ai}${rd}`;return algo.HmacSHA256(str,tk)}
+Jan 09 09:10:03 
+Jan 09 09:10:03 ******开始【京东账号1】15305562330_p*********
+Jan 09 09:10:03 
+Jan 09 09:10:05 喜豆任务已完成
+Jan 09 09:10:05 
+Jan 09 09:10:05 🔔京喜签到-喜豆, 结束! 🕛 4.508 秒
+Jan 09 09:10:05 

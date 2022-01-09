@@ -1,0 +1,2054 @@
+Jan 07 00:23:00 
+Jan 07 00:23:00 🔔京东摇钱树, 开始!
+Jan 07 00:23:00 
+Jan 07 00:23:00 ====================共1个京东账号Cookie=========
+Jan 07 00:23:00 
+Jan 07 00:23:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 上午12:23:00=====================
+Jan 07 00:23:00 
+Jan 07 00:23:01 
+Jan 07 00:23:01 ****开始【京东账号1】jd_739d55b768da0****
+Jan 07 00:23:01 
+Jan 07 00:23:01 初始化摇钱树个人信息
+Jan 07 00:23:01 resultCode为0
+Jan 07 00:23:02 每日签到条件查询:可以签到
+Jan 07 00:23:02 准备每日签到
+Jan 07 00:23:03 第3日签到结果:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"result":true}},"channelEncrypt":0}
+Jan 07 00:23:03 开始做任务userInfo了
+Jan 07 00:23:03 
+Jan 07 00:23:05 canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":0,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
+Jan 07 00:23:05 
+Jan 07 00:23:05 浏览任务列表taskInfo::[{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":667,"prizeAmount":1000,"workType":7}]
+Jan 07 00:23:05 
+Jan 07 00:23:05 三餐签到任务不在时间范围内
+Jan 07 00:23:05 开始做分享任务
+Jan 07 00:23:05 
+Jan 07 00:23:06 开始分享的动作:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"操作成功","nextStatus":1,"opResult":0}},"channelEncrypt":0}
+Jan 07 00:23:06 开始做领取分享后的奖励
+Jan 07 00:23:06 
+Jan 07 00:23:07 领取分享后的奖励:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"操作成功","opResult":0,"prizeAmount":500}},"channelEncrypt":0}
+Jan 07 00:23:07 开始做浏览任务
+Jan 07 00:23:08 missionId为666：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 00:23:09 missionId为666：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 00:23:11 missionId为666：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 00:23:12 missionId为666：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 00:23:13 missionId为666：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 00:23:14 missionId为666：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 00:23:15 missionId为666：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 00:23:15 浏览店铺任务结束
+Jan 07 00:23:15 开始领取浏览后的奖励
+Jan 07 00:23:16 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"领取成功","opResult":0,"prizeAmount":1000,"nextStatus":2}},"channelEncrypt":0}
+Jan 07 00:23:16 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"领取成功","opResult":0,"prizeAmount":1000,"nextStatus":2}},"channelEncrypt":0}
+Jan 07 00:23:16 开始做浏览任务
+Jan 07 00:23:18 missionId为667：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 00:23:19 missionId为667：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 00:23:20 missionId为667：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 00:23:21 missionId为667：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 00:23:22 missionId为667：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 00:23:24 missionId为667：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 00:23:25 missionId为667：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 00:23:25 浏览店铺任务结束
+Jan 07 00:23:25 开始领取浏览后的奖励
+Jan 07 00:23:26 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"领取成功","opResult":0,"prizeAmount":1000,"nextStatus":2}},"channelEncrypt":0}
+Jan 07 00:23:26 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"领取成功","opResult":0,"prizeAmount":1000,"nextStatus":2}},"channelEncrypt":0}
+Jan 07 00:23:27 
+Jan 07 00:23:27 收获金果成功:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"goToApp":false,"limitedTimeTask":true,"upgrade":false,"overTime":43200000,"treeInfo":{"upgradeDemand":10000000,"treeName":"23级繁茂大树","progressLeft":"81.7%","level":23,"fruit":8183758,"fruitOnTree":0,"workerSum":4,"capacity":80000},"bigAwardTask":false,"fruitNumInLimitedTimeTask":2000}},"channelEncrypt":0}
+Jan 07 00:23:27 
+Jan 07 00:23:27 目前金果数量8183758
+Jan 07 00:23:28 卖出金果成功，获得0.07金贴
+Jan 07 00:23:28 
+Jan 07 00:23:30 金贴和金果数量：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":84,"gaAmount":8127758,"canGoldcoin":16288}},"channelEncrypt":0}
+Jan 07 00:23:31 今日已偷过好友的金果了，暂无好友可偷，请明天再来
+Jan 07 00:23:31 
+Jan 07 00:23:31 
+Jan 07 00:23:31 【距离24级摇钱树还差】81.7%
+Jan 07 00:23:31 【我的金果数量】8127758
+Jan 07 00:23:31 【我的金贴数量】0.84
+Jan 07 00:23:31 
+Jan 07 00:23:31 
+Jan 07 00:23:31 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 07 00:23:31 
+Jan 07 00:23:35 发送通知调用API失败！！
+Jan 07 00:23:35 
+Jan 07 00:23:35 RequestError: socket hang up
+Jan 07 00:23:35     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 07 00:23:35     at Object.onceWrapper (node:events:510:26)
+Jan 07 00:23:35     at ClientRequest.emit (node:events:402:35)
+Jan 07 00:23:35     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 07 00:23:35     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 07 00:23:35     at Socket.emit (node:events:402:35)
+Jan 07 00:23:35     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 07 00:23:35     at connResetException (node:internal/errors:691:14)
+Jan 07 00:23:35     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 07 00:23:35     at Socket.emit (node:events:402:35)
+Jan 07 00:23:35     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 07 00:23:35     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 07 00:23:35   code: 'ECONNRESET',
+Jan 07 00:23:35   timings: {
+Jan 07 00:23:35     start: 1641486213726,
+Jan 07 00:23:35     socket: 1641486213726,
+Jan 07 00:23:35     lookup: 1641486213727,
+Jan 07 00:23:35     connect: 1641486214965,
+Jan 07 00:23:35     secureConnect: undefined,
+Jan 07 00:23:35     upload: 1641486214965,
+Jan 07 00:23:35     response: undefined,
+Jan 07 00:23:35     end: undefined,
+Jan 07 00:23:35     error: 1641486215203,
+Jan 07 00:23:35     abort: undefined,
+Jan 07 00:23:35     phases: {
+Jan 07 00:23:35       wait: 0,
+Jan 07 00:23:35       dns: 1,
+Jan 07 00:23:35       tcp: 1238,
+Jan 07 00:23:35       tls: undefined,
+Jan 07 00:23:35       request: 0,
+Jan 07 00:23:35       firstByte: undefined,
+Jan 07 00:23:35       download: undefined,
+Jan 07 00:23:35       total: 1477
+Jan 07 00:23:35     }
+Jan 07 00:23:35   }
+Jan 07 00:23:35 }
+Jan 07 00:23:35 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 07 00:23:35 
+Jan 07 00:23:35 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 07 00:23:35 
+Jan 07 00:23:35 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 07 00:23:35 
+Jan 07 00:23:35 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 07 00:23:35 
+Jan 07 00:23:35 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 07 00:23:35 
+Jan 07 00:23:35 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 07 00:23:35 
+Jan 07 00:23:35 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 07 00:23:35 
+Jan 07 00:23:35 
+Jan 07 00:23:35 ==============📣系统通知📣==============
+Jan 07 00:23:35 京东摇钱树
+Jan 07 00:23:35 账号1：jd_739d55b768da0
+Jan 07 00:23:35 今日成功卖出5.6万金果，获得0.07金贴
+Jan 07 00:23:35 
+Jan 07 00:23:35 🔔京东摇钱树, 结束! 🕛 34.445 秒
+Jan 07 00:23:35 
+Jan 07 02:23:00 
+Jan 07 02:23:00 🔔京东摇钱树, 开始!
+Jan 07 02:23:01 
+Jan 07 02:23:01 ====================共1个京东账号Cookie=========
+Jan 07 02:23:01 
+Jan 07 02:23:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 上午2:23:01=====================
+Jan 07 02:23:01 
+Jan 07 02:23:01 
+Jan 07 02:23:01 ****开始【京东账号1】jd_739d55b768da0****
+Jan 07 02:23:01 
+Jan 07 02:23:01 初始化摇钱树个人信息
+Jan 07 02:23:01 resultCode为0
+Jan 07 02:23:05 每日签到条件查询:已经签到过了
+Jan 07 02:23:05 开始做任务userInfo了
+Jan 07 02:23:05 
+Jan 07 02:23:08 canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
+Jan 07 02:23:08 
+Jan 07 02:23:08 浏览任务列表taskInfo::[{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":667,"prizeAmount":1000,"workType":7}]
+Jan 07 02:23:08 
+Jan 07 02:23:08 三餐签到任务不在时间范围内
+Jan 07 02:23:08 分享任务已经做过
+Jan 07 02:23:08 开始做浏览任务
+Jan 07 02:23:09 missionId为666：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 02:23:10 missionId为666：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 02:23:11 missionId为666：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 02:23:12 missionId为666：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 02:23:13 missionId为666：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 02:23:15 missionId为666：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 02:23:16 missionId为666：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 02:23:16 浏览店铺任务结束
+Jan 07 02:23:16 开始领取浏览后的奖励
+Jan 07 02:23:17 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 07 02:23:17 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 07 02:23:17 开始做浏览任务
+Jan 07 02:23:18 missionId为667：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 02:23:19 missionId为667：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 02:23:21 missionId为667：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 02:23:22 missionId为667：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 02:23:23 missionId为667：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 02:23:24 missionId为667：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 02:23:25 missionId为667：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 02:23:25 浏览店铺任务结束
+Jan 07 02:23:25 开始领取浏览后的奖励
+Jan 07 02:23:26 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 07 02:23:26 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 07 02:23:28 
+Jan 07 02:23:28 收获金果成功:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"goToApp":false,"limitedTimeTask":false,"upgrade":false,"treeInfo":{"upgradeDemand":10000000,"treeName":"23级繁茂大树","progressLeft":"81.6%","level":23,"fruit":8134958,"fruitOnTree":0,"workerSum":4,"capacity":80000},"bigAwardTask":false,"fruitNumInLimitedTimeTask":0}},"channelEncrypt":0}
+Jan 07 02:23:28 
+Jan 07 02:23:28 目前金果数量8134958
+Jan 07 02:23:28 
+Jan 07 02:23:28 今日已卖出5.6万金果(已达上限)，获得0.07金贴
+Jan 07 02:23:28 
+Jan 07 02:23:29 金贴和金果数量：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":84,"gaAmount":8134958,"canGoldcoin":16302}},"channelEncrypt":0}
+Jan 07 02:23:30 今日已偷过好友的金果了，暂无好友可偷，请明天再来
+Jan 07 02:23:30 
+Jan 07 02:23:30 
+Jan 07 02:23:30 【距离24级摇钱树还差】81.6%
+Jan 07 02:23:30 【我的金果数量】8134958
+Jan 07 02:23:30 【我的金贴数量】0.84
+Jan 07 02:23:30 
+Jan 07 02:23:30 
+Jan 07 02:23:30 
+Jan 07 02:23:30 🔔京东摇钱树, 结束! 🕛 29.528 秒
+Jan 07 02:23:30 
+Jan 07 04:23:01 
+Jan 07 04:23:01 🔔京东摇钱树, 开始!
+Jan 07 04:23:01 
+Jan 07 04:23:01 ====================共1个京东账号Cookie=========
+Jan 07 04:23:01 
+Jan 07 04:23:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 上午4:23:01=====================
+Jan 07 04:23:01 
+Jan 07 04:23:01 
+Jan 07 04:23:01 ****开始【京东账号1】jd_739d55b768da0****
+Jan 07 04:23:01 
+Jan 07 04:23:01 初始化摇钱树个人信息
+Jan 07 04:23:02 resultCode为0
+Jan 07 04:23:02 
+Jan 07 04:23:02 🔔京东摇钱树, 结束! 🕛 1.122 秒
+Jan 07 04:23:02 
+Jan 07 06:23:00 
+Jan 07 06:23:00 🔔京东摇钱树, 开始!
+Jan 07 06:23:00 
+Jan 07 06:23:00 ====================共1个京东账号Cookie=========
+Jan 07 06:23:00 
+Jan 07 06:23:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 上午6:23:00=====================
+Jan 07 06:23:00 
+Jan 07 06:23:00 
+Jan 07 06:23:00 ****开始【京东账号1】jd_739d55b768da0****
+Jan 07 06:23:00 
+Jan 07 06:23:00 初始化摇钱树个人信息
+Jan 07 06:23:02 resultCode为0
+Jan 07 06:23:03 每日签到条件查询:已经签到过了
+Jan 07 06:23:03 开始做任务userInfo了
+Jan 07 06:23:03 
+Jan 07 06:23:04 canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
+Jan 07 06:23:04 
+Jan 07 06:23:04 浏览任务列表taskInfo::[{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":667,"prizeAmount":1000,"workType":7}]
+Jan 07 06:23:04 
+Jan 07 06:23:04 三餐签到任务不在时间范围内
+Jan 07 06:23:04 分享任务已经做过
+Jan 07 06:23:04 开始做浏览任务
+Jan 07 06:23:06 missionId为666：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 06:23:07 missionId为666：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 06:23:08 missionId为666：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 06:23:09 missionId为666：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 06:23:10 missionId为666：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 06:23:11 missionId为666：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 06:23:13 missionId为666：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 06:23:13 浏览店铺任务结束
+Jan 07 06:23:13 开始领取浏览后的奖励
+Jan 07 06:23:14 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 07 06:23:14 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 07 06:23:14 开始做浏览任务
+Jan 07 06:23:15 missionId为667：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 06:23:16 missionId为667：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 06:23:17 missionId为667：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 06:23:19 missionId为667：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 06:23:20 missionId为667：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 06:23:21 missionId为667：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 06:23:22 missionId为667：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 06:23:22 浏览店铺任务结束
+Jan 07 06:23:22 开始领取浏览后的奖励
+Jan 07 06:23:23 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 07 06:23:23 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 07 06:23:24 
+Jan 07 06:23:24 收获金果成功:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"goToApp":false,"limitedTimeTask":false,"upgrade":false,"treeInfo":{"upgradeDemand":10000000,"treeName":"23级繁茂大树","progressLeft":"81.5%","level":23,"fruit":8149354,"fruitOnTree":0,"workerSum":4,"capacity":80000},"bigAwardTask":false,"fruitNumInLimitedTimeTask":0}},"channelEncrypt":0}
+Jan 07 06:23:24 
+Jan 07 06:23:24 目前金果数量8149354
+Jan 07 06:23:24 
+Jan 07 06:23:24 今日已卖出5.6万金果(已达上限)，获得0.07金贴
+Jan 07 06:23:24 
+Jan 07 06:23:26 金贴和金果数量：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":84,"gaAmount":8149354,"canGoldcoin":16331}},"channelEncrypt":0}
+Jan 07 06:23:27 今日已偷过好友的金果了，暂无好友可偷，请明天再来
+Jan 07 06:23:27 
+Jan 07 06:23:27 
+Jan 07 06:23:27 【距离24级摇钱树还差】81.5%
+Jan 07 06:23:27 【我的金果数量】8149354
+Jan 07 06:23:27 【我的金贴数量】0.84
+Jan 07 06:23:27 
+Jan 07 06:23:27 
+Jan 07 06:23:27 
+Jan 07 06:23:27 🔔京东摇钱树, 结束! 🕛 27.179 秒
+Jan 07 06:23:27 
+Jan 07 08:23:00 
+Jan 07 08:23:00 🔔京东摇钱树, 开始!
+Jan 07 08:23:00 
+Jan 07 08:23:00 ====================共1个京东账号Cookie=========
+Jan 07 08:23:00 
+Jan 07 08:23:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 上午8:23:00=====================
+Jan 07 08:23:00 
+Jan 07 08:23:01 
+Jan 07 08:23:01 ****开始【京东账号1】jd_739d55b768da0****
+Jan 07 08:23:01 
+Jan 07 08:23:01 初始化摇钱树个人信息
+Jan 07 08:23:01 resultCode为0
+Jan 07 08:23:09 每日签到条件查询:已经签到过了
+Jan 07 08:23:09 开始做任务userInfo了
+Jan 07 08:23:09 
+Jan 07 08:23:10 canTask::[{"workStatus":0,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
+Jan 07 08:23:10 
+Jan 07 08:23:10 浏览任务列表taskInfo::[{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":667,"prizeAmount":1000,"workType":7}]
+Jan 07 08:23:10 
+Jan 07 08:23:10 开始三餐签到
+Jan 07 08:23:12 三餐签到结果:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"操作成功","opResult":0,"prizeAmount":200}},"channelEncrypt":0}
+Jan 07 08:23:12 分享任务已经做过
+Jan 07 08:23:12 开始做浏览任务
+Jan 07 08:23:13 missionId为666：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 08:23:14 missionId为666：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 08:23:15 missionId为666：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 08:23:16 missionId为666：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 08:23:17 missionId为666：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 08:23:18 missionId为666：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 08:23:20 missionId为666：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 08:23:20 浏览店铺任务结束
+Jan 07 08:23:20 开始领取浏览后的奖励
+Jan 07 08:23:21 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 07 08:23:21 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 07 08:23:21 开始做浏览任务
+Jan 07 08:23:22 missionId为667：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 08:23:23 missionId为667：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 08:23:24 missionId为667：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 08:23:26 missionId为667：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 08:23:27 missionId为667：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 08:23:28 missionId为667：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 08:23:29 missionId为667：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 08:23:29 浏览店铺任务结束
+Jan 07 08:23:29 开始领取浏览后的奖励
+Jan 07 08:23:30 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 07 08:23:30 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 07 08:23:31 
+Jan 07 08:23:31 收获金果成功:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"goToApp":false,"limitedTimeTask":false,"upgrade":false,"treeInfo":{"upgradeDemand":10000000,"progressLeft":"81.4%","treeName":"23级繁茂大树","level":23,"fruit":8156760,"fruitOnTree":0,"workerSum":4,"capacity":80000},"bigAwardTask":false,"fruitNumInLimitedTimeTask":0}},"channelEncrypt":0}
+Jan 07 08:23:31 
+Jan 07 08:23:31 目前金果数量8156760
+Jan 07 08:23:31 
+Jan 07 08:23:31 今日已卖出5.6万金果(已达上限)，获得0.07金贴
+Jan 07 08:23:31 
+Jan 07 08:23:33 金贴和金果数量：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":84,"gaAmount":8156760,"canGoldcoin":16346}},"channelEncrypt":0}
+Jan 07 08:23:34 今日已偷过好友的金果了，暂无好友可偷，请明天再来
+Jan 07 08:23:34 
+Jan 07 08:23:34 
+Jan 07 08:23:34 【距离24级摇钱树还差】81.4%
+Jan 07 08:23:34 【我的金果数量】8156760
+Jan 07 08:23:34 【我的金贴数量】0.84
+Jan 07 08:23:34 
+Jan 07 08:23:34 
+Jan 07 08:23:34 
+Jan 07 08:23:34 🔔京东摇钱树, 结束! 🕛 33.831 秒
+Jan 07 08:23:34 
+Jan 07 10:23:00 
+Jan 07 10:23:00 🔔京东摇钱树, 开始!
+Jan 07 10:23:00 
+Jan 07 10:23:00 ====================共1个京东账号Cookie=========
+Jan 07 10:23:00 
+Jan 07 10:23:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 上午10:23:00=====================
+Jan 07 10:23:00 
+Jan 07 10:23:01 
+Jan 07 10:23:01 ****开始【京东账号1】jd_739d55b768da0****
+Jan 07 10:23:01 
+Jan 07 10:23:01 初始化摇钱树个人信息
+Jan 07 10:23:01 resultCode为0
+Jan 07 10:23:03 每日签到条件查询:已经签到过了
+Jan 07 10:23:03 开始做任务userInfo了
+Jan 07 10:23:03 
+Jan 07 10:23:04 canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
+Jan 07 10:23:04 
+Jan 07 10:23:04 浏览任务列表taskInfo::[{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":667,"prizeAmount":1000,"workType":7}]
+Jan 07 10:23:04 
+Jan 07 10:23:04 三餐签到任务不在时间范围内
+Jan 07 10:23:04 分享任务已经做过
+Jan 07 10:23:04 开始做浏览任务
+Jan 07 10:23:06 missionId为666：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 10:23:07 missionId为666：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 10:23:08 missionId为666：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 10:23:09 missionId为666：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 10:23:10 missionId为666：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 10:23:11 missionId为666：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 10:23:13 missionId为666：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 10:23:13 浏览店铺任务结束
+Jan 07 10:23:13 开始领取浏览后的奖励
+Jan 07 10:23:14 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 07 10:23:14 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 07 10:23:14 开始做浏览任务
+Jan 07 10:23:15 missionId为667：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 10:23:16 missionId为667：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 10:23:17 missionId为667：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 10:23:19 missionId为667：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 10:23:20 missionId为667：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 10:23:21 missionId为667：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 10:23:22 missionId为667：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 10:23:22 浏览店铺任务结束
+Jan 07 10:23:22 开始领取浏览后的奖励
+Jan 07 10:23:23 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 07 10:23:23 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 07 10:23:24 
+Jan 07 10:23:24 收获金果成功:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"goToApp":false,"limitedTimeTask":false,"upgrade":false,"randomAward":{"amount":300,"times":5,"mutiplyAmount":600,"probability":30,"awardType":2},"treeInfo":{"upgradeDemand":10000000,"progressLeft":"81.3%","treeName":"23级繁茂大树","level":23,"fruit":8163952,"fruitOnTree":0,"workerSum":4,"capacity":80000},"bigAwardTask":false,"fruitNumInLimitedTimeTask":0}},"channelEncrypt":0}
+Jan 07 10:23:24 
+Jan 07 10:23:24 目前金果数量8163952
+Jan 07 10:23:24 
+Jan 07 10:23:24 今日已卖出5.6万金果(已达上限)，获得0.07金贴
+Jan 07 10:23:24 
+Jan 07 10:23:26 金贴和金果数量：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":84,"gaAmount":8163952,"canGoldcoin":16360}},"channelEncrypt":0}
+Jan 07 10:23:27 今日已偷过好友的金果了，暂无好友可偷，请明天再来
+Jan 07 10:23:27 
+Jan 07 10:23:27 
+Jan 07 10:23:27 【距离24级摇钱树还差】81.3%
+Jan 07 10:23:27 【我的金果数量】8163952
+Jan 07 10:23:27 【我的金贴数量】0.84
+Jan 07 10:23:27 
+Jan 07 10:23:27 
+Jan 07 10:23:27 
+Jan 07 10:23:27 🔔京东摇钱树, 结束! 🕛 26.709 秒
+Jan 07 10:23:27 
+Jan 07 12:23:01 
+Jan 07 12:23:01 🔔京东摇钱树, 开始!
+Jan 07 12:23:01 
+Jan 07 12:23:01 ====================共1个京东账号Cookie=========
+Jan 07 12:23:01 
+Jan 07 12:23:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 下午12:23:01=====================
+Jan 07 12:23:01 
+Jan 07 12:23:02 
+Jan 07 12:23:02 ****开始【京东账号1】jd_739d55b768da0****
+Jan 07 12:23:02 
+Jan 07 12:23:02 初始化摇钱树个人信息
+Jan 07 12:23:05 resultCode为0
+Jan 07 12:23:05 
+Jan 07 12:23:05 🔔京东摇钱树, 结束! 🕛 4.504 秒
+Jan 07 12:23:05 
+Jan 07 14:23:00 
+Jan 07 14:23:00 🔔京东摇钱树, 开始!
+Jan 07 14:23:00 
+Jan 07 14:23:00 ====================共1个京东账号Cookie=========
+Jan 07 14:23:00 
+Jan 07 14:23:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 下午2:23:00=====================
+Jan 07 14:23:00 
+Jan 07 14:23:01 
+Jan 07 14:23:01 ****开始【京东账号1】jd_739d55b768da0****
+Jan 07 14:23:01 
+Jan 07 14:23:01 初始化摇钱树个人信息
+Jan 07 14:23:01 resultCode为0
+Jan 07 14:23:01 
+Jan 07 14:23:01 🔔京东摇钱树, 结束! 🕛 0.65 秒
+Jan 07 14:23:01 
+Jan 07 16:23:01 
+Jan 07 16:23:01 🔔京东摇钱树, 开始!
+Jan 07 16:23:01 
+Jan 07 16:23:01 ====================共1个京东账号Cookie=========
+Jan 07 16:23:01 
+Jan 07 16:23:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 下午4:23:01=====================
+Jan 07 16:23:01 
+Jan 07 16:23:01 
+Jan 07 16:23:01 ****开始【京东账号1】jd_739d55b768da0****
+Jan 07 16:23:01 
+Jan 07 16:23:01 初始化摇钱树个人信息
+Jan 07 16:23:01 resultCode为0
+Jan 07 16:23:02 每日签到条件查询:已经签到过了
+Jan 07 16:23:02 开始做任务userInfo了
+Jan 07 16:23:02 
+Jan 07 16:23:04 canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
+Jan 07 16:23:04 
+Jan 07 16:23:04 浏览任务列表taskInfo::[{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":667,"prizeAmount":1000,"workType":7}]
+Jan 07 16:23:04 
+Jan 07 16:23:04 三餐签到任务不在时间范围内
+Jan 07 16:23:04 分享任务已经做过
+Jan 07 16:23:04 开始做浏览任务
+Jan 07 16:23:05 missionId为666：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 16:23:06 missionId为666：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 16:23:07 missionId为666：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 16:23:08 missionId为666：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 16:23:09 missionId为666：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 16:23:11 missionId为666：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 16:23:12 missionId为666：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 16:23:12 浏览店铺任务结束
+Jan 07 16:23:12 开始领取浏览后的奖励
+Jan 07 16:23:13 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 07 16:23:13 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 07 16:23:13 开始做浏览任务
+Jan 07 16:23:14 missionId为667：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 16:23:15 missionId为667：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 16:23:17 missionId为667：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 16:23:18 missionId为667：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 16:23:19 missionId为667：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 16:23:20 missionId为667：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 16:23:21 missionId为667：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 16:23:21 浏览店铺任务结束
+Jan 07 16:23:21 开始领取浏览后的奖励
+Jan 07 16:23:22 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 07 16:23:22 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 07 16:23:24 
+Jan 07 16:23:24 收获金果成功:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"goToApp":false,"limitedTimeTask":false,"upgrade":false,"treeInfo":{"upgradeDemand":10000000,"progressLeft":"81.1%","treeName":"23级繁茂大树","level":23,"fruit":8185551,"fruitOnTree":0,"workerSum":4,"capacity":80000},"bigAwardTask":false,"fruitNumInLimitedTimeTask":0}},"channelEncrypt":0}
+Jan 07 16:23:24 
+Jan 07 16:23:24 目前金果数量8185551
+Jan 07 16:23:24 
+Jan 07 16:23:24 今日已卖出5.6万金果(已达上限)，获得0.07金贴
+Jan 07 16:23:24 
+Jan 07 16:23:25 金贴和金果数量：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":84,"gaAmount":8185551,"canGoldcoin":16403}},"channelEncrypt":0}
+Jan 07 16:23:26 今日已偷过好友的金果了，暂无好友可偷，请明天再来
+Jan 07 16:23:26 
+Jan 07 16:23:26 
+Jan 07 16:23:26 【距离24级摇钱树还差】81.1%
+Jan 07 16:23:26 【我的金果数量】8185551
+Jan 07 16:23:26 【我的金贴数量】0.84
+Jan 07 16:23:26 
+Jan 07 16:23:26 
+Jan 07 16:23:26 
+Jan 07 16:23:26 🔔京东摇钱树, 结束! 🕛 25.455 秒
+Jan 07 16:23:26 
+Jan 07 18:23:01 
+Jan 07 18:23:01 🔔京东摇钱树, 开始!
+Jan 07 18:23:01 
+Jan 07 18:23:01 ====================共1个京东账号Cookie=========
+Jan 07 18:23:01 
+Jan 07 18:23:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 下午6:23:01=====================
+Jan 07 18:23:01 
+Jan 07 18:23:01 
+Jan 07 18:23:01 ****开始【京东账号1】jd_739d55b768da0****
+Jan 07 18:23:01 
+Jan 07 18:23:01 初始化摇钱树个人信息
+Jan 07 18:23:04 resultCode为0
+Jan 07 18:23:05 每日签到条件查询:已经签到过了
+Jan 07 18:23:05 开始做任务userInfo了
+Jan 07 18:23:05 
+Jan 07 18:23:07 canTask::[{"workStatus":0,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
+Jan 07 18:23:07 
+Jan 07 18:23:07 浏览任务列表taskInfo::[{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":667,"prizeAmount":1000,"workType":7}]
+Jan 07 18:23:07 
+Jan 07 18:23:07 开始三餐签到
+Jan 07 18:23:08 三餐签到结果:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"操作成功","opResult":0,"prizeAmount":200}},"channelEncrypt":0}
+Jan 07 18:23:08 分享任务已经做过
+Jan 07 18:23:08 开始做浏览任务
+Jan 07 18:23:09 missionId为666：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 18:23:10 missionId为666：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 18:23:11 missionId为666：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 18:23:13 missionId为666：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 18:23:14 missionId为666：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 18:23:15 missionId为666：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 18:23:16 missionId为666：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 18:23:16 浏览店铺任务结束
+Jan 07 18:23:16 开始领取浏览后的奖励
+Jan 07 18:23:17 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 07 18:23:17 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 07 18:23:17 开始做浏览任务
+Jan 07 18:23:19 missionId为667：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 18:23:20 missionId为667：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 18:23:21 missionId为667：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 18:23:22 missionId为667：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 18:23:23 missionId为667：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 18:23:24 missionId为667：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 18:23:26 missionId为667：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 18:23:26 浏览店铺任务结束
+Jan 07 18:23:26 开始领取浏览后的奖励
+Jan 07 18:23:27 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 07 18:23:27 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 07 18:23:28 
+Jan 07 18:23:28 收获金果成功:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"goToApp":false,"limitedTimeTask":false,"upgrade":false,"treeInfo":{"upgradeDemand":10000000,"treeName":"23级繁茂大树","progressLeft":"81.0%","level":23,"fruit":8192955,"fruitOnTree":0,"workerSum":4,"capacity":80000},"bigAwardTask":false,"fruitNumInLimitedTimeTask":0}},"channelEncrypt":0}
+Jan 07 18:23:28 
+Jan 07 18:23:28 目前金果数量8192955
+Jan 07 18:23:28 
+Jan 07 18:23:28 今日已卖出5.6万金果(已达上限)，获得0.07金贴
+Jan 07 18:23:28 
+Jan 07 18:23:29 金贴和金果数量：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":84,"gaAmount":8192955,"canGoldcoin":16418}},"channelEncrypt":0}
+Jan 07 18:23:30 今日已偷过好友的金果了，暂无好友可偷，请明天再来
+Jan 07 18:23:30 
+Jan 07 18:23:30 
+Jan 07 18:23:30 【距离24级摇钱树还差】81.0%
+Jan 07 18:23:30 【我的金果数量】8192955
+Jan 07 18:23:30 【我的金贴数量】0.84
+Jan 07 18:23:30 
+Jan 07 18:23:30 
+Jan 07 18:23:30 
+Jan 07 18:23:30 🔔京东摇钱树, 结束! 🕛 29.784 秒
+Jan 07 18:23:30 
+Jan 07 20:23:00 
+Jan 07 20:23:00 🔔京东摇钱树, 开始!
+Jan 07 20:23:00 
+Jan 07 20:23:00 ====================共1个京东账号Cookie=========
+Jan 07 20:23:00 
+Jan 07 20:23:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 下午8:23:00=====================
+Jan 07 20:23:00 
+Jan 07 20:23:00 
+Jan 07 20:23:00 ****开始【京东账号1】jd_739d55b768da0****
+Jan 07 20:23:00 
+Jan 07 20:23:00 初始化摇钱树个人信息
+Jan 07 20:23:02 resultCode为0
+Jan 07 20:23:03 每日签到条件查询:已经签到过了
+Jan 07 20:23:03 开始做任务userInfo了
+Jan 07 20:23:03 
+Jan 07 20:23:05 canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
+Jan 07 20:23:05 
+Jan 07 20:23:05 浏览任务列表taskInfo::[{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":667,"prizeAmount":1000,"workType":7}]
+Jan 07 20:23:05 
+Jan 07 20:23:05 三餐签到任务不在时间范围内
+Jan 07 20:23:05 分享任务已经做过
+Jan 07 20:23:05 开始做浏览任务
+Jan 07 20:23:06 missionId为666：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 20:23:07 missionId为666：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 20:23:08 missionId为666：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 20:23:09 missionId为666：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 20:23:11 missionId为666：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 20:23:12 missionId为666：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 20:23:13 missionId为666：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 20:23:13 浏览店铺任务结束
+Jan 07 20:23:13 开始领取浏览后的奖励
+Jan 07 20:23:14 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 07 20:23:14 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 07 20:23:14 开始做浏览任务
+Jan 07 20:23:15 missionId为667：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 20:23:16 missionId为667：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 20:23:18 missionId为667：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 20:23:19 missionId为667：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 20:23:20 missionId为667：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 20:23:21 missionId为667：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 20:23:22 missionId为667：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 07 20:23:22 浏览店铺任务结束
+Jan 07 20:23:22 开始领取浏览后的奖励
+Jan 07 20:23:24 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 07 20:23:24 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 07 20:23:25 
+Jan 07 20:23:25 收获金果成功:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"goToApp":false,"limitedTimeTask":false,"upgrade":false,"treeInfo":{"upgradeDemand":10000000,"treeName":"23级繁茂大树","progressLeft":"81.0%","level":23,"fruit":8200151,"fruitOnTree":0,"workerSum":4,"capacity":80000},"bigAwardTask":false,"fruitNumInLimitedTimeTask":0}},"channelEncrypt":0}
+Jan 07 20:23:25 
+Jan 07 20:23:25 目前金果数量8200151
+Jan 07 20:23:25 
+Jan 07 20:23:25 今日已卖出5.6万金果(已达上限)，获得0.07金贴
+Jan 07 20:23:25 
+Jan 07 20:23:26 金贴和金果数量：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":84,"gaAmount":8200151,"canGoldcoin":16433}},"channelEncrypt":0}
+Jan 07 20:23:27 今日已偷过好友的金果了，暂无好友可偷，请明天再来
+Jan 07 20:23:27 
+Jan 07 20:23:27 
+Jan 07 20:23:27 【距离24级摇钱树还差】81.0%
+Jan 07 20:23:27 【我的金果数量】8200151
+Jan 07 20:23:27 【我的金贴数量】0.84
+Jan 07 20:23:27 
+Jan 07 20:23:27 
+Jan 07 20:23:27 
+Jan 07 20:23:27 🔔京东摇钱树, 结束! 🕛 27.472 秒
+Jan 07 20:23:27 
+Jan 07 22:23:00 
+Jan 07 22:23:00 🔔京东摇钱树, 开始!
+Jan 07 22:23:00 
+Jan 07 22:23:00 ====================共1个京东账号Cookie=========
+Jan 07 22:23:00 
+Jan 07 22:23:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 下午10:23:00=====================
+Jan 07 22:23:00 
+Jan 07 22:23:02 
+Jan 07 22:23:02 ****开始【京东账号1】jd_739d55b768da0****
+Jan 07 22:23:02 
+Jan 07 22:23:02 初始化摇钱树个人信息
+Jan 07 22:23:03 resultCode为0
+Jan 07 22:23:03 
+Jan 07 22:23:03 🔔京东摇钱树, 结束! 🕛 2.714 秒
+Jan 07 22:23:03 
+Jan 08 00:23:00 
+Jan 08 00:23:00 🔔京东摇钱树, 开始!
+Jan 08 00:23:00 
+Jan 08 00:23:00 ====================共1个京东账号Cookie=========
+Jan 08 00:23:00 
+Jan 08 00:23:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 上午12:23:00=====================
+Jan 08 00:23:00 
+Jan 08 00:23:00 
+Jan 08 00:23:00 ****开始【京东账号1】jd_739d55b768da0****
+Jan 08 00:23:00 
+Jan 08 00:23:00 初始化摇钱树个人信息
+Jan 08 00:23:01 resultCode为0
+Jan 08 00:23:09 每日签到条件查询:可以签到
+Jan 08 00:23:09 准备每日签到
+Jan 08 00:23:10 第4日签到结果:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"result":true}},"channelEncrypt":0}
+Jan 08 00:23:10 开始做任务userInfo了
+Jan 08 00:23:10 
+Jan 08 00:23:11 canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":0,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
+Jan 08 00:23:11 
+Jan 08 00:23:11 浏览任务列表taskInfo::[{"workStatus":0,"mapValues":[],"prizeType":0,"workLabel":"去完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":0,"mapValues":[],"prizeType":0,"workLabel":"去完成","mid":667,"prizeAmount":1000,"workType":7}]
+Jan 08 00:23:11 
+Jan 08 00:23:11 三餐签到任务不在时间范围内
+Jan 08 00:23:11 开始做分享任务
+Jan 08 00:23:11 
+Jan 08 00:23:13 开始分享的动作:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"操作成功","nextStatus":1,"opResult":0}},"channelEncrypt":0}
+Jan 08 00:23:13 开始做领取分享后的奖励
+Jan 08 00:23:13 
+Jan 08 00:23:14 领取分享后的奖励:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"操作成功","opResult":0,"prizeAmount":500}},"channelEncrypt":0}
+Jan 08 00:23:14 开始做浏览任务
+Jan 08 00:23:15 missionId为666：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 00:23:16 missionId为666：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 00:23:17 missionId为666：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 00:23:19 missionId为666：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 00:23:20 missionId为666：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 00:23:21 missionId为666：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 00:23:22 missionId为666：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 00:23:22 浏览店铺任务结束
+Jan 08 00:23:22 开始领取浏览后的奖励
+Jan 08 00:23:23 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"领取成功","opResult":0,"prizeAmount":1000,"nextStatus":2}},"channelEncrypt":0}
+Jan 08 00:23:23 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"领取成功","opResult":0,"prizeAmount":1000,"nextStatus":2}},"channelEncrypt":0}
+Jan 08 00:23:23 开始做浏览任务
+Jan 08 00:23:24 missionId为667：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 00:23:26 missionId为667：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 00:23:27 missionId为667：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 00:23:28 missionId为667：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 00:23:29 missionId为667：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 00:23:30 missionId为667：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 00:23:32 missionId为667：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 00:23:32 浏览店铺任务结束
+Jan 08 00:23:32 开始领取浏览后的奖励
+Jan 08 00:23:33 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"领取成功","opResult":0,"prizeAmount":1000,"nextStatus":2}},"channelEncrypt":0}
+Jan 08 00:23:33 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"领取成功","opResult":0,"prizeAmount":1000,"nextStatus":2}},"channelEncrypt":0}
+Jan 08 00:23:34 
+Jan 08 00:23:34 收获金果成功:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"goToApp":false,"limitedTimeTask":false,"upgrade":false,"treeInfo":{"upgradeDemand":10000000,"treeName":"23级繁茂大树","progressLeft":"80.8%","level":23,"fruit":8217660,"fruitOnTree":0,"workerSum":4,"capacity":80000},"bigAwardTask":false,"fruitNumInLimitedTimeTask":0}},"channelEncrypt":0}
+Jan 08 00:23:34 
+Jan 08 00:23:34 目前金果数量8217660
+Jan 08 00:23:35 卖出金果成功，获得0.07金贴
+Jan 08 00:23:35 
+Jan 08 00:23:36 金贴和金果数量：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":91,"gaAmount":8161660,"canGoldcoin":16356}},"channelEncrypt":0}
+Jan 08 00:23:38 今日已偷过好友的金果了，暂无好友可偷，请明天再来
+Jan 08 00:23:38 
+Jan 08 00:23:38 
+Jan 08 00:23:38 【距离24级摇钱树还差】80.8%
+Jan 08 00:23:38 【我的金果数量】8161660
+Jan 08 00:23:38 【我的金贴数量】0.91
+Jan 08 00:23:38 
+Jan 08 00:23:38 
+Jan 08 00:23:38 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 08 00:23:38 
+Jan 08 00:23:42 发送通知调用API失败！！
+Jan 08 00:23:42 
+Jan 08 00:23:42 RequestError: socket hang up
+Jan 08 00:23:42     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 08 00:23:42     at Object.onceWrapper (node:events:510:26)
+Jan 08 00:23:42     at ClientRequest.emit (node:events:402:35)
+Jan 08 00:23:42     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 08 00:23:42     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 08 00:23:42     at Socket.emit (node:events:402:35)
+Jan 08 00:23:42     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 08 00:23:42     at connResetException (node:internal/errors:691:14)
+Jan 08 00:23:42     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 08 00:23:42     at Socket.emit (node:events:402:35)
+Jan 08 00:23:42     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 08 00:23:42     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 08 00:23:42   code: 'ECONNRESET',
+Jan 08 00:23:42   timings: {
+Jan 08 00:23:42     start: 1641572620534,
+Jan 08 00:23:42     socket: 1641572620535,
+Jan 08 00:23:42     lookup: 1641572620536,
+Jan 08 00:23:42     connect: 1641572621773,
+Jan 08 00:23:42     secureConnect: undefined,
+Jan 08 00:23:42     upload: 1641572621773,
+Jan 08 00:23:42     response: undefined,
+Jan 08 00:23:42     end: undefined,
+Jan 08 00:23:42     error: 1641572622725,
+Jan 08 00:23:42     abort: undefined,
+Jan 08 00:23:42     phases: {
+Jan 08 00:23:42       wait: 1,
+Jan 08 00:23:42       dns: 1,
+Jan 08 00:23:42       tcp: 1237,
+Jan 08 00:23:42       tls: undefined,
+Jan 08 00:23:42       request: 0,
+Jan 08 00:23:42       firstByte: undefined,
+Jan 08 00:23:42       download: undefined,
+Jan 08 00:23:42       total: 2191
+Jan 08 00:23:42     }
+Jan 08 00:23:42   }
+Jan 08 00:23:42 }
+Jan 08 00:23:42 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 08 00:23:42 
+Jan 08 00:23:42 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 08 00:23:42 
+Jan 08 00:23:42 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 08 00:23:42 
+Jan 08 00:23:42 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 08 00:23:42 
+Jan 08 00:23:42 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 08 00:23:42 
+Jan 08 00:23:42 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 08 00:23:42 
+Jan 08 00:23:42 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 08 00:23:42 
+Jan 08 00:23:42 
+Jan 08 00:23:42 ==============📣系统通知📣==============
+Jan 08 00:23:42 京东摇钱树
+Jan 08 00:23:42 账号1：jd_739d55b768da0
+Jan 08 00:23:42 今日成功卖出5.6万金果，获得0.07金贴
+Jan 08 00:23:42 
+Jan 08 00:23:42 🔔京东摇钱树, 结束! 🕛 42.144 秒
+Jan 08 00:23:42 
+Jan 08 02:23:00 
+Jan 08 02:23:00 🔔京东摇钱树, 开始!
+Jan 08 02:23:00 
+Jan 08 02:23:00 ====================共1个京东账号Cookie=========
+Jan 08 02:23:00 
+Jan 08 02:23:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 上午2:23:00=====================
+Jan 08 02:23:00 
+Jan 08 02:23:01 
+Jan 08 02:23:01 ****开始【京东账号1】jd_739d55b768da0****
+Jan 08 02:23:01 
+Jan 08 02:23:01 初始化摇钱树个人信息
+Jan 08 02:23:01 resultCode为0
+Jan 08 02:23:02 每日签到条件查询:已经签到过了
+Jan 08 02:23:02 开始做任务userInfo了
+Jan 08 02:23:02 
+Jan 08 02:23:04 canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
+Jan 08 02:23:04 
+Jan 08 02:23:04 浏览任务列表taskInfo::[{"workStatus":0,"mapValues":[],"prizeType":0,"workLabel":"去完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":0,"mapValues":[],"prizeType":0,"workLabel":"去完成","mid":667,"prizeAmount":1000,"workType":7}]
+Jan 08 02:23:04 
+Jan 08 02:23:04 三餐签到任务不在时间范围内
+Jan 08 02:23:04 分享任务已经做过
+Jan 08 02:23:04 开始做浏览任务
+Jan 08 02:23:05 missionId为666：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 02:23:06 missionId为666：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 02:23:07 missionId为666：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 02:23:08 missionId为666：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 02:23:09 missionId为666：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 02:23:11 missionId为666：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 02:23:12 missionId为666：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 02:23:12 浏览店铺任务结束
+Jan 08 02:23:12 开始领取浏览后的奖励
+Jan 08 02:23:13 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 08 02:23:13 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 08 02:23:13 开始做浏览任务
+Jan 08 02:23:14 missionId为667：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 02:23:15 missionId为667：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 02:23:16 missionId为667：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 02:23:18 missionId为667：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 02:23:19 missionId为667：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 02:23:20 missionId为667：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 02:23:21 missionId为667：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 02:23:21 浏览店铺任务结束
+Jan 08 02:23:21 开始领取浏览后的奖励
+Jan 08 02:23:22 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 08 02:23:22 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 08 02:23:24 
+Jan 08 02:23:24 收获金果成功:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"goToApp":false,"limitedTimeTask":false,"upgrade":false,"treeInfo":{"upgradeDemand":10000000,"progressLeft":"80.7%","treeName":"23级繁茂大树","level":23,"fruit":8168849,"fruitOnTree":0,"workerSum":4,"capacity":80000},"bigAwardTask":false,"fruitNumInLimitedTimeTask":0}},"channelEncrypt":0}
+Jan 08 02:23:24 
+Jan 08 02:23:24 目前金果数量8168849
+Jan 08 02:23:24 
+Jan 08 02:23:24 今日已卖出5.6万金果(已达上限)，获得0.07金贴
+Jan 08 02:23:24 
+Jan 08 02:23:25 金贴和金果数量：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":91,"gaAmount":8168849,"canGoldcoin":16370}},"channelEncrypt":0}
+Jan 08 02:23:26 今日已偷过好友的金果了，暂无好友可偷，请明天再来
+Jan 08 02:23:26 
+Jan 08 02:23:26 
+Jan 08 02:23:26 【距离24级摇钱树还差】80.7%
+Jan 08 02:23:26 【我的金果数量】8168849
+Jan 08 02:23:26 【我的金贴数量】0.91
+Jan 08 02:23:26 
+Jan 08 02:23:26 
+Jan 08 02:23:26 
+Jan 08 02:23:26 🔔京东摇钱树, 结束! 🕛 25.73 秒
+Jan 08 02:23:26 
+Jan 08 04:23:00 
+Jan 08 04:23:00 🔔京东摇钱树, 开始!
+Jan 08 04:23:00 
+Jan 08 04:23:00 ====================共1个京东账号Cookie=========
+Jan 08 04:23:00 
+Jan 08 04:23:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 上午4:23:00=====================
+Jan 08 04:23:00 
+Jan 08 04:23:01 
+Jan 08 04:23:01 ****开始【京东账号1】jd_739d55b768da0****
+Jan 08 04:23:01 
+Jan 08 04:23:01 初始化摇钱树个人信息
+Jan 08 04:23:01 resultCode为0
+Jan 08 04:23:02 每日签到条件查询:已经签到过了
+Jan 08 04:23:02 开始做任务userInfo了
+Jan 08 04:23:02 
+Jan 08 04:23:03 canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
+Jan 08 04:23:03 
+Jan 08 04:23:03 浏览任务列表taskInfo::[{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":667,"prizeAmount":1000,"workType":7}]
+Jan 08 04:23:03 
+Jan 08 04:23:03 三餐签到任务不在时间范围内
+Jan 08 04:23:03 分享任务已经做过
+Jan 08 04:23:03 开始做浏览任务
+Jan 08 04:23:05 missionId为666：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 04:23:06 missionId为666：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 04:23:07 missionId为666：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 04:23:08 missionId为666：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 04:23:09 missionId为666：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 04:23:10 missionId为666：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 04:23:12 missionId为666：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 04:23:12 浏览店铺任务结束
+Jan 08 04:23:12 开始领取浏览后的奖励
+Jan 08 04:23:13 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 08 04:23:13 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 08 04:23:13 开始做浏览任务
+Jan 08 04:23:14 missionId为667：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 04:23:15 missionId为667：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 04:23:16 missionId为667：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 04:23:18 missionId为667：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 04:23:19 missionId为667：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 04:23:20 missionId为667：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 04:23:21 missionId为667：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 04:23:21 浏览店铺任务结束
+Jan 08 04:23:21 开始领取浏览后的奖励
+Jan 08 04:23:22 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 08 04:23:22 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 08 04:23:24 
+Jan 08 04:23:24 收获金果成功:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"goToApp":false,"limitedTimeTask":true,"upgrade":false,"overTime":43200000,"treeInfo":{"upgradeDemand":10000000,"treeName":"23级繁茂大树","progressLeft":"80.7%","level":23,"fruit":8176048,"fruitOnTree":0,"workerSum":4,"capacity":80000},"bigAwardTask":false,"fruitNumInLimitedTimeTask":2000}},"channelEncrypt":0}
+Jan 08 04:23:24 
+Jan 08 04:23:24 目前金果数量8176048
+Jan 08 04:23:24 
+Jan 08 04:23:24 今日已卖出5.6万金果(已达上限)，获得0.07金贴
+Jan 08 04:23:24 
+Jan 08 04:23:25 金贴和金果数量：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":91,"gaAmount":8176048,"canGoldcoin":16384}},"channelEncrypt":0}
+Jan 08 04:23:26 今日已偷过好友的金果了，暂无好友可偷，请明天再来
+Jan 08 04:23:26 
+Jan 08 04:23:26 
+Jan 08 04:23:26 【距离24级摇钱树还差】80.7%
+Jan 08 04:23:26 【我的金果数量】8176048
+Jan 08 04:23:26 【我的金贴数量】0.91
+Jan 08 04:23:26 
+Jan 08 04:23:26 
+Jan 08 04:23:26 
+Jan 08 04:23:26 🔔京东摇钱树, 结束! 🕛 25.469 秒
+Jan 08 04:23:26 
+Jan 08 06:23:01 
+Jan 08 06:23:01 🔔京东摇钱树, 开始!
+Jan 08 06:23:01 
+Jan 08 06:23:01 ====================共1个京东账号Cookie=========
+Jan 08 06:23:01 
+Jan 08 06:23:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 上午6:23:01=====================
+Jan 08 06:23:01 
+Jan 08 06:23:01 
+Jan 08 06:23:01 ****开始【京东账号1】jd_739d55b768da0****
+Jan 08 06:23:01 
+Jan 08 06:23:01 初始化摇钱树个人信息
+Jan 08 06:23:02 resultCode为0
+Jan 08 06:23:03 每日签到条件查询:已经签到过了
+Jan 08 06:23:03 开始做任务userInfo了
+Jan 08 06:23:03 
+Jan 08 06:23:04 canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
+Jan 08 06:23:04 
+Jan 08 06:23:04 浏览任务列表taskInfo::[{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":667,"prizeAmount":1000,"workType":7}]
+Jan 08 06:23:04 
+Jan 08 06:23:04 三餐签到任务不在时间范围内
+Jan 08 06:23:04 分享任务已经做过
+Jan 08 06:23:04 开始做浏览任务
+Jan 08 06:23:06 missionId为666：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 06:23:07 missionId为666：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 06:23:08 missionId为666：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 06:23:09 missionId为666：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 06:23:10 missionId为666：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 06:23:12 missionId为666：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 06:23:13 missionId为666：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 06:23:13 浏览店铺任务结束
+Jan 08 06:23:13 开始领取浏览后的奖励
+Jan 08 06:23:14 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 08 06:23:14 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 08 06:23:14 开始做浏览任务
+Jan 08 06:23:15 missionId为667：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 06:23:16 missionId为667：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 06:23:17 missionId为667：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 06:23:19 missionId为667：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 06:23:20 missionId为667：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 06:23:21 missionId为667：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 06:23:22 missionId为667：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 06:23:22 浏览店铺任务结束
+Jan 08 06:23:22 开始领取浏览后的奖励
+Jan 08 06:23:23 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 08 06:23:23 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 08 06:23:24 
+Jan 08 06:23:24 收获金果成功:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"goToApp":false,"limitedTimeTask":false,"upgrade":false,"treeInfo":{"upgradeDemand":10000000,"treeName":"23级繁茂大树","progressLeft":"80.6%","level":23,"fruit":8183248,"fruitOnTree":0,"workerSum":4,"capacity":80000},"bigAwardTask":false,"fruitNumInLimitedTimeTask":0}},"channelEncrypt":0}
+Jan 08 06:23:24 
+Jan 08 06:23:24 目前金果数量8183248
+Jan 08 06:23:24 
+Jan 08 06:23:24 今日已卖出5.6万金果(已达上限)，获得0.07金贴
+Jan 08 06:23:24 
+Jan 08 06:23:26 金贴和金果数量：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":91,"gaAmount":8183248,"canGoldcoin":16399}},"channelEncrypt":0}
+Jan 08 06:23:27 今日已偷过好友的金果了，暂无好友可偷，请明天再来
+Jan 08 06:23:27 
+Jan 08 06:23:27 
+Jan 08 06:23:27 【距离24级摇钱树还差】80.6%
+Jan 08 06:23:27 【我的金果数量】8183248
+Jan 08 06:23:27 【我的金贴数量】0.91
+Jan 08 06:23:27 
+Jan 08 06:23:27 
+Jan 08 06:23:27 
+Jan 08 06:23:27 🔔京东摇钱树, 结束! 🕛 26.232 秒
+Jan 08 06:23:27 
+Jan 08 08:23:00 
+Jan 08 08:23:00 🔔京东摇钱树, 开始!
+Jan 08 08:23:00 
+Jan 08 08:23:00 ====================共1个京东账号Cookie=========
+Jan 08 08:23:00 
+Jan 08 08:23:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 上午8:23:00=====================
+Jan 08 08:23:00 
+Jan 08 08:23:00 
+Jan 08 08:23:00 ****开始【京东账号1】jd_739d55b768da0****
+Jan 08 08:23:00 
+Jan 08 08:23:00 初始化摇钱树个人信息
+Jan 08 08:23:03 resultCode为0
+Jan 08 08:23:04 每日签到条件查询:已经签到过了
+Jan 08 08:23:04 开始做任务userInfo了
+Jan 08 08:23:04 
+Jan 08 08:23:05 canTask::[{"workStatus":0,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
+Jan 08 08:23:05 
+Jan 08 08:23:05 浏览任务列表taskInfo::[{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":667,"prizeAmount":1000,"workType":7}]
+Jan 08 08:23:05 
+Jan 08 08:23:05 开始三餐签到
+Jan 08 08:23:06 三餐签到结果:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"操作成功","opResult":0,"prizeAmount":200}},"channelEncrypt":0}
+Jan 08 08:23:06 分享任务已经做过
+Jan 08 08:23:06 开始做浏览任务
+Jan 08 08:23:07 missionId为666：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 08:23:09 missionId为666：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 08:23:10 missionId为666：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 08:23:11 missionId为666：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 08:23:12 missionId为666：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 08:23:13 missionId为666：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 08:23:14 missionId为666：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 08:23:14 浏览店铺任务结束
+Jan 08 08:23:14 开始领取浏览后的奖励
+Jan 08 08:23:16 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 08 08:23:16 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 08 08:23:16 开始做浏览任务
+Jan 08 08:23:17 missionId为667：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 08:23:18 missionId为667：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 08:23:19 missionId为667：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 08:23:20 missionId为667：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 08:23:22 missionId为667：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 08:23:23 missionId为667：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 08:23:24 missionId为667：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 08:23:24 浏览店铺任务结束
+Jan 08 08:23:24 开始领取浏览后的奖励
+Jan 08 08:23:25 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 08 08:23:25 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 08 08:23:26 
+Jan 08 08:23:26 收获金果成功:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"goToApp":false,"limitedTimeTask":false,"upgrade":false,"treeInfo":{"upgradeDemand":10000000,"progressLeft":"80.5%","treeName":"23级繁茂大树","level":23,"fruit":8190649,"fruitOnTree":0,"workerSum":4,"capacity":80000},"bigAwardTask":false,"fruitNumInLimitedTimeTask":0}},"channelEncrypt":0}
+Jan 08 08:23:26 
+Jan 08 08:23:26 目前金果数量8190649
+Jan 08 08:23:26 
+Jan 08 08:23:26 今日已卖出5.6万金果(已达上限)，获得0.07金贴
+Jan 08 08:23:26 
+Jan 08 08:23:27 金贴和金果数量：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":91,"gaAmount":8190649,"canGoldcoin":16414}},"channelEncrypt":0}
+Jan 08 08:23:29 今日已偷过好友的金果了，暂无好友可偷，请明天再来
+Jan 08 08:23:29 
+Jan 08 08:23:29 
+Jan 08 08:23:29 【距离24级摇钱树还差】80.5%
+Jan 08 08:23:29 【我的金果数量】8190649
+Jan 08 08:23:29 【我的金贴数量】0.91
+Jan 08 08:23:29 
+Jan 08 08:23:29 
+Jan 08 08:23:29 
+Jan 08 08:23:29 🔔京东摇钱树, 结束! 🕛 28.965 秒
+Jan 08 08:23:29 
+Jan 08 10:23:00 
+Jan 08 10:23:00 🔔京东摇钱树, 开始!
+Jan 08 10:23:00 
+Jan 08 10:23:00 ====================共1个京东账号Cookie=========
+Jan 08 10:23:00 
+Jan 08 10:23:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 上午10:23:00=====================
+Jan 08 10:23:00 
+Jan 08 10:23:00 
+Jan 08 10:23:00 ****开始【京东账号1】jd_739d55b768da0****
+Jan 08 10:23:00 
+Jan 08 10:23:00 初始化摇钱树个人信息
+Jan 08 10:23:05 resultCode为0
+Jan 08 10:23:05 
+Jan 08 10:23:05 🔔京东摇钱树, 结束! 🕛 4.978 秒
+Jan 08 10:23:05 
+Jan 08 12:23:00 
+Jan 08 12:23:00 🔔京东摇钱树, 开始!
+Jan 08 12:23:00 
+Jan 08 12:23:00 ====================共1个京东账号Cookie=========
+Jan 08 12:23:00 
+Jan 08 12:23:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 下午12:23:00=====================
+Jan 08 12:23:00 
+Jan 08 12:23:02 
+Jan 08 12:23:02 ****开始【京东账号1】jd_739d55b768da0****
+Jan 08 12:23:02 
+Jan 08 12:23:02 初始化摇钱树个人信息
+Jan 08 12:23:05 resultCode为0
+Jan 08 12:23:06 每日签到条件查询:已经签到过了
+Jan 08 12:23:06 开始做任务userInfo了
+Jan 08 12:23:06 
+Jan 08 12:23:07 canTask::[{"workStatus":0,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
+Jan 08 12:23:07 
+Jan 08 12:23:07 浏览任务列表taskInfo::[{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":667,"prizeAmount":1000,"workType":7}]
+Jan 08 12:23:07 
+Jan 08 12:23:07 开始三餐签到
+Jan 08 12:23:08 三餐签到结果:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"操作成功","opResult":0,"prizeAmount":200}},"channelEncrypt":0}
+Jan 08 12:23:08 分享任务已经做过
+Jan 08 12:23:08 开始做浏览任务
+Jan 08 12:23:10 missionId为666：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 12:23:11 missionId为666：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 12:23:12 missionId为666：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 12:23:13 missionId为666：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 12:23:14 missionId为666：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 12:23:15 missionId为666：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 12:23:17 missionId为666：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 12:23:17 浏览店铺任务结束
+Jan 08 12:23:17 开始领取浏览后的奖励
+Jan 08 12:23:18 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 08 12:23:18 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 08 12:23:18 开始做浏览任务
+Jan 08 12:23:19 missionId为667：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 12:23:20 missionId为667：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 12:23:21 missionId为667：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 12:23:23 missionId为667：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 12:23:24 missionId为667：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 12:23:25 missionId为667：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 12:23:26 missionId为667：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 12:23:26 浏览店铺任务结束
+Jan 08 12:23:26 开始领取浏览后的奖励
+Jan 08 12:23:27 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 08 12:23:27 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 08 12:23:28 
+Jan 08 12:23:28 收获金果成功:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"goToApp":false,"limitedTimeTask":false,"upgrade":false,"treeInfo":{"upgradeDemand":10000000,"treeName":"23级繁茂大树","progressLeft":"80.4%","level":23,"fruit":8205251,"fruitOnTree":0,"workerSum":4,"capacity":80000},"bigAwardTask":false,"fruitNumInLimitedTimeTask":0}},"channelEncrypt":0}
+Jan 08 12:23:28 
+Jan 08 12:23:28 目前金果数量8205251
+Jan 08 12:23:28 
+Jan 08 12:23:28 今日已卖出5.6万金果(已达上限)，获得0.07金贴
+Jan 08 12:23:28 
+Jan 08 12:23:30 金贴和金果数量：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":91,"gaAmount":8205251,"canGoldcoin":16443}},"channelEncrypt":0}
+Jan 08 12:23:31 今日已偷过好友的金果了，暂无好友可偷，请明天再来
+Jan 08 12:23:31 
+Jan 08 12:23:31 
+Jan 08 12:23:31 【距离24级摇钱树还差】80.4%
+Jan 08 12:23:31 【我的金果数量】8205251
+Jan 08 12:23:31 【我的金贴数量】0.91
+Jan 08 12:23:31 
+Jan 08 12:23:31 
+Jan 08 12:23:31 
+Jan 08 12:23:31 🔔京东摇钱树, 结束! 🕛 30.733 秒
+Jan 08 12:23:31 
+Jan 08 14:23:00 
+Jan 08 14:23:00 🔔京东摇钱树, 开始!
+Jan 08 14:23:00 
+Jan 08 14:23:00 ====================共1个京东账号Cookie=========
+Jan 08 14:23:00 
+Jan 08 14:23:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 下午2:23:00=====================
+Jan 08 14:23:00 
+Jan 08 14:23:01 
+Jan 08 14:23:01 ****开始【京东账号1】jd_739d55b768da0****
+Jan 08 14:23:01 
+Jan 08 14:23:01 初始化摇钱树个人信息
+Jan 08 14:23:01 resultCode为0
+Jan 08 14:23:01 
+Jan 08 14:23:01 🔔京东摇钱树, 结束! 🕛 0.717 秒
+Jan 08 14:23:01 
+Jan 08 16:23:00 
+Jan 08 16:23:00 🔔京东摇钱树, 开始!
+Jan 08 16:23:00 
+Jan 08 16:23:00 ====================共1个京东账号Cookie=========
+Jan 08 16:23:00 
+Jan 08 16:23:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 下午4:23:00=====================
+Jan 08 16:23:00 
+Jan 08 16:23:01 
+Jan 08 16:23:01 ****开始【京东账号1】jd_739d55b768da0****
+Jan 08 16:23:01 
+Jan 08 16:23:01 初始化摇钱树个人信息
+Jan 08 16:23:01 resultCode为0
+Jan 08 16:23:02 每日签到条件查询:已经签到过了
+Jan 08 16:23:02 开始做任务userInfo了
+Jan 08 16:23:02 
+Jan 08 16:23:03 canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
+Jan 08 16:23:03 
+Jan 08 16:23:03 浏览任务列表taskInfo::[{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":667,"prizeAmount":1000,"workType":7}]
+Jan 08 16:23:03 
+Jan 08 16:23:03 三餐签到任务不在时间范围内
+Jan 08 16:23:03 分享任务已经做过
+Jan 08 16:23:03 开始做浏览任务
+Jan 08 16:23:04 missionId为666：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 16:23:06 missionId为666：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 16:23:07 missionId为666：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 16:23:08 missionId为666：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 16:23:09 missionId为666：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 16:23:10 missionId为666：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 16:23:12 missionId为666：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 16:23:12 浏览店铺任务结束
+Jan 08 16:23:12 开始领取浏览后的奖励
+Jan 08 16:23:13 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 08 16:23:13 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 08 16:23:13 开始做浏览任务
+Jan 08 16:23:14 missionId为667：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 16:23:15 missionId为667：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 16:23:16 missionId为667：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 16:23:17 missionId为667：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 16:23:19 missionId为667：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 16:23:20 missionId为667：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 16:23:21 missionId为667：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 16:23:21 浏览店铺任务结束
+Jan 08 16:23:21 开始领取浏览后的奖励
+Jan 08 16:23:22 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 08 16:23:22 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 08 16:23:23 
+Jan 08 16:23:23 收获金果成功:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"goToApp":false,"limitedTimeTask":false,"upgrade":false,"treeInfo":{"upgradeDemand":10000000,"treeName":"23级繁茂大树","progressLeft":"80.2%","level":23,"fruit":8219645,"fruitOnTree":0,"workerSum":4,"capacity":80000},"bigAwardTask":false,"fruitNumInLimitedTimeTask":0}},"channelEncrypt":0}
+Jan 08 16:23:23 
+Jan 08 16:23:23 目前金果数量8219645
+Jan 08 16:23:23 
+Jan 08 16:23:23 今日已卖出5.6万金果(已达上限)，获得0.07金贴
+Jan 08 16:23:23 
+Jan 08 16:23:25 金贴和金果数量：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":0,"gaAmount":8219645,"canGoldcoin":16472}},"channelEncrypt":0}
+Jan 08 16:23:26 今日已偷过好友的金果了，暂无好友可偷，请明天再来
+Jan 08 16:23:26 
+Jan 08 16:23:26 
+Jan 08 16:23:26 【距离24级摇钱树还差】80.2%
+Jan 08 16:23:26 【我的金果数量】8219645
+Jan 08 16:23:26 【我的金贴数量】0
+Jan 08 16:23:26 
+Jan 08 16:23:26 
+Jan 08 16:23:26 
+Jan 08 16:23:26 🔔京东摇钱树, 结束! 🕛 25.559 秒
+Jan 08 16:23:26 
+Jan 08 18:23:00 
+Jan 08 18:23:00 🔔京东摇钱树, 开始!
+Jan 08 18:23:00 
+Jan 08 18:23:00 ====================共1个京东账号Cookie=========
+Jan 08 18:23:00 
+Jan 08 18:23:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 下午6:23:00=====================
+Jan 08 18:23:00 
+Jan 08 18:23:01 
+Jan 08 18:23:01 ****开始【京东账号1】jd_739d55b768da0****
+Jan 08 18:23:01 
+Jan 08 18:23:01 初始化摇钱树个人信息
+Jan 08 18:23:01 resultCode为0
+Jan 08 18:23:02 每日签到条件查询:已经签到过了
+Jan 08 18:23:02 开始做任务userInfo了
+Jan 08 18:23:02 
+Jan 08 18:23:04 canTask::[{"workStatus":0,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
+Jan 08 18:23:04 
+Jan 08 18:23:04 浏览任务列表taskInfo::[{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":667,"prizeAmount":1000,"workType":7}]
+Jan 08 18:23:04 
+Jan 08 18:23:04 开始三餐签到
+Jan 08 18:23:05 三餐签到结果:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"操作成功","opResult":0,"prizeAmount":200}},"channelEncrypt":0}
+Jan 08 18:23:05 分享任务已经做过
+Jan 08 18:23:05 开始做浏览任务
+Jan 08 18:23:06 missionId为666：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 18:23:07 missionId为666：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 18:23:08 missionId为666：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 18:23:09 missionId为666：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 18:23:11 missionId为666：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 18:23:12 missionId为666：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 18:23:13 missionId为666：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 18:23:13 浏览店铺任务结束
+Jan 08 18:23:13 开始领取浏览后的奖励
+Jan 08 18:23:14 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 08 18:23:14 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 08 18:23:14 开始做浏览任务
+Jan 08 18:23:15 missionId为667：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 18:23:16 missionId为667：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 18:23:18 missionId为667：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 18:23:19 missionId为667：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 18:23:20 missionId为667：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 18:23:21 missionId为667：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 18:23:22 missionId为667：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 18:23:22 浏览店铺任务结束
+Jan 08 18:23:22 开始领取浏览后的奖励
+Jan 08 18:23:24 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 08 18:23:24 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 08 18:23:25 
+Jan 08 18:23:25 收获金果成功:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"goToApp":false,"limitedTimeTask":false,"upgrade":false,"bigAwardTask":false,"treeInfo":{"upgradeDemand":10000000,"treeName":"23级繁茂大树","progressLeft":"80.2%","level":23,"fruit":8227046,"fruitOnTree":0,"workerSum":4,"capacity":80000},"fruitNumInLimitedTimeTask":0}},"channelEncrypt":0}
+Jan 08 18:23:25 
+Jan 08 18:23:25 目前金果数量8227046
+Jan 08 18:23:25 
+Jan 08 18:23:25 今日已卖出5.6万金果(已达上限)，获得0.07金贴
+Jan 08 18:23:25 
+Jan 08 18:23:26 金贴和金果数量：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":0,"gaAmount":8227046,"canGoldcoin":16487}},"channelEncrypt":0}
+Jan 08 18:23:27 今日已偷过好友的金果了，暂无好友可偷，请明天再来
+Jan 08 18:23:27 
+Jan 08 18:23:27 
+Jan 08 18:23:27 【距离24级摇钱树还差】80.2%
+Jan 08 18:23:27 【我的金果数量】8227046
+Jan 08 18:23:27 【我的金贴数量】0
+Jan 08 18:23:27 
+Jan 08 18:23:27 
+Jan 08 18:23:27 
+Jan 08 18:23:27 🔔京东摇钱树, 结束! 🕛 26.745 秒
+Jan 08 18:23:27 
+Jan 08 20:23:01 
+Jan 08 20:23:01 🔔京东摇钱树, 开始!
+Jan 08 20:23:01 
+Jan 08 20:23:01 ====================共1个京东账号Cookie=========
+Jan 08 20:23:01 
+Jan 08 20:23:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 下午8:23:01=====================
+Jan 08 20:23:01 
+Jan 08 20:23:01 
+Jan 08 20:23:01 ****开始【京东账号1】jd_739d55b768da0****
+Jan 08 20:23:01 
+Jan 08 20:23:01 初始化摇钱树个人信息
+Jan 08 20:23:01 resultCode为0
+Jan 08 20:23:02 每日签到条件查询:已经签到过了
+Jan 08 20:23:02 开始做任务userInfo了
+Jan 08 20:23:02 
+Jan 08 20:23:04 canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
+Jan 08 20:23:04 
+Jan 08 20:23:04 浏览任务列表taskInfo::[{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":667,"prizeAmount":1000,"workType":7}]
+Jan 08 20:23:04 
+Jan 08 20:23:04 三餐签到任务不在时间范围内
+Jan 08 20:23:04 分享任务已经做过
+Jan 08 20:23:04 开始做浏览任务
+Jan 08 20:23:05 missionId为666：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 20:23:06 missionId为666：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 20:23:07 missionId为666：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 20:23:08 missionId为666：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 20:23:09 missionId为666：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 20:23:11 missionId为666：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 20:23:12 missionId为666：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 20:23:12 浏览店铺任务结束
+Jan 08 20:23:12 开始领取浏览后的奖励
+Jan 08 20:23:13 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 08 20:23:13 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 08 20:23:13 开始做浏览任务
+Jan 08 20:23:14 missionId为667：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 20:23:15 missionId为667：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 20:23:17 missionId为667：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 20:23:18 missionId为667：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 20:23:19 missionId为667：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 20:23:20 missionId为667：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 20:23:21 missionId为667：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 20:23:21 浏览店铺任务结束
+Jan 08 20:23:21 开始领取浏览后的奖励
+Jan 08 20:23:22 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 08 20:23:22 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 08 20:23:24 
+Jan 08 20:23:24 收获金果成功:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"goToApp":false,"limitedTimeTask":false,"upgrade":false,"treeInfo":{"upgradeDemand":10000000,"treeName":"23级繁茂大树","progressLeft":"80.1%","level":23,"fruit":8234244,"fruitOnTree":0,"workerSum":4,"capacity":80000},"bigAwardTask":false,"fruitNumInLimitedTimeTask":0}},"channelEncrypt":0}
+Jan 08 20:23:24 
+Jan 08 20:23:24 目前金果数量8234244
+Jan 08 20:23:24 
+Jan 08 20:23:24 今日已卖出5.6万金果(已达上限)，获得0.07金贴
+Jan 08 20:23:24 
+Jan 08 20:23:25 金贴和金果数量：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":0,"gaAmount":8234244,"canGoldcoin":16501}},"channelEncrypt":0}
+Jan 08 20:23:26 今日已偷过好友的金果了，暂无好友可偷，请明天再来
+Jan 08 20:23:26 
+Jan 08 20:23:26 
+Jan 08 20:23:26 【距离24级摇钱树还差】80.1%
+Jan 08 20:23:26 【我的金果数量】8234244
+Jan 08 20:23:26 【我的金贴数量】0
+Jan 08 20:23:26 
+Jan 08 20:23:26 
+Jan 08 20:23:26 
+Jan 08 20:23:26 🔔京东摇钱树, 结束! 🕛 25.384 秒
+Jan 08 20:23:26 
+Jan 08 22:23:00 
+Jan 08 22:23:00 🔔京东摇钱树, 开始!
+Jan 08 22:23:00 
+Jan 08 22:23:00 ====================共1个京东账号Cookie=========
+Jan 08 22:23:00 
+Jan 08 22:23:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 下午10:23:00=====================
+Jan 08 22:23:00 
+Jan 08 22:23:01 
+Jan 08 22:23:01 ****开始【京东账号1】jd_739d55b768da0****
+Jan 08 22:23:01 
+Jan 08 22:23:01 初始化摇钱树个人信息
+Jan 08 22:23:04 resultCode为0
+Jan 08 22:23:05 每日签到条件查询:已经签到过了
+Jan 08 22:23:05 开始做任务userInfo了
+Jan 08 22:23:05 
+Jan 08 22:23:07 canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
+Jan 08 22:23:07 
+Jan 08 22:23:07 浏览任务列表taskInfo::[{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":667,"prizeAmount":1000,"workType":7}]
+Jan 08 22:23:07 
+Jan 08 22:23:07 三餐签到任务不在时间范围内
+Jan 08 22:23:07 分享任务已经做过
+Jan 08 22:23:07 开始做浏览任务
+Jan 08 22:23:08 missionId为666：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 22:23:09 missionId为666：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 22:23:10 missionId为666：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 22:23:11 missionId为666：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 22:23:13 missionId为666：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 22:23:14 missionId为666：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 22:23:15 missionId为666：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 22:23:15 浏览店铺任务结束
+Jan 08 22:23:15 开始领取浏览后的奖励
+Jan 08 22:23:16 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 08 22:23:16 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 08 22:23:16 开始做浏览任务
+Jan 08 22:23:17 missionId为667：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 22:23:18 missionId为667：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 22:23:20 missionId为667：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 22:23:21 missionId为667：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 22:23:22 missionId为667：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 22:23:23 missionId为667：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 22:23:24 missionId为667：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 08 22:23:24 浏览店铺任务结束
+Jan 08 22:23:24 开始领取浏览后的奖励
+Jan 08 22:23:26 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 08 22:23:26 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 08 22:23:27 
+Jan 08 22:23:27 收获金果成功:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"goToApp":false,"limitedTimeTask":false,"upgrade":false,"randomAward":{"times":10,"amount":500,"mutiplyAmount":1000,"probability":30,"awardType":2},"treeInfo":{"upgradeDemand":10000000,"treeName":"23级繁茂大树","progressLeft":"80.0%","level":23,"fruit":8241447,"fruitOnTree":0,"workerSum":4,"capacity":80000},"bigAwardTask":false,"fruitNumInLimitedTimeTask":0}},"channelEncrypt":0}
+Jan 08 22:23:27 
+Jan 08 22:23:27 目前金果数量8241447
+Jan 08 22:23:27 
+Jan 08 22:23:27 今日已卖出5.6万金果(已达上限)，获得0.07金贴
+Jan 08 22:23:27 
+Jan 08 22:23:28 金贴和金果数量：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":0,"gaAmount":8241447,"canGoldcoin":16515}},"channelEncrypt":0}
+Jan 08 22:23:29 今日已偷过好友的金果了，暂无好友可偷，请明天再来
+Jan 08 22:23:29 
+Jan 08 22:23:29 
+Jan 08 22:23:29 【距离24级摇钱树还差】80.0%
+Jan 08 22:23:29 【我的金果数量】8241447
+Jan 08 22:23:29 【我的金贴数量】0
+Jan 08 22:23:29 
+Jan 08 22:23:29 
+Jan 08 22:23:29 
+Jan 08 22:23:29 🔔京东摇钱树, 结束! 🕛 29.401 秒
+Jan 08 22:23:29 
+Jan 09 00:23:00 
+Jan 09 00:23:00 🔔京东摇钱树, 开始!
+Jan 09 00:23:00 
+Jan 09 00:23:00 ====================共1个京东账号Cookie=========
+Jan 09 00:23:00 
+Jan 09 00:23:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 上午12:23:00=====================
+Jan 09 00:23:00 
+Jan 09 00:23:01 
+Jan 09 00:23:01 ****开始【京东账号1】jd_739d55b768da0****
+Jan 09 00:23:01 
+Jan 09 00:23:01 初始化摇钱树个人信息
+Jan 09 00:23:01 resultCode为0
+Jan 09 00:23:01 
+Jan 09 00:23:01 🔔京东摇钱树, 结束! 🕛 0.91 秒
+Jan 09 00:23:01 
+Jan 09 02:23:00 
+Jan 09 02:23:00 🔔京东摇钱树, 开始!
+Jan 09 02:23:00 
+Jan 09 02:23:00 ====================共1个京东账号Cookie=========
+Jan 09 02:23:00 
+Jan 09 02:23:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 上午2:23:00=====================
+Jan 09 02:23:00 
+Jan 09 02:23:01 
+Jan 09 02:23:01 ****开始【京东账号1】jd_739d55b768da0****
+Jan 09 02:23:01 
+Jan 09 02:23:01 初始化摇钱树个人信息
+Jan 09 02:23:01 resultCode为0
+Jan 09 02:23:07 每日签到条件查询:可以签到
+Jan 09 02:23:07 准备每日签到
+Jan 09 02:23:08 第5日签到结果:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"result":true}},"channelEncrypt":0}
+Jan 09 02:23:08 开始做任务userInfo了
+Jan 09 02:23:08 
+Jan 09 02:23:09 canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":0,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
+Jan 09 02:23:09 
+Jan 09 02:23:09 浏览任务列表taskInfo::[{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":667,"prizeAmount":1000,"workType":7}]
+Jan 09 02:23:09 
+Jan 09 02:23:09 三餐签到任务不在时间范围内
+Jan 09 02:23:09 开始做分享任务
+Jan 09 02:23:09 
+Jan 09 02:23:10 开始分享的动作:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"操作成功","nextStatus":1,"opResult":0}},"channelEncrypt":0}
+Jan 09 02:23:10 开始做领取分享后的奖励
+Jan 09 02:23:10 
+Jan 09 02:23:12 领取分享后的奖励:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"操作成功","opResult":0,"prizeAmount":500}},"channelEncrypt":0}
+Jan 09 02:23:12 开始做浏览任务
+Jan 09 02:23:13 missionId为666：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 02:23:14 missionId为666：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 02:23:15 missionId为666：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 02:23:16 missionId为666：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 02:23:17 missionId为666：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 02:23:19 missionId为666：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 02:23:20 missionId为666：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 02:23:20 浏览店铺任务结束
+Jan 09 02:23:20 开始领取浏览后的奖励
+Jan 09 02:23:21 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"领取成功","opResult":0,"prizeAmount":1000,"nextStatus":2}},"channelEncrypt":0}
+Jan 09 02:23:21 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"领取成功","opResult":0,"prizeAmount":1000,"nextStatus":2}},"channelEncrypt":0}
+Jan 09 02:23:21 开始做浏览任务
+Jan 09 02:23:22 missionId为667：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 02:23:23 missionId为667：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 02:23:25 missionId为667：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 02:23:26 missionId为667：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 02:23:27 missionId为667：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 02:23:28 missionId为667：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 02:23:29 missionId为667：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 02:23:29 浏览店铺任务结束
+Jan 09 02:23:29 开始领取浏览后的奖励
+Jan 09 02:23:30 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"领取成功","opResult":0,"prizeAmount":1000,"nextStatus":2}},"channelEncrypt":0}
+Jan 09 02:23:30 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"领取成功","opResult":0,"prizeAmount":1000,"nextStatus":2}},"channelEncrypt":0}
+Jan 09 02:23:32 
+Jan 09 02:23:32 收获金果成功:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"goToApp":false,"limitedTimeTask":true,"upgrade":false,"overTime":43200000,"treeInfo":{"upgradeDemand":10000000,"treeName":"23级繁茂大树","progressLeft":"79.9%","level":23,"fruit":8259351,"fruitOnTree":0,"workerSum":4,"capacity":80000},"bigAwardTask":false,"fruitNumInLimitedTimeTask":2000}},"channelEncrypt":0}
+Jan 09 02:23:32 
+Jan 09 02:23:32 目前金果数量8259351
+Jan 09 02:23:33 卖出金果成功，获得0.07金贴
+Jan 09 02:23:33 
+Jan 09 02:23:34 金贴和金果数量：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":7,"gaAmount":8203351,"canGoldcoin":16439}},"channelEncrypt":0}
+Jan 09 02:23:35 今日已偷过好友的金果了，暂无好友可偷，请明天再来
+Jan 09 02:23:35 
+Jan 09 02:23:35 
+Jan 09 02:23:35 【距离24级摇钱树还差】79.9%
+Jan 09 02:23:35 【我的金果数量】8203351
+Jan 09 02:23:35 【我的金贴数量】0.07
+Jan 09 02:23:35 
+Jan 09 02:23:35 
+Jan 09 02:23:35 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 09 02:23:35 
+Jan 09 02:23:39 发送通知调用API失败！！
+Jan 09 02:23:39 
+Jan 09 02:23:39 RequestError: socket hang up
+Jan 09 02:23:39     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 09 02:23:39     at Object.onceWrapper (node:events:510:26)
+Jan 09 02:23:39     at ClientRequest.emit (node:events:402:35)
+Jan 09 02:23:39     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 09 02:23:39     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 09 02:23:39     at Socket.emit (node:events:402:35)
+Jan 09 02:23:39     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 09 02:23:39     at connResetException (node:internal/errors:691:14)
+Jan 09 02:23:39     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 09 02:23:39     at Socket.emit (node:events:402:35)
+Jan 09 02:23:39     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 09 02:23:39     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 09 02:23:39   code: 'ECONNRESET',
+Jan 09 02:23:39   timings: {
+Jan 09 02:23:39     start: 1641666218272,
+Jan 09 02:23:39     socket: 1641666218272,
+Jan 09 02:23:39     lookup: 1641666218273,
+Jan 09 02:23:39     connect: 1641666219507,
+Jan 09 02:23:39     secureConnect: undefined,
+Jan 09 02:23:39     upload: 1641666219507,
+Jan 09 02:23:39     response: undefined,
+Jan 09 02:23:39     end: undefined,
+Jan 09 02:23:39     error: 1641666219744,
+Jan 09 02:23:39     abort: undefined,
+Jan 09 02:23:39     phases: {
+Jan 09 02:23:39       wait: 0,
+Jan 09 02:23:39       dns: 1,
+Jan 09 02:23:39       tcp: 1234,
+Jan 09 02:23:39       tls: undefined,
+Jan 09 02:23:39       request: 0,
+Jan 09 02:23:39       firstByte: undefined,
+Jan 09 02:23:39       download: undefined,
+Jan 09 02:23:39       total: 1472
+Jan 09 02:23:39     }
+Jan 09 02:23:39   }
+Jan 09 02:23:39 }
+Jan 09 02:23:39 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 09 02:23:39 
+Jan 09 02:23:39 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 09 02:23:39 
+Jan 09 02:23:39 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 09 02:23:39 
+Jan 09 02:23:39 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 09 02:23:39 
+Jan 09 02:23:39 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 09 02:23:39 
+Jan 09 02:23:39 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 09 02:23:39 
+Jan 09 02:23:39 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 09 02:23:39 
+Jan 09 02:23:39 
+Jan 09 02:23:39 ==============📣系统通知📣==============
+Jan 09 02:23:39 京东摇钱树
+Jan 09 02:23:39 账号1：jd_739d55b768da0
+Jan 09 02:23:39 今日成功卖出5.6万金果，获得0.07金贴
+Jan 09 02:23:39 
+Jan 09 02:23:39 🔔京东摇钱树, 结束! 🕛 39.211 秒
+Jan 09 02:23:39 
+Jan 09 04:23:00 
+Jan 09 04:23:00 🔔京东摇钱树, 开始!
+Jan 09 04:23:00 
+Jan 09 04:23:00 ====================共1个京东账号Cookie=========
+Jan 09 04:23:00 
+Jan 09 04:23:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 上午4:23:00=====================
+Jan 09 04:23:00 
+Jan 09 04:23:01 
+Jan 09 04:23:01 ****开始【京东账号1】jd_739d55b768da0****
+Jan 09 04:23:01 
+Jan 09 04:23:01 初始化摇钱树个人信息
+Jan 09 04:23:01 resultCode为0
+Jan 09 04:23:01 
+Jan 09 04:23:01 🔔京东摇钱树, 结束! 🕛 0.601 秒
+Jan 09 04:23:01 
+Jan 09 06:23:00 
+Jan 09 06:23:00 🔔京东摇钱树, 开始!
+Jan 09 06:23:00 
+Jan 09 06:23:00 ====================共1个京东账号Cookie=========
+Jan 09 06:23:00 
+Jan 09 06:23:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 上午6:23:00=====================
+Jan 09 06:23:00 
+Jan 09 06:23:01 
+Jan 09 06:23:01 ****开始【京东账号1】jd_739d55b768da0****
+Jan 09 06:23:01 
+Jan 09 06:23:01 初始化摇钱树个人信息
+Jan 09 06:23:01 resultCode为0
+Jan 09 06:23:02 每日签到条件查询:已经签到过了
+Jan 09 06:23:02 开始做任务userInfo了
+Jan 09 06:23:02 
+Jan 09 06:23:03 canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
+Jan 09 06:23:03 
+Jan 09 06:23:03 浏览任务列表taskInfo::[{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":667,"prizeAmount":1000,"workType":7}]
+Jan 09 06:23:03 
+Jan 09 06:23:03 三餐签到任务不在时间范围内
+Jan 09 06:23:03 分享任务已经做过
+Jan 09 06:23:03 开始做浏览任务
+Jan 09 06:23:05 missionId为666：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 06:23:06 missionId为666：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 06:23:07 missionId为666：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 06:23:08 missionId为666：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 06:23:09 missionId为666：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 06:23:10 missionId为666：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 06:23:12 missionId为666：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 06:23:12 浏览店铺任务结束
+Jan 09 06:23:12 开始领取浏览后的奖励
+Jan 09 06:23:13 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 09 06:23:13 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 09 06:23:13 开始做浏览任务
+Jan 09 06:23:14 missionId为667：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 06:23:15 missionId为667：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 06:23:16 missionId为667：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 06:23:18 missionId为667：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 06:23:19 missionId为667：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 06:23:20 missionId为667：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 06:23:21 missionId为667：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 06:23:21 浏览店铺任务结束
+Jan 09 06:23:21 开始领取浏览后的奖励
+Jan 09 06:23:22 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 09 06:23:22 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 09 06:23:23 
+Jan 09 06:23:23 收获金果成功:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"goToApp":false,"limitedTimeTask":false,"upgrade":false,"treeInfo":{"upgradeDemand":10000000,"progressLeft":"79.7%","treeName":"23级繁茂大树","level":23,"fruit":8217742,"fruitOnTree":0,"workerSum":4,"capacity":80000},"bigAwardTask":false,"fruitNumInLimitedTimeTask":0}},"channelEncrypt":0}
+Jan 09 06:23:23 
+Jan 09 06:23:23 目前金果数量8217742
+Jan 09 06:23:23 
+Jan 09 06:23:23 今日已卖出5.6万金果(已达上限)，获得0.07金贴
+Jan 09 06:23:23 
+Jan 09 06:23:25 金贴和金果数量：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":7,"gaAmount":8217742,"canGoldcoin":16468}},"channelEncrypt":0}
+Jan 09 06:23:26 今日已偷过好友的金果了，暂无好友可偷，请明天再来
+Jan 09 06:23:26 
+Jan 09 06:23:26 
+Jan 09 06:23:26 【距离24级摇钱树还差】79.7%
+Jan 09 06:23:26 【我的金果数量】8217742
+Jan 09 06:23:26 【我的金贴数量】0.07
+Jan 09 06:23:26 
+Jan 09 06:23:26 
+Jan 09 06:23:26 
+Jan 09 06:23:26 🔔京东摇钱树, 结束! 🕛 25.496 秒
+Jan 09 06:23:26 
+Jan 09 08:23:01 
+Jan 09 08:23:01 🔔京东摇钱树, 开始!
+Jan 09 08:23:01 
+Jan 09 08:23:01 ====================共1个京东账号Cookie=========
+Jan 09 08:23:01 
+Jan 09 08:23:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 上午8:23:01=====================
+Jan 09 08:23:01 
+Jan 09 08:23:01 
+Jan 09 08:23:01 ****开始【京东账号1】jd_739d55b768da0****
+Jan 09 08:23:01 
+Jan 09 08:23:01 初始化摇钱树个人信息
+Jan 09 08:23:01 resultCode为0
+Jan 09 08:23:02 每日签到条件查询:已经签到过了
+Jan 09 08:23:02 开始做任务userInfo了
+Jan 09 08:23:02 
+Jan 09 08:23:03 canTask::[{"workStatus":0,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
+Jan 09 08:23:03 
+Jan 09 08:23:03 浏览任务列表taskInfo::[{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":667,"prizeAmount":1000,"workType":7}]
+Jan 09 08:23:03 
+Jan 09 08:23:03 开始三餐签到
+Jan 09 08:23:05 三餐签到结果:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"操作成功","opResult":0,"prizeAmount":200}},"channelEncrypt":0}
+Jan 09 08:23:05 分享任务已经做过
+Jan 09 08:23:05 开始做浏览任务
+Jan 09 08:23:06 missionId为666：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 08:23:07 missionId为666：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 08:23:08 missionId为666：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 08:23:09 missionId为666：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 08:23:11 missionId为666：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 08:23:12 missionId为666：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 08:23:13 missionId为666：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 08:23:13 浏览店铺任务结束
+Jan 09 08:23:13 开始领取浏览后的奖励
+Jan 09 08:23:14 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 09 08:23:14 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 09 08:23:14 开始做浏览任务
+Jan 09 08:23:15 missionId为667：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 08:23:16 missionId为667：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 08:23:18 missionId为667：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 08:23:19 missionId为667：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 08:23:20 missionId为667：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 08:23:21 missionId为667：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 08:23:22 missionId为667：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 08:23:22 浏览店铺任务结束
+Jan 09 08:23:22 开始领取浏览后的奖励
+Jan 09 08:23:24 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 09 08:23:24 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 09 08:23:25 
+Jan 09 08:23:25 收获金果成功:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"goToApp":false,"limitedTimeTask":false,"upgrade":false,"treeInfo":{"upgradeDemand":10000000,"progressLeft":"79.7%","treeName":"23级繁茂大树","level":23,"fruit":8225143,"fruitOnTree":0,"workerSum":4,"capacity":80000},"bigAwardTask":false,"fruitNumInLimitedTimeTask":0}},"channelEncrypt":0}
+Jan 09 08:23:25 
+Jan 09 08:23:25 目前金果数量8225143
+Jan 09 08:23:25 
+Jan 09 08:23:25 今日已卖出5.6万金果(已达上限)，获得0.07金贴
+Jan 09 08:23:25 
+Jan 09 08:23:26 金贴和金果数量：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":7,"gaAmount":8225143,"canGoldcoin":16483}},"channelEncrypt":0}
+Jan 09 08:23:27 今日已偷过好友的金果了，暂无好友可偷，请明天再来
+Jan 09 08:23:27 
+Jan 09 08:23:27 
+Jan 09 08:23:27 【距离24级摇钱树还差】79.7%
+Jan 09 08:23:27 【我的金果数量】8225143
+Jan 09 08:23:27 【我的金贴数量】0.07
+Jan 09 08:23:27 
+Jan 09 08:23:27 
+Jan 09 08:23:27 
+Jan 09 08:23:27 🔔京东摇钱树, 结束! 🕛 26.628 秒
+Jan 09 08:23:27 
+Jan 09 10:23:00 
+Jan 09 10:23:00 🔔京东摇钱树, 开始!
+Jan 09 10:23:00 
+Jan 09 10:23:00 ====================共1个京东账号Cookie=========
+Jan 09 10:23:00 
+Jan 09 10:23:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 上午10:23:00=====================
+Jan 09 10:23:00 
+Jan 09 10:23:00 
+Jan 09 10:23:00 ****开始【京东账号1】jd_739d55b768da0****
+Jan 09 10:23:00 
+Jan 09 10:23:00 初始化摇钱树个人信息
+Jan 09 10:23:06 resultCode为0
+Jan 09 10:23:07 每日签到条件查询:已经签到过了
+Jan 09 10:23:07 开始做任务userInfo了
+Jan 09 10:23:07 
+Jan 09 10:23:08 canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
+Jan 09 10:23:08 
+Jan 09 10:23:08 浏览任务列表taskInfo::[{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":667,"prizeAmount":1000,"workType":7}]
+Jan 09 10:23:08 
+Jan 09 10:23:08 三餐签到任务不在时间范围内
+Jan 09 10:23:08 分享任务已经做过
+Jan 09 10:23:08 开始做浏览任务
+Jan 09 10:23:10 missionId为666：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 10:23:11 missionId为666：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 10:23:12 missionId为666：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 10:23:13 missionId为666：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 10:23:14 missionId为666：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 10:23:15 missionId为666：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 10:23:17 missionId为666：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 10:23:17 浏览店铺任务结束
+Jan 09 10:23:17 开始领取浏览后的奖励
+Jan 09 10:23:18 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 09 10:23:18 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 09 10:23:18 开始做浏览任务
+Jan 09 10:23:19 missionId为667：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 10:23:20 missionId为667：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 10:23:21 missionId为667：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 10:23:23 missionId为667：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 10:23:24 missionId为667：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 10:23:25 missionId为667：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 10:23:26 missionId为667：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 10:23:26 浏览店铺任务结束
+Jan 09 10:23:26 开始领取浏览后的奖励
+Jan 09 10:23:27 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 09 10:23:27 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 09 10:23:28 
+Jan 09 10:23:28 收获金果成功:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"goToApp":false,"limitedTimeTask":false,"upgrade":false,"treeInfo":{"upgradeDemand":10000000,"treeName":"23级繁茂大树","progressLeft":"79.6%","level":23,"fruit":8232346,"fruitOnTree":0,"workerSum":4,"capacity":80000},"bigAwardTask":false,"fruitNumInLimitedTimeTask":0}},"channelEncrypt":0}
+Jan 09 10:23:28 
+Jan 09 10:23:28 目前金果数量8232346
+Jan 09 10:23:28 
+Jan 09 10:23:28 今日已卖出5.6万金果(已达上限)，获得0.07金贴
+Jan 09 10:23:28 
+Jan 09 10:23:30 金贴和金果数量：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":7,"gaAmount":8232346,"canGoldcoin":16497}},"channelEncrypt":0}
+Jan 09 10:23:31 今日已偷过好友的金果了，暂无好友可偷，请明天再来
+Jan 09 10:23:31 
+Jan 09 10:23:31 
+Jan 09 10:23:31 【距离24级摇钱树还差】79.6%
+Jan 09 10:23:31 【我的金果数量】8232346
+Jan 09 10:23:31 【我的金贴数量】0.07
+Jan 09 10:23:31 
+Jan 09 10:23:31 
+Jan 09 10:23:31 
+Jan 09 10:23:31 🔔京东摇钱树, 结束! 🕛 31.294 秒
+Jan 09 10:23:31 
+Jan 09 12:23:00 
+Jan 09 12:23:00 🔔京东摇钱树, 开始!
+Jan 09 12:23:00 
+Jan 09 12:23:00 ====================共1个京东账号Cookie=========
+Jan 09 12:23:00 
+Jan 09 12:23:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 下午12:23:00=====================
+Jan 09 12:23:00 
+Jan 09 12:23:01 
+Jan 09 12:23:01 ****开始【京东账号1】jd_739d55b768da0****
+Jan 09 12:23:01 
+Jan 09 12:23:01 初始化摇钱树个人信息
+Jan 09 12:23:01 resultCode为0
+Jan 09 12:23:03 每日签到条件查询:已经签到过了
+Jan 09 12:23:03 开始做任务userInfo了
+Jan 09 12:23:03 
+Jan 09 12:23:05 canTask::[{"workStatus":0,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
+Jan 09 12:23:05 
+Jan 09 12:23:05 浏览任务列表taskInfo::[{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":667,"prizeAmount":1000,"workType":7}]
+Jan 09 12:23:05 
+Jan 09 12:23:05 开始三餐签到
+Jan 09 12:23:06 三餐签到结果:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"操作成功","opResult":0,"prizeAmount":200}},"channelEncrypt":0}
+Jan 09 12:23:06 分享任务已经做过
+Jan 09 12:23:06 开始做浏览任务
+Jan 09 12:23:07 missionId为666：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 12:23:08 missionId为666：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 12:23:09 missionId为666：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 12:23:10 missionId为666：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 12:23:12 missionId为666：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 12:23:13 missionId为666：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 12:23:14 missionId为666：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 12:23:14 浏览店铺任务结束
+Jan 09 12:23:14 开始领取浏览后的奖励
+Jan 09 12:23:15 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 09 12:23:15 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 09 12:23:15 开始做浏览任务
+Jan 09 12:23:16 missionId为667：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 12:23:18 missionId为667：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 12:23:19 missionId为667：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 12:23:20 missionId为667：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 12:23:21 missionId为667：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 12:23:22 missionId为667：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 12:23:23 missionId为667：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 12:23:23 浏览店铺任务结束
+Jan 09 12:23:23 开始领取浏览后的奖励
+Jan 09 12:23:25 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 09 12:23:25 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 09 12:23:26 
+Jan 09 12:23:26 收获金果成功:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"goToApp":false,"limitedTimeTask":false,"upgrade":false,"randomAward":{"amount":300,"times":5,"mutiplyAmount":600,"probability":30,"awardType":2},"treeInfo":{"upgradeDemand":10000000,"treeName":"23级繁茂大树","progressLeft":"79.5%","level":23,"fruit":8239743,"fruitOnTree":0,"workerSum":4,"capacity":80000},"bigAwardTask":false,"fruitNumInLimitedTimeTask":0}},"channelEncrypt":0}
+Jan 09 12:23:26 
+Jan 09 12:23:26 目前金果数量8239743
+Jan 09 12:23:26 
+Jan 09 12:23:26 今日已卖出5.6万金果(已达上限)，获得0.07金贴
+Jan 09 12:23:26 
+Jan 09 12:23:27 金贴和金果数量：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":7,"gaAmount":8239743,"canGoldcoin":16512}},"channelEncrypt":0}
+Jan 09 12:23:28 今日已偷过好友的金果了，暂无好友可偷，请明天再来
+Jan 09 12:23:28 
+Jan 09 12:23:28 
+Jan 09 12:23:28 【距离24级摇钱树还差】79.5%
+Jan 09 12:23:28 【我的金果数量】8239743
+Jan 09 12:23:28 【我的金贴数量】0.07
+Jan 09 12:23:28 
+Jan 09 12:23:28 
+Jan 09 12:23:28 
+Jan 09 12:23:28 🔔京东摇钱树, 结束! 🕛 28.372 秒
+Jan 09 12:23:28 
+Jan 09 14:23:00 
+Jan 09 14:23:00 🔔京东摇钱树, 开始!
+Jan 09 14:23:00 
+Jan 09 14:23:00 ====================共1个京东账号Cookie=========
+Jan 09 14:23:00 
+Jan 09 14:23:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 下午2:23:00=====================
+Jan 09 14:23:00 
+Jan 09 14:23:00 
+Jan 09 14:23:00 ****开始【京东账号1】jd_739d55b768da0****
+Jan 09 14:23:00 
+Jan 09 14:23:00 初始化摇钱树个人信息
+Jan 09 14:23:01 resultCode为0
+Jan 09 14:23:05 每日签到条件查询:已经签到过了
+Jan 09 14:23:05 开始做任务userInfo了
+Jan 09 14:23:05 
+Jan 09 14:23:06 canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
+Jan 09 14:23:06 
+Jan 09 14:23:06 浏览任务列表taskInfo::[{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":667,"prizeAmount":1000,"workType":7}]
+Jan 09 14:23:06 
+Jan 09 14:23:06 三餐签到任务不在时间范围内
+Jan 09 14:23:06 分享任务已经做过
+Jan 09 14:23:06 开始做浏览任务
+Jan 09 14:23:07 missionId为666：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 14:23:08 missionId为666：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 14:23:10 missionId为666：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 14:23:11 missionId为666：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 14:23:12 missionId为666：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 14:23:13 missionId为666：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 14:23:14 missionId为666：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 14:23:14 浏览店铺任务结束
+Jan 09 14:23:14 开始领取浏览后的奖励
+Jan 09 14:23:15 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 09 14:23:15 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 09 14:23:15 开始做浏览任务
+Jan 09 14:23:17 missionId为667：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 14:23:18 missionId为667：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 14:23:19 missionId为667：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 14:23:20 missionId为667：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 14:23:21 missionId为667：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 14:23:22 missionId为667：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 14:23:24 missionId为667：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 14:23:24 浏览店铺任务结束
+Jan 09 14:23:24 开始领取浏览后的奖励
+Jan 09 14:23:25 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 09 14:23:25 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 09 14:23:26 
+Jan 09 14:23:26 收获金果成功:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"goToApp":false,"limitedTimeTask":false,"upgrade":false,"treeInfo":{"upgradeDemand":10000000,"progressLeft":"79.4%","treeName":"23级繁茂大树","level":23,"fruit":8246943,"fruitOnTree":0,"workerSum":4,"capacity":80000},"bigAwardTask":false,"fruitNumInLimitedTimeTask":0}},"channelEncrypt":0}
+Jan 09 14:23:26 
+Jan 09 14:23:26 目前金果数量8246943
+Jan 09 14:23:26 
+Jan 09 14:23:26 今日已卖出5.6万金果(已达上限)，获得0.07金贴
+Jan 09 14:23:26 
+Jan 09 14:23:27 金贴和金果数量：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":7,"gaAmount":8246943,"canGoldcoin":16526}},"channelEncrypt":0}
+Jan 09 14:23:28 今日已偷过好友的金果了，暂无好友可偷，请明天再来
+Jan 09 14:23:28 
+Jan 09 14:23:28 
+Jan 09 14:23:28 【距离24级摇钱树还差】79.4%
+Jan 09 14:23:28 【我的金果数量】8246943
+Jan 09 14:23:28 【我的金贴数量】0.07
+Jan 09 14:23:28 
+Jan 09 14:23:28 
+Jan 09 14:23:28 
+Jan 09 14:23:28 🔔京东摇钱树, 结束! 🕛 28.477 秒
+Jan 09 14:23:28 
+Jan 09 16:23:00 
+Jan 09 16:23:00 🔔京东摇钱树, 开始!
+Jan 09 16:23:00 
+Jan 09 16:23:00 ====================共1个京东账号Cookie=========
+Jan 09 16:23:00 
+Jan 09 16:23:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 下午4:23:00=====================
+Jan 09 16:23:00 
+Jan 09 16:23:00 
+Jan 09 16:23:00 ****开始【京东账号1】jd_739d55b768da0****
+Jan 09 16:23:00 
+Jan 09 16:23:00 初始化摇钱树个人信息
+Jan 09 16:23:01 resultCode为0
+Jan 09 16:23:02 每日签到条件查询:已经签到过了
+Jan 09 16:23:02 开始做任务userInfo了
+Jan 09 16:23:02 
+Jan 09 16:23:04 canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
+Jan 09 16:23:04 
+Jan 09 16:23:04 浏览任务列表taskInfo::[{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":667,"prizeAmount":1000,"workType":7}]
+Jan 09 16:23:04 
+Jan 09 16:23:04 三餐签到任务不在时间范围内
+Jan 09 16:23:04 分享任务已经做过
+Jan 09 16:23:04 开始做浏览任务
+Jan 09 16:23:06 missionId为666：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 16:23:07 missionId为666：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 16:23:09 missionId为666：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 16:23:10 missionId为666：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 16:23:11 missionId为666：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 16:23:12 missionId为666：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 16:23:13 missionId为666：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 16:23:13 浏览店铺任务结束
+Jan 09 16:23:13 开始领取浏览后的奖励
+Jan 09 16:23:15 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 09 16:23:15 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 09 16:23:15 开始做浏览任务
+Jan 09 16:23:16 missionId为667：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 16:23:17 missionId为667：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 16:23:18 missionId为667：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 16:23:19 missionId为667：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 16:23:20 missionId为667：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 16:23:22 missionId为667：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 16:23:23 missionId为667：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 16:23:23 浏览店铺任务结束
+Jan 09 16:23:23 开始领取浏览后的奖励
+Jan 09 16:23:24 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 09 16:23:24 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 09 16:23:25 
+Jan 09 16:23:25 收获金果成功:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"goToApp":false,"limitedTimeTask":false,"upgrade":false,"treeInfo":{"upgradeDemand":10000000,"treeName":"23级繁茂大树","progressLeft":"79.4%","level":23,"fruit":8254142,"fruitOnTree":0,"workerSum":4,"capacity":80000},"bigAwardTask":false,"fruitNumInLimitedTimeTask":0}},"channelEncrypt":0}
+Jan 09 16:23:25 
+Jan 09 16:23:25 目前金果数量8254142
+Jan 09 16:23:25 
+Jan 09 16:23:25 今日已卖出5.6万金果(已达上限)，获得0.07金贴
+Jan 09 16:23:25 
+Jan 09 16:23:26 金贴和金果数量：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":7,"gaAmount":8254142,"canGoldcoin":16541}},"channelEncrypt":0}
+Jan 09 16:23:28 今日已偷过好友的金果了，暂无好友可偷，请明天再来
+Jan 09 16:23:28 
+Jan 09 16:23:28 
+Jan 09 16:23:28 【距离24级摇钱树还差】79.4%
+Jan 09 16:23:28 【我的金果数量】8254142
+Jan 09 16:23:28 【我的金贴数量】0.07
+Jan 09 16:23:28 
+Jan 09 16:23:28 
+Jan 09 16:23:28 
+Jan 09 16:23:28 🔔京东摇钱树, 结束! 🕛 27.626 秒
+Jan 09 16:23:28 
+Jan 09 18:23:00 
+Jan 09 18:23:00 🔔京东摇钱树, 开始!
+Jan 09 18:23:00 
+Jan 09 18:23:00 ====================共1个京东账号Cookie=========
+Jan 09 18:23:00 
+Jan 09 18:23:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 下午6:23:00=====================
+Jan 09 18:23:00 
+Jan 09 18:23:01 
+Jan 09 18:23:01 ****开始【京东账号1】jd_739d55b768da0****
+Jan 09 18:23:01 
+Jan 09 18:23:01 初始化摇钱树个人信息
+Jan 09 18:23:08 resultCode为0
+Jan 09 18:23:09 每日签到条件查询:已经签到过了
+Jan 09 18:23:09 开始做任务userInfo了
+Jan 09 18:23:09 
+Jan 09 18:23:10 canTask::[{"workStatus":0,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
+Jan 09 18:23:10 
+Jan 09 18:23:10 浏览任务列表taskInfo::[{"workStatus":0,"mapValues":[],"prizeType":0,"workLabel":"去完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":0,"mapValues":[],"prizeType":0,"workLabel":"去完成","mid":667,"prizeAmount":1000,"workType":7}]
+Jan 09 18:23:10 
+Jan 09 18:23:10 开始三餐签到
+Jan 09 18:23:11 三餐签到结果:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"操作成功","opResult":0,"prizeAmount":200}},"channelEncrypt":0}
+Jan 09 18:23:11 分享任务已经做过
+Jan 09 18:23:11 开始做浏览任务
+Jan 09 18:23:13 missionId为666：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 18:23:14 missionId为666：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 18:23:15 missionId为666：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 18:23:16 missionId为666：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 18:23:17 missionId为666：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 18:23:18 missionId为666：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 18:23:20 missionId为666：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 18:23:20 浏览店铺任务结束
+Jan 09 18:23:20 开始领取浏览后的奖励
+Jan 09 18:23:21 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 09 18:23:21 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 09 18:23:21 开始做浏览任务
+Jan 09 18:23:22 missionId为667：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 18:23:23 missionId为667：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 18:23:24 missionId为667：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 18:23:26 missionId为667：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 18:23:27 missionId为667：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 18:23:28 missionId为667：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 18:23:29 missionId为667：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 18:23:29 浏览店铺任务结束
+Jan 09 18:23:29 开始领取浏览后的奖励
+Jan 09 18:23:30 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 09 18:23:30 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 09 18:23:31 
+Jan 09 18:23:31 收获金果成功:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"goToApp":false,"limitedTimeTask":false,"upgrade":false,"treeInfo":{"upgradeDemand":10000000,"treeName":"23级繁茂大树","progressLeft":"79.3%","level":23,"fruit":8261548,"fruitOnTree":0,"workerSum":4,"capacity":80000},"bigAwardTask":false,"fruitNumInLimitedTimeTask":0}},"channelEncrypt":0}
+Jan 09 18:23:31 
+Jan 09 18:23:31 目前金果数量8261548
+Jan 09 18:23:31 
+Jan 09 18:23:31 今日已卖出5.6万金果(已达上限)，获得0.07金贴
+Jan 09 18:23:31 
+Jan 09 18:23:33 金贴和金果数量：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":7,"gaAmount":8261548,"canGoldcoin":16556}},"channelEncrypt":0}
+Jan 09 18:23:34 今日已偷过好友的金果了，暂无好友可偷，请明天再来
+Jan 09 18:23:34 
+Jan 09 18:23:34 
+Jan 09 18:23:34 【距离24级摇钱树还差】79.3%
+Jan 09 18:23:34 【我的金果数量】8261548
+Jan 09 18:23:34 【我的金贴数量】0.07
+Jan 09 18:23:34 
+Jan 09 18:23:34 
+Jan 09 18:23:34 
+Jan 09 18:23:34 🔔京东摇钱树, 结束! 🕛 33.703 秒
+Jan 09 18:23:34 
+Jan 09 20:23:00 
+Jan 09 20:23:00 🔔京东摇钱树, 开始!
+Jan 09 20:23:00 
+Jan 09 20:23:00 ====================共1个京东账号Cookie=========
+Jan 09 20:23:00 
+Jan 09 20:23:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 下午8:23:00=====================
+Jan 09 20:23:00 
+Jan 09 20:23:01 
+Jan 09 20:23:01 ****开始【京东账号1】jd_739d55b768da0****
+Jan 09 20:23:01 
+Jan 09 20:23:01 初始化摇钱树个人信息
+Jan 09 20:23:08 resultCode为0
+Jan 09 20:23:09 每日签到条件查询:已经签到过了
+Jan 09 20:23:09 开始做任务userInfo了
+Jan 09 20:23:09 
+Jan 09 20:23:10 canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
+Jan 09 20:23:10 
+Jan 09 20:23:10 浏览任务列表taskInfo::[{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":667,"prizeAmount":1000,"workType":7}]
+Jan 09 20:23:10 
+Jan 09 20:23:10 三餐签到任务不在时间范围内
+Jan 09 20:23:10 分享任务已经做过
+Jan 09 20:23:10 开始做浏览任务
+Jan 09 20:23:12 missionId为666：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 20:23:13 missionId为666：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 20:23:14 missionId为666：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 20:23:15 missionId为666：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 20:23:16 missionId为666：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 20:23:17 missionId为666：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 20:23:19 missionId为666：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 20:23:19 浏览店铺任务结束
+Jan 09 20:23:19 开始领取浏览后的奖励
+Jan 09 20:23:20 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 09 20:23:20 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 09 20:23:20 开始做浏览任务
+Jan 09 20:23:21 missionId为667：：第1次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 20:23:22 missionId为667：：第2次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 20:23:23 missionId为667：：第3次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 20:23:25 missionId为667：：第4次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 20:23:26 missionId为667：：第5次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 20:23:27 missionId为667：：第6次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 20:23:28 missionId为667：：第7次浏览活动完成: {"resultCode":-1,"resultMsg":"对不起该类型接口未开放调用权限，请联系管理员！","channelEncrypt":0}
+Jan 09 20:23:28 浏览店铺任务结束
+Jan 09 20:23:28 开始领取浏览后的奖励
+Jan 09 20:23:29 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 09 20:23:29 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"不能领取奖励","nextStatus":0,"opResult":1}},"channelEncrypt":0}
+Jan 09 20:23:30 
+Jan 09 20:23:30 收获金果成功:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"goToApp":false,"limitedTimeTask":false,"upgrade":false,"treeInfo":{"upgradeDemand":10000000,"treeName":"23级繁茂大树","progressLeft":"79.2%","level":23,"fruit":8268747,"fruitOnTree":0,"workerSum":4,"capacity":80000},"bigAwardTask":false,"fruitNumInLimitedTimeTask":0}},"channelEncrypt":0}
+Jan 09 20:23:30 
+Jan 09 20:23:30 目前金果数量8268747
+Jan 09 20:23:30 
+Jan 09 20:23:30 今日已卖出5.6万金果(已达上限)，获得0.07金贴
+Jan 09 20:23:30 
+Jan 09 20:23:32 金贴和金果数量：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":7,"gaAmount":8268747,"canGoldcoin":16570}},"channelEncrypt":0}
+Jan 09 20:23:33 今日已偷过好友的金果了，暂无好友可偷，请明天再来
+Jan 09 20:23:33 
+Jan 09 20:23:33 
+Jan 09 20:23:33 【距离24级摇钱树还差】79.2%
+Jan 09 20:23:33 【我的金果数量】8268747
+Jan 09 20:23:33 【我的金贴数量】0.07
+Jan 09 20:23:33 
+Jan 09 20:23:33 
+Jan 09 20:23:33 
+Jan 09 20:23:33 🔔京东摇钱树, 结束! 🕛 32.573 秒
+Jan 09 20:23:33 

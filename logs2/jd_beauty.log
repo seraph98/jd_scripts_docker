@@ -1,0 +1,304 @@
+Jan 07 08:30:01 
+Jan 07 08:30:01 🔔美丽研究院, 开始!
+Jan 07 08:30:01 
+Jan 07 08:30:01 ====================共1个京东账号Cookie=========
+Jan 07 08:30:01 
+Jan 07 08:30:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 上午8:30:01=====================
+Jan 07 08:30:01 
+Jan 07 08:30:03 
+Jan 07 08:30:03 ******开始【京东账号1】jd_739d55b768da0*********
+Jan 07 08:30:03 
+Jan 07 08:30:03 ***检测账号是否黑号***
+Jan 07 08:30:03 isvToken:AAEAILq_4GvNFoi3vB2gnhpU3V1-pNmYwOB2DXfdrgjbycxd0
+Jan 07 08:30:03 token2:AAFh14mLADB7K868x_ZRHNrr5FcMwrfNG1onCbT9iOoRw5IP2APTIms6h8RhDYY5PIEejKsUttY
+Jan 07 08:30:03 【$.token】 eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6OTUwMlwvYXBpXC9hdXRoIiwiaWF0IjoxNjQxNTE1NDAzLCJleHAiOjE2NDE1NTg2MDMsIm5iZiI6MTY0MTUxNTQwMywianRpIjoiUkdsRkdKMHkxYzdST1MxViIsInN1YiI6MzA4MzAxOCwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.gug9b-zPjdFaS2Woiz2N3A1vZ8DRHQBosVQDnn7HUts
+Jan 07 08:30:04 美容研究院服务器连接成功
+Jan 07 08:30:04 操作成功，账号正常
+Jan 07 08:30:04 服务器连接关闭
+Jan 07 08:30:04 wss://xinruimz-isv.isvjcloud.com/wss/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6OTUwMlwvYXBpXC9hdXRoIiwiaWF0IjoxNjQxNTE1NDAzLCJleHAiOjE2NDE1NTg2MDMsIm5iZiI6MTY0MTUxNTQwMywianRpIjoiUkdsRkdKMHkxYzdST1MxViIsInN1YiI6MzA4MzAxOCwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.gug9b-zPjdFaS2Woiz2N3A1vZ8DRHQBosVQDnn7HUts
+Jan 07 08:30:05 美容研究院服务器连接成功
+Jan 07 08:30:05 
+Jan 07 08:30:05 开始任务：""get_user"
+Jan 07 08:30:05 当前美妆币1028400，用户等级11
+Jan 07 08:30:06 helpInfo []
+Jan 07 08:30:06 
+Jan 07 08:30:06 开始任务：""get_ad"
+Jan 07 08:30:06 当期活动：日常活动
+Jan 07 08:30:06 去做签到任务
+Jan 07 08:30:07 
+Jan 07 08:30:07 开始任务：""get_package"
+Jan 07 08:30:07 仓库信息:【保湿剂】16份 【油脂】4份 【滑石粉】100份 【乳化剂】54份 【颜料】53份 【矿物质水】221份 【滋润剂】1份 【树脂】298份 【香料】33份 【胶合剂】232份 【蜂蜡】149份 【玻尿酸】198份 【活性物】33份 【云母】99份 【天然纤维】645份 【防晒剂】324份 【二氧化钛】2份 【精华液】23份 【氧化锌】134份 【维生素B】561份 【胶原蛋白】3069份 【植物精粹】226份 【维生素E】2172份 【玻色因】100份 【高纯度VCG-AA2G】148份 【PITERA™精华】1份 【烟酰胺】2份 【鹿茸提取物】102份 【VelvetGlide™】100份 【人参提取物】36份 【蜡菊微囊】9份 【寡肽-1】1份 【二裂酵母】13份 【原初因ProVTA】2份 
+Jan 07 08:30:08 
+Jan 07 08:30:08 开始任务：""sign_in"
+Jan 07 08:30:08 
+Jan 07 08:30:08 开始任务：""shop_products"
+Jan 07 13:30:01 
+Jan 07 13:30:01 🔔美丽研究院, 开始!
+Jan 07 13:30:01 
+Jan 07 13:30:01 ====================共1个京东账号Cookie=========
+Jan 07 13:30:01 
+Jan 07 13:30:02 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 下午1:30:01=====================
+Jan 07 13:30:02 
+Jan 07 13:30:03 
+Jan 07 13:30:03 ******开始【京东账号1】jd_739d55b768da0*********
+Jan 07 13:30:03 
+Jan 07 13:30:03 ***检测账号是否黑号***
+Jan 07 13:30:03 isvToken:AAEAIK-WEFJhlKvxdUf0zHFbUAE5QFpPDrA5Cl9J38iO4Ey30
+Jan 07 13:30:03 token2:AAFh18_bADDe1UtjFYDorFtyunH9nQ9BVUFelB0X--umz2BZ3SGBfRdaEBEepDcLZRS-vNh2rcw
+Jan 07 13:30:04 【$.token】 eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6OTUwMlwvYXBpXC9hdXRoIiwiaWF0IjoxNjQxNTMzNDA0LCJleHAiOjE2NDE1NzY2MDQsIm5iZiI6MTY0MTUzMzQwNCwianRpIjoiaFRRanZoWUdjUFg3WUdFSSIsInN1YiI6MzA4MzAxOCwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.ChSnxlbuXVOcbUr-__3k1BNImF3xJWMERUohmgdkWz4
+Jan 07 13:30:04 美容研究院服务器连接成功
+Jan 07 13:30:04 操作成功，账号正常
+Jan 07 13:30:04 服务器连接关闭
+Jan 07 13:30:05 wss://xinruimz-isv.isvjcloud.com/wss/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6OTUwMlwvYXBpXC9hdXRoIiwiaWF0IjoxNjQxNTMzNDA0LCJleHAiOjE2NDE1NzY2MDQsIm5iZiI6MTY0MTUzMzQwNCwianRpIjoiaFRRanZoWUdjUFg3WUdFSSIsInN1YiI6MzA4MzAxOCwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.ChSnxlbuXVOcbUr-__3k1BNImF3xJWMERUohmgdkWz4
+Jan 07 13:30:05 美容研究院服务器连接成功
+Jan 07 13:30:06 
+Jan 07 13:30:06 开始任务：""get_package"
+Jan 07 13:30:06 仓库信息:【保湿剂】16份 【油脂】4份 【滑石粉】100份 【乳化剂】54份 【颜料】53份 【矿物质水】221份 【滋润剂】1份 【树脂】298份 【香料】33份 【胶合剂】232份 【蜂蜡】149份 【玻尿酸】198份 【活性物】33份 【云母】99份 【天然纤维】645份 【防晒剂】324份 【二氧化钛】2份 【精华液】23份 【氧化锌】134份 【维生素B】561份 【胶原蛋白】3069份 【植物精粹】226份 【维生素E】2172份 【玻色因】100份 【高纯度VCG-AA2G】148份 【PITERA™精华】1份 【烟酰胺】2份 【鹿茸提取物】102份 【VelvetGlide™】100份 【人参提取物】36份 【蜡菊微囊】9份 【寡肽-1】1份 【二裂酵母】13份 【原初因ProVTA】2份 
+Jan 07 13:30:07 
+Jan 07 13:30:07 开始任务：""get_ad"
+Jan 07 13:30:07 当期活动：日常活动
+Jan 07 13:30:07 
+Jan 07 13:30:07 开始任务：""get_user"
+Jan 07 13:30:07 当前美妆币1028500，用户等级11
+Jan 07 13:30:08 helpInfo []
+Jan 07 13:30:10 
+Jan 07 13:30:10 开始任务：""get_produce_material"
+Jan 07 13:30:10 get_produce_material 操作成功
+Jan 07 13:30:11 
+Jan 07 13:30:11 开始任务：""shop_products"
+Jan 07 20:30:00 
+Jan 07 20:30:00 🔔美丽研究院, 开始!
+Jan 07 20:30:00 
+Jan 07 20:30:00 ====================共1个京东账号Cookie=========
+Jan 07 20:30:00 
+Jan 07 20:30:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 下午8:30:00=====================
+Jan 07 20:30:01 
+Jan 07 20:30:03 
+Jan 07 20:30:03 ******开始【京东账号1】jd_187425zqg*********
+Jan 07 20:30:03 
+Jan 07 20:30:03 ***检测账号是否黑号***
+Jan 07 20:30:03 isvToken:AAEAIK274WaDTkKIEFPw_gJsE-k95cnNlNB7ID90NApb0r8Z0
+Jan 07 20:30:03 token2:AAFh2DJLADB61OZyuPNsXDnrVidQsUV6sLnsaGqvGjxfLrS_n1ofLvXfdWGP1lNlm8f_E1231-A
+Jan 07 20:30:03 【$.token】 eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6OTUwMlwvYXBpXC9hdXRoIiwiaWF0IjoxNjQxNTU4NjAzLCJleHAiOjE2NDE2MDE4MDMsIm5iZiI6MTY0MTU1ODYwMywianRpIjoiZzA4TTM2QU1sNk5BYmFqMSIsInN1YiI6MzA4MzAxOCwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.T4HzBpaaAJmhwQWeDcGV-NISosS1Us0PmB8x6iQc2z4
+Jan 07 20:30:04 美容研究院服务器连接成功
+Jan 07 20:30:04 操作成功，账号正常
+Jan 07 20:30:04 服务器连接关闭
+Jan 07 20:30:04 wss://xinruimz-isv.isvjcloud.com/wss/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6OTUwMlwvYXBpXC9hdXRoIiwiaWF0IjoxNjQxNTU4NjAzLCJleHAiOjE2NDE2MDE4MDMsIm5iZiI6MTY0MTU1ODYwMywianRpIjoiZzA4TTM2QU1sNk5BYmFqMSIsInN1YiI6MzA4MzAxOCwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.T4HzBpaaAJmhwQWeDcGV-NISosS1Us0PmB8x6iQc2z4
+Jan 07 20:30:05 美容研究院服务器连接成功
+Jan 07 20:30:06 
+Jan 07 20:30:06 开始任务：""get_user"
+Jan 07 20:30:06 当前美妆币1028500，用户等级11
+Jan 07 20:30:07 helpInfo []
+Jan 07 20:30:07 
+Jan 07 20:30:07 开始任务：""get_package"
+Jan 07 20:30:07 仓库信息:【保湿剂】16份 【油脂】4份 【滑石粉】100份 【乳化剂】54份 【颜料】53份 【矿物质水】221份 【滋润剂】1份 【树脂】298份 【香料】33份 【胶合剂】232份 【蜂蜡】149份 【玻尿酸】198份 【活性物】33份 【云母】99份 【天然纤维】645份 【防晒剂】324份 【二氧化钛】2份 【精华液】23份 【氧化锌】134份 【维生素B】561份 【胶原蛋白】3069份 【植物精粹】226份 【维生素E】2172份 【玻色因】100份 【高纯度VCG-AA2G】148份 【PITERA™精华】1份 【烟酰胺】2份 【鹿茸提取物】102份 【VelvetGlide™】100份 【人参提取物】36份 【蜡菊微囊】9份 【寡肽-1】1份 【二裂酵母】13份 【原初因ProVTA】2份 
+Jan 07 20:30:08 
+Jan 07 20:30:08 开始任务：""get_ad"
+Jan 07 20:30:08 当期活动：日常活动
+Jan 07 20:30:09 
+Jan 07 20:30:09 开始任务：""get_produce_material"
+Jan 07 20:30:09 get_produce_material 操作成功
+Jan 07 20:30:09 
+Jan 07 20:30:09 开始任务：""product_producing"
+Jan 07 20:30:10 
+Jan 07 20:30:10 开始任务：""shop_products"
+Jan 08 08:30:00 
+Jan 08 08:30:00 🔔美丽研究院, 开始!
+Jan 08 08:30:00 
+Jan 08 08:30:00 ====================共1个京东账号Cookie=========
+Jan 08 08:30:00 
+Jan 08 08:30:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 上午8:30:00=====================
+Jan 08 08:30:00 
+Jan 08 08:30:02 
+Jan 08 08:30:02 ******开始【京东账号1】jd_187425zqg*********
+Jan 08 08:30:02 
+Jan 08 08:30:02 ***检测账号是否黑号***
+Jan 08 08:30:02 isvToken:AAEAICrn22_nPdah0o_ryI9QRlycbUB2lhbX8Ns4_DiuQNf70
+Jan 08 08:30:02 token2:AAFh2NsKADAbF6aCn0EXd5pbgS7b_qBmZeJQwNEyjQKl88FJ_nMLWoqRv78O7wwbRe2Y4SUXtuc
+Jan 08 08:30:03 【$.token】 eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6OTUwMlwvYXBpXC9hdXRoIiwiaWF0IjoxNjQxNjAxODAzLCJleHAiOjE2NDE2NDUwMDMsIm5iZiI6MTY0MTYwMTgwMywianRpIjoiMlJZcjF1aG5aazJweThKSCIsInN1YiI6MzA4MzAxOCwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.X9NO91F0VUSERyp5h0FYRYrp3uAFTmT1LcgpyBFWQBc
+Jan 08 08:30:03 美容研究院服务器连接成功
+Jan 08 08:30:03 操作成功，账号正常
+Jan 08 08:30:03 服务器连接关闭
+Jan 08 08:30:04 wss://xinruimz-isv.isvjcloud.com/wss/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6OTUwMlwvYXBpXC9hdXRoIiwiaWF0IjoxNjQxNjAxODAzLCJleHAiOjE2NDE2NDUwMDMsIm5iZiI6MTY0MTYwMTgwMywianRpIjoiMlJZcjF1aG5aazJweThKSCIsInN1YiI6MzA4MzAxOCwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.X9NO91F0VUSERyp5h0FYRYrp3uAFTmT1LcgpyBFWQBc
+Jan 08 08:30:04 美容研究院服务器连接成功
+Jan 08 08:30:05 
+Jan 08 08:30:05 开始任务：""get_user"
+Jan 08 08:30:05 当前美妆币1028500，用户等级11
+Jan 08 08:30:05 
+Jan 08 08:30:05 开始任务：""get_package"
+Jan 08 08:30:05 仓库信息:【保湿剂】16份 【油脂】4份 【滑石粉】100份 【乳化剂】54份 【颜料】53份 【矿物质水】221份 【滋润剂】1份 【树脂】298份 【香料】33份 【胶合剂】232份 【蜂蜡】149份 【玻尿酸】198份 【活性物】33份 【云母】99份 【天然纤维】645份 【防晒剂】324份 【二氧化钛】2份 【精华液】23份 【氧化锌】134份 【维生素B】561份 【胶原蛋白】3069份 【植物精粹】226份 【维生素E】2172份 【玻色因】100份 【高纯度VCG-AA2G】148份 【PITERA™精华】1份 【烟酰胺】2份 【鹿茸提取物】102份 【VelvetGlide™】100份 【人参提取物】36份 【蜡菊微囊】9份 【寡肽-1】1份 【二裂酵母】13份 【原初因ProVTA】2份 
+Jan 08 08:30:05 helpInfo []
+Jan 08 08:30:05 
+Jan 08 08:30:05 开始任务：""get_ad"
+Jan 08 08:30:05 当期活动：日常活动
+Jan 08 08:30:05 去做签到任务
+Jan 08 08:30:06 
+Jan 08 08:30:06 开始任务：""sign_in"
+Jan 08 08:30:07 
+Jan 08 08:30:07 开始任务：""get_produce_material"
+Jan 08 08:30:07 get_produce_material 操作成功
+Jan 08 08:30:07 
+Jan 08 08:30:07 开始任务：""shop_products"
+Jan 08 13:30:01 
+Jan 08 13:30:01 🔔美丽研究院, 开始!
+Jan 08 13:30:01 
+Jan 08 13:30:01 ====================共1个京东账号Cookie=========
+Jan 08 13:30:01 
+Jan 08 13:30:02 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 下午1:30:01=====================
+Jan 08 13:30:02 
+Jan 08 13:30:03 
+Jan 08 13:30:03 ******开始【京东账号1】jd_739d55b768da0*********
+Jan 08 13:30:03 
+Jan 08 13:30:03 ***检测账号是否黑号***
+Jan 08 13:30:03 isvToken:AAEAIMA3ntpB7DywuQ86cm3fbRpuZBBnMlaeFeODidP15pL-0
+Jan 08 13:30:04 token2:AAFh2SFbADB9KYJTmrh6gtcCzj4J41y8HL0b_ZGH9xsgVcUmZv_Q7mJn6h5YFrBoQrIwH8LyXys
+Jan 08 13:30:04 【$.token】 eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6OTUwMlwvYXBpXC9hdXRoIiwiaWF0IjoxNjQxNjE5ODA0LCJleHAiOjE2NDE2NjMwMDQsIm5iZiI6MTY0MTYxOTgwNCwianRpIjoiN2R3djlPQkZZZllmUlRKaCIsInN1YiI6MzA4MzAxOCwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.daDQ2toBPKW5EO-b9MjwUiyWJXhK1TuqoGyuhtYf6l8
+Jan 08 13:30:04 美容研究院服务器连接成功
+Jan 08 13:30:04 操作成功，账号正常
+Jan 08 13:30:04 服务器连接关闭
+Jan 08 13:30:05 wss://xinruimz-isv.isvjcloud.com/wss/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6OTUwMlwvYXBpXC9hdXRoIiwiaWF0IjoxNjQxNjE5ODA0LCJleHAiOjE2NDE2NjMwMDQsIm5iZiI6MTY0MTYxOTgwNCwianRpIjoiN2R3djlPQkZZZllmUlRKaCIsInN1YiI6MzA4MzAxOCwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.daDQ2toBPKW5EO-b9MjwUiyWJXhK1TuqoGyuhtYf6l8
+Jan 08 13:30:05 美容研究院服务器连接成功
+Jan 08 13:30:06 
+Jan 08 13:30:06 开始任务：""get_ad"
+Jan 08 13:30:06 当期活动：日常活动
+Jan 08 13:30:06 
+Jan 08 13:30:06 开始任务：""get_package"
+Jan 08 13:30:06 仓库信息:【保湿剂】16份 【油脂】4份 【滑石粉】100份 【乳化剂】54份 【颜料】53份 【矿物质水】221份 【滋润剂】1份 【树脂】298份 【香料】33份 【胶合剂】232份 【蜂蜡】149份 【玻尿酸】198份 【活性物】33份 【云母】99份 【天然纤维】645份 【防晒剂】324份 【二氧化钛】2份 【精华液】23份 【氧化锌】134份 【维生素B】561份 【胶原蛋白】3069份 【植物精粹】226份 【维生素E】2172份 【玻色因】100份 【高纯度VCG-AA2G】148份 【PITERA™精华】1份 【烟酰胺】2份 【鹿茸提取物】102份 【VelvetGlide™】100份 【人参提取物】36份 【蜡菊微囊】9份 【寡肽-1】1份 【二裂酵母】13份 【原初因ProVTA】2份 
+Jan 08 13:30:07 
+Jan 08 13:30:07 开始任务：""get_user"
+Jan 08 13:30:07 当前美妆币1028600，用户等级11
+Jan 08 13:30:07 helpInfo []
+Jan 08 13:30:09 
+Jan 08 13:30:09 开始任务：""shop_products"
+Jan 08 20:30:02 
+Jan 08 20:30:02 🔔美丽研究院, 开始!
+Jan 08 20:30:02 
+Jan 08 20:30:02 ====================共1个京东账号Cookie=========
+Jan 08 20:30:02 
+Jan 08 20:30:03 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 下午8:30:02=====================
+Jan 08 20:30:03 
+Jan 08 20:30:04 
+Jan 08 20:30:04 ******开始【京东账号1】jd_739d55b768da0*********
+Jan 08 20:30:04 
+Jan 08 20:30:04 ***检测账号是否黑号***
+Jan 08 20:30:05 isvToken:AAEAIDz7HnZ8XlmgWAHZ5RSKf5nOH7GGPRbLnOzTL1vQNbng0
+Jan 08 20:30:05 token2:AAFh2YPNADBgYPABmHeg6mUkhQLByo_QYI0JJfjhVaT9RYDI5C3k9bjmSUxtJoWzKo--PCa1h60
+Jan 08 20:30:05 【$.token】 eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6OTUwMlwvYXBpXC9hdXRoIiwiaWF0IjoxNjQxNjQ1MDA1LCJleHAiOjE2NDE2ODgyMDUsIm5iZiI6MTY0MTY0NTAwNSwianRpIjoib0MxWGFydjRscXdYZ2FFSCIsInN1YiI6MzA4MzAxOCwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.ximW5RTFq81LnVqGuuMZWDBYw-zi_pZMvhFkevcN4zQ
+Jan 08 20:30:05 美容研究院服务器连接成功
+Jan 08 20:30:05 操作成功，账号正常
+Jan 08 20:30:05 服务器连接关闭
+Jan 08 20:30:06 wss://xinruimz-isv.isvjcloud.com/wss/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6OTUwMlwvYXBpXC9hdXRoIiwiaWF0IjoxNjQxNjQ1MDA1LCJleHAiOjE2NDE2ODgyMDUsIm5iZiI6MTY0MTY0NTAwNSwianRpIjoib0MxWGFydjRscXdYZ2FFSCIsInN1YiI6MzA4MzAxOCwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.ximW5RTFq81LnVqGuuMZWDBYw-zi_pZMvhFkevcN4zQ
+Jan 08 20:30:06 美容研究院服务器连接成功
+Jan 08 20:30:08 
+Jan 08 20:30:08 开始任务：""get_user"
+Jan 08 20:30:08 当前美妆币1028600，用户等级11
+Jan 08 20:30:08 
+Jan 08 20:30:08 开始任务：""get_ad"
+Jan 08 20:30:08 当期活动：日常活动
+Jan 08 20:30:08 
+Jan 08 20:30:08 开始任务：""get_package"
+Jan 08 20:30:08 仓库信息:【保湿剂】16份 【油脂】4份 【滑石粉】100份 【乳化剂】54份 【颜料】53份 【矿物质水】221份 【滋润剂】1份 【树脂】298份 【香料】33份 【胶合剂】232份 【蜂蜡】149份 【玻尿酸】198份 【活性物】33份 【云母】99份 【天然纤维】645份 【防晒剂】324份 【二氧化钛】2份 【精华液】23份 【氧化锌】134份 【维生素B】561份 【胶原蛋白】3069份 【植物精粹】226份 【维生素E】2172份 【玻色因】100份 【高纯度VCG-AA2G】148份 【PITERA™精华】1份 【烟酰胺】2份 【鹿茸提取物】102份 【VelvetGlide™】100份 【人参提取物】36份 【蜡菊微囊】9份 【寡肽-1】1份 【二裂酵母】13份 【原初因ProVTA】2份 
+Jan 08 20:30:08 helpInfo []
+Jan 08 20:30:11 
+Jan 08 20:30:11 开始任务：""get_produce_material"
+Jan 08 20:30:11 get_produce_material 操作成功
+Jan 08 20:30:11 
+Jan 08 20:30:11 开始任务：""product_producing"
+Jan 08 20:30:12 
+Jan 08 20:30:12 开始任务：""shop_products"
+Jan 09 08:30:02 
+Jan 09 08:30:02 🔔美丽研究院, 开始!
+Jan 09 08:30:02 
+Jan 09 08:30:02 ====================共1个京东账号Cookie=========
+Jan 09 08:30:02 
+Jan 09 08:30:02 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 上午8:30:02=====================
+Jan 09 08:30:02 
+Jan 09 08:30:03 
+Jan 09 08:30:03 ******开始【京东账号1】jd_739d55b768da0*********
+Jan 09 08:30:03 
+Jan 09 08:30:03 ***检测账号是否黑号***
+Jan 09 08:30:04 isvToken:AAEAICRFIlPicK-XYma13MffJEiPXwhfQazgogNvAC9wav1M0
+Jan 09 08:30:04 token2:AAFh2iyMADD74t8P6UtR59XpxS2jtV3OALgrVl4HB7xwginrlnh808IEXnjuV_DKJyy0gHJK154
+Jan 09 08:30:04 【$.token】 eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6OTUwMlwvYXBpXC9hdXRoIiwiaWF0IjoxNjQxNjg4MjA0LCJleHAiOjE2NDE3MzE0MDQsIm5iZiI6MTY0MTY4ODIwNCwianRpIjoiUDEyeFd4UFpIUnRYdFVtOCIsInN1YiI6MzA4MzAxOCwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.RxJf0Cn1O7O9ALqH3zeLk_PHMP8zq1S_TYo0yhEHdrQ
+Jan 09 08:30:04 美容研究院服务器连接成功
+Jan 09 08:30:04 操作成功，账号正常
+Jan 09 08:30:04 服务器连接关闭
+Jan 09 08:30:05 wss://xinruimz-isv.isvjcloud.com/wss/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6OTUwMlwvYXBpXC9hdXRoIiwiaWF0IjoxNjQxNjg4MjA0LCJleHAiOjE2NDE3MzE0MDQsIm5iZiI6MTY0MTY4ODIwNCwianRpIjoiUDEyeFd4UFpIUnRYdFVtOCIsInN1YiI6MzA4MzAxOCwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.RxJf0Cn1O7O9ALqH3zeLk_PHMP8zq1S_TYo0yhEHdrQ
+Jan 09 08:30:05 美容研究院服务器连接成功
+Jan 09 08:30:06 
+Jan 09 08:30:06 开始任务：""get_package"
+Jan 09 08:30:06 仓库信息:【保湿剂】16份 【油脂】4份 【滑石粉】100份 【乳化剂】54份 【颜料】53份 【矿物质水】221份 【滋润剂】1份 【树脂】298份 【香料】33份 【胶合剂】232份 【蜂蜡】149份 【玻尿酸】198份 【活性物】33份 【云母】99份 【天然纤维】645份 【防晒剂】324份 【二氧化钛】2份 【精华液】23份 【氧化锌】134份 【维生素B】561份 【胶原蛋白】3069份 【植物精粹】226份 【维生素E】2172份 【玻色因】100份 【高纯度VCG-AA2G】148份 【PITERA™精华】1份 【烟酰胺】2份 【鹿茸提取物】102份 【VelvetGlide™】100份 【人参提取物】36份 【蜡菊微囊】9份 【寡肽-1】1份 【二裂酵母】13份 【原初因ProVTA】2份 
+Jan 09 08:30:06 
+Jan 09 08:30:06 开始任务：""get_user"
+Jan 09 08:30:06 当前美妆币1028600，用户等级11
+Jan 09 08:30:07 helpInfo []
+Jan 09 08:30:07 
+Jan 09 08:30:07 开始任务：""get_ad"
+Jan 09 08:30:07 当期活动：日常活动
+Jan 09 08:30:07 去做签到任务
+Jan 09 08:30:09 
+Jan 09 08:30:09 开始任务：""sign_in"
+Jan 09 08:30:10 
+Jan 09 08:30:10 开始任务：""shop_products"
+Jan 09 13:30:01 
+Jan 09 13:30:01 🔔美丽研究院, 开始!
+Jan 09 13:30:01 
+Jan 09 13:30:01 ====================共1个京东账号Cookie=========
+Jan 09 13:30:01 
+Jan 09 13:30:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 下午1:30:01=====================
+Jan 09 13:30:01 
+Jan 09 13:30:03 
+Jan 09 13:30:03 ******开始【京东账号1】jd_739d55b768da0*********
+Jan 09 13:30:03 
+Jan 09 13:30:03 ***检测账号是否黑号***
+Jan 09 13:30:03 isvToken:AAEAIB4T9US5_BoYx4AvYjekarzGVHoJCUWFFszLpSrMIgT00
+Jan 09 13:30:03 token2:AAFh2nLbADC7uomDohSoR-oJrd3UG0SszxGtRiBJlbgUTUu5FCToxqVCS_oSWX6r5hKtT66bmc8
+Jan 09 13:30:03 【$.token】 eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6OTUwMlwvYXBpXC9hdXRoIiwiaWF0IjoxNjQxNzA2MjAzLCJleHAiOjE2NDE3NDk0MDMsIm5iZiI6MTY0MTcwNjIwMywianRpIjoicndRODhwcTNzZjRCV21ITSIsInN1YiI6MzA4MzAxOCwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.t2l_7isFeSOq18t2kvvaWlpXIaRwR9OyB2g50mClwmI
+Jan 09 13:30:03 美容研究院服务器连接成功
+Jan 09 13:30:03 操作成功，账号正常
+Jan 09 13:30:03 服务器连接关闭
+Jan 09 13:30:04 wss://xinruimz-isv.isvjcloud.com/wss/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6OTUwMlwvYXBpXC9hdXRoIiwiaWF0IjoxNjQxNzA2MjAzLCJleHAiOjE2NDE3NDk0MDMsIm5iZiI6MTY0MTcwNjIwMywianRpIjoicndRODhwcTNzZjRCV21ITSIsInN1YiI6MzA4MzAxOCwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.t2l_7isFeSOq18t2kvvaWlpXIaRwR9OyB2g50mClwmI
+Jan 09 13:30:04 美容研究院服务器连接成功
+Jan 09 13:30:06 
+Jan 09 13:30:06 开始任务：""get_ad"
+Jan 09 13:30:06 当期活动：日常活动
+Jan 09 13:30:06 
+Jan 09 13:30:06 开始任务：""get_package"
+Jan 09 13:30:06 仓库信息:【保湿剂】16份 【油脂】4份 【滑石粉】100份 【乳化剂】54份 【颜料】53份 【矿物质水】221份 【滋润剂】1份 【树脂】298份 【香料】33份 【胶合剂】232份 【蜂蜡】149份 【玻尿酸】198份 【活性物】33份 【云母】99份 【天然纤维】645份 【防晒剂】324份 【二氧化钛】2份 【精华液】23份 【氧化锌】134份 【维生素B】561份 【胶原蛋白】3069份 【植物精粹】226份 【维生素E】2172份 【玻色因】100份 【高纯度VCG-AA2G】148份 【PITERA™精华】1份 【烟酰胺】2份 【鹿茸提取物】102份 【VelvetGlide™】100份 【人参提取物】36份 【蜡菊微囊】9份 【寡肽-1】1份 【二裂酵母】13份 【原初因ProVTA】2份 
+Jan 09 13:30:07 
+Jan 09 13:30:07 开始任务：""get_user"
+Jan 09 13:30:07 当前美妆币1028700，用户等级11
+Jan 09 13:30:07 helpInfo []
+Jan 09 13:30:10 
+Jan 09 13:30:10 开始任务：""shop_products"
+Jan 09 20:30:02 
+Jan 09 20:30:02 🔔美丽研究院, 开始!
+Jan 09 20:30:02 
+Jan 09 20:30:02 ====================共1个京东账号Cookie=========
+Jan 09 20:30:02 
+Jan 09 20:30:02 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 下午8:30:02=====================
+Jan 09 20:30:02 
+Jan 09 20:30:04 
+Jan 09 20:30:04 ******开始【京东账号1】jd_739d55b768da0*********
+Jan 09 20:30:04 
+Jan 09 20:30:04 ***检测账号是否黑号***
+Jan 09 20:30:04 isvToken:AAEAIFf6AFUE5XF7gXkbINoCjok8naLjFHRbXYaQI0N_KnQK0
+Jan 09 20:30:04 token2:AAFh2tVMADBz7cYZ7zSf5qhrAcUF5sA_3cQ5kgSvGhKkSETIv9uAiuZ6G-k0oN4n60ZWQJB9gbk
+Jan 09 20:30:05 【$.token】 eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6OTUwMlwvYXBpXC9hdXRoIiwiaWF0IjoxNjQxNzMxNDA1LCJleHAiOjE2NDE3NzQ2MDUsIm5iZiI6MTY0MTczMTQwNSwianRpIjoiTXBDQzEyNXc1Q1pwZmpDdCIsInN1YiI6MzA4MzAxOCwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.TzL7h_-5uFVb4TRBRptvPvlrQla1unFeukAQNOGvt7U
+Jan 09 20:30:05 美容研究院服务器连接成功
+Jan 09 20:30:05 操作成功，账号正常
+Jan 09 20:30:05 服务器连接关闭
+Jan 09 20:30:06 wss://xinruimz-isv.isvjcloud.com/wss/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6OTUwMlwvYXBpXC9hdXRoIiwiaWF0IjoxNjQxNzMxNDA1LCJleHAiOjE2NDE3NzQ2MDUsIm5iZiI6MTY0MTczMTQwNSwianRpIjoiTXBDQzEyNXc1Q1pwZmpDdCIsInN1YiI6MzA4MzAxOCwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.TzL7h_-5uFVb4TRBRptvPvlrQla1unFeukAQNOGvt7U
+Jan 09 20:30:06 美容研究院服务器连接成功
+Jan 09 20:30:07 
+Jan 09 20:30:07 开始任务：""get_user"
+Jan 09 20:30:07 当前美妆币1028700，用户等级11
+Jan 09 20:30:07 
+Jan 09 20:30:07 开始任务：""get_package"
+Jan 09 20:30:07 仓库信息:【保湿剂】16份 【油脂】4份 【滑石粉】100份 【乳化剂】54份 【颜料】53份 【矿物质水】221份 【滋润剂】1份 【树脂】298份 【香料】33份 【胶合剂】232份 【蜂蜡】149份 【玻尿酸】198份 【活性物】33份 【云母】99份 【天然纤维】645份 【防晒剂】324份 【二氧化钛】2份 【精华液】23份 【氧化锌】134份 【维生素B】561份 【胶原蛋白】3069份 【植物精粹】226份 【维生素E】2172份 【玻色因】100份 【高纯度VCG-AA2G】148份 【PITERA™精华】1份 【烟酰胺】2份 【鹿茸提取物】102份 【VelvetGlide™】100份 【人参提取物】36份 【蜡菊微囊】9份 【寡肽-1】1份 【二裂酵母】13份 【原初因ProVTA】2份 
+Jan 09 20:30:08 helpInfo []
+Jan 09 20:30:08 
+Jan 09 20:30:08 开始任务：""get_ad"
+Jan 09 20:30:08 当期活动：日常活动
+Jan 09 20:30:10 
+Jan 09 20:30:10 开始任务：""shop_products"

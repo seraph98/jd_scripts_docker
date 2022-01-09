@@ -1,0 +1,225 @@
+Jan 06 23:59:00 
+Jan 06 23:59:00 🔔东东超市兑换奖品, 开始!
+Jan 06 23:59:00 
+Jan 06 23:59:00 ====================共1个京东账号Cookie=========
+Jan 06 23:59:00 
+Jan 06 23:59:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/6 下午11:59:00=====================
+Jan 06 23:59:00 
+Jan 06 23:59:01 
+Jan 06 23:59:01 ****开始【京东账号1】jd_632e000b42ec6****
+Jan 06 23:59:01 
+Jan 06 23:59:01 
+Jan 06 23:59:01 ==============📣系统通知📣==============
+Jan 06 23:59:01 东东超市兑换奖品
+Jan 06 23:59:01 【提示】cookie已失效
+Jan 06 23:59:01 京东账号1 jd_632e000b42ec6
+Jan 06 23:59:01 请重新登录获取
+Jan 06 23:59:01 https://bean.m.jd.com/bean/signIndex.action
+Jan 06 23:59:01 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 06 23:59:01 
+Jan 06 23:59:05 发送通知调用API失败！！
+Jan 06 23:59:05 
+Jan 06 23:59:05 RequestError: socket hang up
+Jan 06 23:59:05     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 06 23:59:05     at Object.onceWrapper (node:events:510:26)
+Jan 06 23:59:05     at ClientRequest.emit (node:events:402:35)
+Jan 06 23:59:05     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 06 23:59:05     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 06 23:59:05     at Socket.emit (node:events:402:35)
+Jan 06 23:59:05     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 06 23:59:05     at connResetException (node:internal/errors:691:14)
+Jan 06 23:59:05     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 06 23:59:05     at Socket.emit (node:events:402:35)
+Jan 06 23:59:05     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 06 23:59:05     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 06 23:59:05   code: 'ECONNRESET',
+Jan 06 23:59:05   timings: {
+Jan 06 23:59:05     start: 1641484743864,
+Jan 06 23:59:05     socket: 1641484743865,
+Jan 06 23:59:05     lookup: 1641484743866,
+Jan 06 23:59:05     connect: 1641484745105,
+Jan 06 23:59:05     secureConnect: undefined,
+Jan 06 23:59:05     upload: 1641484745106,
+Jan 06 23:59:05     response: undefined,
+Jan 06 23:59:05     end: undefined,
+Jan 06 23:59:05     error: 1641484745348,
+Jan 06 23:59:05     abort: undefined,
+Jan 06 23:59:05     phases: {
+Jan 06 23:59:05       wait: 1,
+Jan 06 23:59:05       dns: 1,
+Jan 06 23:59:05       tcp: 1239,
+Jan 06 23:59:05       tls: undefined,
+Jan 06 23:59:05       request: 1,
+Jan 06 23:59:05       firstByte: undefined,
+Jan 06 23:59:05       download: undefined,
+Jan 06 23:59:05       total: 1484
+Jan 06 23:59:05     }
+Jan 06 23:59:05   }
+Jan 06 23:59:05 }
+Jan 06 23:59:05 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 06 23:59:05 
+Jan 06 23:59:05 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 06 23:59:05 
+Jan 06 23:59:05 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 06 23:59:05 
+Jan 06 23:59:05 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 06 23:59:05 
+Jan 06 23:59:05 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 06 23:59:05 
+Jan 06 23:59:05 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 06 23:59:05 
+Jan 06 23:59:05 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 06 23:59:05 
+Jan 06 23:59:05 
+Jan 06 23:59:05 🔔东东超市兑换奖品, 结束! 🕛 4.495 秒
+Jan 06 23:59:05 
+Jan 07 23:59:00 
+Jan 07 23:59:00 🔔东东超市兑换奖品, 开始!
+Jan 07 23:59:00 
+Jan 07 23:59:00 ====================共1个京东账号Cookie=========
+Jan 07 23:59:00 
+Jan 07 23:59:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 下午11:59:00=====================
+Jan 07 23:59:00 
+Jan 07 23:59:01 
+Jan 07 23:59:01 ****开始【京东账号1】jd_632e000b42ec6****
+Jan 07 23:59:01 
+Jan 07 23:59:01 
+Jan 07 23:59:01 ==============📣系统通知📣==============
+Jan 07 23:59:01 东东超市兑换奖品
+Jan 07 23:59:01 【提示】cookie已失效
+Jan 07 23:59:01 京东账号1 jd_632e000b42ec6
+Jan 07 23:59:01 请重新登录获取
+Jan 07 23:59:01 https://bean.m.jd.com/bean/signIndex.action
+Jan 07 23:59:01 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 07 23:59:01 
+Jan 07 23:59:05 发送通知调用API失败！！
+Jan 07 23:59:05 
+Jan 07 23:59:05 RequestError: socket hang up
+Jan 07 23:59:05     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 07 23:59:05     at Object.onceWrapper (node:events:510:26)
+Jan 07 23:59:05     at ClientRequest.emit (node:events:402:35)
+Jan 07 23:59:05     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 07 23:59:05     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 07 23:59:05     at Socket.emit (node:events:402:35)
+Jan 07 23:59:05     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 07 23:59:05     at connResetException (node:internal/errors:691:14)
+Jan 07 23:59:05     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 07 23:59:05     at Socket.emit (node:events:402:35)
+Jan 07 23:59:05     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 07 23:59:05     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 07 23:59:05   code: 'ECONNRESET',
+Jan 07 23:59:05   timings: {
+Jan 07 23:59:05     start: 1641571143777,
+Jan 07 23:59:05     socket: 1641571143777,
+Jan 07 23:59:05     lookup: 1641571143779,
+Jan 07 23:59:05     connect: 1641571145016,
+Jan 07 23:59:05     secureConnect: undefined,
+Jan 07 23:59:05     upload: 1641571145016,
+Jan 07 23:59:05     response: undefined,
+Jan 07 23:59:05     end: undefined,
+Jan 07 23:59:05     error: 1641571145257,
+Jan 07 23:59:05     abort: undefined,
+Jan 07 23:59:05     phases: {
+Jan 07 23:59:05       wait: 0,
+Jan 07 23:59:05       dns: 2,
+Jan 07 23:59:05       tcp: 1237,
+Jan 07 23:59:05       tls: undefined,
+Jan 07 23:59:05       request: 0,
+Jan 07 23:59:05       firstByte: undefined,
+Jan 07 23:59:05       download: undefined,
+Jan 07 23:59:05       total: 1480
+Jan 07 23:59:05     }
+Jan 07 23:59:05   }
+Jan 07 23:59:05 }
+Jan 07 23:59:05 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 07 23:59:05 
+Jan 07 23:59:05 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 07 23:59:05 
+Jan 07 23:59:05 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 07 23:59:05 
+Jan 07 23:59:05 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 07 23:59:05 
+Jan 07 23:59:05 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 07 23:59:05 
+Jan 07 23:59:05 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 07 23:59:05 
+Jan 07 23:59:05 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 07 23:59:05 
+Jan 07 23:59:05 
+Jan 07 23:59:05 🔔东东超市兑换奖品, 结束! 🕛 4.407 秒
+Jan 07 23:59:05 
+Jan 08 23:59:00 
+Jan 08 23:59:00 🔔东东超市兑换奖品, 开始!
+Jan 08 23:59:00 
+Jan 08 23:59:00 ====================共1个京东账号Cookie=========
+Jan 08 23:59:00 
+Jan 08 23:59:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 下午11:59:00=====================
+Jan 08 23:59:00 
+Jan 08 23:59:00 
+Jan 08 23:59:00 ****开始【京东账号1】jd_632e000b42ec6****
+Jan 08 23:59:00 
+Jan 08 23:59:00 
+Jan 08 23:59:00 ==============📣系统通知📣==============
+Jan 08 23:59:00 东东超市兑换奖品
+Jan 08 23:59:00 【提示】cookie已失效
+Jan 08 23:59:00 京东账号1 jd_632e000b42ec6
+Jan 08 23:59:00 请重新登录获取
+Jan 08 23:59:00 https://bean.m.jd.com/bean/signIndex.action
+Jan 08 23:59:00 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 08 23:59:00 
+Jan 08 23:59:04 发送通知调用API失败！！
+Jan 08 23:59:04 
+Jan 08 23:59:04 RequestError: socket hang up
+Jan 08 23:59:04     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 08 23:59:04     at Object.onceWrapper (node:events:510:26)
+Jan 08 23:59:04     at ClientRequest.emit (node:events:402:35)
+Jan 08 23:59:04     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 08 23:59:04     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 08 23:59:04     at Socket.emit (node:events:402:35)
+Jan 08 23:59:04     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 08 23:59:04     at connResetException (node:internal/errors:691:14)
+Jan 08 23:59:04     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 08 23:59:04     at Socket.emit (node:events:402:35)
+Jan 08 23:59:04     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 08 23:59:04     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 08 23:59:04   code: 'ECONNRESET',
+Jan 08 23:59:04   timings: {
+Jan 08 23:59:04     start: 1641657543331,
+Jan 08 23:59:04     socket: 1641657543331,
+Jan 08 23:59:04     lookup: 1641657543332,
+Jan 08 23:59:04     connect: 1641657544573,
+Jan 08 23:59:04     secureConnect: undefined,
+Jan 08 23:59:04     upload: 1641657544573,
+Jan 08 23:59:04     response: undefined,
+Jan 08 23:59:04     end: undefined,
+Jan 08 23:59:04     error: 1641657544816,
+Jan 08 23:59:04     abort: undefined,
+Jan 08 23:59:04     phases: {
+Jan 08 23:59:04       wait: 0,
+Jan 08 23:59:04       dns: 1,
+Jan 08 23:59:04       tcp: 1241,
+Jan 08 23:59:04       tls: undefined,
+Jan 08 23:59:04       request: 0,
+Jan 08 23:59:04       firstByte: undefined,
+Jan 08 23:59:04       download: undefined,
+Jan 08 23:59:04       total: 1485
+Jan 08 23:59:04     }
+Jan 08 23:59:04   }
+Jan 08 23:59:04 }
+Jan 08 23:59:04 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 08 23:59:04 
+Jan 08 23:59:04 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 08 23:59:04 
+Jan 08 23:59:04 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 08 23:59:04 
+Jan 08 23:59:04 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 08 23:59:04 
+Jan 08 23:59:04 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 08 23:59:04 
+Jan 08 23:59:04 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 08 23:59:04 
+Jan 08 23:59:04 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 08 23:59:04 
+Jan 08 23:59:04 
+Jan 08 23:59:04 🔔东东超市兑换奖品, 结束! 🕛 4.34 秒
+Jan 08 23:59:04 

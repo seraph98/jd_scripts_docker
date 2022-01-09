@@ -1,0 +1,1724 @@
+Jan 07 00:32:00 
+Jan 07 00:32:00 🔔金融养猪, 开始!
+Jan 07 00:32:00 
+Jan 07 00:32:00 ====================共1个京东账号Cookie=========
+Jan 07 00:32:00 
+Jan 07 00:32:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 上午12:32:00=====================
+Jan 07 00:32:00 
+Jan 07 00:32:01 
+Jan 07 00:32:01 开始【京东账号1】jd_187425zqg
+Jan 07 00:32:01 
+Jan 07 00:32:02 签到结果 {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":501,"resultMsg":"未知错误"},"channelEncrypt":0}
+Jan 07 00:32:02 开宝箱获得食物白菜，数量：1
+Jan 07 00:32:05 开宝箱暂无奖励
+Jan 07 00:32:07 开宝箱获得胡萝卜，数量：1
+Jan 07 00:32:09 开宝箱获得胡萝卜，数量：3
+Jan 07 00:32:12 开宝箱获得胡萝卜，数量：3
+Jan 07 00:32:14 开宝箱获得胡萝卜，数量：1
+Jan 07 00:32:16 开宝箱获得白菜，数量：3
+Jan 07 00:32:18 开宝箱获得普通猪粮，数量：1
+Jan 07 00:32:20 开宝箱获得普通猪粮，数量：3
+Jan 07 00:32:23 开宝箱获得胡萝卜，数量：1
+Jan 07 00:32:25 开宝箱暂无奖励
+Jan 07 00:32:27 开宝箱获得南瓜，数量：1
+Jan 07 00:32:29 开宝箱获得食物白菜，数量：1
+Jan 07 00:32:31 开宝箱获得普通猪粮，数量：1
+Jan 07 00:32:33 开宝箱获得普通猪粮，数量：1
+Jan 07 00:32:36 开宝箱暂无奖励
+Jan 07 00:32:38 开宝箱暂无奖励
+Jan 07 00:32:40 开宝箱获得食物白菜，数量：1
+Jan 07 00:32:42 开宝箱获得南瓜，数量：1
+Jan 07 00:32:44 开宝箱暂无奖励
+Jan 07 00:32:47 开宝箱获得胡萝卜，数量：1
+Jan 07 00:32:49 开宝箱暂无奖励
+Jan 07 00:32:51 开宝箱获得食物白菜，数量：1
+Jan 07 00:32:53 开宝箱获得南瓜，数量：1
+Jan 07 00:32:55 开宝箱暂无奖励
+Jan 07 00:32:58 开宝箱获得南瓜，数量：3
+Jan 07 00:33:00 开宝箱获得普通猪粮，数量：1
+Jan 07 00:33:02 开宝箱获得南瓜，数量：3
+Jan 07 00:33:04 开宝箱获得普通猪粮，数量：1
+Jan 07 00:33:06 开宝箱获得普通猪粮，数量：3
+Jan 07 00:33:09 开宝箱失败:宝箱次数上限
+Jan 07 00:33:09 当前大转盘剩余免费抽奖次数：：3
+Jan 07 00:33:09 
+Jan 07 00:33:09 完成每日分享未完成
+Jan 07 00:33:09 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"领奖","opResult":0,"operate":1,"status":4},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 00:33:09 
+Jan 07 00:33:09 借1元得20元话费未完成
+Jan 07 00:33:10 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"opResult":502},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 00:33:11 
+Jan 07 00:33:11 免费预约开户未完成
+Jan 07 00:33:11 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 00:33:12 
+Jan 07 00:33:12 借钱14天免息未完成
+Jan 07 00:33:12 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 00:33:13 
+Jan 07 00:33:13 成功开通期货账户未完成
+Jan 07 00:33:13 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 00:33:14 
+Jan 07 00:33:14 关注京东白条未完成
+Jan 07 00:33:14 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 00:33:15 
+Jan 07 00:33:15 领取你的会员权益未完成
+Jan 07 00:33:16 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 00:33:17 queryMissionReceiveAfterStatus {"resultData":{"msg":"查询成功","code":"0000","data":0,"success":true},"success":true,"resultCode":0,"resultMsg":"成功","channelEncrypt":0}
+Jan 07 00:33:27 finishReadMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"0000","success":true},"channelEncrypt":0}
+Jan 07 00:33:27 
+Jan 07 00:33:27 查看自己的京享值未完成
+Jan 07 00:33:27 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 00:33:28 getJumpInfo {"resultData":{"msg":"成功","code":"0000","data":{"actionType":1,"jumpLoginFlag":1,"juid":"79bff74b207b43908d9a68fd83c9ac13","targetType":"h5","jumpUrl":"https://huiyuan.m.jd.com?source=lgb"},"success":true},"success":true,"resultCode":0,"resultMsg":"成功","channelEncrypt":0}
+Jan 07 00:33:32 
+Jan 07 00:33:32 逛逛精品家电爆款未完成
+Jan 07 00:33:33 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 00:33:34 queryMissionReceiveAfterStatus {"resultData":{"msg":"查询成功","code":"0000","data":0,"success":true},"success":true,"resultCode":0,"resultMsg":"成功","channelEncrypt":0}
+Jan 07 00:33:49 finishReadMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"0000","success":true},"channelEncrypt":0}
+Jan 07 00:33:49 
+Jan 07 00:33:49 逛逛京喜好货榜未完成
+Jan 07 00:33:49 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 00:33:50 queryMissionReceiveAfterStatus {"resultData":{"msg":"查询成功","code":"0000","data":0,"success":true},"success":true,"resultCode":0,"resultMsg":"成功","channelEncrypt":0}
+Jan 07 00:34:06 finishReadMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"0000","success":true},"channelEncrypt":0}
+Jan 07 00:34:06 
+Jan 07 00:34:06 领无限次分期免息未完成
+Jan 07 00:34:06 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 00:34:07 getJumpInfo {"resultData":{"msg":"成功","code":"0000","data":{"actionType":1,"jumpLoginFlag":1,"juid":"5015e3392f2c40b1be03a2b2225f714b","targetType":"h5","jumpUrl":"https://u.jr.jd.com/uc-fe-wxgrowing/interest-free-card/index/?chantype=freeCard"},"success":true},"success":true,"resultCode":0,"resultMsg":"成功","channelEncrypt":0}
+Jan 07 00:34:11 
+Jan 07 00:34:11 浏览财富福利社未完成
+Jan 07 00:34:11 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 00:34:12 getJumpInfo {"resultData":{"msg":"成功","code":"0000","data":{"actionType":1,"jumpLoginFlag":1,"juid":"c3919d39e96b49d7ae71a658a4311f46","targetType":"h5","jumpAppOldUrl":"https://show.jd.com/m/8k37/?pageKey=8k37&channel=hd","jumpUrl":"https://show.jd.com/m/8k37/?pageKey=8k37&channel=hd"},"success":true},"success":true,"resultCode":0,"resultMsg":"成功","channelEncrypt":0}
+Jan 07 00:34:16 
+Jan 07 00:34:16 浏览京东物流年货节未完成
+Jan 07 00:34:17 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 00:34:18 queryMissionReceiveAfterStatus {"resultData":{"msg":"查询成功","code":"0000","data":0,"success":true},"success":true,"resultCode":0,"resultMsg":"成功","channelEncrypt":0}
+Jan 07 00:34:28 finishReadMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"0000","success":true},"channelEncrypt":0}
+Jan 07 00:34:28 
+Jan 07 00:34:28 每日猜猜行情涨跌未完成
+Jan 07 00:34:28 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 00:34:29 
+Jan 07 00:34:29 为自己充1笔话费未完成
+Jan 07 00:34:30 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 00:34:31 
+Jan 07 00:34:31 分享最高领88元未完成
+Jan 07 00:34:31 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 00:34:32 queryMissionReceiveAfterStatus {"resultData":{"msg":"查询成功","code":"0000","data":0,"success":true},"success":true,"resultCode":0,"resultMsg":"成功","channelEncrypt":0}
+Jan 07 00:34:42 finishReadMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"0000","success":true},"channelEncrypt":0}
+Jan 07 00:34:42 
+Jan 07 00:34:42 花金贴兑权益未完成
+Jan 07 00:34:42 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 00:34:43 
+Jan 07 00:34:43 积存金理财未完成
+Jan 07 00:34:44 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 00:34:45 
+Jan 07 00:34:45 食物名称     数量
+Jan 07 00:34:45 白菜      26g
+Jan 07 00:34:45 胡萝卜      27g
+Jan 07 00:34:45 普通猪粮      26g
+Jan 07 00:34:45 南瓜      18g
+Jan 07 00:34:45 10秒后开始喂食白菜，当前数量为26g
+Jan 07 00:34:55 10秒后开始喂食胡萝卜，当前数量为27g
+Jan 07 00:35:05 10秒后开始喂食普通猪粮，当前数量为26g
+Jan 07 00:35:15 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 07 00:35:15 
+Jan 07 00:35:19 发送通知调用API失败！！
+Jan 07 00:35:19 
+Jan 07 00:35:19 RequestError: socket hang up
+Jan 07 00:35:19     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 07 00:35:19     at Object.onceWrapper (node:events:510:26)
+Jan 07 00:35:19     at ClientRequest.emit (node:events:402:35)
+Jan 07 00:35:19     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 07 00:35:19     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 07 00:35:19     at Socket.emit (node:events:402:35)
+Jan 07 00:35:19     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 07 00:35:19     at connResetException (node:internal/errors:691:14)
+Jan 07 00:35:19     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 07 00:35:19     at Socket.emit (node:events:402:35)
+Jan 07 00:35:19     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 07 00:35:19     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 07 00:35:19   code: 'ECONNRESET',
+Jan 07 00:35:19   timings: {
+Jan 07 00:35:19     start: 1641486918267,
+Jan 07 00:35:19     socket: 1641486918267,
+Jan 07 00:35:19     lookup: 1641486918268,
+Jan 07 00:35:19     connect: 1641486919503,
+Jan 07 00:35:19     secureConnect: undefined,
+Jan 07 00:35:19     upload: 1641486919503,
+Jan 07 00:35:19     response: undefined,
+Jan 07 00:35:19     end: undefined,
+Jan 07 00:35:19     error: 1641486919740,
+Jan 07 00:35:19     abort: undefined,
+Jan 07 00:35:19     phases: {
+Jan 07 00:35:19       wait: 0,
+Jan 07 00:35:19       dns: 1,
+Jan 07 00:35:19       tcp: 1235,
+Jan 07 00:35:19       tls: undefined,
+Jan 07 00:35:19       request: 0,
+Jan 07 00:35:19       firstByte: undefined,
+Jan 07 00:35:19       download: undefined,
+Jan 07 00:35:19       total: 1473
+Jan 07 00:35:19     }
+Jan 07 00:35:19   }
+Jan 07 00:35:19 }
+Jan 07 00:35:19 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 07 00:35:19 
+Jan 07 00:35:19 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 07 00:35:19 
+Jan 07 00:35:19 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 07 00:35:19 
+Jan 07 00:35:19 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 07 00:35:19 
+Jan 07 00:35:19 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 07 00:35:19 
+Jan 07 00:35:19 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 07 00:35:19 
+Jan 07 00:35:19 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 07 00:35:19 
+Jan 07 00:35:19 
+Jan 07 00:35:19 ==============📣系统通知📣==============
+Jan 07 00:35:19 金融养猪
+Jan 07 00:35:19 京东账号1 jd_187425zqg
+Jan 07 00:35:19 红心蜜薯5斤已可兑换
+Jan 07 00:35:19 
+Jan 07 00:35:19 🔔金融养猪, 结束! 🕛 198.953 秒
+Jan 07 00:35:19 
+Jan 07 06:32:00 
+Jan 07 06:32:00 🔔金融养猪, 开始!
+Jan 07 06:32:00 
+Jan 07 06:32:00 ====================共1个京东账号Cookie=========
+Jan 07 06:32:00 
+Jan 07 06:32:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 上午6:32:00=====================
+Jan 07 06:32:00 
+Jan 07 06:32:00 
+Jan 07 06:32:00 开始【京东账号1】jd_187425zqg
+Jan 07 06:32:00 
+Jan 07 06:32:01 第1天已签到
+Jan 07 06:32:01 
+Jan 07 06:32:01 开宝箱失败:宝箱次数上限
+Jan 07 06:32:01 当前大转盘剩余免费抽奖次数：：2
+Jan 07 06:32:02 
+Jan 07 06:32:02 完成每日分享任务已做完,开始领取奖励
+Jan 07 06:32:02 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"已领取","opResult":0,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/59028/12/13431/3362/5daea574E62dfa507/433321942a395813.png","random":false,"count":5,"name":"普通猪粮","rfid":"","position":1,"id":"1","sku":"1001003003","category":"1001","content":"普通猪粮","needApp":false},"operate":4,"status":5},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 06:32:02 奖励普通猪粮,数量:5
+Jan 07 06:32:03 
+Jan 07 06:32:03 领取你的会员权益任务已做完,开始领取奖励
+Jan 07 06:32:03 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"已领取","opResult":0,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/208710/11/12002/6368/61b05693E5d8f4c42/5fb5edd385456159.png","random":false,"count":5,"name":"普通猪粮","position":0,"sku":"1","needApp":false},"operate":4,"status":5},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 06:32:03 奖励普通猪粮,数量:5
+Jan 07 06:32:04 
+Jan 07 06:32:04 查看自己的京享值任务已做完,开始领取奖励
+Jan 07 06:32:04 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"已领取","opResult":0,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/208710/11/12002/6368/61b05693E5d8f4c42/5fb5edd385456159.png","random":false,"count":5,"name":"普通猪粮","position":0,"sku":"1","needApp":false},"operate":4,"status":5},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 06:32:04 奖励普通猪粮,数量:5
+Jan 07 06:32:05 
+Jan 07 06:32:05 逛逛精品家电爆款任务已做完,开始领取奖励
+Jan 07 06:32:06 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"已领取","opResult":0,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/208710/11/12002/6368/61b05693E5d8f4c42/5fb5edd385456159.png","random":false,"count":5,"name":"普通猪粮","position":0,"sku":"1","needApp":false},"operate":4,"status":5},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 06:32:06 奖励普通猪粮,数量:5
+Jan 07 06:32:07 
+Jan 07 06:32:07 逛逛京喜好货榜任务已做完,开始领取奖励
+Jan 07 06:32:07 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"已领取","opResult":0,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/208710/11/12002/6368/61b05693E5d8f4c42/5fb5edd385456159.png","random":false,"count":5,"name":"普通猪粮","position":0,"sku":"1","needApp":false},"operate":4,"status":5},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 06:32:07 奖励普通猪粮,数量:5
+Jan 07 06:32:08 
+Jan 07 06:32:08 领无限次分期免息任务已做完,开始领取奖励
+Jan 07 06:32:08 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"已领取","opResult":0,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/208710/11/12002/6368/61b05693E5d8f4c42/5fb5edd385456159.png","random":false,"count":20,"name":"普通猪粮","position":0,"sku":"1","needApp":false},"operate":4,"status":5},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 06:32:08 奖励普通猪粮,数量:20
+Jan 07 06:32:09 
+Jan 07 06:32:09 浏览财富福利社任务已做完,开始领取奖励
+Jan 07 06:32:09 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"已领取","opResult":0,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/59028/12/13431/3362/5daea574E62dfa507/433321942a395813.png","random":false,"count":20,"name":"普通猪粮","position":0,"sku":"1","needApp":false},"operate":4,"status":5},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 06:32:09 奖励普通猪粮,数量:20
+Jan 07 06:32:10 
+Jan 07 06:32:10 浏览京东物流年货节任务已做完,开始领取奖励
+Jan 07 06:32:10 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"已领取","opResult":0,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/140648/40/26078/3698/61d43976Ec150524a/9065d574ba6c61c6.png","random":false,"count":5,"name":"普通猪粮","position":0,"sku":"1","needApp":false},"operate":4,"status":5},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 06:32:10 奖励普通猪粮,数量:5
+Jan 07 06:32:11 
+Jan 07 06:32:11 分享最高领88元任务已做完,开始领取奖励
+Jan 07 06:32:12 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"已领取","opResult":0,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/146803/27/7099/4116/5f4cff9cEb56235de/7202930d2aaafaf0.png","random":false,"count":5,"name":"普通猪粮","position":0,"sku":"1","needApp":false},"operate":4,"status":5},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 06:32:12 奖励普通猪粮,数量:5
+Jan 07 06:32:13 
+Jan 07 06:32:13 借1元得20元话费未完成
+Jan 07 06:32:13 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 06:32:14 
+Jan 07 06:32:14 免费预约开户未完成
+Jan 07 06:32:14 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 06:32:15 
+Jan 07 06:32:15 借钱14天免息未完成
+Jan 07 06:32:15 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 06:32:16 
+Jan 07 06:32:16 成功开通期货账户未完成
+Jan 07 06:32:16 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 06:32:17 
+Jan 07 06:32:17 关注京东白条未完成
+Jan 07 06:32:18 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 06:32:19 
+Jan 07 06:32:19 每日猜猜行情涨跌未完成
+Jan 07 06:32:19 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 06:32:20 
+Jan 07 06:32:20 为自己充1笔话费未完成
+Jan 07 06:32:20 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 06:32:21 
+Jan 07 06:32:21 花金贴兑权益未完成
+Jan 07 06:32:21 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 06:32:22 
+Jan 07 06:32:22 积存金理财未完成
+Jan 07 06:32:22 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 06:32:24 
+Jan 07 06:32:24 食物名称     数量
+Jan 07 06:32:24 白菜      6g
+Jan 07 06:32:24 胡萝卜      7g
+Jan 07 06:32:24 普通猪粮      81g
+Jan 07 06:32:24 南瓜      19g
+Jan 07 06:32:24 10秒后开始喂食普通猪粮，当前数量为81g
+Jan 07 06:32:34 10秒后开始喂食普通猪粮，当前数量为61g
+Jan 07 06:32:44 10秒后开始喂食普通猪粮，当前数量为41g
+Jan 07 06:32:54 10秒后开始喂食普通猪粮，当前数量为21g
+Jan 07 06:33:05 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 07 06:33:05 
+Jan 07 06:33:08 发送通知调用API失败！！
+Jan 07 06:33:08 
+Jan 07 06:33:08 RequestError: socket hang up
+Jan 07 06:33:08     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 07 06:33:08     at Object.onceWrapper (node:events:510:26)
+Jan 07 06:33:08     at ClientRequest.emit (node:events:402:35)
+Jan 07 06:33:08     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 07 06:33:08     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 07 06:33:08     at Socket.emit (node:events:402:35)
+Jan 07 06:33:08     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 07 06:33:08     at connResetException (node:internal/errors:691:14)
+Jan 07 06:33:08     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 07 06:33:08     at Socket.emit (node:events:402:35)
+Jan 07 06:33:08     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 07 06:33:08     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 07 06:33:08   code: 'ECONNRESET',
+Jan 07 06:33:08   timings: {
+Jan 07 06:33:08     start: 1641508387461,
+Jan 07 06:33:08     socket: 1641508387461,
+Jan 07 06:33:08     lookup: 1641508387462,
+Jan 07 06:33:08     connect: 1641508388689,
+Jan 07 06:33:08     secureConnect: undefined,
+Jan 07 06:33:08     upload: 1641508388690,
+Jan 07 06:33:08     response: undefined,
+Jan 07 06:33:08     end: undefined,
+Jan 07 06:33:08     error: 1641508388920,
+Jan 07 06:33:08     abort: undefined,
+Jan 07 06:33:08     phases: {
+Jan 07 06:33:08       wait: 0,
+Jan 07 06:33:08       dns: 1,
+Jan 07 06:33:08       tcp: 1227,
+Jan 07 06:33:08       tls: undefined,
+Jan 07 06:33:08       request: 1,
+Jan 07 06:33:08       firstByte: undefined,
+Jan 07 06:33:08       download: undefined,
+Jan 07 06:33:08       total: 1459
+Jan 07 06:33:08     }
+Jan 07 06:33:08   }
+Jan 07 06:33:08 }
+Jan 07 06:33:08 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 07 06:33:08 
+Jan 07 06:33:08 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 07 06:33:08 
+Jan 07 06:33:08 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 07 06:33:08 
+Jan 07 06:33:08 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 07 06:33:08 
+Jan 07 06:33:08 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 07 06:33:08 
+Jan 07 06:33:08 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 07 06:33:08 
+Jan 07 06:33:08 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 07 06:33:08 
+Jan 07 06:33:08 
+Jan 07 06:33:08 ==============📣系统通知📣==============
+Jan 07 06:33:08 金融养猪
+Jan 07 06:33:08 京东账号1 jd_187425zqg
+Jan 07 06:33:08 红心蜜薯5斤已可兑换
+Jan 07 06:33:08 
+Jan 07 06:33:08 🔔金融养猪, 结束! 🕛 68.671 秒
+Jan 07 06:33:08 
+Jan 07 12:32:00 
+Jan 07 12:32:00 🔔金融养猪, 开始!
+Jan 07 12:32:00 
+Jan 07 12:32:00 ====================共1个京东账号Cookie=========
+Jan 07 12:32:00 
+Jan 07 12:32:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 下午12:32:00=====================
+Jan 07 12:32:00 
+Jan 07 12:32:01 
+Jan 07 12:32:01 开始【京东账号1】jd_739d55b768da0
+Jan 07 12:32:01 
+Jan 07 12:32:04 第1天已签到
+Jan 07 12:32:04 
+Jan 07 12:32:04 开宝箱失败:宝箱次数上限
+Jan 07 12:32:06 当前大转盘剩余免费抽奖次数：：1
+Jan 07 12:32:07 
+Jan 07 12:32:07 借1元得20元话费未完成
+Jan 07 12:32:07 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 12:32:08 
+Jan 07 12:32:08 免费预约开户未完成
+Jan 07 12:32:08 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 12:32:09 
+Jan 07 12:32:09 借钱14天免息未完成
+Jan 07 12:32:10 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 12:32:11 
+Jan 07 12:32:11 成功开通期货账户未完成
+Jan 07 12:32:11 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 12:32:12 
+Jan 07 12:32:12 关注京东白条未完成
+Jan 07 12:32:12 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 12:32:13 
+Jan 07 12:32:13 每日猜猜行情涨跌未完成
+Jan 07 12:32:13 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 12:32:14 
+Jan 07 12:32:14 为自己充1笔话费未完成
+Jan 07 12:32:14 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 12:32:15 
+Jan 07 12:32:15 花金贴兑权益未完成
+Jan 07 12:32:16 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 12:32:17 
+Jan 07 12:32:17 积存金理财未完成
+Jan 07 12:32:17 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 12:32:18 
+Jan 07 12:32:18 浏览减碳先锋活动未完成
+Jan 07 12:32:18 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 12:32:19 queryMissionReceiveAfterStatus {"resultData":{"msg":"查询成功","code":"0000","data":0,"success":true},"success":true,"resultCode":0,"resultMsg":"成功","channelEncrypt":0}
+Jan 07 12:32:29 finishReadMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"0000","success":true},"channelEncrypt":0}
+Jan 07 12:32:29 
+Jan 07 12:32:29 领取你的会员权益已领取
+Jan 07 12:32:29 
+Jan 07 12:32:29 查看自己的京享值已领取
+Jan 07 12:32:29 
+Jan 07 12:32:29 逛逛精品家电爆款已领取
+Jan 07 12:32:29 
+Jan 07 12:32:29 逛逛京喜好货榜已领取
+Jan 07 12:32:29 
+Jan 07 12:32:29 领无限次分期免息已领取
+Jan 07 12:32:29 
+Jan 07 12:32:29 浏览财富福利社已领取
+Jan 07 12:32:29 
+Jan 07 12:32:29 浏览京东物流年货节已领取
+Jan 07 12:32:29 
+Jan 07 12:32:29 分享最高领88元已领取
+Jan 07 12:32:29 
+Jan 07 12:32:29 完成每日分享已领取
+Jan 07 12:32:30 
+Jan 07 12:32:30 食物名称     数量
+Jan 07 12:32:30 白菜      6g
+Jan 07 12:32:30 胡萝卜      7g
+Jan 07 12:32:30 普通猪粮      1g
+Jan 07 12:32:30 南瓜      19g
+Jan 07 12:32:30 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 07 12:32:30 
+Jan 07 12:32:33 发送通知调用API失败！！
+Jan 07 12:32:33 
+Jan 07 12:32:33 RequestError: socket hang up
+Jan 07 12:32:33     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 07 12:32:33     at Object.onceWrapper (node:events:510:26)
+Jan 07 12:32:33     at ClientRequest.emit (node:events:402:35)
+Jan 07 12:32:33     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 07 12:32:33     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 07 12:32:33     at Socket.emit (node:events:402:35)
+Jan 07 12:32:33     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 07 12:32:33     at connResetException (node:internal/errors:691:14)
+Jan 07 12:32:33     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 07 12:32:33     at Socket.emit (node:events:402:35)
+Jan 07 12:32:33     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 07 12:32:33     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 07 12:32:33   code: 'ECONNRESET',
+Jan 07 12:32:33   timings: {
+Jan 07 12:32:33     start: 1641529952497,
+Jan 07 12:32:33     socket: 1641529952497,
+Jan 07 12:32:33     lookup: 1641529952498,
+Jan 07 12:32:33     connect: 1641529953722,
+Jan 07 12:32:33     secureConnect: undefined,
+Jan 07 12:32:33     upload: 1641529953722,
+Jan 07 12:32:33     response: undefined,
+Jan 07 12:32:33     end: undefined,
+Jan 07 12:32:33     error: 1641529953949,
+Jan 07 12:32:33     abort: undefined,
+Jan 07 12:32:33     phases: {
+Jan 07 12:32:33       wait: 0,
+Jan 07 12:32:33       dns: 1,
+Jan 07 12:32:33       tcp: 1224,
+Jan 07 12:32:33       tls: undefined,
+Jan 07 12:32:33       request: 0,
+Jan 07 12:32:33       firstByte: undefined,
+Jan 07 12:32:33       download: undefined,
+Jan 07 12:32:33       total: 1452
+Jan 07 12:32:33     }
+Jan 07 12:32:33   }
+Jan 07 12:32:33 }
+Jan 07 12:32:33 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 07 12:32:33 
+Jan 07 12:32:33 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 07 12:32:33 
+Jan 07 12:32:33 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 07 12:32:33 
+Jan 07 12:32:33 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 07 12:32:33 
+Jan 07 12:32:33 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 07 12:32:33 
+Jan 07 12:32:33 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 07 12:32:33 
+Jan 07 12:32:33 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 07 12:32:33 
+Jan 07 12:32:33 
+Jan 07 12:32:33 ==============📣系统通知📣==============
+Jan 07 12:32:33 金融养猪
+Jan 07 12:32:33 京东账号1 jd_739d55b768da0
+Jan 07 12:32:33 红心蜜薯5斤已可兑换
+Jan 07 12:32:33 
+Jan 07 12:32:33 🔔金融养猪, 结束! 🕛 33.206 秒
+Jan 07 12:32:33 
+Jan 07 18:32:00 
+Jan 07 18:32:00 🔔金融养猪, 开始!
+Jan 07 18:32:00 
+Jan 07 18:32:00 ====================共1个京东账号Cookie=========
+Jan 07 18:32:00 
+Jan 07 18:32:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 下午6:32:00=====================
+Jan 07 18:32:00 
+Jan 07 18:32:00 
+Jan 07 18:32:00 开始【京东账号1】jd_739d55b768da0
+Jan 07 18:32:00 
+Jan 07 18:32:01 第1天已签到
+Jan 07 18:32:01 
+Jan 07 18:32:01 开宝箱失败:宝箱次数上限
+Jan 07 18:32:04 当前大转盘剩余免费抽奖次数：：1
+Jan 07 18:32:04 
+Jan 07 18:32:04 浏览减碳先锋活动任务已做完,开始领取奖励
+Jan 07 18:32:05 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"已领取","opResult":0,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/208710/11/12002/6368/61b05693E5d8f4c42/5fb5edd385456159.png","random":false,"count":5,"name":"普通猪粮","position":0,"sku":"1","needApp":false},"operate":4,"status":5},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 18:32:05 奖励普通猪粮,数量:5
+Jan 07 18:32:06 
+Jan 07 18:32:06 借1元得20元话费未完成
+Jan 07 18:32:06 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 18:32:07 
+Jan 07 18:32:07 免费预约开户未完成
+Jan 07 18:32:07 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 18:32:08 
+Jan 07 18:32:08 借钱14天免息未完成
+Jan 07 18:32:08 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 18:32:09 
+Jan 07 18:32:09 成功开通期货账户未完成
+Jan 07 18:32:09 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 18:32:10 
+Jan 07 18:32:10 关注京东白条未完成
+Jan 07 18:32:11 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 18:32:12 
+Jan 07 18:32:12 每日猜猜行情涨跌未完成
+Jan 07 18:32:12 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 18:32:13 
+Jan 07 18:32:13 为自己充1笔话费未完成
+Jan 07 18:32:13 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 18:32:14 
+Jan 07 18:32:14 花金贴兑权益未完成
+Jan 07 18:32:14 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 18:32:15 
+Jan 07 18:32:15 积存金理财未完成
+Jan 07 18:32:15 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 07 18:32:16 
+Jan 07 18:32:16 领取你的会员权益已领取
+Jan 07 18:32:16 
+Jan 07 18:32:16 查看自己的京享值已领取
+Jan 07 18:32:16 
+Jan 07 18:32:16 逛逛精品家电爆款已领取
+Jan 07 18:32:16 
+Jan 07 18:32:16 逛逛京喜好货榜已领取
+Jan 07 18:32:16 
+Jan 07 18:32:16 领无限次分期免息已领取
+Jan 07 18:32:16 
+Jan 07 18:32:16 浏览财富福利社已领取
+Jan 07 18:32:16 
+Jan 07 18:32:16 浏览京东物流年货节已领取
+Jan 07 18:32:16 
+Jan 07 18:32:16 分享最高领88元已领取
+Jan 07 18:32:16 
+Jan 07 18:32:16 完成每日分享已领取
+Jan 07 18:32:17 
+Jan 07 18:32:17 食物名称     数量
+Jan 07 18:32:17 白菜      6g
+Jan 07 18:32:17 胡萝卜      7g
+Jan 07 18:32:17 普通猪粮      6g
+Jan 07 18:32:17 南瓜      19g
+Jan 07 18:32:17 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 07 18:32:17 
+Jan 07 18:32:21 发送通知调用API失败！！
+Jan 07 18:32:21 
+Jan 07 18:32:21 RequestError: socket hang up
+Jan 07 18:32:21     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 07 18:32:21     at Object.onceWrapper (node:events:510:26)
+Jan 07 18:32:21     at ClientRequest.emit (node:events:402:35)
+Jan 07 18:32:21     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 07 18:32:21     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 07 18:32:21     at Socket.emit (node:events:402:35)
+Jan 07 18:32:21     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 07 18:32:21     at connResetException (node:internal/errors:691:14)
+Jan 07 18:32:21     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 07 18:32:21     at Socket.emit (node:events:402:35)
+Jan 07 18:32:21     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 07 18:32:21     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 07 18:32:21   code: 'ECONNRESET',
+Jan 07 18:32:21   timings: {
+Jan 07 18:32:21     start: 1641551539530,
+Jan 07 18:32:21     socket: 1641551539531,
+Jan 07 18:32:21     lookup: 1641551539532,
+Jan 07 18:32:21     connect: 1641551540767,
+Jan 07 18:32:21     secureConnect: undefined,
+Jan 07 18:32:21     upload: 1641551540767,
+Jan 07 18:32:21     response: undefined,
+Jan 07 18:32:21     end: undefined,
+Jan 07 18:32:21     error: 1641551541003,
+Jan 07 18:32:21     abort: undefined,
+Jan 07 18:32:21     phases: {
+Jan 07 18:32:21       wait: 1,
+Jan 07 18:32:21       dns: 1,
+Jan 07 18:32:21       tcp: 1235,
+Jan 07 18:32:21       tls: undefined,
+Jan 07 18:32:21       request: 0,
+Jan 07 18:32:21       firstByte: undefined,
+Jan 07 18:32:21       download: undefined,
+Jan 07 18:32:21       total: 1473
+Jan 07 18:32:21     }
+Jan 07 18:32:21   }
+Jan 07 18:32:21 }
+Jan 07 18:32:21 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 07 18:32:21 
+Jan 07 18:32:21 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 07 18:32:21 
+Jan 07 18:32:21 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 07 18:32:21 
+Jan 07 18:32:21 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 07 18:32:21 
+Jan 07 18:32:21 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 07 18:32:21 
+Jan 07 18:32:21 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 07 18:32:21 
+Jan 07 18:32:21 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 07 18:32:21 
+Jan 07 18:32:21 
+Jan 07 18:32:21 ==============📣系统通知📣==============
+Jan 07 18:32:21 金融养猪
+Jan 07 18:32:21 京东账号1 jd_739d55b768da0
+Jan 07 18:32:21 红心蜜薯5斤已可兑换
+Jan 07 18:32:21 
+Jan 07 18:32:21 🔔金融养猪, 结束! 🕛 20.908 秒
+Jan 07 18:32:21 
+Jan 08 00:32:00 
+Jan 08 00:32:00 🔔金融养猪, 开始!
+Jan 08 00:32:00 
+Jan 08 00:32:00 ====================共1个京东账号Cookie=========
+Jan 08 00:32:00 
+Jan 08 00:32:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 上午12:32:00=====================
+Jan 08 00:32:00 
+Jan 08 00:32:01 
+Jan 08 00:32:01 开始【京东账号1】jd_187425zqg
+Jan 08 00:32:01 
+Jan 08 00:32:09 签到结果 {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":501,"resultMsg":"未知错误"},"channelEncrypt":0}
+Jan 08 00:32:09 开宝箱获得食物白菜，数量：1
+Jan 08 00:32:11 开宝箱获得白菜，数量：3
+Jan 08 00:32:13 开宝箱获得南瓜，数量：3
+Jan 08 00:32:15 开宝箱获得食物白菜，数量：1
+Jan 08 00:32:18 开宝箱获得南瓜，数量：3
+Jan 08 00:32:20 开宝箱获得食物白菜，数量：1
+Jan 08 00:32:22 开宝箱获得胡萝卜，数量：1
+Jan 08 00:32:24 开宝箱获得南瓜，数量：1
+Jan 08 00:32:26 开宝箱获得南瓜，数量：1
+Jan 08 00:32:29 开宝箱获得食物白菜，数量：1
+Jan 08 00:32:31 开宝箱获得胡萝卜，数量：3
+Jan 08 00:32:33 开宝箱暂无奖励
+Jan 08 00:32:35 开宝箱获得南瓜，数量：1
+Jan 08 00:32:37 开宝箱获得白菜，数量：3
+Jan 08 00:32:40 开宝箱获得普通猪粮，数量：1
+Jan 08 00:32:42 开宝箱获得普通猪粮，数量：3
+Jan 08 00:32:44 开宝箱获得食物白菜，数量：1
+Jan 08 00:32:46 开宝箱暂无奖励
+Jan 08 00:32:48 开宝箱获得普通猪粮，数量：1
+Jan 08 00:32:51 开宝箱获得食物白菜，数量：1
+Jan 08 00:32:53 开宝箱获得普通猪粮，数量：3
+Jan 08 00:32:55 开宝箱获得南瓜，数量：1
+Jan 08 00:32:57 开宝箱暂无奖励
+Jan 08 00:32:59 开宝箱获得食物白菜，数量：1
+Jan 08 00:33:04 开宝箱获得食物白菜，数量：1
+Jan 08 00:33:06 开宝箱获得普通猪粮，数量：1
+Jan 08 00:33:08 开宝箱获得南瓜，数量：1
+Jan 08 00:33:10 开宝箱获得胡萝卜，数量：1
+Jan 08 00:33:12 开宝箱暂无奖励
+Jan 08 00:33:14 开宝箱获得普通猪粮，数量：1
+Jan 08 00:33:17 开宝箱失败:宝箱次数上限
+Jan 08 00:33:17 当前大转盘剩余免费抽奖次数：：3
+Jan 08 00:33:17 
+Jan 08 00:33:17 完成每日分享未完成
+Jan 08 00:33:18 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"领奖","opResult":0,"operate":1,"status":4},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 00:33:18 
+Jan 08 00:33:18 借1元得20元话费未完成
+Jan 08 00:33:18 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"opResult":502},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 00:33:19 
+Jan 08 00:33:19 免费预约开户未完成
+Jan 08 00:33:19 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 00:33:20 
+Jan 08 00:33:20 借钱14天免息未完成
+Jan 08 00:33:20 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 00:33:21 
+Jan 08 00:33:21 成功开通期货账户未完成
+Jan 08 00:33:21 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 00:33:22 
+Jan 08 00:33:22 关注京东白条未完成
+Jan 08 00:33:23 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 00:33:24 
+Jan 08 00:33:24 领取你的会员权益未完成
+Jan 08 00:33:24 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 00:33:25 queryMissionReceiveAfterStatus {"resultData":{"msg":"查询成功","code":"0000","data":0,"success":true},"success":true,"resultCode":0,"resultMsg":"成功","channelEncrypt":0}
+Jan 08 00:33:35 finishReadMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"0000","success":true},"channelEncrypt":0}
+Jan 08 00:33:35 
+Jan 08 00:33:35 查看自己的京享值未完成
+Jan 08 00:33:35 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 00:33:37 getJumpInfo {"resultData":{"msg":"成功","code":"0000","data":{"actionType":1,"jumpLoginFlag":1,"juid":"79bff74b207b43908d9a68fd83c9ac13","targetType":"h5","jumpUrl":"https://huiyuan.m.jd.com?source=lgb"},"success":true},"success":true,"resultCode":0,"resultMsg":"成功","channelEncrypt":0}
+Jan 08 00:33:41 
+Jan 08 00:33:41 逛逛精品家电爆款未完成
+Jan 08 00:33:41 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 00:33:42 queryMissionReceiveAfterStatus {"resultData":{"msg":"查询成功","code":"0000","data":0,"success":true},"success":true,"resultCode":0,"resultMsg":"成功","channelEncrypt":0}
+Jan 08 00:33:57 finishReadMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"0000","success":true},"channelEncrypt":0}
+Jan 08 00:33:57 
+Jan 08 00:33:57 逛逛京喜好货榜未完成
+Jan 08 00:33:57 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 00:33:59 queryMissionReceiveAfterStatus {"resultData":{"msg":"查询成功","code":"0000","data":0,"success":true},"success":true,"resultCode":0,"resultMsg":"成功","channelEncrypt":0}
+Jan 08 00:34:14 finishReadMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"0000","success":true},"channelEncrypt":0}
+Jan 08 00:34:14 
+Jan 08 00:34:14 领无限次分期免息未完成
+Jan 08 00:34:14 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 00:34:15 getJumpInfo {"resultData":{"msg":"成功","code":"0000","data":{"actionType":1,"jumpLoginFlag":1,"juid":"5015e3392f2c40b1be03a2b2225f714b","targetType":"h5","jumpUrl":"https://u.jr.jd.com/uc-fe-wxgrowing/interest-free-card/index/?chantype=freeCard"},"success":true},"success":true,"resultCode":0,"resultMsg":"成功","channelEncrypt":0}
+Jan 08 00:34:19 
+Jan 08 00:34:19 浏览财富福利社未完成
+Jan 08 00:34:19 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 00:34:21 getJumpInfo {"resultData":{"msg":"成功","code":"0000","data":{"actionType":1,"jumpLoginFlag":1,"juid":"c3919d39e96b49d7ae71a658a4311f46","targetType":"h5","jumpAppOldUrl":"https://show.jd.com/m/8k37/?pageKey=8k37&channel=hd","jumpUrl":"https://show.jd.com/m/8k37/?pageKey=8k37&channel=hd"},"success":true},"success":true,"resultCode":0,"resultMsg":"成功","channelEncrypt":0}
+Jan 08 00:34:25 
+Jan 08 00:34:25 浏览减碳先锋活动未完成
+Jan 08 00:34:25 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 00:34:26 queryMissionReceiveAfterStatus {"resultData":{"msg":"查询成功","code":"0000","data":0,"success":true},"success":true,"resultCode":0,"resultMsg":"成功","channelEncrypt":0}
+Jan 08 00:34:36 finishReadMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"0000","success":true},"channelEncrypt":0}
+Jan 08 00:34:36 
+Jan 08 00:34:36 浏览京东物流年货节未完成
+Jan 08 00:34:36 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 00:34:38 queryMissionReceiveAfterStatus {"resultData":{"msg":"查询成功","code":"0000","data":0,"success":true},"success":true,"resultCode":0,"resultMsg":"成功","channelEncrypt":0}
+Jan 08 00:34:48 finishReadMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"0000","success":true},"channelEncrypt":0}
+Jan 08 00:34:48 
+Jan 08 00:34:48 每日猜猜行情涨跌未完成
+Jan 08 00:34:48 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 00:34:49 
+Jan 08 00:34:49 为自己充1笔话费未完成
+Jan 08 00:34:49 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 00:34:50 
+Jan 08 00:34:50 分享最高领88元未完成
+Jan 08 00:34:50 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 00:34:52 queryMissionReceiveAfterStatus {"resultData":{"msg":"查询成功","code":"0000","data":0,"success":true},"success":true,"resultCode":0,"resultMsg":"成功","channelEncrypt":0}
+Jan 08 00:35:02 finishReadMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"0000","success":true},"channelEncrypt":0}
+Jan 08 00:35:02 
+Jan 08 00:35:02 花金贴兑权益未完成
+Jan 08 00:35:02 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 00:35:03 
+Jan 08 00:35:03 积存金理财未完成
+Jan 08 00:35:04 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 00:35:06 
+Jan 08 00:35:06 食物名称     数量
+Jan 08 00:35:06 白菜      20g
+Jan 08 00:35:06 胡萝卜      12g
+Jan 08 00:35:06 普通猪粮      16g
+Jan 08 00:35:06 南瓜      30g
+Jan 08 00:35:06 10秒后开始喂食南瓜，当前数量为30g
+Jan 08 00:35:16 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 08 00:35:16 
+Jan 08 00:35:21 发送通知调用API失败！！
+Jan 08 00:35:21 
+Jan 08 00:35:21 RequestError: socket hang up
+Jan 08 00:35:21     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 08 00:35:21     at Object.onceWrapper (node:events:510:26)
+Jan 08 00:35:21     at ClientRequest.emit (node:events:402:35)
+Jan 08 00:35:21     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 08 00:35:21     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 08 00:35:21     at Socket.emit (node:events:402:35)
+Jan 08 00:35:21     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 08 00:35:21     at connResetException (node:internal/errors:691:14)
+Jan 08 00:35:21     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 08 00:35:21     at Socket.emit (node:events:402:35)
+Jan 08 00:35:21     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 08 00:35:21     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 08 00:35:21   code: 'ECONNRESET',
+Jan 08 00:35:21   timings: {
+Jan 08 00:35:21     start: 1641573319072,
+Jan 08 00:35:21     socket: 1641573319072,
+Jan 08 00:35:21     lookup: 1641573319073,
+Jan 08 00:35:21     connect: 1641573320311,
+Jan 08 00:35:21     secureConnect: undefined,
+Jan 08 00:35:21     upload: 1641573320311,
+Jan 08 00:35:21     response: undefined,
+Jan 08 00:35:21     end: undefined,
+Jan 08 00:35:21     error: 1641573321114,
+Jan 08 00:35:21     abort: undefined,
+Jan 08 00:35:21     phases: {
+Jan 08 00:35:21       wait: 0,
+Jan 08 00:35:21       dns: 1,
+Jan 08 00:35:21       tcp: 1238,
+Jan 08 00:35:21       tls: undefined,
+Jan 08 00:35:21       request: 0,
+Jan 08 00:35:21       firstByte: undefined,
+Jan 08 00:35:21       download: undefined,
+Jan 08 00:35:21       total: 2042
+Jan 08 00:35:21     }
+Jan 08 00:35:21   }
+Jan 08 00:35:21 }
+Jan 08 00:35:21 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 08 00:35:21 
+Jan 08 00:35:21 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 08 00:35:21 
+Jan 08 00:35:21 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 08 00:35:21 
+Jan 08 00:35:21 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 08 00:35:21 
+Jan 08 00:35:21 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 08 00:35:21 
+Jan 08 00:35:21 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 08 00:35:21 
+Jan 08 00:35:21 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 08 00:35:21 
+Jan 08 00:35:21 
+Jan 08 00:35:21 ==============📣系统通知📣==============
+Jan 08 00:35:21 金融养猪
+Jan 08 00:35:21 京东账号1 jd_187425zqg
+Jan 08 00:35:21 红心蜜薯5斤已可兑换
+Jan 08 00:35:21 
+Jan 08 00:35:21 🔔金融养猪, 结束! 🕛 200.471 秒
+Jan 08 00:35:21 
+Jan 08 06:32:01 
+Jan 08 06:32:01 🔔金融养猪, 开始!
+Jan 08 06:32:01 
+Jan 08 06:32:01 ====================共1个京东账号Cookie=========
+Jan 08 06:32:01 
+Jan 08 06:32:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 上午6:32:01=====================
+Jan 08 06:32:01 
+Jan 08 06:32:01 
+Jan 08 06:32:01 开始【京东账号1】jd_187425zqg
+Jan 08 06:32:01 
+Jan 08 06:32:01 第2天已签到
+Jan 08 06:32:01 
+Jan 08 06:32:03 开宝箱失败:宝箱次数上限
+Jan 08 06:32:03 当前大转盘剩余免费抽奖次数：：2
+Jan 08 06:32:03 
+Jan 08 06:32:03 完成每日分享任务已做完,开始领取奖励
+Jan 08 06:32:04 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"已领取","opResult":0,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/59028/12/13431/3362/5daea574E62dfa507/433321942a395813.png","random":false,"count":5,"name":"普通猪粮","rfid":"","position":1,"id":"1","sku":"1001003003","category":"1001","content":"普通猪粮","needApp":false},"operate":4,"status":5},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 06:32:04 奖励普通猪粮,数量:5
+Jan 08 06:32:05 
+Jan 08 06:32:05 领取你的会员权益任务已做完,开始领取奖励
+Jan 08 06:32:05 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"已领取","opResult":0,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/208710/11/12002/6368/61b05693E5d8f4c42/5fb5edd385456159.png","random":false,"count":5,"name":"普通猪粮","position":0,"sku":"1","needApp":false},"operate":4,"status":5},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 06:32:05 奖励普通猪粮,数量:5
+Jan 08 06:32:06 
+Jan 08 06:32:06 查看自己的京享值任务已做完,开始领取奖励
+Jan 08 06:32:06 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"已领取","opResult":0,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/208710/11/12002/6368/61b05693E5d8f4c42/5fb5edd385456159.png","random":false,"count":5,"name":"普通猪粮","position":0,"sku":"1","needApp":false},"operate":4,"status":5},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 06:32:06 奖励普通猪粮,数量:5
+Jan 08 06:32:07 
+Jan 08 06:32:07 逛逛精品家电爆款任务已做完,开始领取奖励
+Jan 08 06:32:07 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"已领取","opResult":0,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/208710/11/12002/6368/61b05693E5d8f4c42/5fb5edd385456159.png","random":false,"count":5,"name":"普通猪粮","position":0,"sku":"1","needApp":false},"operate":4,"status":5},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 06:32:07 奖励普通猪粮,数量:5
+Jan 08 06:32:08 
+Jan 08 06:32:08 逛逛京喜好货榜任务已做完,开始领取奖励
+Jan 08 06:32:09 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"已领取","opResult":0,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/208710/11/12002/6368/61b05693E5d8f4c42/5fb5edd385456159.png","random":false,"count":5,"name":"普通猪粮","position":0,"sku":"1","needApp":false},"operate":4,"status":5},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 06:32:09 奖励普通猪粮,数量:5
+Jan 08 06:32:10 
+Jan 08 06:32:10 领无限次分期免息任务已做完,开始领取奖励
+Jan 08 06:32:10 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"已领取","opResult":0,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/208710/11/12002/6368/61b05693E5d8f4c42/5fb5edd385456159.png","random":false,"count":20,"name":"普通猪粮","position":0,"sku":"1","needApp":false},"operate":4,"status":5},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 06:32:10 奖励普通猪粮,数量:20
+Jan 08 06:32:11 
+Jan 08 06:32:11 浏览财富福利社任务已做完,开始领取奖励
+Jan 08 06:32:11 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"已领取","opResult":0,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/59028/12/13431/3362/5daea574E62dfa507/433321942a395813.png","random":false,"count":20,"name":"普通猪粮","position":0,"sku":"1","needApp":false},"operate":4,"status":5},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 06:32:11 奖励普通猪粮,数量:20
+Jan 08 06:32:12 
+Jan 08 06:32:12 浏览减碳先锋活动任务已做完,开始领取奖励
+Jan 08 06:32:12 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"已领取","opResult":0,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/208710/11/12002/6368/61b05693E5d8f4c42/5fb5edd385456159.png","random":false,"count":5,"name":"普通猪粮","position":0,"sku":"1","needApp":false},"operate":4,"status":5},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 06:32:12 奖励普通猪粮,数量:5
+Jan 08 06:32:13 
+Jan 08 06:32:13 浏览京东物流年货节任务已做完,开始领取奖励
+Jan 08 06:32:14 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"已领取","opResult":0,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/140648/40/26078/3698/61d43976Ec150524a/9065d574ba6c61c6.png","random":false,"count":5,"name":"普通猪粮","position":0,"sku":"1","needApp":false},"operate":4,"status":5},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 06:32:14 奖励普通猪粮,数量:5
+Jan 08 06:32:15 
+Jan 08 06:32:15 分享最高领88元任务已做完,开始领取奖励
+Jan 08 06:32:15 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"已领取","opResult":0,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/146803/27/7099/4116/5f4cff9cEb56235de/7202930d2aaafaf0.png","random":false,"count":5,"name":"普通猪粮","position":0,"sku":"1","needApp":false},"operate":4,"status":5},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 06:32:15 奖励普通猪粮,数量:5
+Jan 08 06:32:16 
+Jan 08 06:32:16 借1元得20元话费未完成
+Jan 08 06:32:16 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 06:32:17 
+Jan 08 06:32:17 免费预约开户未完成
+Jan 08 06:32:17 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 06:32:18 
+Jan 08 06:32:18 借钱14天免息未完成
+Jan 08 06:32:18 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 06:32:19 
+Jan 08 06:32:19 成功开通期货账户未完成
+Jan 08 06:32:20 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 06:32:21 
+Jan 08 06:32:21 关注京东白条未完成
+Jan 08 06:32:21 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 06:32:22 
+Jan 08 06:32:22 每日猜猜行情涨跌未完成
+Jan 08 06:32:23 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 06:32:24 
+Jan 08 06:32:24 为自己充1笔话费未完成
+Jan 08 06:32:24 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 06:32:25 
+Jan 08 06:32:25 花金贴兑权益未完成
+Jan 08 06:32:25 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 06:32:26 
+Jan 08 06:32:26 积存金理财未完成
+Jan 08 06:32:26 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 06:32:28 
+Jan 08 06:32:28 食物名称     数量
+Jan 08 06:32:28 白菜      20g
+Jan 08 06:32:28 胡萝卜      12g
+Jan 08 06:32:28 普通猪粮      96g
+Jan 08 06:32:28 南瓜      10g
+Jan 08 06:32:28 10秒后开始喂食普通猪粮，当前数量为96g
+Jan 08 06:32:38 10秒后开始喂食普通猪粮，当前数量为76g
+Jan 08 06:32:48 10秒后开始喂食普通猪粮，当前数量为56g
+Jan 08 06:32:58 10秒后开始喂食普通猪粮，当前数量为36g
+Jan 08 06:33:08 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 08 06:33:08 
+Jan 08 06:33:14 发送通知调用API失败！！
+Jan 08 06:33:14 
+Jan 08 06:33:14 RequestError: socket hang up
+Jan 08 06:33:14     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 08 06:33:14     at Object.onceWrapper (node:events:510:26)
+Jan 08 06:33:14     at ClientRequest.emit (node:events:402:35)
+Jan 08 06:33:14     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 08 06:33:14     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 08 06:33:14     at Socket.emit (node:events:402:35)
+Jan 08 06:33:14     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 08 06:33:14     at connResetException (node:internal/errors:691:14)
+Jan 08 06:33:14     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 08 06:33:14     at Socket.emit (node:events:402:35)
+Jan 08 06:33:14     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 08 06:33:14     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 08 06:33:14   code: 'ECONNRESET',
+Jan 08 06:33:14   timings: {
+Jan 08 06:33:14     start: 1641594791237,
+Jan 08 06:33:14     socket: 1641594791237,
+Jan 08 06:33:14     lookup: 1641594791238,
+Jan 08 06:33:14     connect: 1641594794475,
+Jan 08 06:33:14     secureConnect: undefined,
+Jan 08 06:33:14     upload: 1641594794475,
+Jan 08 06:33:14     response: undefined,
+Jan 08 06:33:14     end: undefined,
+Jan 08 06:33:14     error: 1641594794711,
+Jan 08 06:33:14     abort: undefined,
+Jan 08 06:33:14     phases: {
+Jan 08 06:33:14       wait: 0,
+Jan 08 06:33:14       dns: 1,
+Jan 08 06:33:14       tcp: 3237,
+Jan 08 06:33:14       tls: undefined,
+Jan 08 06:33:14       request: 0,
+Jan 08 06:33:14       firstByte: undefined,
+Jan 08 06:33:14       download: undefined,
+Jan 08 06:33:14       total: 3474
+Jan 08 06:33:14     }
+Jan 08 06:33:14   }
+Jan 08 06:33:14 }
+Jan 08 06:33:14 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 08 06:33:14 
+Jan 08 06:33:14 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 08 06:33:14 
+Jan 08 06:33:14 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 08 06:33:14 
+Jan 08 06:33:14 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 08 06:33:14 
+Jan 08 06:33:14 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 08 06:33:14 
+Jan 08 06:33:14 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 08 06:33:14 
+Jan 08 06:33:14 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 08 06:33:14 
+Jan 08 06:33:14 
+Jan 08 06:33:14 ==============📣系统通知📣==============
+Jan 08 06:33:14 金融养猪
+Jan 08 06:33:14 京东账号1 jd_187425zqg
+Jan 08 06:33:14 红心蜜薯5斤已可兑换
+Jan 08 06:33:14 
+Jan 08 06:33:14 🔔金融养猪, 结束! 🕛 73.645 秒
+Jan 08 06:33:14 
+Jan 08 12:32:00 
+Jan 08 12:32:00 🔔金融养猪, 开始!
+Jan 08 12:32:00 
+Jan 08 12:32:00 ====================共1个京东账号Cookie=========
+Jan 08 12:32:00 
+Jan 08 12:32:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 下午12:32:00=====================
+Jan 08 12:32:00 
+Jan 08 12:32:01 
+Jan 08 12:32:01 开始【京东账号1】jd_187425zqg
+Jan 08 12:32:01 
+Jan 08 12:32:01 
+Jan 08 12:32:01 京东账号1 jd_187425zqg 未开启养猪活动,请手动去京东金融APP开启此活动
+Jan 08 12:32:01 
+Jan 08 12:32:01 
+Jan 08 12:32:01 🔔金融养猪, 结束! 🕛 0.76 秒
+Jan 08 12:32:01 
+Jan 08 18:32:00 
+Jan 08 18:32:00 🔔金融养猪, 开始!
+Jan 08 18:32:00 
+Jan 08 18:32:00 ====================共1个京东账号Cookie=========
+Jan 08 18:32:00 
+Jan 08 18:32:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 下午6:32:00=====================
+Jan 08 18:32:01 
+Jan 08 18:32:01 
+Jan 08 18:32:01 开始【京东账号1】jd_187425zqg
+Jan 08 18:32:01 
+Jan 08 18:32:01 第2天已签到
+Jan 08 18:32:01 
+Jan 08 18:32:02 开宝箱失败:宝箱次数上限
+Jan 08 18:32:05 当前大转盘剩余免费抽奖次数：：1
+Jan 08 18:32:08 
+Jan 08 18:32:08 为自己充1笔话费任务已做完,开始领取奖励
+Jan 08 18:32:08 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"已领取","opResult":0,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/140894/10/24107/4814/61b05e38Ecdcb065a/747819287541e98b.png","random":false,"count":20,"name":"普通猪粮","position":0,"sku":"1","needApp":false},"operate":4,"status":5},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 18:32:08 奖励普通猪粮,数量:20
+Jan 08 18:32:09 
+Jan 08 18:32:09 借1元得20元话费未完成
+Jan 08 18:32:10 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 18:32:11 
+Jan 08 18:32:11 免费预约开户未完成
+Jan 08 18:32:11 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 18:32:12 
+Jan 08 18:32:12 借钱14天免息未完成
+Jan 08 18:32:12 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 18:32:13 
+Jan 08 18:32:13 成功开通期货账户未完成
+Jan 08 18:32:13 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 18:32:14 
+Jan 08 18:32:14 关注京东白条未完成
+Jan 08 18:32:14 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 18:32:15 
+Jan 08 18:32:15 每日猜猜行情涨跌未完成
+Jan 08 18:32:16 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 18:32:17 
+Jan 08 18:32:17 花金贴兑权益未完成
+Jan 08 18:32:17 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 18:32:18 
+Jan 08 18:32:18 积存金理财未完成
+Jan 08 18:32:18 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 08 18:32:19 
+Jan 08 18:32:19 领取你的会员权益已领取
+Jan 08 18:32:19 
+Jan 08 18:32:19 查看自己的京享值已领取
+Jan 08 18:32:19 
+Jan 08 18:32:19 逛逛精品家电爆款已领取
+Jan 08 18:32:19 
+Jan 08 18:32:19 逛逛京喜好货榜已领取
+Jan 08 18:32:19 
+Jan 08 18:32:19 领无限次分期免息已领取
+Jan 08 18:32:19 
+Jan 08 18:32:19 浏览财富福利社已领取
+Jan 08 18:32:19 
+Jan 08 18:32:19 浏览减碳先锋活动已领取
+Jan 08 18:32:19 
+Jan 08 18:32:19 浏览京东物流年货节已领取
+Jan 08 18:32:19 
+Jan 08 18:32:19 分享最高领88元已领取
+Jan 08 18:32:19 
+Jan 08 18:32:19 完成每日分享已领取
+Jan 08 18:32:19 
+Jan 08 18:32:19 食物名称     数量
+Jan 08 18:32:19 白菜      21g
+Jan 08 18:32:19 胡萝卜      12g
+Jan 08 18:32:19 普通猪粮      36g
+Jan 08 18:32:19 南瓜      10g
+Jan 08 18:32:19 10秒后开始喂食白菜，当前数量为21g
+Jan 08 18:32:29 10秒后开始喂食普通猪粮，当前数量为36g
+Jan 08 18:32:40 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 08 18:32:40 
+Jan 08 18:32:44 发送通知调用API失败！！
+Jan 08 18:32:44 
+Jan 08 18:32:44 RequestError: socket hang up
+Jan 08 18:32:44     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 08 18:32:44     at Object.onceWrapper (node:events:510:26)
+Jan 08 18:32:44     at ClientRequest.emit (node:events:402:35)
+Jan 08 18:32:44     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 08 18:32:44     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 08 18:32:44     at Socket.emit (node:events:402:35)
+Jan 08 18:32:44     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 08 18:32:44     at connResetException (node:internal/errors:691:14)
+Jan 08 18:32:44     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 08 18:32:44     at Socket.emit (node:events:402:35)
+Jan 08 18:32:44     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 08 18:32:44     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 08 18:32:44   code: 'ECONNRESET',
+Jan 08 18:32:44   timings: {
+Jan 08 18:32:44     start: 1641637962603,
+Jan 08 18:32:44     socket: 1641637962603,
+Jan 08 18:32:44     lookup: 1641637962604,
+Jan 08 18:32:44     connect: 1641637963831,
+Jan 08 18:32:44     secureConnect: undefined,
+Jan 08 18:32:44     upload: 1641637963832,
+Jan 08 18:32:44     response: undefined,
+Jan 08 18:32:44     end: undefined,
+Jan 08 18:32:44     error: 1641637964060,
+Jan 08 18:32:44     abort: undefined,
+Jan 08 18:32:44     phases: {
+Jan 08 18:32:44       wait: 0,
+Jan 08 18:32:44       dns: 1,
+Jan 08 18:32:44       tcp: 1227,
+Jan 08 18:32:44       tls: undefined,
+Jan 08 18:32:44       request: 1,
+Jan 08 18:32:44       firstByte: undefined,
+Jan 08 18:32:44       download: undefined,
+Jan 08 18:32:44       total: 1457
+Jan 08 18:32:44     }
+Jan 08 18:32:44   }
+Jan 08 18:32:44 }
+Jan 08 18:32:44 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 08 18:32:44 
+Jan 08 18:32:44 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 08 18:32:44 
+Jan 08 18:32:44 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 08 18:32:44 
+Jan 08 18:32:44 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 08 18:32:44 
+Jan 08 18:32:44 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 08 18:32:44 
+Jan 08 18:32:44 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 08 18:32:44 
+Jan 08 18:32:44 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 08 18:32:44 
+Jan 08 18:32:44 
+Jan 08 18:32:44 ==============📣系统通知📣==============
+Jan 08 18:32:44 金融养猪
+Jan 08 18:32:44 京东账号1 jd_187425zqg
+Jan 08 18:32:44 红心蜜薯5斤已可兑换
+Jan 08 18:32:44 
+Jan 08 18:32:44 🔔金融养猪, 结束! 🕛 43.094 秒
+Jan 08 18:32:44 
+Jan 09 00:32:00 
+Jan 09 00:32:00 🔔金融养猪, 开始!
+Jan 09 00:32:00 
+Jan 09 00:32:00 ====================共1个京东账号Cookie=========
+Jan 09 00:32:00 
+Jan 09 00:32:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 上午12:32:00=====================
+Jan 09 00:32:00 
+Jan 09 00:32:01 
+Jan 09 00:32:01 开始【京东账号1】jd_187425zqg
+Jan 09 00:32:01 
+Jan 09 00:32:04 签到结果 {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"signList":[{"no":1,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/122185/27/1681/8527/5ebe6118E74eb255c/6a00716d41e91b77.png","random":true,"count":1,"name":"随机食物20g","rfid":"","position":0,"id":"1","sku":"100820011001","category":"1008","content":"随机食物20g","needApp":false},"currentNo":false,"status":1},{"no":2,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/122185/27/1681/8527/5ebe6118E74eb255c/6a00716d41e91b77.png","random":true,"count":1,"name":"随机食物20g","rfid":"","position":0,"id":"2","sku":"100820011001","category":"1008","content":"随机食物20g","needApp":false},"currentNo":false,"status":1},{"no":3,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/103185/2/12661/7757/5e4e4a6eE5474cbac/02b0a154a053c185.png","random":true,"count":1,"name":"随机红包","rfid":"","position":0,"id":"3","sku":"100820011001","category":"1008","content":"随机红包","needApp":false},"currentNo":true,"status":1},{"no":4,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/122185/27/1681/8527/5ebe6118E74eb255c/6a00716d41e91b77.png","random":true,"count":1,"name":"随机食物20g","rfid":"","position":0,"id":"4","sku":"100820011001","category":"1008","content":"随机食物20g","needApp":false},"currentNo":false,"status":0},{"no":5,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/122185/27/1681/8527/5ebe6118E74eb255c/6a00716d41e91b77.png","random":true,"count":1,"name":"随机食物20g","rfid":"","position":0,"id":"5","sku":"100820011001","category":"1008","content":"随机食物20g","needApp":false},"currentNo":false,"status":0},{"no":6,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/103185/2/12661/7757/5e4e4a6eE5474cbac/02b0a154a053c185.png","random":true,"count":1,"name":"随机红包","rfid":"","position":0,"id":"6","sku":"100820011001","category":"1008","content":"随机红包","needApp":false},"currentNo":false,"status":0},{"no":7,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/103185/2/12661/7757/5e4e4a6eE5474cbac/02b0a154a053c185.png","random":true,"count":1,"name":"随机礼盒","rfid":"","position":0,"id":"7","sku":"100820011001","category":"1008","content":"随机礼盒","needApp":false},"currentNo":false,"status":0}],"opResult":0,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/94247/25/13972/19590/5e61d27aE95c0b494/92e9286cf58dc11c.png","random":false,"count":1,"name":"0.02元红包","rfid":"","position":0,"id":"6","sku":"1006001007","category":"1006","content":"0.02元红包","needApp":false},"today":3,"sign":true,"replenishFee":0,"awardName":"随机红包"},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 00:32:04 开宝箱获得普通猪粮，数量：1
+Jan 09 00:32:07 开宝箱获得南瓜，数量：1
+Jan 09 00:32:09 开宝箱获得南瓜，数量：3
+Jan 09 00:32:11 开宝箱暂无奖励
+Jan 09 00:32:13 开宝箱暂无奖励
+Jan 09 00:32:15 开宝箱暂无奖励
+Jan 09 00:32:18 开宝箱获得普通猪粮，数量：1
+Jan 09 00:32:20 开宝箱获得胡萝卜，数量：1
+Jan 09 00:32:22 开宝箱获得白菜，数量：3
+Jan 09 00:32:24 开宝箱暂无奖励
+Jan 09 00:32:27 开宝箱暂无奖励
+Jan 09 00:32:29 开宝箱获得胡萝卜，数量：1
+Jan 09 00:32:31 开宝箱获得胡萝卜，数量：1
+Jan 09 00:32:33 开宝箱获得普通猪粮，数量：1
+Jan 09 00:32:35 开宝箱获得胡萝卜，数量：1
+Jan 09 00:32:38 开宝箱获得胡萝卜，数量：1
+Jan 09 00:32:40 开宝箱暂无奖励
+Jan 09 00:32:42 开宝箱获得胡萝卜，数量：1
+Jan 09 00:32:44 开宝箱获得胡萝卜，数量：1
+Jan 09 00:32:46 开宝箱获得南瓜，数量：1
+Jan 09 00:32:49 开宝箱暂无奖励
+Jan 09 00:32:51 开宝箱获得普通猪粮，数量：1
+Jan 09 00:32:53 开宝箱暂无奖励
+Jan 09 00:32:55 开宝箱获得南瓜，数量：1
+Jan 09 00:32:57 开宝箱获得南瓜，数量：1
+Jan 09 00:32:59 开宝箱获得胡萝卜，数量：1
+Jan 09 00:33:02 开宝箱暂无奖励
+Jan 09 00:33:04 开宝箱获得南瓜，数量：1
+Jan 09 00:33:06 开宝箱获得南瓜，数量：1
+Jan 09 00:33:08 开宝箱获得胡萝卜，数量：3
+Jan 09 00:33:10 开宝箱失败:宝箱次数上限
+Jan 09 00:33:11 当前大转盘剩余免费抽奖次数：：3
+Jan 09 00:33:11 
+Jan 09 00:33:11 完成每日分享未完成
+Jan 09 00:33:11 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"领奖","opResult":0,"operate":1,"status":4},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 00:33:11 
+Jan 09 00:33:11 借1元得20元话费未完成
+Jan 09 00:33:12 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"opResult":502},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 00:33:13 
+Jan 09 00:33:13 免费预约开户未完成
+Jan 09 00:33:13 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 00:33:14 
+Jan 09 00:33:14 借钱14天免息未完成
+Jan 09 00:33:14 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 00:33:15 
+Jan 09 00:33:15 成功开通期货账户未完成
+Jan 09 00:33:15 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 00:33:16 
+Jan 09 00:33:16 关注京东白条未完成
+Jan 09 00:33:16 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 00:33:17 
+Jan 09 00:33:17 逛京东金融年货节未完成
+Jan 09 00:33:18 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 00:33:19 queryMissionReceiveAfterStatus {"resultData":{"msg":"查询成功","code":"0000","data":0,"success":true},"success":true,"resultCode":0,"resultMsg":"成功","channelEncrypt":0}
+Jan 09 00:33:29 finishReadMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"0000","success":true},"channelEncrypt":0}
+Jan 09 00:33:29 
+Jan 09 00:33:29 领取你的会员权益未完成
+Jan 09 00:33:29 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 00:33:30 queryMissionReceiveAfterStatus {"resultData":{"msg":"查询成功","code":"0000","data":0,"success":true},"success":true,"resultCode":0,"resultMsg":"成功","channelEncrypt":0}
+Jan 09 00:33:41 finishReadMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"0000","success":true},"channelEncrypt":0}
+Jan 09 00:33:41 
+Jan 09 00:33:41 查看自己的京享值未完成
+Jan 09 00:33:41 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 00:33:42 getJumpInfo {"resultData":{"msg":"成功","code":"0000","data":{"actionType":1,"jumpLoginFlag":1,"juid":"79bff74b207b43908d9a68fd83c9ac13","targetType":"h5","jumpUrl":"https://huiyuan.m.jd.com?source=lgb"},"success":true},"success":true,"resultCode":0,"resultMsg":"成功","channelEncrypt":0}
+Jan 09 00:33:46 
+Jan 09 00:33:46 逛逛精品家电爆款未完成
+Jan 09 00:33:46 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 00:33:47 queryMissionReceiveAfterStatus {"resultData":{"msg":"查询成功","code":"0000","data":0,"success":true},"success":true,"resultCode":0,"resultMsg":"成功","channelEncrypt":0}
+Jan 09 00:34:03 finishReadMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"0000","success":true},"channelEncrypt":0}
+Jan 09 00:34:03 
+Jan 09 00:34:03 逛逛京喜好货榜未完成
+Jan 09 00:34:03 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 00:34:04 queryMissionReceiveAfterStatus {"resultData":{"msg":"查询成功","code":"0000","data":0,"success":true},"success":true,"resultCode":0,"resultMsg":"成功","channelEncrypt":0}
+Jan 09 00:34:19 finishReadMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"0000","success":true},"channelEncrypt":0}
+Jan 09 00:34:19 
+Jan 09 00:34:19 领无限次分期免息未完成
+Jan 09 00:34:19 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 00:34:21 getJumpInfo {"resultData":{"msg":"成功","code":"0000","data":{"actionType":1,"jumpLoginFlag":1,"juid":"5015e3392f2c40b1be03a2b2225f714b","targetType":"h5","jumpUrl":"https://u.jr.jd.com/uc-fe-wxgrowing/interest-free-card/index/?chantype=freeCard"},"success":true},"success":true,"resultCode":0,"resultMsg":"成功","channelEncrypt":0}
+Jan 09 00:34:25 
+Jan 09 00:34:25 浏览财富福利社未完成
+Jan 09 00:34:25 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 00:34:26 getJumpInfo {"resultData":{"msg":"成功","code":"0000","data":{"actionType":1,"jumpLoginFlag":1,"juid":"c3919d39e96b49d7ae71a658a4311f46","targetType":"h5","jumpAppOldUrl":"https://show.jd.com/m/8k37/?pageKey=8k37&channel=hd","jumpUrl":"https://show.jd.com/m/8k37/?pageKey=8k37&channel=hd"},"success":true},"success":true,"resultCode":0,"resultMsg":"成功","channelEncrypt":0}
+Jan 09 00:34:30 
+Jan 09 00:34:30 浏览减碳先锋活动未完成
+Jan 09 00:34:30 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 00:34:31 queryMissionReceiveAfterStatus {"resultData":{"msg":"查询成功","code":"0000","data":0,"success":true},"success":true,"resultCode":0,"resultMsg":"成功","channelEncrypt":0}
+Jan 09 00:34:42 finishReadMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"0000","success":true},"channelEncrypt":0}
+Jan 09 00:34:42 
+Jan 09 00:34:42 浏览京东物流年货节未完成
+Jan 09 00:34:42 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 00:34:43 queryMissionReceiveAfterStatus {"resultData":{"msg":"查询成功","code":"0000","data":0,"success":true},"success":true,"resultCode":0,"resultMsg":"成功","channelEncrypt":0}
+Jan 09 00:34:53 finishReadMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"0000","success":true},"channelEncrypt":0}
+Jan 09 00:34:53 
+Jan 09 00:34:53 逛逛分期年货节未完成
+Jan 09 00:34:53 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 00:34:55 queryMissionReceiveAfterStatus {"resultData":{"msg":"查询成功","code":"0000","data":0,"success":true},"success":true,"resultCode":0,"resultMsg":"成功","channelEncrypt":0}
+Jan 09 00:35:10 finishReadMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"0000","success":true},"channelEncrypt":0}
+Jan 09 00:35:10 
+Jan 09 00:35:10 去炸年兽分10亿未完成
+Jan 09 00:35:10 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 00:35:11 queryMissionReceiveAfterStatus {"resultData":{"msg":"查询成功","code":"0000","data":0,"success":true},"success":true,"resultCode":0,"resultMsg":"成功","channelEncrypt":0}
+Jan 09 00:35:21 finishReadMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"0000","success":true},"channelEncrypt":0}
+Jan 09 00:35:21 
+Jan 09 00:35:21 每日猜猜行情涨跌未完成
+Jan 09 00:35:22 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 00:35:23 
+Jan 09 00:35:23 为自己充1笔话费未完成
+Jan 09 00:35:23 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 00:35:24 
+Jan 09 00:35:24 分享最高领88元未完成
+Jan 09 00:35:24 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 00:35:25 queryMissionReceiveAfterStatus {"resultData":{"msg":"查询成功","code":"0000","data":0,"success":true},"success":true,"resultCode":0,"resultMsg":"成功","channelEncrypt":0}
+Jan 09 00:35:35 finishReadMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"0000","success":true},"channelEncrypt":0}
+Jan 09 00:35:35 
+Jan 09 00:35:35 花金贴兑权益未完成
+Jan 09 00:35:36 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 00:35:37 
+Jan 09 00:35:37 积存金理财未完成
+Jan 09 00:35:37 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 00:35:38 
+Jan 09 00:35:38 食物名称     数量
+Jan 09 00:35:38 白菜      4g
+Jan 09 00:35:38 胡萝卜      23g
+Jan 09 00:35:38 普通猪粮      20g
+Jan 09 00:35:38 南瓜      19g
+Jan 09 00:35:38 10秒后开始喂食胡萝卜，当前数量为23g
+Jan 09 00:35:48 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 09 00:35:48 
+Jan 09 00:35:52 发送通知调用API失败！！
+Jan 09 00:35:52 
+Jan 09 00:35:52 RequestError: socket hang up
+Jan 09 00:35:52     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 09 00:35:52     at Object.onceWrapper (node:events:510:26)
+Jan 09 00:35:52     at ClientRequest.emit (node:events:402:35)
+Jan 09 00:35:52     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 09 00:35:52     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 09 00:35:52     at Socket.emit (node:events:402:35)
+Jan 09 00:35:52     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 09 00:35:52     at connResetException (node:internal/errors:691:14)
+Jan 09 00:35:52     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 09 00:35:52     at Socket.emit (node:events:402:35)
+Jan 09 00:35:52     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 09 00:35:52     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 09 00:35:52   code: 'ECONNRESET',
+Jan 09 00:35:52   timings: {
+Jan 09 00:35:52     start: 1641659751221,
+Jan 09 00:35:52     socket: 1641659751221,
+Jan 09 00:35:52     lookup: 1641659751222,
+Jan 09 00:35:52     connect: 1641659752463,
+Jan 09 00:35:52     secureConnect: undefined,
+Jan 09 00:35:52     upload: 1641659752464,
+Jan 09 00:35:52     response: undefined,
+Jan 09 00:35:52     end: undefined,
+Jan 09 00:35:52     error: 1641659752708,
+Jan 09 00:35:52     abort: undefined,
+Jan 09 00:35:52     phases: {
+Jan 09 00:35:52       wait: 0,
+Jan 09 00:35:52       dns: 1,
+Jan 09 00:35:52       tcp: 1241,
+Jan 09 00:35:52       tls: undefined,
+Jan 09 00:35:52       request: 1,
+Jan 09 00:35:52       firstByte: undefined,
+Jan 09 00:35:52       download: undefined,
+Jan 09 00:35:52       total: 1487
+Jan 09 00:35:52     }
+Jan 09 00:35:52   }
+Jan 09 00:35:52 }
+Jan 09 00:35:52 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 09 00:35:52 
+Jan 09 00:35:52 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 09 00:35:52 
+Jan 09 00:35:52 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 09 00:35:52 
+Jan 09 00:35:52 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 09 00:35:52 
+Jan 09 00:35:52 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 09 00:35:52 
+Jan 09 00:35:52 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 09 00:35:52 
+Jan 09 00:35:52 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 09 00:35:52 
+Jan 09 00:35:52 
+Jan 09 00:35:52 ==============📣系统通知📣==============
+Jan 09 00:35:52 金融养猪
+Jan 09 00:35:52 京东账号1 jd_187425zqg
+Jan 09 00:35:52 红心蜜薯5斤已可兑换
+Jan 09 00:35:52 
+Jan 09 00:35:52 🔔金融养猪, 结束! 🕛 232.282 秒
+Jan 09 00:35:52 
+Jan 09 06:32:00 
+Jan 09 06:32:00 🔔金融养猪, 开始!
+Jan 09 06:32:00 
+Jan 09 06:32:00 ====================共1个京东账号Cookie=========
+Jan 09 06:32:00 
+Jan 09 06:32:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 上午6:32:00=====================
+Jan 09 06:32:00 
+Jan 09 06:32:01 
+Jan 09 06:32:01 开始【京东账号1】jd_187425zqg
+Jan 09 06:32:01 
+Jan 09 06:32:04 第3天已签到
+Jan 09 06:32:04 
+Jan 09 06:32:04 开宝箱失败:宝箱次数上限
+Jan 09 06:32:04 当前大转盘剩余免费抽奖次数：：2
+Jan 09 06:32:05 
+Jan 09 06:32:05 完成每日分享任务已做完,开始领取奖励
+Jan 09 06:32:05 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"已领取","opResult":0,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/59028/12/13431/3362/5daea574E62dfa507/433321942a395813.png","random":false,"count":5,"name":"普通猪粮","rfid":"","position":1,"id":"1","sku":"1001003003","category":"1001","content":"普通猪粮","needApp":false},"operate":4,"status":5},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 06:32:05 奖励普通猪粮,数量:5
+Jan 09 06:32:06 
+Jan 09 06:32:06 逛京东金融年货节任务已做完,开始领取奖励
+Jan 09 06:32:06 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"已领取","opResult":0,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/59028/12/13431/3362/5daea574E62dfa507/433321942a395813.png","random":false,"count":5,"name":"普通猪粮","position":0,"sku":"1","needApp":false},"operate":4,"status":5},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 06:32:06 奖励普通猪粮,数量:5
+Jan 09 06:32:07 
+Jan 09 06:32:07 领取你的会员权益任务已做完,开始领取奖励
+Jan 09 06:32:07 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"已领取","opResult":0,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/208710/11/12002/6368/61b05693E5d8f4c42/5fb5edd385456159.png","random":false,"count":5,"name":"普通猪粮","position":0,"sku":"1","needApp":false},"operate":4,"status":5},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 06:32:07 奖励普通猪粮,数量:5
+Jan 09 06:32:08 
+Jan 09 06:32:08 查看自己的京享值任务已做完,开始领取奖励
+Jan 09 06:32:09 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"已领取","opResult":0,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/208710/11/12002/6368/61b05693E5d8f4c42/5fb5edd385456159.png","random":false,"count":5,"name":"普通猪粮","position":0,"sku":"1","needApp":false},"operate":4,"status":5},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 06:32:09 奖励普通猪粮,数量:5
+Jan 09 06:32:10 
+Jan 09 06:32:10 逛逛精品家电爆款任务已做完,开始领取奖励
+Jan 09 06:32:10 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"已领取","opResult":0,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/208710/11/12002/6368/61b05693E5d8f4c42/5fb5edd385456159.png","random":false,"count":5,"name":"普通猪粮","position":0,"sku":"1","needApp":false},"operate":4,"status":5},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 06:32:10 奖励普通猪粮,数量:5
+Jan 09 06:32:11 
+Jan 09 06:32:11 逛逛京喜好货榜任务已做完,开始领取奖励
+Jan 09 06:32:11 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"已领取","opResult":0,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/208710/11/12002/6368/61b05693E5d8f4c42/5fb5edd385456159.png","random":false,"count":5,"name":"普通猪粮","position":0,"sku":"1","needApp":false},"operate":4,"status":5},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 06:32:11 奖励普通猪粮,数量:5
+Jan 09 06:32:12 
+Jan 09 06:32:12 领无限次分期免息任务已做完,开始领取奖励
+Jan 09 06:32:12 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"已领取","opResult":0,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/208710/11/12002/6368/61b05693E5d8f4c42/5fb5edd385456159.png","random":false,"count":20,"name":"普通猪粮","position":0,"sku":"1","needApp":false},"operate":4,"status":5},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 06:32:12 奖励普通猪粮,数量:20
+Jan 09 06:32:13 
+Jan 09 06:32:13 浏览财富福利社任务已做完,开始领取奖励
+Jan 09 06:32:14 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"已领取","opResult":0,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/59028/12/13431/3362/5daea574E62dfa507/433321942a395813.png","random":false,"count":20,"name":"普通猪粮","position":0,"sku":"1","needApp":false},"operate":4,"status":5},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 06:32:14 奖励普通猪粮,数量:20
+Jan 09 06:32:15 
+Jan 09 06:32:15 浏览减碳先锋活动任务已做完,开始领取奖励
+Jan 09 06:32:15 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"已领取","opResult":0,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/208710/11/12002/6368/61b05693E5d8f4c42/5fb5edd385456159.png","random":false,"count":5,"name":"普通猪粮","position":0,"sku":"1","needApp":false},"operate":4,"status":5},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 06:32:15 奖励普通猪粮,数量:5
+Jan 09 06:32:16 
+Jan 09 06:32:16 浏览京东物流年货节任务已做完,开始领取奖励
+Jan 09 06:32:16 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"已领取","opResult":0,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/140648/40/26078/3698/61d43976Ec150524a/9065d574ba6c61c6.png","random":false,"count":5,"name":"普通猪粮","position":0,"sku":"1","needApp":false},"operate":4,"status":5},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 06:32:16 奖励普通猪粮,数量:5
+Jan 09 06:32:17 
+Jan 09 06:32:17 逛逛分期年货节任务已做完,开始领取奖励
+Jan 09 06:32:17 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"已领取","opResult":0,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/208710/11/12002/6368/61b05693E5d8f4c42/5fb5edd385456159.png","random":false,"count":5,"name":"普通猪粮","position":0,"sku":"1","needApp":false},"operate":4,"status":5},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 06:32:17 奖励普通猪粮,数量:5
+Jan 09 06:32:18 
+Jan 09 06:32:18 去炸年兽分10亿任务已做完,开始领取奖励
+Jan 09 06:32:19 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"已领取","opResult":0,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/208710/11/12002/6368/61b05693E5d8f4c42/5fb5edd385456159.png","random":false,"count":5,"name":"普通猪粮","position":0,"sku":"1","needApp":false},"operate":4,"status":5},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 06:32:19 奖励普通猪粮,数量:5
+Jan 09 06:32:20 
+Jan 09 06:32:20 分享最高领88元任务已做完,开始领取奖励
+Jan 09 06:32:20 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"已领取","opResult":0,"award":{"picUrl":"https://img30.360buyimg.com/jr_image/jfs/t1/146803/27/7099/4116/5f4cff9cEb56235de/7202930d2aaafaf0.png","random":false,"count":5,"name":"普通猪粮","position":0,"sku":"1","needApp":false},"operate":4,"status":5},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 06:32:20 奖励普通猪粮,数量:5
+Jan 09 06:32:21 
+Jan 09 06:32:21 借1元得20元话费未完成
+Jan 09 06:32:21 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 06:32:22 
+Jan 09 06:32:22 免费预约开户未完成
+Jan 09 06:32:22 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 06:32:23 
+Jan 09 06:32:23 借钱14天免息未完成
+Jan 09 06:32:23 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 06:32:24 
+Jan 09 06:32:24 成功开通期货账户未完成
+Jan 09 06:32:25 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 06:32:26 
+Jan 09 06:32:26 关注京东白条未完成
+Jan 09 06:32:26 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 06:32:27 
+Jan 09 06:32:27 每日猜猜行情涨跌未完成
+Jan 09 06:32:27 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 06:32:28 
+Jan 09 06:32:28 为自己充1笔话费未完成
+Jan 09 06:32:28 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 06:32:29 
+Jan 09 06:32:29 花金贴兑权益未完成
+Jan 09 06:32:29 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 06:32:30 
+Jan 09 06:32:30 积存金理财未完成
+Jan 09 06:32:31 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 06:32:32 
+Jan 09 06:32:32 食物名称     数量
+Jan 09 06:32:32 白菜      4g
+Jan 09 06:32:32 胡萝卜      3g
+Jan 09 06:32:32 普通猪粮      115g
+Jan 09 06:32:32 南瓜      19g
+Jan 09 06:32:32 10秒后开始喂食普通猪粮，当前数量为115g
+Jan 09 06:32:42 10秒后开始喂食普通猪粮，当前数量为95g
+Jan 09 06:32:52 10秒后开始喂食普通猪粮，当前数量为75g
+Jan 09 06:33:02 10秒后开始喂食普通猪粮，当前数量为55g
+Jan 09 06:33:13 10秒后开始喂食普通猪粮，当前数量为35g
+Jan 09 06:33:23 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 09 06:33:23 
+Jan 09 06:33:27 发送通知调用API失败！！
+Jan 09 06:33:27 
+Jan 09 06:33:27 RequestError: socket hang up
+Jan 09 06:33:27     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 09 06:33:27     at Object.onceWrapper (node:events:510:26)
+Jan 09 06:33:27     at ClientRequest.emit (node:events:402:35)
+Jan 09 06:33:27     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 09 06:33:27     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 09 06:33:27     at Socket.emit (node:events:402:35)
+Jan 09 06:33:27     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 09 06:33:27     at connResetException (node:internal/errors:691:14)
+Jan 09 06:33:27     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 09 06:33:27     at Socket.emit (node:events:402:35)
+Jan 09 06:33:27     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 09 06:33:27     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 09 06:33:27   code: 'ECONNRESET',
+Jan 09 06:33:27   timings: {
+Jan 09 06:33:27     start: 1641681205795,
+Jan 09 06:33:27     socket: 1641681205796,
+Jan 09 06:33:27     lookup: 1641681205797,
+Jan 09 06:33:27     connect: 1641681207037,
+Jan 09 06:33:27     secureConnect: undefined,
+Jan 09 06:33:27     upload: 1641681207037,
+Jan 09 06:33:27     response: undefined,
+Jan 09 06:33:27     end: undefined,
+Jan 09 06:33:27     error: 1641681207279,
+Jan 09 06:33:27     abort: undefined,
+Jan 09 06:33:27     phases: {
+Jan 09 06:33:27       wait: 1,
+Jan 09 06:33:27       dns: 1,
+Jan 09 06:33:27       tcp: 1240,
+Jan 09 06:33:27       tls: undefined,
+Jan 09 06:33:27       request: 0,
+Jan 09 06:33:27       firstByte: undefined,
+Jan 09 06:33:27       download: undefined,
+Jan 09 06:33:27       total: 1484
+Jan 09 06:33:27     }
+Jan 09 06:33:27   }
+Jan 09 06:33:27 }
+Jan 09 06:33:27 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 09 06:33:27 
+Jan 09 06:33:27 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 09 06:33:27 
+Jan 09 06:33:27 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 09 06:33:27 
+Jan 09 06:33:27 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 09 06:33:27 
+Jan 09 06:33:27 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 09 06:33:27 
+Jan 09 06:33:27 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 09 06:33:27 
+Jan 09 06:33:27 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 09 06:33:27 
+Jan 09 06:33:27 
+Jan 09 06:33:27 ==============📣系统通知📣==============
+Jan 09 06:33:27 金融养猪
+Jan 09 06:33:27 京东账号1 jd_187425zqg
+Jan 09 06:33:27 红心蜜薯5斤已可兑换
+Jan 09 06:33:27 
+Jan 09 06:33:27 🔔金融养猪, 结束! 🕛 86.475 秒
+Jan 09 06:33:27 
+Jan 09 12:32:00 
+Jan 09 12:32:00 🔔金融养猪, 开始!
+Jan 09 12:32:00 
+Jan 09 12:32:00 ====================共1个京东账号Cookie=========
+Jan 09 12:32:00 
+Jan 09 12:32:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 下午12:32:00=====================
+Jan 09 12:32:00 
+Jan 09 12:32:00 
+Jan 09 12:32:00 开始【京东账号1】jd_187425zqg
+Jan 09 12:32:00 
+Jan 09 12:32:04 第3天已签到
+Jan 09 12:32:04 
+Jan 09 12:32:04 开宝箱失败:宝箱次数上限
+Jan 09 12:32:04 当前大转盘剩余免费抽奖次数：：1
+Jan 09 12:32:05 
+Jan 09 12:32:05 借1元得20元话费未完成
+Jan 09 12:32:05 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 12:32:06 
+Jan 09 12:32:06 免费预约开户未完成
+Jan 09 12:32:06 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 12:32:07 
+Jan 09 12:32:07 借钱14天免息未完成
+Jan 09 12:32:07 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 12:32:08 
+Jan 09 12:32:08 成功开通期货账户未完成
+Jan 09 12:32:08 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 12:32:09 
+Jan 09 12:32:09 关注京东白条未完成
+Jan 09 12:32:10 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 12:32:11 
+Jan 09 12:32:11 每日猜猜行情涨跌未完成
+Jan 09 12:32:11 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 12:32:12 
+Jan 09 12:32:12 为自己充1笔话费未完成
+Jan 09 12:32:12 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 12:32:13 
+Jan 09 12:32:13 花金贴兑权益未完成
+Jan 09 12:32:13 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 12:32:14 
+Jan 09 12:32:14 积存金理财未完成
+Jan 09 12:32:14 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 12:32:15 
+Jan 09 12:32:15 逛京东金融年货节已领取
+Jan 09 12:32:15 
+Jan 09 12:32:15 领取你的会员权益已领取
+Jan 09 12:32:15 
+Jan 09 12:32:15 查看自己的京享值已领取
+Jan 09 12:32:15 
+Jan 09 12:32:15 逛逛精品家电爆款已领取
+Jan 09 12:32:15 
+Jan 09 12:32:15 逛逛京喜好货榜已领取
+Jan 09 12:32:15 
+Jan 09 12:32:15 领无限次分期免息已领取
+Jan 09 12:32:15 
+Jan 09 12:32:15 浏览财富福利社已领取
+Jan 09 12:32:15 
+Jan 09 12:32:15 浏览减碳先锋活动已领取
+Jan 09 12:32:15 
+Jan 09 12:32:15 浏览京东物流年货节已领取
+Jan 09 12:32:15 
+Jan 09 12:32:15 逛逛分期年货节已领取
+Jan 09 12:32:15 
+Jan 09 12:32:15 去炸年兽分10亿已领取
+Jan 09 12:32:15 
+Jan 09 12:32:15 分享最高领88元已领取
+Jan 09 12:32:15 
+Jan 09 12:32:15 完成每日分享已领取
+Jan 09 12:32:16 
+Jan 09 12:32:16 食物名称     数量
+Jan 09 12:32:16 白菜      4g
+Jan 09 12:32:16 胡萝卜      3g
+Jan 09 12:32:16 普通猪粮      15g
+Jan 09 12:32:16 南瓜      20g
+Jan 09 12:32:16 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 09 12:32:16 
+Jan 09 12:32:19 发送通知调用API失败！！
+Jan 09 12:32:19 
+Jan 09 12:32:20 RequestError: socket hang up
+Jan 09 12:32:20     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 09 12:32:20     at Object.onceWrapper (node:events:510:26)
+Jan 09 12:32:20     at ClientRequest.emit (node:events:402:35)
+Jan 09 12:32:20     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 09 12:32:20     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 09 12:32:20     at Socket.emit (node:events:402:35)
+Jan 09 12:32:20     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 09 12:32:20     at connResetException (node:internal/errors:691:14)
+Jan 09 12:32:20     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 09 12:32:20     at Socket.emit (node:events:402:35)
+Jan 09 12:32:20     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 09 12:32:20     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 09 12:32:20   code: 'ECONNRESET',
+Jan 09 12:32:20   timings: {
+Jan 09 12:32:20     start: 1641702738524,
+Jan 09 12:32:20     socket: 1641702738525,
+Jan 09 12:32:20     lookup: 1641702738526,
+Jan 09 12:32:20     connect: 1641702739758,
+Jan 09 12:32:20     secureConnect: undefined,
+Jan 09 12:32:20     upload: 1641702739758,
+Jan 09 12:32:20     response: undefined,
+Jan 09 12:32:20     end: undefined,
+Jan 09 12:32:20     error: 1641702739996,
+Jan 09 12:32:20     abort: undefined,
+Jan 09 12:32:20     phases: {
+Jan 09 12:32:20       wait: 1,
+Jan 09 12:32:20       dns: 1,
+Jan 09 12:32:20       tcp: 1232,
+Jan 09 12:32:20       tls: undefined,
+Jan 09 12:32:20       request: 0,
+Jan 09 12:32:20       firstByte: undefined,
+Jan 09 12:32:20       download: undefined,
+Jan 09 12:32:20       total: 1472
+Jan 09 12:32:20     }
+Jan 09 12:32:20   }
+Jan 09 12:32:20 }
+Jan 09 12:32:20 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 09 12:32:20 
+Jan 09 12:32:20 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 09 12:32:20 
+Jan 09 12:32:20 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 09 12:32:20 
+Jan 09 12:32:20 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 09 12:32:20 
+Jan 09 12:32:20 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 09 12:32:20 
+Jan 09 12:32:20 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 09 12:32:20 
+Jan 09 12:32:20 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 09 12:32:20 
+Jan 09 12:32:20 
+Jan 09 12:32:20 ==============📣系统通知📣==============
+Jan 09 12:32:20 金融养猪
+Jan 09 12:32:20 京东账号1 jd_187425zqg
+Jan 09 12:32:20 红心蜜薯5斤已可兑换
+Jan 09 12:32:20 
+Jan 09 12:32:20 🔔金融养猪, 结束! 🕛 19.76 秒
+Jan 09 12:32:20 
+Jan 09 18:32:00 
+Jan 09 18:32:00 🔔金融养猪, 开始!
+Jan 09 18:32:00 
+Jan 09 18:32:00 ====================共1个京东账号Cookie=========
+Jan 09 18:32:00 
+Jan 09 18:32:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 下午6:32:00=====================
+Jan 09 18:32:00 
+Jan 09 18:32:01 
+Jan 09 18:32:01 开始【京东账号1】jd_187425zqg
+Jan 09 18:32:01 
+Jan 09 18:32:04 第3天已签到
+Jan 09 18:32:04 
+Jan 09 18:32:04 开宝箱失败:宝箱次数上限
+Jan 09 18:32:04 当前大转盘剩余免费抽奖次数：：1
+Jan 09 18:32:05 
+Jan 09 18:32:05 借1元得20元话费未完成
+Jan 09 18:32:05 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 18:32:06 
+Jan 09 18:32:06 免费预约开户未完成
+Jan 09 18:32:06 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 18:32:07 
+Jan 09 18:32:07 借钱14天免息未完成
+Jan 09 18:32:07 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 18:32:08 
+Jan 09 18:32:08 成功开通期货账户未完成
+Jan 09 18:32:09 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 18:32:10 
+Jan 09 18:32:10 关注京东白条未完成
+Jan 09 18:32:10 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 18:32:11 
+Jan 09 18:32:11 每日猜猜行情涨跌未完成
+Jan 09 18:32:11 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 18:32:12 
+Jan 09 18:32:12 为自己充1笔话费未完成
+Jan 09 18:32:12 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 18:32:13 
+Jan 09 18:32:13 花金贴兑权益未完成
+Jan 09 18:32:13 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 18:32:14 
+Jan 09 18:32:14 积存金理财未完成
+Jan 09 18:32:15 pigPetDoMission {"resultCode":0,"resultMsg":"操作成功","resultData":{"resultCode":0,"resultData":{"buttonText":"去完成","opResult":0,"operate":3,"status":3},"resultMsg":"成功"},"channelEncrypt":0}
+Jan 09 18:32:16 
+Jan 09 18:32:16 逛京东金融年货节已领取
+Jan 09 18:32:16 
+Jan 09 18:32:16 领取你的会员权益已领取
+Jan 09 18:32:16 
+Jan 09 18:32:16 查看自己的京享值已领取
+Jan 09 18:32:16 
+Jan 09 18:32:16 逛逛精品家电爆款已领取
+Jan 09 18:32:16 
+Jan 09 18:32:16 逛逛京喜好货榜已领取
+Jan 09 18:32:16 
+Jan 09 18:32:16 领无限次分期免息已领取
+Jan 09 18:32:16 
+Jan 09 18:32:16 浏览财富福利社已领取
+Jan 09 18:32:16 
+Jan 09 18:32:16 浏览减碳先锋活动已领取
+Jan 09 18:32:16 
+Jan 09 18:32:16 浏览京东物流年货节已领取
+Jan 09 18:32:16 
+Jan 09 18:32:16 逛逛分期年货节已领取
+Jan 09 18:32:16 
+Jan 09 18:32:16 去炸年兽分10亿已领取
+Jan 09 18:32:16 
+Jan 09 18:32:16 分享最高领88元已领取
+Jan 09 18:32:16 
+Jan 09 18:32:16 完成每日分享已领取
+Jan 09 18:32:16 
+Jan 09 18:32:16 食物名称     数量
+Jan 09 18:32:16 白菜      4g
+Jan 09 18:32:16 胡萝卜      3g
+Jan 09 18:32:16 普通猪粮      15g
+Jan 09 18:32:16 南瓜      20g
+Jan 09 18:32:16 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 09 18:32:16 
+Jan 09 18:32:20 发送通知调用API失败！！
+Jan 09 18:32:20 
+Jan 09 18:32:20 RequestError: socket hang up
+Jan 09 18:32:20     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 09 18:32:20     at Object.onceWrapper (node:events:510:26)
+Jan 09 18:32:20     at ClientRequest.emit (node:events:402:35)
+Jan 09 18:32:20     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 09 18:32:20     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 09 18:32:20     at Socket.emit (node:events:402:35)
+Jan 09 18:32:20     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 09 18:32:20     at connResetException (node:internal/errors:691:14)
+Jan 09 18:32:20     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 09 18:32:20     at Socket.emit (node:events:402:35)
+Jan 09 18:32:20     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 09 18:32:20     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 09 18:32:20   code: 'ECONNRESET',
+Jan 09 18:32:20   timings: {
+Jan 09 18:32:20     start: 1641724338766,
+Jan 09 18:32:20     socket: 1641724338766,
+Jan 09 18:32:20     lookup: 1641724338767,
+Jan 09 18:32:20     connect: 1641724340007,
+Jan 09 18:32:20     secureConnect: undefined,
+Jan 09 18:32:20     upload: 1641724340007,
+Jan 09 18:32:20     response: undefined,
+Jan 09 18:32:20     end: undefined,
+Jan 09 18:32:20     error: 1641724340248,
+Jan 09 18:32:20     abort: undefined,
+Jan 09 18:32:20     phases: {
+Jan 09 18:32:20       wait: 0,
+Jan 09 18:32:20       dns: 1,
+Jan 09 18:32:20       tcp: 1240,
+Jan 09 18:32:20       tls: undefined,
+Jan 09 18:32:20       request: 0,
+Jan 09 18:32:20       firstByte: undefined,
+Jan 09 18:32:20       download: undefined,
+Jan 09 18:32:20       total: 1482
+Jan 09 18:32:20     }
+Jan 09 18:32:20   }
+Jan 09 18:32:20 }
+Jan 09 18:32:20 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 09 18:32:20 
+Jan 09 18:32:20 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 09 18:32:20 
+Jan 09 18:32:20 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 09 18:32:20 
+Jan 09 18:32:20 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 09 18:32:20 
+Jan 09 18:32:20 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 09 18:32:20 
+Jan 09 18:32:20 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 09 18:32:20 
+Jan 09 18:32:20 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 09 18:32:20 
+Jan 09 18:32:20 
+Jan 09 18:32:20 ==============📣系统通知📣==============
+Jan 09 18:32:20 金融养猪
+Jan 09 18:32:20 京东账号1 jd_187425zqg
+Jan 09 18:32:20 红心蜜薯5斤已可兑换
+Jan 09 18:32:20 
+Jan 09 18:32:20 🔔金融养猪, 结束! 🕛 19.579 秒
+Jan 09 18:32:20 

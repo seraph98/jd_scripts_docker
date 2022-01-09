@@ -1,0 +1,714 @@
+Jan 07 00:06:02 
+Jan 07 00:06:02 🔔京东赚赚, 开始!
+Jan 07 00:06:02 
+Jan 07 00:06:02 ====================共1个京东账号Cookie=========
+Jan 07 00:06:02 
+Jan 07 00:06:02 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 上午12:06:02=====================
+Jan 07 00:06:02 
+Jan 07 00:06:02 开始获取京东赚赚配置文件
+Jan 07 00:06:02 
+Jan 07 00:06:02 共1个京东账号
+Jan 07 00:06:02 
+Jan 07 00:06:02 您提供了0个账号的京东赚赚助力码
+Jan 07 00:06:02 
+Jan 07 00:06:04 
+Jan 07 00:06:04 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 07 00:06:04 
+Jan 07 00:06:04 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jan 07 00:06:04 
+Jan 07 00:06:04 开始
+Jan 07 00:06:07 "connect ECONNREFUSED 103.242.135.130:443"
+Jan 07 00:06:07 京东赚赚 API请求失败，请检查网路重试
+Jan 07 00:06:07 第1个京东账号将要助力的好友["S9KUiH11Mq1bSKBo","S5KkcRh9P9FbRKUygl_UJcg","StvV3SBcQ8Vw","S5KkcEV9ThDGWdWGw0K5u","S5KkcRktN8lyBdEj1kaQMdw","Sa3LolJe5IPhP9aNJQlGD","S5KkcR0pM91aBIhmgxf9bcA","S5KkcREwR_VXRIB78kvRYcg","S5KkcRE8b9QGEIEz0nKRbJw"]
+Jan 07 00:06:07 
+Jan 07 00:06:07 ❗️京东赚赚, 错误!
+Jan 07 00:06:07 TypeError: Cannot read properties of undefined (reading 'totalNum')
+Jan 07 00:06:07     at /scripts/jd_jdzz.js:168:36
+Jan 07 00:06:07     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/scripts/jd_jdzz.js:412:4869)
+Jan 07 00:06:07     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 07 00:06:09 
+Jan 07 00:06:09 ❌ 京东赚赚, 失败! 原因: TypeError: Cannot read properties of undefined (reading 'length')!
+Jan 07 00:06:09 
+Jan 07 00:06:09 
+Jan 07 00:06:09 🔔京东赚赚, 结束! 🕛 7.197 秒
+Jan 07 00:06:09 
+Jan 07 01:06:00 
+Jan 07 01:06:00 🔔京东赚赚, 开始!
+Jan 07 01:06:00 
+Jan 07 01:06:00 ====================共1个京东账号Cookie=========
+Jan 07 01:06:00 
+Jan 07 01:06:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 上午1:06:00=====================
+Jan 07 01:06:00 
+Jan 07 01:06:00 开始获取京东赚赚配置文件
+Jan 07 01:06:00 
+Jan 07 01:06:00 共1个京东账号
+Jan 07 01:06:00 
+Jan 07 01:06:00 您提供了0个账号的京东赚赚助力码
+Jan 07 01:06:00 
+Jan 07 01:06:00 
+Jan 07 01:06:00 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 07 01:06:00 
+Jan 07 01:06:00 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jan 07 01:06:00 
+Jan 07 01:06:00 开始
+Jan 07 01:06:03 "connect ECONNREFUSED 103.242.135.130:443"
+Jan 07 01:06:03 京东赚赚 API请求失败，请检查网路重试
+Jan 07 01:06:03 第1个京东账号将要助力的好友["S9KUiH11Mq1bSKBo","S5KkcRh9P9FbRKUygl_UJcg","StvV3SBcQ8Vw","S5KkcEV9ThDGWdWGw0K5u","S5KkcRktN8lyBdEj1kaQMdw","Sa3LolJe5IPhP9aNJQlGD","S5KkcR0pM91aBIhmgxf9bcA","S5KkcREwR_VXRIB78kvRYcg","S5KkcRE8b9QGEIEz0nKRbJw"]
+Jan 07 01:06:03 
+Jan 07 01:06:03 ❗️京东赚赚, 错误!
+Jan 07 01:06:03 TypeError: Cannot read properties of undefined (reading 'totalNum')
+Jan 07 01:06:03     at /scripts/jd_jdzz.js:168:36
+Jan 07 01:06:03     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/scripts/jd_jdzz.js:412:4869)
+Jan 07 01:06:03     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 07 01:06:03 
+Jan 07 01:06:03 ❌ 京东赚赚, 失败! 原因: TypeError: Cannot read properties of undefined (reading 'length')!
+Jan 07 01:06:03 
+Jan 07 01:06:03 
+Jan 07 01:06:03 🔔京东赚赚, 结束! 🕛 3.849 秒
+Jan 07 01:06:03 
+Jan 07 02:06:00 
+Jan 07 02:06:00 🔔京东赚赚, 开始!
+Jan 07 02:06:00 
+Jan 07 02:06:00 ====================共1个京东账号Cookie=========
+Jan 07 02:06:00 
+Jan 07 02:06:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 上午2:06:00=====================
+Jan 07 02:06:00 
+Jan 07 02:06:00 开始获取京东赚赚配置文件
+Jan 07 02:06:00 
+Jan 07 02:06:00 共1个京东账号
+Jan 07 02:06:00 
+Jan 07 02:06:00 您提供了0个账号的京东赚赚助力码
+Jan 07 02:06:00 
+Jan 07 02:06:00 
+Jan 07 02:06:00 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 07 02:06:00 
+Jan 07 02:06:00 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jan 07 02:06:00 
+Jan 07 02:06:00 开始
+Jan 07 02:06:03 "connect ECONNREFUSED 103.242.135.130:443"
+Jan 07 02:06:03 京东赚赚 API请求失败，请检查网路重试
+Jan 07 02:06:03 第1个京东账号将要助力的好友["S9KUiH11Mq1bSKBo","S5KkcRh9P9FbRKUygl_UJcg","StvV3SBcQ8Vw","S5KkcEV9ThDGWdWGw0K5u","S5KkcRktN8lyBdEj1kaQMdw","Sa3LolJe5IPhP9aNJQlGD","S5KkcR0pM91aBIhmgxf9bcA","S5KkcREwR_VXRIB78kvRYcg","S5KkcRE8b9QGEIEz0nKRbJw"]
+Jan 07 02:06:03 
+Jan 07 02:06:03 ❗️京东赚赚, 错误!
+Jan 07 02:06:03 TypeError: Cannot read properties of undefined (reading 'totalNum')
+Jan 07 02:06:03     at /scripts/jd_jdzz.js:168:36
+Jan 07 02:06:03     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/scripts/jd_jdzz.js:412:4869)
+Jan 07 02:06:03     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 07 02:06:04 
+Jan 07 02:06:04 ❌ 京东赚赚, 失败! 原因: TypeError: Cannot read properties of undefined (reading 'length')!
+Jan 07 02:06:04 
+Jan 07 02:06:04 
+Jan 07 02:06:04 🔔京东赚赚, 结束! 🕛 3.922 秒
+Jan 07 02:06:04 
+Jan 07 03:06:00 
+Jan 07 03:06:00 🔔京东赚赚, 开始!
+Jan 07 03:06:00 
+Jan 07 03:06:00 ====================共1个京东账号Cookie=========
+Jan 07 03:06:00 
+Jan 07 03:06:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 上午3:06:00=====================
+Jan 07 03:06:00 
+Jan 07 03:06:00 开始获取京东赚赚配置文件
+Jan 07 03:06:00 
+Jan 07 03:06:00 共1个京东账号
+Jan 07 03:06:00 
+Jan 07 03:06:00 您提供了0个账号的京东赚赚助力码
+Jan 07 03:06:00 
+Jan 07 03:06:00 
+Jan 07 03:06:00 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 07 03:06:00 
+Jan 07 03:06:00 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jan 07 03:06:00 
+Jan 07 03:06:00 开始
+Jan 07 03:06:03 "connect ECONNREFUSED 103.242.135.130:443"
+Jan 07 03:06:03 京东赚赚 API请求失败，请检查网路重试
+Jan 07 03:06:03 第1个京东账号将要助力的好友["S9KUiH11Mq1bSKBo","S5KkcRh9P9FbRKUygl_UJcg","StvV3SBcQ8Vw","S5KkcEV9ThDGWdWGw0K5u","S5KkcRktN8lyBdEj1kaQMdw","Sa3LolJe5IPhP9aNJQlGD","S5KkcR0pM91aBIhmgxf9bcA","S5KkcREwR_VXRIB78kvRYcg","S5KkcRE8b9QGEIEz0nKRbJw"]
+Jan 07 03:06:04 
+Jan 07 03:06:04 ❗️京东赚赚, 错误!
+Jan 07 03:06:04 TypeError: Cannot read properties of undefined (reading 'totalNum')
+Jan 07 03:06:04     at /scripts/jd_jdzz.js:168:36
+Jan 07 03:06:04     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/scripts/jd_jdzz.js:412:4869)
+Jan 07 03:06:04     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 07 03:06:04 
+Jan 07 03:06:04 ❌ 京东赚赚, 失败! 原因: TypeError: Cannot read properties of undefined (reading 'length')!
+Jan 07 03:06:04 
+Jan 07 03:06:04 
+Jan 07 03:06:04 🔔京东赚赚, 结束! 🕛 4.019 秒
+Jan 07 03:06:04 
+Jan 07 04:06:00 
+Jan 07 04:06:00 🔔京东赚赚, 开始!
+Jan 07 04:06:00 
+Jan 07 04:06:00 ====================共1个京东账号Cookie=========
+Jan 07 04:06:00 
+Jan 07 04:06:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 上午4:06:00=====================
+Jan 07 04:06:00 
+Jan 07 04:06:00 开始获取京东赚赚配置文件
+Jan 07 04:06:00 
+Jan 07 04:06:00 共1个京东账号
+Jan 07 04:06:00 
+Jan 07 04:06:00 您提供了0个账号的京东赚赚助力码
+Jan 07 04:06:00 
+Jan 07 04:06:00 
+Jan 07 04:06:00 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 07 04:06:00 
+Jan 07 04:06:00 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jan 07 04:06:00 
+Jan 07 04:06:00 开始
+Jan 07 04:06:03 "connect ECONNREFUSED 103.242.135.130:443"
+Jan 07 04:06:03 京东赚赚 API请求失败，请检查网路重试
+Jan 07 04:06:03 第1个京东账号将要助力的好友["S9KUiH11Mq1bSKBo","S5KkcRh9P9FbRKUygl_UJcg","StvV3SBcQ8Vw","S5KkcEV9ThDGWdWGw0K5u","S5KkcRktN8lyBdEj1kaQMdw","Sa3LolJe5IPhP9aNJQlGD","S5KkcR0pM91aBIhmgxf9bcA","S5KkcREwR_VXRIB78kvRYcg","S5KkcRE8b9QGEIEz0nKRbJw"]
+Jan 07 04:06:04 
+Jan 07 04:06:04 ❗️京东赚赚, 错误!
+Jan 07 04:06:04 TypeError: Cannot read properties of undefined (reading 'totalNum')
+Jan 07 04:06:04     at /scripts/jd_jdzz.js:168:36
+Jan 07 04:06:04     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/scripts/jd_jdzz.js:412:4869)
+Jan 07 04:06:04     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 07 04:06:04 
+Jan 07 04:06:04 ❌ 京东赚赚, 失败! 原因: TypeError: Cannot read properties of undefined (reading 'length')!
+Jan 07 04:06:04 
+Jan 07 04:06:04 
+Jan 07 04:06:04 🔔京东赚赚, 结束! 🕛 3.899 秒
+Jan 07 04:06:04 
+Jan 07 05:06:00 
+Jan 07 05:06:00 🔔京东赚赚, 开始!
+Jan 07 05:06:00 
+Jan 07 05:06:00 ====================共1个京东账号Cookie=========
+Jan 07 05:06:00 
+Jan 07 05:06:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 上午5:06:00=====================
+Jan 07 05:06:00 
+Jan 07 05:06:00 开始获取京东赚赚配置文件
+Jan 07 05:06:00 
+Jan 07 05:06:00 共1个京东账号
+Jan 07 05:06:00 
+Jan 07 05:06:00 您提供了0个账号的京东赚赚助力码
+Jan 07 05:06:00 
+Jan 07 05:06:00 
+Jan 07 05:06:00 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 07 05:06:00 
+Jan 07 05:06:00 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jan 07 05:06:00 
+Jan 07 05:06:00 开始
+Jan 07 05:06:03 "connect ECONNREFUSED 103.242.135.130:443"
+Jan 07 05:06:03 京东赚赚 API请求失败，请检查网路重试
+Jan 07 05:06:03 第1个京东账号将要助力的好友["S9KUiH11Mq1bSKBo","S5KkcRh9P9FbRKUygl_UJcg","StvV3SBcQ8Vw","S5KkcEV9ThDGWdWGw0K5u","S5KkcRktN8lyBdEj1kaQMdw","Sa3LolJe5IPhP9aNJQlGD","S5KkcR0pM91aBIhmgxf9bcA","S5KkcREwR_VXRIB78kvRYcg","S5KkcRE8b9QGEIEz0nKRbJw"]
+Jan 07 05:06:04 
+Jan 07 05:06:04 ❗️京东赚赚, 错误!
+Jan 07 05:06:04 TypeError: Cannot read properties of undefined (reading 'totalNum')
+Jan 07 05:06:04     at /scripts/jd_jdzz.js:168:36
+Jan 07 05:06:04     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/scripts/jd_jdzz.js:412:4869)
+Jan 07 05:06:04     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 07 05:06:04 
+Jan 07 05:06:04 ❌ 京东赚赚, 失败! 原因: TypeError: Cannot read properties of undefined (reading 'length')!
+Jan 07 05:06:04 
+Jan 07 05:06:04 
+Jan 07 05:06:04 🔔京东赚赚, 结束! 🕛 3.937 秒
+Jan 07 05:06:04 
+Jan 07 11:06:01 
+Jan 07 11:06:01 🔔京东赚赚, 开始!
+Jan 07 11:06:01 
+Jan 07 11:06:01 ====================共1个京东账号Cookie=========
+Jan 07 11:06:01 
+Jan 07 11:06:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 上午11:06:01=====================
+Jan 07 11:06:01 
+Jan 07 11:06:01 开始获取京东赚赚配置文件
+Jan 07 11:06:01 
+Jan 07 11:06:01 共1个京东账号
+Jan 07 11:06:01 
+Jan 07 11:06:01 您提供了0个账号的京东赚赚助力码
+Jan 07 11:06:01 
+Jan 07 11:06:01 
+Jan 07 11:06:01 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 07 11:06:01 
+Jan 07 11:06:01 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jan 07 11:06:01 
+Jan 07 11:06:01 开始
+Jan 07 11:06:05 "connect ECONNREFUSED 103.242.135.130:443"
+Jan 07 11:06:05 京东赚赚 API请求失败，请检查网路重试
+Jan 07 11:06:05 第1个京东账号将要助力的好友["S9KUiH11Mq1bSKBo","S5KkcRh9P9FbRKUygl_UJcg","StvV3SBcQ8Vw","S5KkcEV9ThDGWdWGw0K5u","S5KkcRktN8lyBdEj1kaQMdw","Sa3LolJe5IPhP9aNJQlGD","S5KkcR0pM91aBIhmgxf9bcA","S5KkcREwR_VXRIB78kvRYcg","S5KkcRE8b9QGEIEz0nKRbJw"]
+Jan 07 11:06:05 
+Jan 07 11:06:05 ❗️京东赚赚, 错误!
+Jan 07 11:06:05 TypeError: Cannot read properties of undefined (reading 'totalNum')
+Jan 07 11:06:05     at /scripts/jd_jdzz.js:168:36
+Jan 07 11:06:05     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/scripts/jd_jdzz.js:412:4869)
+Jan 07 11:06:05     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 07 11:06:06 
+Jan 07 11:06:06 ❌ 京东赚赚, 失败! 原因: TypeError: Cannot read properties of undefined (reading 'length')!
+Jan 07 11:06:06 
+Jan 07 11:06:06 
+Jan 07 11:06:06 🔔京东赚赚, 结束! 🕛 5.125 秒
+Jan 07 11:06:06 
+Jan 08 00:06:01 
+Jan 08 00:06:01 🔔京东赚赚, 开始!
+Jan 08 00:06:01 
+Jan 08 00:06:01 ====================共1个京东账号Cookie=========
+Jan 08 00:06:01 
+Jan 08 00:06:02 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 上午12:06:01=====================
+Jan 08 00:06:02 
+Jan 08 00:06:02 开始获取京东赚赚配置文件
+Jan 08 00:06:02 
+Jan 08 00:06:02 共1个京东账号
+Jan 08 00:06:02 
+Jan 08 00:06:02 您提供了0个账号的京东赚赚助力码
+Jan 08 00:06:02 
+Jan 08 00:06:03 
+Jan 08 00:06:03 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 08 00:06:03 
+Jan 08 00:06:03 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jan 08 00:06:03 
+Jan 08 00:06:03 开始
+Jan 08 00:06:07 "connect ECONNREFUSED 103.242.135.130:443"
+Jan 08 00:06:07 京东赚赚 API请求失败，请检查网路重试
+Jan 08 00:06:07 第1个京东账号将要助力的好友["S9KUiH11Mq1bSKBo","S5KkcRh9P9FbRKUygl_UJcg","StvV3SBcQ8Vw","S5KkcEV9ThDGWdWGw0K5u","S5KkcRktN8lyBdEj1kaQMdw","Sa3LolJe5IPhP9aNJQlGD","S5KkcR0pM91aBIhmgxf9bcA","S5KkcREwR_VXRIB78kvRYcg","S5KkcRE8b9QGEIEz0nKRbJw"]
+Jan 08 00:06:07 
+Jan 08 00:06:07 ❗️京东赚赚, 错误!
+Jan 08 00:06:07 TypeError: Cannot read properties of undefined (reading 'totalNum')
+Jan 08 00:06:07     at /scripts/jd_jdzz.js:168:36
+Jan 08 00:06:07     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/scripts/jd_jdzz.js:412:4869)
+Jan 08 00:06:07     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 08 00:06:07 
+Jan 08 00:06:07 ❌ 京东赚赚, 失败! 原因: TypeError: Cannot read properties of undefined (reading 'length')!
+Jan 08 00:06:07 
+Jan 08 00:06:07 
+Jan 08 00:06:07 🔔京东赚赚, 结束! 🕛 6.154 秒
+Jan 08 00:06:07 
+Jan 08 01:06:01 
+Jan 08 01:06:01 🔔京东赚赚, 开始!
+Jan 08 01:06:01 
+Jan 08 01:06:01 ====================共1个京东账号Cookie=========
+Jan 08 01:06:01 
+Jan 08 01:06:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 上午1:06:01=====================
+Jan 08 01:06:01 
+Jan 08 01:06:01 开始获取京东赚赚配置文件
+Jan 08 01:06:01 
+Jan 08 01:06:01 共1个京东账号
+Jan 08 01:06:01 
+Jan 08 01:06:01 您提供了0个账号的京东赚赚助力码
+Jan 08 01:06:01 
+Jan 08 01:06:01 
+Jan 08 01:06:01 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 08 01:06:01 
+Jan 08 01:06:01 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jan 08 01:06:01 
+Jan 08 01:06:01 开始
+Jan 08 01:06:04 "connect ECONNREFUSED 103.242.135.130:443"
+Jan 08 01:06:04 京东赚赚 API请求失败，请检查网路重试
+Jan 08 01:06:04 第1个京东账号将要助力的好友["S9KUiH11Mq1bSKBo","S5KkcRh9P9FbRKUygl_UJcg","StvV3SBcQ8Vw","S5KkcEV9ThDGWdWGw0K5u","S5KkcRktN8lyBdEj1kaQMdw","Sa3LolJe5IPhP9aNJQlGD","S5KkcR0pM91aBIhmgxf9bcA","S5KkcREwR_VXRIB78kvRYcg","S5KkcRE8b9QGEIEz0nKRbJw"]
+Jan 08 01:06:05 
+Jan 08 01:06:05 ❗️京东赚赚, 错误!
+Jan 08 01:06:05 TypeError: Cannot read properties of undefined (reading 'totalNum')
+Jan 08 01:06:05     at /scripts/jd_jdzz.js:168:36
+Jan 08 01:06:05     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/scripts/jd_jdzz.js:412:4869)
+Jan 08 01:06:05     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 08 01:06:05 
+Jan 08 01:06:05 ❌ 京东赚赚, 失败! 原因: TypeError: Cannot read properties of undefined (reading 'length')!
+Jan 08 01:06:05 
+Jan 08 01:06:05 
+Jan 08 01:06:05 🔔京东赚赚, 结束! 🕛 4.259 秒
+Jan 08 01:06:05 
+Jan 08 02:06:01 
+Jan 08 02:06:01 🔔京东赚赚, 开始!
+Jan 08 02:06:01 
+Jan 08 02:06:01 ====================共1个京东账号Cookie=========
+Jan 08 02:06:01 
+Jan 08 02:06:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 上午2:06:01=====================
+Jan 08 02:06:01 
+Jan 08 02:06:01 开始获取京东赚赚配置文件
+Jan 08 02:06:01 
+Jan 08 02:06:01 共1个京东账号
+Jan 08 02:06:01 
+Jan 08 02:06:01 您提供了0个账号的京东赚赚助力码
+Jan 08 02:06:01 
+Jan 08 02:06:01 
+Jan 08 02:06:01 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 08 02:06:01 
+Jan 08 02:06:01 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jan 08 02:06:01 
+Jan 08 02:06:01 开始
+Jan 08 02:06:05 "connect ECONNREFUSED 103.242.135.130:443"
+Jan 08 02:06:05 京东赚赚 API请求失败，请检查网路重试
+Jan 08 02:06:05 第1个京东账号将要助力的好友["S9KUiH11Mq1bSKBo","S5KkcRh9P9FbRKUygl_UJcg","StvV3SBcQ8Vw","S5KkcEV9ThDGWdWGw0K5u","S5KkcRktN8lyBdEj1kaQMdw","Sa3LolJe5IPhP9aNJQlGD","S5KkcR0pM91aBIhmgxf9bcA","S5KkcREwR_VXRIB78kvRYcg","S5KkcRE8b9QGEIEz0nKRbJw"]
+Jan 08 02:06:05 
+Jan 08 02:06:05 ❗️京东赚赚, 错误!
+Jan 08 02:06:05 TypeError: Cannot read properties of undefined (reading 'totalNum')
+Jan 08 02:06:05     at /scripts/jd_jdzz.js:168:36
+Jan 08 02:06:05     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/scripts/jd_jdzz.js:412:4869)
+Jan 08 02:06:05     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 08 02:06:05 
+Jan 08 02:06:05 ❌ 京东赚赚, 失败! 原因: TypeError: Cannot read properties of undefined (reading 'length')!
+Jan 08 02:06:05 
+Jan 08 02:06:05 
+Jan 08 02:06:05 🔔京东赚赚, 结束! 🕛 4.424 秒
+Jan 08 02:06:05 
+Jan 08 03:06:01 
+Jan 08 03:06:01 🔔京东赚赚, 开始!
+Jan 08 03:06:01 
+Jan 08 03:06:01 ====================共1个京东账号Cookie=========
+Jan 08 03:06:01 
+Jan 08 03:06:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 上午3:06:01=====================
+Jan 08 03:06:01 
+Jan 08 03:06:01 开始获取京东赚赚配置文件
+Jan 08 03:06:01 
+Jan 08 03:06:01 共1个京东账号
+Jan 08 03:06:01 
+Jan 08 03:06:01 您提供了0个账号的京东赚赚助力码
+Jan 08 03:06:01 
+Jan 08 03:06:01 
+Jan 08 03:06:01 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 08 03:06:01 
+Jan 08 03:06:01 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jan 08 03:06:01 
+Jan 08 03:06:01 开始
+Jan 08 03:06:05 "connect ECONNREFUSED 103.242.135.130:443"
+Jan 08 03:06:05 京东赚赚 API请求失败，请检查网路重试
+Jan 08 03:06:05 第1个京东账号将要助力的好友["S9KUiH11Mq1bSKBo","S5KkcRh9P9FbRKUygl_UJcg","StvV3SBcQ8Vw","S5KkcEV9ThDGWdWGw0K5u","S5KkcRktN8lyBdEj1kaQMdw","Sa3LolJe5IPhP9aNJQlGD","S5KkcR0pM91aBIhmgxf9bcA","S5KkcREwR_VXRIB78kvRYcg","S5KkcRE8b9QGEIEz0nKRbJw"]
+Jan 08 03:06:05 
+Jan 08 03:06:05 ❗️京东赚赚, 错误!
+Jan 08 03:06:05 TypeError: Cannot read properties of undefined (reading 'totalNum')
+Jan 08 03:06:05     at /scripts/jd_jdzz.js:168:36
+Jan 08 03:06:05     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/scripts/jd_jdzz.js:412:4869)
+Jan 08 03:06:05     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 08 03:06:05 
+Jan 08 03:06:05 ❌ 京东赚赚, 失败! 原因: TypeError: Cannot read properties of undefined (reading 'length')!
+Jan 08 03:06:05 
+Jan 08 03:06:05 
+Jan 08 03:06:05 🔔京东赚赚, 结束! 🕛 4.507 秒
+Jan 08 03:06:05 
+Jan 08 04:06:00 
+Jan 08 04:06:00 🔔京东赚赚, 开始!
+Jan 08 04:06:00 
+Jan 08 04:06:00 ====================共1个京东账号Cookie=========
+Jan 08 04:06:00 
+Jan 08 04:06:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 上午4:06:00=====================
+Jan 08 04:06:00 
+Jan 08 04:06:00 开始获取京东赚赚配置文件
+Jan 08 04:06:00 
+Jan 08 04:06:00 共1个京东账号
+Jan 08 04:06:00 
+Jan 08 04:06:00 您提供了0个账号的京东赚赚助力码
+Jan 08 04:06:00 
+Jan 08 04:06:00 
+Jan 08 04:06:00 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 08 04:06:00 
+Jan 08 04:06:00 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jan 08 04:06:00 
+Jan 08 04:06:00 开始
+Jan 08 04:06:04 "connect ECONNREFUSED 103.242.135.130:443"
+Jan 08 04:06:04 京东赚赚 API请求失败，请检查网路重试
+Jan 08 04:06:04 第1个京东账号将要助力的好友["S9KUiH11Mq1bSKBo","S5KkcRh9P9FbRKUygl_UJcg","StvV3SBcQ8Vw","S5KkcEV9ThDGWdWGw0K5u","S5KkcRktN8lyBdEj1kaQMdw","Sa3LolJe5IPhP9aNJQlGD","S5KkcR0pM91aBIhmgxf9bcA","S5KkcREwR_VXRIB78kvRYcg","S5KkcRE8b9QGEIEz0nKRbJw"]
+Jan 08 04:06:04 
+Jan 08 04:06:04 ❗️京东赚赚, 错误!
+Jan 08 04:06:04 TypeError: Cannot read properties of undefined (reading 'totalNum')
+Jan 08 04:06:04     at /scripts/jd_jdzz.js:168:36
+Jan 08 04:06:04     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/scripts/jd_jdzz.js:412:4869)
+Jan 08 04:06:04     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 08 04:06:04 
+Jan 08 04:06:04 ❌ 京东赚赚, 失败! 原因: TypeError: Cannot read properties of undefined (reading 'length')!
+Jan 08 04:06:04 
+Jan 08 04:06:04 
+Jan 08 04:06:04 🔔京东赚赚, 结束! 🕛 4.356 秒
+Jan 08 04:06:04 
+Jan 08 05:06:00 
+Jan 08 05:06:00 🔔京东赚赚, 开始!
+Jan 08 05:06:00 
+Jan 08 05:06:00 ====================共1个京东账号Cookie=========
+Jan 08 05:06:00 
+Jan 08 05:06:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 上午5:06:00=====================
+Jan 08 05:06:00 
+Jan 08 05:06:00 开始获取京东赚赚配置文件
+Jan 08 05:06:00 
+Jan 08 05:06:00 共1个京东账号
+Jan 08 05:06:00 
+Jan 08 05:06:00 您提供了0个账号的京东赚赚助力码
+Jan 08 05:06:00 
+Jan 08 05:06:00 
+Jan 08 05:06:00 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 08 05:06:00 
+Jan 08 05:06:00 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jan 08 05:06:00 
+Jan 08 05:06:00 开始
+Jan 08 05:06:04 "connect ECONNREFUSED 103.242.135.130:443"
+Jan 08 05:06:04 京东赚赚 API请求失败，请检查网路重试
+Jan 08 05:06:04 第1个京东账号将要助力的好友["S9KUiH11Mq1bSKBo","S5KkcRh9P9FbRKUygl_UJcg","StvV3SBcQ8Vw","S5KkcEV9ThDGWdWGw0K5u","S5KkcRktN8lyBdEj1kaQMdw","Sa3LolJe5IPhP9aNJQlGD","S5KkcR0pM91aBIhmgxf9bcA","S5KkcREwR_VXRIB78kvRYcg","S5KkcRE8b9QGEIEz0nKRbJw"]
+Jan 08 05:06:04 
+Jan 08 05:06:04 ❗️京东赚赚, 错误!
+Jan 08 05:06:04 TypeError: Cannot read properties of undefined (reading 'totalNum')
+Jan 08 05:06:04     at /scripts/jd_jdzz.js:168:36
+Jan 08 05:06:04     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/scripts/jd_jdzz.js:412:4869)
+Jan 08 05:06:04     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 08 05:06:04 
+Jan 08 05:06:04 ❌ 京东赚赚, 失败! 原因: TypeError: Cannot read properties of undefined (reading 'length')!
+Jan 08 05:06:04 
+Jan 08 05:06:04 
+Jan 08 05:06:04 🔔京东赚赚, 结束! 🕛 4.443 秒
+Jan 08 05:06:04 
+Jan 08 11:06:00 
+Jan 08 11:06:00 🔔京东赚赚, 开始!
+Jan 08 11:06:00 
+Jan 08 11:06:00 ====================共1个京东账号Cookie=========
+Jan 08 11:06:00 
+Jan 08 11:06:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 上午11:06:00=====================
+Jan 08 11:06:00 
+Jan 08 11:06:00 开始获取京东赚赚配置文件
+Jan 08 11:06:00 
+Jan 08 11:06:00 共1个京东账号
+Jan 08 11:06:00 
+Jan 08 11:06:00 您提供了0个账号的京东赚赚助力码
+Jan 08 11:06:00 
+Jan 08 11:06:01 
+Jan 08 11:06:01 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 08 11:06:01 
+Jan 08 11:06:01 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jan 08 11:06:01 
+Jan 08 11:06:01 开始
+Jan 08 11:06:05 "connect ECONNREFUSED 103.242.135.130:443"
+Jan 08 11:06:05 京东赚赚 API请求失败，请检查网路重试
+Jan 08 11:06:05 第1个京东账号将要助力的好友["S9KUiH11Mq1bSKBo","S5KkcRh9P9FbRKUygl_UJcg","StvV3SBcQ8Vw","S5KkcEV9ThDGWdWGw0K5u","S5KkcRktN8lyBdEj1kaQMdw","Sa3LolJe5IPhP9aNJQlGD","S5KkcR0pM91aBIhmgxf9bcA","S5KkcREwR_VXRIB78kvRYcg","S5KkcRE8b9QGEIEz0nKRbJw"]
+Jan 08 11:06:05 
+Jan 08 11:06:05 ❗️京东赚赚, 错误!
+Jan 08 11:06:05 TypeError: Cannot read properties of undefined (reading 'totalNum')
+Jan 08 11:06:05     at /scripts/jd_jdzz.js:168:36
+Jan 08 11:06:05     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/scripts/jd_jdzz.js:412:4869)
+Jan 08 11:06:05     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 08 11:06:05 
+Jan 08 11:06:05 ❌ 京东赚赚, 失败! 原因: TypeError: Cannot read properties of undefined (reading 'length')!
+Jan 08 11:06:05 
+Jan 08 11:06:05 
+Jan 08 11:06:05 🔔京东赚赚, 结束! 🕛 4.74 秒
+Jan 08 11:06:05 
+Jan 09 00:06:01 
+Jan 09 00:06:01 🔔京东赚赚, 开始!
+Jan 09 00:06:01 
+Jan 09 00:06:01 ====================共1个京东账号Cookie=========
+Jan 09 00:06:01 
+Jan 09 00:06:02 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 上午12:06:01=====================
+Jan 09 00:06:02 
+Jan 09 00:06:02 开始获取京东赚赚配置文件
+Jan 09 00:06:02 
+Jan 09 00:06:02 共1个京东账号
+Jan 09 00:06:02 
+Jan 09 00:06:02 您提供了0个账号的京东赚赚助力码
+Jan 09 00:06:02 
+Jan 09 00:06:04 
+Jan 09 00:06:04 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 09 00:06:04 
+Jan 09 00:06:04 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jan 09 00:06:04 
+Jan 09 00:06:04 开始
+Jan 09 00:06:07 "connect ECONNREFUSED 103.242.135.130:443"
+Jan 09 00:06:07 京东赚赚 API请求失败，请检查网路重试
+Jan 09 00:06:07 第1个京东账号将要助力的好友["S9KUiH11Mq1bSKBo","S5KkcRh9P9FbRKUygl_UJcg","StvV3SBcQ8Vw","S5KkcEV9ThDGWdWGw0K5u","S5KkcRktN8lyBdEj1kaQMdw","Sa3LolJe5IPhP9aNJQlGD","S5KkcR0pM91aBIhmgxf9bcA","S5KkcREwR_VXRIB78kvRYcg","S5KkcRE8b9QGEIEz0nKRbJw"]
+Jan 09 00:06:07 
+Jan 09 00:06:07 ❗️京东赚赚, 错误!
+Jan 09 00:06:07 TypeError: Cannot read properties of undefined (reading 'totalNum')
+Jan 09 00:06:07     at /scripts/jd_jdzz.js:168:36
+Jan 09 00:06:07     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/scripts/jd_jdzz.js:412:4869)
+Jan 09 00:06:07     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 09 00:06:07 
+Jan 09 00:06:07 ❌ 京东赚赚, 失败! 原因: TypeError: Cannot read properties of undefined (reading 'length')!
+Jan 09 00:06:07 
+Jan 09 00:06:07 
+Jan 09 00:06:07 🔔京东赚赚, 结束! 🕛 6.275 秒
+Jan 09 00:06:07 
+Jan 09 01:06:00 
+Jan 09 01:06:00 🔔京东赚赚, 开始!
+Jan 09 01:06:00 
+Jan 09 01:06:00 ====================共1个京东账号Cookie=========
+Jan 09 01:06:00 
+Jan 09 01:06:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 上午1:06:00=====================
+Jan 09 01:06:00 
+Jan 09 01:06:00 开始获取京东赚赚配置文件
+Jan 09 01:06:00 
+Jan 09 01:06:00 共1个京东账号
+Jan 09 01:06:00 
+Jan 09 01:06:00 您提供了0个账号的京东赚赚助力码
+Jan 09 01:06:00 
+Jan 09 01:06:01 
+Jan 09 01:06:01 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 09 01:06:01 
+Jan 09 01:06:01 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jan 09 01:06:01 
+Jan 09 01:06:01 开始
+Jan 09 01:06:04 "connect ECONNREFUSED 103.242.135.130:443"
+Jan 09 01:06:04 京东赚赚 API请求失败，请检查网路重试
+Jan 09 01:06:04 第1个京东账号将要助力的好友["S9KUiH11Mq1bSKBo","S5KkcRh9P9FbRKUygl_UJcg","StvV3SBcQ8Vw","S5KkcEV9ThDGWdWGw0K5u","S5KkcRktN8lyBdEj1kaQMdw","Sa3LolJe5IPhP9aNJQlGD","S5KkcR0pM91aBIhmgxf9bcA","S5KkcREwR_VXRIB78kvRYcg","S5KkcRE8b9QGEIEz0nKRbJw"]
+Jan 09 01:06:04 
+Jan 09 01:06:04 ❗️京东赚赚, 错误!
+Jan 09 01:06:04 TypeError: Cannot read properties of undefined (reading 'totalNum')
+Jan 09 01:06:04     at /scripts/jd_jdzz.js:168:36
+Jan 09 01:06:04     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/scripts/jd_jdzz.js:412:4869)
+Jan 09 01:06:04     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 09 01:06:05 
+Jan 09 01:06:05 ❌ 京东赚赚, 失败! 原因: TypeError: Cannot read properties of undefined (reading 'length')!
+Jan 09 01:06:05 
+Jan 09 01:06:05 
+Jan 09 01:06:05 🔔京东赚赚, 结束! 🕛 4.268 秒
+Jan 09 01:06:05 
+Jan 09 02:06:01 
+Jan 09 02:06:01 🔔京东赚赚, 开始!
+Jan 09 02:06:01 
+Jan 09 02:06:01 ====================共1个京东账号Cookie=========
+Jan 09 02:06:01 
+Jan 09 02:06:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 上午2:06:01=====================
+Jan 09 02:06:01 
+Jan 09 02:06:01 开始获取京东赚赚配置文件
+Jan 09 02:06:01 
+Jan 09 02:06:01 共1个京东账号
+Jan 09 02:06:01 
+Jan 09 02:06:01 您提供了0个账号的京东赚赚助力码
+Jan 09 02:06:01 
+Jan 09 02:06:01 
+Jan 09 02:06:01 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 09 02:06:01 
+Jan 09 02:06:01 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jan 09 02:06:01 
+Jan 09 02:06:01 开始
+Jan 09 02:06:04 "connect ECONNREFUSED 103.242.135.130:443"
+Jan 09 02:06:04 京东赚赚 API请求失败，请检查网路重试
+Jan 09 02:06:04 第1个京东账号将要助力的好友["S9KUiH11Mq1bSKBo","S5KkcRh9P9FbRKUygl_UJcg","StvV3SBcQ8Vw","S5KkcEV9ThDGWdWGw0K5u","S5KkcRktN8lyBdEj1kaQMdw","Sa3LolJe5IPhP9aNJQlGD","S5KkcR0pM91aBIhmgxf9bcA","S5KkcREwR_VXRIB78kvRYcg","S5KkcRE8b9QGEIEz0nKRbJw"]
+Jan 09 02:06:04 
+Jan 09 02:06:04 ❗️京东赚赚, 错误!
+Jan 09 02:06:04 TypeError: Cannot read properties of undefined (reading 'totalNum')
+Jan 09 02:06:04     at /scripts/jd_jdzz.js:168:36
+Jan 09 02:06:04     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/scripts/jd_jdzz.js:412:4869)
+Jan 09 02:06:04     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 09 02:06:05 
+Jan 09 02:06:05 ❌ 京东赚赚, 失败! 原因: TypeError: Cannot read properties of undefined (reading 'length')!
+Jan 09 02:06:05 
+Jan 09 02:06:05 
+Jan 09 02:06:05 🔔京东赚赚, 结束! 🕛 4.119 秒
+Jan 09 02:06:05 
+Jan 09 03:06:01 
+Jan 09 03:06:01 🔔京东赚赚, 开始!
+Jan 09 03:06:01 
+Jan 09 03:06:01 ====================共1个京东账号Cookie=========
+Jan 09 03:06:01 
+Jan 09 03:06:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 上午3:06:01=====================
+Jan 09 03:06:01 
+Jan 09 03:06:01 开始获取京东赚赚配置文件
+Jan 09 03:06:01 
+Jan 09 03:06:01 共1个京东账号
+Jan 09 03:06:01 
+Jan 09 03:06:01 您提供了0个账号的京东赚赚助力码
+Jan 09 03:06:01 
+Jan 09 03:06:01 
+Jan 09 03:06:01 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 09 03:06:01 
+Jan 09 03:06:01 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jan 09 03:06:01 
+Jan 09 03:06:01 开始
+Jan 09 03:06:04 "connect ECONNREFUSED 103.242.135.130:443"
+Jan 09 03:06:04 京东赚赚 API请求失败，请检查网路重试
+Jan 09 03:06:04 第1个京东账号将要助力的好友["S9KUiH11Mq1bSKBo","S5KkcRh9P9FbRKUygl_UJcg","StvV3SBcQ8Vw","S5KkcEV9ThDGWdWGw0K5u","S5KkcRktN8lyBdEj1kaQMdw","Sa3LolJe5IPhP9aNJQlGD","S5KkcR0pM91aBIhmgxf9bcA","S5KkcREwR_VXRIB78kvRYcg","S5KkcRE8b9QGEIEz0nKRbJw"]
+Jan 09 03:06:04 
+Jan 09 03:06:04 ❗️京东赚赚, 错误!
+Jan 09 03:06:04 TypeError: Cannot read properties of undefined (reading 'totalNum')
+Jan 09 03:06:04     at /scripts/jd_jdzz.js:168:36
+Jan 09 03:06:04     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/scripts/jd_jdzz.js:412:4869)
+Jan 09 03:06:04     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 09 03:06:05 
+Jan 09 03:06:05 ❌ 京东赚赚, 失败! 原因: TypeError: Cannot read properties of undefined (reading 'length')!
+Jan 09 03:06:05 
+Jan 09 03:06:05 
+Jan 09 03:06:05 🔔京东赚赚, 结束! 🕛 4.143 秒
+Jan 09 03:06:05 
+Jan 09 04:06:01 
+Jan 09 04:06:01 🔔京东赚赚, 开始!
+Jan 09 04:06:01 
+Jan 09 04:06:01 ====================共1个京东账号Cookie=========
+Jan 09 04:06:01 
+Jan 09 04:06:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 上午4:06:01=====================
+Jan 09 04:06:01 
+Jan 09 04:06:01 开始获取京东赚赚配置文件
+Jan 09 04:06:01 
+Jan 09 04:06:01 共1个京东账号
+Jan 09 04:06:01 
+Jan 09 04:06:01 您提供了0个账号的京东赚赚助力码
+Jan 09 04:06:01 
+Jan 09 04:06:01 
+Jan 09 04:06:01 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 09 04:06:01 
+Jan 09 04:06:01 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jan 09 04:06:01 
+Jan 09 04:06:01 开始
+Jan 09 04:06:04 "connect ECONNREFUSED 103.242.135.130:443"
+Jan 09 04:06:04 京东赚赚 API请求失败，请检查网路重试
+Jan 09 04:06:04 第1个京东账号将要助力的好友["S9KUiH11Mq1bSKBo","S5KkcRh9P9FbRKUygl_UJcg","StvV3SBcQ8Vw","S5KkcEV9ThDGWdWGw0K5u","S5KkcRktN8lyBdEj1kaQMdw","Sa3LolJe5IPhP9aNJQlGD","S5KkcR0pM91aBIhmgxf9bcA","S5KkcREwR_VXRIB78kvRYcg","S5KkcRE8b9QGEIEz0nKRbJw"]
+Jan 09 04:06:05 
+Jan 09 04:06:05 ❗️京东赚赚, 错误!
+Jan 09 04:06:05 TypeError: Cannot read properties of undefined (reading 'totalNum')
+Jan 09 04:06:05     at /scripts/jd_jdzz.js:168:36
+Jan 09 04:06:05     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/scripts/jd_jdzz.js:412:4869)
+Jan 09 04:06:05     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 09 04:06:05 
+Jan 09 04:06:05 ❌ 京东赚赚, 失败! 原因: TypeError: Cannot read properties of undefined (reading 'length')!
+Jan 09 04:06:05 
+Jan 09 04:06:05 
+Jan 09 04:06:05 🔔京东赚赚, 结束! 🕛 4.246 秒
+Jan 09 04:06:05 
+Jan 09 05:06:01 
+Jan 09 05:06:01 🔔京东赚赚, 开始!
+Jan 09 05:06:01 
+Jan 09 05:06:01 ====================共1个京东账号Cookie=========
+Jan 09 05:06:01 
+Jan 09 05:06:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 上午5:06:01=====================
+Jan 09 05:06:01 
+Jan 09 05:06:01 开始获取京东赚赚配置文件
+Jan 09 05:06:01 
+Jan 09 05:06:01 共1个京东账号
+Jan 09 05:06:01 
+Jan 09 05:06:01 您提供了0个账号的京东赚赚助力码
+Jan 09 05:06:01 
+Jan 09 05:06:01 
+Jan 09 05:06:01 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 09 05:06:01 
+Jan 09 05:06:01 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jan 09 05:06:01 
+Jan 09 05:06:01 开始
+Jan 09 05:06:04 "connect ECONNREFUSED 103.242.135.130:443"
+Jan 09 05:06:04 京东赚赚 API请求失败，请检查网路重试
+Jan 09 05:06:04 第1个京东账号将要助力的好友["S9KUiH11Mq1bSKBo","S5KkcRh9P9FbRKUygl_UJcg","StvV3SBcQ8Vw","S5KkcEV9ThDGWdWGw0K5u","S5KkcRktN8lyBdEj1kaQMdw","Sa3LolJe5IPhP9aNJQlGD","S5KkcR0pM91aBIhmgxf9bcA","S5KkcREwR_VXRIB78kvRYcg","S5KkcRE8b9QGEIEz0nKRbJw"]
+Jan 09 05:06:05 
+Jan 09 05:06:05 ❗️京东赚赚, 错误!
+Jan 09 05:06:05 TypeError: Cannot read properties of undefined (reading 'totalNum')
+Jan 09 05:06:05     at /scripts/jd_jdzz.js:168:36
+Jan 09 05:06:05     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/scripts/jd_jdzz.js:412:4869)
+Jan 09 05:06:05     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 09 05:06:05 
+Jan 09 05:06:05 ❌ 京东赚赚, 失败! 原因: TypeError: Cannot read properties of undefined (reading 'length')!
+Jan 09 05:06:05 
+Jan 09 05:06:05 
+Jan 09 05:06:05 🔔京东赚赚, 结束! 🕛 4.147 秒
+Jan 09 05:06:05 
+Jan 09 11:06:00 
+Jan 09 11:06:00 🔔京东赚赚, 开始!
+Jan 09 11:06:00 
+Jan 09 11:06:00 ====================共1个京东账号Cookie=========
+Jan 09 11:06:00 
+Jan 09 11:06:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 上午11:06:00=====================
+Jan 09 11:06:00 
+Jan 09 11:06:00 开始获取京东赚赚配置文件
+Jan 09 11:06:00 
+Jan 09 11:06:00 共1个京东账号
+Jan 09 11:06:00 
+Jan 09 11:06:00 您提供了0个账号的京东赚赚助力码
+Jan 09 11:06:00 
+Jan 09 11:06:01 
+Jan 09 11:06:01 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 09 11:06:01 
+Jan 09 11:06:01 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jan 09 11:06:01 
+Jan 09 11:06:01 开始
+Jan 09 11:06:04 "connect ECONNREFUSED 103.242.135.130:443"
+Jan 09 11:06:04 京东赚赚 API请求失败，请检查网路重试
+Jan 09 11:06:04 第1个京东账号将要助力的好友["S9KUiH11Mq1bSKBo","S5KkcRh9P9FbRKUygl_UJcg","StvV3SBcQ8Vw","S5KkcEV9ThDGWdWGw0K5u","S5KkcRktN8lyBdEj1kaQMdw","Sa3LolJe5IPhP9aNJQlGD","S5KkcR0pM91aBIhmgxf9bcA","S5KkcREwR_VXRIB78kvRYcg","S5KkcRE8b9QGEIEz0nKRbJw"]
+Jan 09 11:06:04 
+Jan 09 11:06:04 ❗️京东赚赚, 错误!
+Jan 09 11:06:04 TypeError: Cannot read properties of undefined (reading 'totalNum')
+Jan 09 11:06:04     at /scripts/jd_jdzz.js:168:36
+Jan 09 11:06:04     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/scripts/jd_jdzz.js:412:4869)
+Jan 09 11:06:04     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 09 11:06:05 
+Jan 09 11:06:05 ❌ 京东赚赚, 失败! 原因: TypeError: Cannot read properties of undefined (reading 'length')!
+Jan 09 11:06:05 
+Jan 09 11:06:05 
+Jan 09 11:06:05 🔔京东赚赚, 结束! 🕛 4.366 秒
+Jan 09 11:06:05 

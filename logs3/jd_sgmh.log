@@ -1,0 +1,160 @@
+Jan 07 08:47:00 
+Jan 07 08:47:00 🔔闪购盲盒, 开始!
+Jan 07 08:47:00 
+Jan 07 08:47:00 ====================共1个京东账号Cookie=========
+Jan 07 08:47:00 
+Jan 07 08:47:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 上午8:47:00=====================
+Jan 07 08:47:00 
+Jan 07 08:47:00 开始获取闪购盲盒配置文件
+Jan 07 08:47:00 
+Jan 07 08:47:00 共1个京东账号
+Jan 07 08:47:00 
+Jan 07 08:47:00 您提供了0个账号的闪购盲盒助力码
+Jan 07 08:47:00 
+Jan 07 08:47:01 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jan 07 08:47:01 
+Jan 07 08:47:01 开始
+Jan 07 08:47:01 随机取20个码放到您固定的互助码后面(不影响已有固定互助)
+Jan 07 08:47:01 第1个京东账号将要助力的好友["T0159KUiH11Mq1bSKBoCjVQmoaT5kRrbA","T0205KkcF3dzsQ-ldnq09pFMCjVQmoaT5kRrbA","T0225KkcRB9No12FJBulwv8LdACjVQmoaT5kRrbA","T0225KkcRh9P9FbRKUygl_UJcgCjVQmoaT5kRrbA","T012-bQrSBYZ8lXTCjVQmoaT5kRrbA","T016aFDNlquOI_lXJh_wCjVQmoaT5kRrbA","T0225KkcRBdNp1eBch78k_QCIgCjVQmoaT5kRrbA","T023_fxwRxkZ8lTeKBr3nfADdAECjVQmoaT5kRrbA","T0225KkcRksa_VGBJhL2nKYOJQCjVQmoaT5kRrbA","T0225KkcRx8QoFfech32lvMCfQCjVQmoaT5kRrbA","T0205KkcB0N4jyiFUkWlx6N4CjVQmoaT5kRrbA","T0116KkgCkJApAoCjVQmoaT5kRrbA","T0225KkcRBgY91PRdh7ynP4OcQCjVQmoaT5kRrbA","T0115aQtF0tb8lMCjVQmoaT5kRrbA","T0205KkcAGButBSKRUyU_LZ7CjVQmoaT5kRrbA","T0205KkcOn1usR6kfnCmz6BgCjVQmoaT5kRrbA","T014_7x3SBgc9VzTKQCjVQmoaT5kRrbA","T01297gmAl1ZqguLCjVWmIaW5kRrbA","T0225KkcRhkd8gLedRzwwvZZJgCjVQmoaT5kRrbA","T01556I1FURAoAaGT0cCjVQmoaT5kRrbA","T0205KkcGlhYjxOGaWeF7JVoCjVQmoaT5kRrbA","T0225KkcRU9L9QHSIB_0xaIMcQCjVQmoaT5kRrbA","T012-qQ1H0AY_F3WCjVQmoaT5kRrbA","T0225KkcRBpM91CEdBOhnfdedQCjVQmoaT5kRrbA"]
+Jan 07 08:47:01 
+Jan 07 08:47:01 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 07 08:47:01 
+Jan 07 08:47:02 
+Jan 07 08:47:02 ❗️闪购盲盒, 错误!
+Jan 07 08:47:02 TypeError: Cannot read properties of undefined (reading 'bizCode')
+Jan 07 08:47:02     at /scripts/jd_sgmh.js:99:25
+Jan 07 08:47:02     at got.post.then.message (/scripts/jd_sgmh.js:384:5694)
+Jan 07 08:47:02     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 07 08:47:02 【京东账号1】jd_GyKLGOwyLAnM
+Jan 07 08:47:02 任务已完成，本次运行获得京豆0
+Jan 07 08:47:02 
+Jan 07 08:47:02 🔔闪购盲盒, 结束! 🕛 1.187 秒
+Jan 07 08:47:02 
+Jan 07 22:47:00 
+Jan 07 22:47:00 🔔闪购盲盒, 开始!
+Jan 07 22:47:00 
+Jan 07 22:47:00 ====================共1个京东账号Cookie=========
+Jan 07 22:47:00 
+Jan 07 22:47:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 下午10:47:00=====================
+Jan 07 22:47:00 
+Jan 07 22:47:01 开始获取闪购盲盒配置文件
+Jan 07 22:47:01 
+Jan 07 22:47:01 共1个京东账号
+Jan 07 22:47:01 
+Jan 07 22:47:01 您提供了0个账号的闪购盲盒助力码
+Jan 07 22:47:01 
+Jan 07 22:47:01 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jan 07 22:47:01 
+Jan 07 22:47:01 开始
+Jan 07 22:47:02 随机取20个码放到您固定的互助码后面(不影响已有固定互助)
+Jan 07 22:47:02 第1个京东账号将要助力的好友["T0159KUiH11Mq1bSKBoCjVQmoaT5kRrbA","T0205KkcF3dzsQ-ldnq09pFMCjVQmoaT5kRrbA","T0225KkcRB9No12FJBulwv8LdACjVQmoaT5kRrbA","T0225KkcRh9P9FbRKUygl_UJcgCjVQmoaT5kRrbA","T0225KkcRB5K81PRIkunxfZYIQCjVQmoaT5kRrbA","T0225KkcRU1L9wbWcRz9kPMDJQCjVQmoaT5kRrbA","T0225KkcRhlL8AWEJ0vzxv9efQCjVQmoaT5kRrbA","T024vP10Rxkb8lPSPR71lfcLc06UCjVWmIaW5kRrbA","T0205KkcOUVIkRWEeFyzzoRvCjVQmoaT5kRrbA","T0205KkcKmxYrw22aWOswIxfCjVQmoaT5kRrbA","T016a2P6lpSDId9N-YhYCjVQmoaT5kRrbA","T0225KkcRkoR9geFKEn9wvBfIACjVQmoaT5kRrbA","T0187aUmHh0f9VDXJxj2lwCjVQmoaT5kRrbA","T0205KkcNXhcqByfdlyI549fCjVQmoaT5kRrbA","T0225KkcRxZMo1yFI0imkfVcIQCjVQmoaT5kRrbA","T020aUXymJGuIvF-971RlPcNCjVQmoaT5kRrbA","T018yKIxFVhMt4FDt8xcKgCjVQmoaT5kRrbA","T0185KwgG1dKrQWIIBj2kgCjVQmoaT5kRrbA","T0225KkcREsZ_QfUch32nP4LIACjVQmoaT5kRrbA","T0225KkcRxhK9lPQdkmnx_BffACjVQmoaT5kRrbA","T020-akNN0hllBOGQkyX65JoCjVQmoaT5kRrbA","T0205KkcOkVToheBU06twpV3CjVQmoaT5kRrbA","T0114qQtBV0a9FwCjVQmoaT5kRrbA","T0225KkcRBYcoVXVdBj0xv9cfQCjVQmoaT5kRrbA"]
+Jan 07 22:47:02 
+Jan 07 22:47:02 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 07 22:47:02 
+Jan 07 22:47:02 
+Jan 07 22:47:02 ❗️闪购盲盒, 错误!
+Jan 07 22:47:02 TypeError: Cannot read properties of undefined (reading 'bizCode')
+Jan 07 22:47:02     at /scripts/jd_sgmh.js:99:25
+Jan 07 22:47:02     at got.post.then.message (/scripts/jd_sgmh.js:384:5694)
+Jan 07 22:47:02     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 07 22:47:02 【京东账号1】jd_GyKLGOwyLAnM
+Jan 07 22:47:02 任务已完成，本次运行获得京豆0
+Jan 07 22:47:02 
+Jan 07 22:47:02 🔔闪购盲盒, 结束! 🕛 1.292 秒
+Jan 07 22:47:02 
+Jan 08 08:47:00 
+Jan 08 08:47:00 🔔闪购盲盒, 开始!
+Jan 08 08:47:00 
+Jan 08 08:47:00 ====================共1个京东账号Cookie=========
+Jan 08 08:47:00 
+Jan 08 08:47:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 上午8:47:00=====================
+Jan 08 08:47:00 
+Jan 08 08:47:00 开始获取闪购盲盒配置文件
+Jan 08 08:47:00 
+Jan 08 08:47:00 共1个京东账号
+Jan 08 08:47:00 
+Jan 08 08:47:00 您提供了0个账号的闪购盲盒助力码
+Jan 08 08:47:00 
+Jan 08 08:47:01 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jan 08 08:47:01 
+Jan 08 08:47:01 开始
+Jan 08 08:47:01 随机取20个码放到您固定的互助码后面(不影响已有固定互助)
+Jan 08 08:47:01 第1个京东账号将要助力的好友["T0159KUiH11Mq1bSKBoCjVQmoaT5kRrbA","T0205KkcF3dzsQ-ldnq09pFMCjVQmoaT5kRrbA","T0225KkcRB9No12FJBulwv8LdACjVQmoaT5kRrbA","T0225KkcRh9P9FbRKUygl_UJcgCjVQmoaT5kRrbA","T0225KkcRhga9lLeI0nwwPZedgCjVQmoaT5kRrbA","T0147blySRcZ9VbWJwCjVQmoaT5kRrbA","T019-akkOWpAhhCBWEWV8IgCjVQmoaT5kRrbA","T0119rwpCUJZ_VwCjVQmoaT5kRrbA","T012_aY6E0IY_FzeCjVQmoaT5kRrbA","T0205KkcKlxIgg2vXFqM7pdMCjVWmIaW5kRrbA","T0225KkcRhgb8FbecR6hlaMLcwCjVQmoaT5kRrbA","T011775yQxsb_VQCjVQmoaT5kRrbA","T0225KkcRUtNpFDUcU_zkPcNfQCjVQmoaT5kRrbA","T0225KkcR0tK91HWJx6gk6JYcACjVQmoaT5kRrbA","T0225KkcRB4Q9weBIUunwPUPdACjVQmoaT5kRrbA","T0225KkcRBkb8V2EJBLxx6FZJQCjVQmoaT5kRrbA","T0225KkcRksRpAeDIkvylqUMJQCjVQmoaT5kRrbA","T0225KkcR0xI8gbecR70l_MJcACjVQmoaT5kRrbA","T0205KkcHFtqhzaNXmGvwZRLCjVQmoaT5kRrbA","T0205KkcN29CrTSWd0mD_ZF2CjVQmoaT5kRrbA","T0205KkcKk1MsS-0eFCc4K1DCjVQmoaT5kRrbA","T0205KkcFWtdpxKERlK23ZN1CjVQmoaT5kRrbA","T00896QtQkBICjVQmoaT5kRrbA","T0205KkcFWZvsCufRH-l1KV5CjVQmoaT5kRrbA"]
+Jan 08 08:47:01 
+Jan 08 08:47:01 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 08 08:47:01 
+Jan 08 08:47:01 
+Jan 08 08:47:01 ❗️闪购盲盒, 错误!
+Jan 08 08:47:01 TypeError: Cannot read properties of undefined (reading 'bizCode')
+Jan 08 08:47:01     at /scripts/jd_sgmh.js:99:25
+Jan 08 08:47:01     at got.post.then.message (/scripts/jd_sgmh.js:384:5694)
+Jan 08 08:47:01     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 08 08:47:01 【京东账号1】jd_GyKLGOwyLAnM
+Jan 08 08:47:01 任务已完成，本次运行获得京豆0
+Jan 08 08:47:01 
+Jan 08 08:47:01 🔔闪购盲盒, 结束! 🕛 1.143 秒
+Jan 08 08:47:01 
+Jan 08 22:47:00 
+Jan 08 22:47:00 🔔闪购盲盒, 开始!
+Jan 08 22:47:00 
+Jan 08 22:47:00 ====================共1个京东账号Cookie=========
+Jan 08 22:47:00 
+Jan 08 22:47:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 下午10:47:00=====================
+Jan 08 22:47:00 
+Jan 08 22:47:00 开始获取闪购盲盒配置文件
+Jan 08 22:47:00 
+Jan 08 22:47:00 共1个京东账号
+Jan 08 22:47:00 
+Jan 08 22:47:00 您提供了0个账号的闪购盲盒助力码
+Jan 08 22:47:00 
+Jan 08 22:47:01 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jan 08 22:47:01 
+Jan 08 22:47:01 开始
+Jan 08 22:47:01 随机取20个码放到您固定的互助码后面(不影响已有固定互助)
+Jan 08 22:47:01 第1个京东账号将要助力的好友["T0159KUiH11Mq1bSKBoCjVQmoaT5kRrbA","T0205KkcF3dzsQ-ldnq09pFMCjVQmoaT5kRrbA","T0225KkcRB9No12FJBulwv8LdACjVQmoaT5kRrbA","T0225KkcRh9P9FbRKUygl_UJcgCjVQmoaT5kRrbA","T0155aQtF0hFvFbXIBMCjVQmoaT5kRrbA","T0205KkcHFxYohaLZmGr67NUCjVQmoaT5kRrbA","T0225KkcRRse_FfWdhiiwaNcIQCjVQmoaT5kRrbA","T0225KkcR0pK_AXUJ0v8xfACfQCjVQmoaT5kRrbA","T0205KkcGmF6sAu2d1KO3LFLCjVQmoaT5kRrbA","T0127KQkBE9ctxGUCjVQmoaT5kRrbA","T0205KkcKUlAkwWxWXKc5YtrCjVQmoaT5kRrbA","T0225KkcRk9L8FGGKEjzlfdYJgCjVQmoaT5kRrbA","T0225KkcRxdL8laGdUzzlKEKIACjVWmIaW5kRrbA","T0225KkcRk0c_F2FKROil6NfdQCjVQmoaT5kRrbA","T0205KkcCGVlqjS1YmuX74tUCjVQmoaT5kRrbA","T0225KkcRB4Y81eCJxz3nPMJfQCjVQmoaT5kRrbA","T0225KkcRBgY8FaFckv0lqRYIQCjVQmoaT5kRrbA","T0205KkcM0F7vDS_VmOn8bV-CjVWmIaW5kRrbA","T0205KkcAXp5lgWFd2WtwZR8CjVQmoaT5kRrbA","T0127aQwE0Ef9VTSCjVQmoaT5kRrbA","T016a1TvmYO9Id5d96RPCjVQmoaT5kRrbA","T0225KkcRhhKoAGBdUynnKRffQCjVQmoaT5kRrbA","T0149rgvGU1BoArXIQCjVWmIaW5kRrbA","T0225KkcRBtPoAfXdROgl_QCdwCjVQmoaT5kRrbA"]
+Jan 08 22:47:01 
+Jan 08 22:47:01 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 08 22:47:01 
+Jan 08 22:47:01 
+Jan 08 22:47:01 ❗️闪购盲盒, 错误!
+Jan 08 22:47:01 TypeError: Cannot read properties of undefined (reading 'bizCode')
+Jan 08 22:47:01     at /scripts/jd_sgmh.js:99:25
+Jan 08 22:47:01     at got.post.then.message (/scripts/jd_sgmh.js:384:5694)
+Jan 08 22:47:01     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 08 22:47:01 【京东账号1】jd_GyKLGOwyLAnM
+Jan 08 22:47:01 任务已完成，本次运行获得京豆0
+Jan 08 22:47:01 
+Jan 08 22:47:01 🔔闪购盲盒, 结束! 🕛 1.282 秒
+Jan 08 22:47:01 
+Jan 09 08:47:00 
+Jan 09 08:47:00 🔔闪购盲盒, 开始!
+Jan 09 08:47:00 
+Jan 09 08:47:00 ====================共1个京东账号Cookie=========
+Jan 09 08:47:00 
+Jan 09 08:47:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 上午8:47:00=====================
+Jan 09 08:47:00 
+Jan 09 08:47:00 开始获取闪购盲盒配置文件
+Jan 09 08:47:00 
+Jan 09 08:47:00 共1个京东账号
+Jan 09 08:47:00 
+Jan 09 08:47:00 您提供了0个账号的闪购盲盒助力码
+Jan 09 08:47:00 
+Jan 09 08:47:00 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jan 09 08:47:00 
+Jan 09 08:47:00 开始
+Jan 09 08:47:01 随机取20个码放到您固定的互助码后面(不影响已有固定互助)
+Jan 09 08:47:01 第1个京东账号将要助力的好友["T0159KUiH11Mq1bSKBoCjVQmoaT5kRrbA","T0205KkcF3dzsQ-ldnq09pFMCjVQmoaT5kRrbA","T0225KkcRB9No12FJBulwv8LdACjVQmoaT5kRrbA","T0225KkcRh9P9FbRKUygl_UJcgCjVQmoaT5kRrbA","T012_bgtHldliSi0CjVQmoaT5kRrbA","T0205KkcCUF4iwWmYkOU6o5RCjVQmoaT5kRrbA","T0225KkcRxZMo1yFI0imkfVcIQCjVQmoaT5kRrbA","T018v_VwQhsc8lTUIBub1ACjVWmIaW5kRrbA","T0225KkcRxcR8waCdh7zwP8NdgCjVQmoaT5kRrbA","T022uvl6QRse9lDRPR7xkv8NcgCjVQmoaT5kRrbA","T0225KkcRExMoVDfJRj0l_NbIgCjVQmoaT5kRrbA","T0205KkcA3RKjymCYmmMx6VCCjVQmoaT5kRrbA","T0205KkcIXl5sjCsQ06czKhKCjVQmoaT5kRrbA","T0225KkcRx9K91aBIUunwvdbdACjVQmoaT5kRrbA","T015ypUPSBkR91TWIBICjVWmIaW5kRrbA","T022v_53Qhwc8VzUPR7xkP8MfQCjVQmoaT5kRrbA","T0205KkcHVhgryKzfk2TzY5xCjVQmoaT5kRrbA","T023uv5wQh8Q81HKJxjxkP4PcEMCjVQmoaT5kRrbA","T015_bgtCUFHolTfIR4CjVQmoaT5kRrbA","T014v_17Qx4Q8FfXIACjVQmoaT5kRrbA","T0225KkcRB4b8QLRchv2nKUCfACjVQmoaT5kRrbA","T0225KkcRRtK9gfQch7wlPBZcwCjVQmoaT5kRrbA","T0205KkcNmNstSW2RX-N_qt-CjVQmoaT5kRrbA","T0225KkcR09L_FDfJBP2wPRYIgCjVQmoaT5kRrbA"]
+Jan 09 08:47:01 
+Jan 09 08:47:01 ******开始【京东账号1】jd_GyKLGOwyLAnM*********
+Jan 09 08:47:01 
+Jan 09 08:47:01 
+Jan 09 08:47:01 ❗️闪购盲盒, 错误!
+Jan 09 08:47:01 TypeError: Cannot read properties of undefined (reading 'bizCode')
+Jan 09 08:47:01     at /scripts/jd_sgmh.js:99:25
+Jan 09 08:47:01     at got.post.then.message (/scripts/jd_sgmh.js:384:5694)
+Jan 09 08:47:01     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 09 08:47:01 【京东账号1】jd_GyKLGOwyLAnM
+Jan 09 08:47:01 任务已完成，本次运行获得京豆0
+Jan 09 08:47:01 
+Jan 09 08:47:01 🔔闪购盲盒, 结束! 🕛 1.004 秒
+Jan 09 08:47:01 

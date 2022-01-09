@@ -1,0 +1,1146 @@
+Jan 07 07:18:01 
+Jan 07 07:18:01 🔔零食街, 开始!
+Jan 07 07:18:01 
+Jan 07 07:18:01 ====================共1个京东账号Cookie=========
+Jan 07 07:18:01 
+Jan 07 07:18:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 上午7:18:01=====================
+Jan 07 07:18:01 
+Jan 07 07:18:01 
+Jan 07 07:18:01 *****开始【京东账号1】18055698302_p*****
+Jan 07 07:18:01 
+Jan 07 07:18:01 Token:AAFh13ipADDUZo37N5MDn3ARzDTUM0GJ8I0NTi-9icxk6s-xLmnsEkaMU0RBQzryxf1ZSQqsh3Q
+Jan 07 07:18:02 {"success":true,"errorCode":"200","data":{"status":200,"data":"记录成功！","msg":""},"errorMessage":""}
+Jan 07 07:18:04 助力码：853A32CCB51965A1779D964896D8239C2507CEEE1C82C5FAB3626270813C6972652DFCA338160A7673C5812A45C0EC3FEB6090E56CFD81F696A17988574F70D0DDDA672BF446E2FCC0D1D6B4E52826D1
+Jan 07 07:18:16 执行任务，第1次，浏览会场
+Jan 07 07:18:36 任务完成
+Jan 07 07:18:41 执行任务，第2次，浏览会场
+Jan 07 07:19:00 任务完成
+Jan 07 07:19:05 执行任务，第3次，浏览会场
+Jan 07 07:19:17 任务完成
+Jan 07 07:19:23 执行任务，第1次，浏览店铺
+Jan 07 07:19:35 任务完成
+Jan 07 07:19:40 执行任务，第2次，浏览店铺
+Jan 07 07:19:51 任务完成
+Jan 07 07:19:56 执行任务，第3次，浏览店铺
+Jan 07 07:20:02 任务完成
+Jan 07 07:20:07 执行任务，第4次，浏览店铺
+Jan 07 07:20:22 任务完成
+Jan 07 07:20:27 执行任务，第1次，浏览推荐食品商品
+Jan 07 07:20:36 任务完成
+Jan 07 07:20:41 执行任务，第2次，浏览推荐食品商品
+Jan 07 07:21:04 任务完成
+Jan 07 07:21:09 执行任务，第3次，浏览推荐食品商品
+Jan 07 07:21:36 任务完成
+Jan 07 07:21:41 执行任务，第4次，浏览推荐食品商品
+Jan 07 07:22:41 <html>
+Jan 07 07:22:41 <head><title>404 Not Found</title></head>
+Jan 07 07:22:41 <body>
+Jan 07 07:22:41 <center><h1>404 Not Found</h1></center>
+Jan 07 07:22:41 <hr><center>nginx/1.19.10</center>
+Jan 07 07:22:41 </body>
+Jan 07 07:22:41 </html>
+Jan 07 07:22:41 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:22:41 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:22:41 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:22:41 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:22:41 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:22:41 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:22:41 
+Jan 07 07:22:41 
+Jan 07 07:22:41 ❗️零食街, 错误!
+Jan 07 07:22:41 SyntaxError: Unexpected token < in JSON at position 0
+Jan 07 07:22:41     at JSON.parse (<anonymous>)
+Jan 07 07:22:41     at dealReturn (/scripts/jd_foodRunning.js:273:15)
+Jan 07 07:22:41     at /scripts/jd_foodRunning.js:247:9
+Jan 07 07:22:41     at /scripts/jd_foodRunning.js:483:5858
+Jan 07 07:22:41     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 07 07:22:43 任务：加购商品,不执行
+Jan 07 07:22:43 任务：观看直播(取消),不执行
+Jan 07 07:22:43 任务：邀请好友,不执行
+Jan 07 07:22:43 任务：首页树领取酷币,不执行
+Jan 07 07:22:43 任务：添加入会,不执行
+Jan 07 07:23:26 首页树金币，开始第1次，领取
+Jan 07 07:24:27 <html>
+Jan 07 07:24:27 <head><title>404 Not Found</title></head>
+Jan 07 07:24:27 <body>
+Jan 07 07:24:27 <center><h1>404 Not Found</h1></center>
+Jan 07 07:24:27 <hr><center>nginx/1.19.10</center>
+Jan 07 07:24:27 </body>
+Jan 07 07:24:27 </html>
+Jan 07 07:24:27 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:24:27 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:24:27 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:24:27 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:24:27 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:24:27 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:24:27 
+Jan 07 07:24:27 
+Jan 07 07:24:27 ❗️零食街, 错误!
+Jan 07 07:24:27 SyntaxError: Unexpected token < in JSON at position 0
+Jan 07 07:24:27     at JSON.parse (<anonymous>)
+Jan 07 07:24:27     at dealReturn (/scripts/jd_foodRunning.js:273:15)
+Jan 07 07:24:27     at /scripts/jd_foodRunning.js:247:9
+Jan 07 07:24:27     at /scripts/jd_foodRunning.js:483:5858
+Jan 07 07:24:27     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 07 07:25:27 <html>
+Jan 07 07:25:27 <head><title>404 Not Found</title></head>
+Jan 07 07:25:27 <body>
+Jan 07 07:25:27 <center><h1>404 Not Found</h1></center>
+Jan 07 07:25:27 <hr><center>nginx/1.19.10</center>
+Jan 07 07:25:27 </body>
+Jan 07 07:25:27 </html>
+Jan 07 07:25:27 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:25:27 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:25:27 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:25:27 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:25:27 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:25:27 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:25:27 
+Jan 07 07:25:27 
+Jan 07 07:25:27 ❗️零食街, 错误!
+Jan 07 07:25:27 SyntaxError: Unexpected token < in JSON at position 0
+Jan 07 07:25:27     at JSON.parse (<anonymous>)
+Jan 07 07:25:27     at dealReturn (/scripts/jd_foodRunning.js:273:15)
+Jan 07 07:25:27     at /scripts/jd_foodRunning.js:247:9
+Jan 07 07:25:27     at /scripts/jd_foodRunning.js:483:5858
+Jan 07 07:25:27     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 07 07:25:32 首页树金币，开始第2次，领取
+Jan 07 07:26:32 <html>
+Jan 07 07:26:32 <head><title>404 Not Found</title></head>
+Jan 07 07:26:32 <body>
+Jan 07 07:26:32 <center><h1>404 Not Found</h1></center>
+Jan 07 07:26:32 <hr><center>nginx/1.19.10</center>
+Jan 07 07:26:32 </body>
+Jan 07 07:26:32 </html>
+Jan 07 07:26:32 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:32 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:32 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:32 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:32 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:32 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:32 
+Jan 07 07:26:32 
+Jan 07 07:26:32 ❗️零食街, 错误!
+Jan 07 07:26:32 SyntaxError: Unexpected token < in JSON at position 0
+Jan 07 07:26:32     at JSON.parse (<anonymous>)
+Jan 07 07:26:32     at dealReturn (/scripts/jd_foodRunning.js:273:15)
+Jan 07 07:26:32     at /scripts/jd_foodRunning.js:247:9
+Jan 07 07:26:32     at /scripts/jd_foodRunning.js:483:5858
+Jan 07 07:26:32     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 07 07:26:33 <html>
+Jan 07 07:26:33 <head><title>404 Not Found</title></head>
+Jan 07 07:26:33 <body>
+Jan 07 07:26:33 <center><h1>404 Not Found</h1></center>
+Jan 07 07:26:33 <hr><center>nginx/1.19.10</center>
+Jan 07 07:26:33 </body>
+Jan 07 07:26:33 </html>
+Jan 07 07:26:33 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:33 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:33 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:33 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:33 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:33 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:33 
+Jan 07 07:26:33 
+Jan 07 07:26:33 ❗️零食街, 错误!
+Jan 07 07:26:33 SyntaxError: Unexpected token < in JSON at position 0
+Jan 07 07:26:33     at JSON.parse (<anonymous>)
+Jan 07 07:26:33     at dealReturn (/scripts/jd_foodRunning.js:273:15)
+Jan 07 07:26:33     at /scripts/jd_foodRunning.js:247:9
+Jan 07 07:26:33     at /scripts/jd_foodRunning.js:483:5858
+Jan 07 07:26:33     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 07 07:26:38 首页树金币，开始第3次，领取
+Jan 07 07:26:38 <html>
+Jan 07 07:26:38 <head><title>404 Not Found</title></head>
+Jan 07 07:26:38 <body>
+Jan 07 07:26:38 <center><h1>404 Not Found</h1></center>
+Jan 07 07:26:38 <hr><center>nginx/1.19.10</center>
+Jan 07 07:26:38 </body>
+Jan 07 07:26:38 </html>
+Jan 07 07:26:38 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:38 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:38 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:38 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:38 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:38 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:38 
+Jan 07 07:26:38 
+Jan 07 07:26:38 ❗️零食街, 错误!
+Jan 07 07:26:38 SyntaxError: Unexpected token < in JSON at position 0
+Jan 07 07:26:38     at JSON.parse (<anonymous>)
+Jan 07 07:26:38     at dealReturn (/scripts/jd_foodRunning.js:273:15)
+Jan 07 07:26:38     at /scripts/jd_foodRunning.js:247:9
+Jan 07 07:26:38     at /scripts/jd_foodRunning.js:483:5858
+Jan 07 07:26:38     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 07 07:26:39 <html>
+Jan 07 07:26:39 <head><title>404 Not Found</title></head>
+Jan 07 07:26:39 <body>
+Jan 07 07:26:39 <center><h1>404 Not Found</h1></center>
+Jan 07 07:26:39 <hr><center>nginx/1.19.10</center>
+Jan 07 07:26:39 </body>
+Jan 07 07:26:39 </html>
+Jan 07 07:26:39 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:39 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:39 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:39 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:39 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:39 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:39 
+Jan 07 07:26:39 
+Jan 07 07:26:39 ❗️零食街, 错误!
+Jan 07 07:26:39 SyntaxError: Unexpected token < in JSON at position 0
+Jan 07 07:26:39     at JSON.parse (<anonymous>)
+Jan 07 07:26:39     at dealReturn (/scripts/jd_foodRunning.js:273:15)
+Jan 07 07:26:39     at /scripts/jd_foodRunning.js:247:9
+Jan 07 07:26:39     at /scripts/jd_foodRunning.js:483:5858
+Jan 07 07:26:39     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 07 07:26:44 开始玩一次游戏,等待10S
+Jan 07 07:26:54 <html>
+Jan 07 07:26:54 <head><title>404 Not Found</title></head>
+Jan 07 07:26:54 <body>
+Jan 07 07:26:54 <center><h1>404 Not Found</h1></center>
+Jan 07 07:26:54 <hr><center>nginx/1.19.10</center>
+Jan 07 07:26:54 </body>
+Jan 07 07:26:54 </html>
+Jan 07 07:26:54 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:54 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:54 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:54 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:54 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:54 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:54 
+Jan 07 07:26:54 
+Jan 07 07:26:54 ❗️零食街, 错误!
+Jan 07 07:26:54 SyntaxError: Unexpected token < in JSON at position 0
+Jan 07 07:26:54     at JSON.parse (<anonymous>)
+Jan 07 07:26:54     at dealReturn (/scripts/jd_foodRunning.js:273:15)
+Jan 07 07:26:54     at /scripts/jd_foodRunning.js:247:9
+Jan 07 07:26:54     at /scripts/jd_foodRunning.js:483:5858
+Jan 07 07:26:54     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 07 07:26:54 <html>
+Jan 07 07:26:54 <head><title>404 Not Found</title></head>
+Jan 07 07:26:54 <body>
+Jan 07 07:26:54 <center><h1>404 Not Found</h1></center>
+Jan 07 07:26:54 <hr><center>nginx/1.19.10</center>
+Jan 07 07:26:54 </body>
+Jan 07 07:26:54 </html>
+Jan 07 07:26:54 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:54 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:54 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:54 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:54 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:54 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:54 
+Jan 07 07:26:54 
+Jan 07 07:26:54 ❗️零食街, 错误!
+Jan 07 07:26:54 SyntaxError: Unexpected token < in JSON at position 0
+Jan 07 07:26:54     at JSON.parse (<anonymous>)
+Jan 07 07:26:54     at dealReturn (/scripts/jd_foodRunning.js:273:15)
+Jan 07 07:26:54     at /scripts/jd_foodRunning.js:247:9
+Jan 07 07:26:54     at /scripts/jd_foodRunning.js:483:5858
+Jan 07 07:26:54     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 07 07:26:56 <html>
+Jan 07 07:26:56 <head><title>404 Not Found</title></head>
+Jan 07 07:26:56 <body>
+Jan 07 07:26:56 <center><h1>404 Not Found</h1></center>
+Jan 07 07:26:56 <hr><center>nginx/1.19.10</center>
+Jan 07 07:26:56 </body>
+Jan 07 07:26:56 </html>
+Jan 07 07:26:56 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:56 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:56 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:56 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:56 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:56 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 07:26:56 
+Jan 07 07:26:56 
+Jan 07 07:26:56 ❗️零食街, 错误!
+Jan 07 07:26:56 SyntaxError: Unexpected token < in JSON at position 0
+Jan 07 07:26:56     at JSON.parse (<anonymous>)
+Jan 07 07:26:56     at dealReturn (/scripts/jd_foodRunning.js:273:15)
+Jan 07 07:26:56     at /scripts/jd_foodRunning.js:247:9
+Jan 07 07:26:56     at /scripts/jd_foodRunning.js:483:5858
+Jan 07 07:26:56     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 07 07:27:01 
+Jan 07 07:27:01 🔔零食街, 结束! 🕛 540.49 秒
+Jan 07 07:27:01 
+Jan 07 12:18:00 
+Jan 07 12:18:00 🔔零食街, 开始!
+Jan 07 12:18:00 
+Jan 07 12:18:00 ====================共1个京东账号Cookie=========
+Jan 07 12:18:00 
+Jan 07 12:18:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 下午12:18:00=====================
+Jan 07 12:18:00 
+Jan 07 12:18:01 
+Jan 07 12:18:01 *****开始【京东账号1】18055698302_p*****
+Jan 07 12:18:01 
+Jan 07 12:18:01 Token:AAFh1775ADAulOMFCUsqH5asGX1cXzon0neeEqa2avFsABOv6o1apkcKxGF6NSfjqbDzWoBe4Ck
+Jan 07 12:18:03 {"success":true,"errorCode":"200","data":{"status":200,"data":"记录成功！","msg":""},"errorMessage":""}
+Jan 07 12:18:05 助力码：853A32CCB51965A1779D964896D8239C2507CEEE1C82C5FAB3626270813C6972652DFCA338160A7673C5812A45C0EC3FEB6090E56CFD81F696A17988574F70D0DDDA672BF446E2FCC0D1D6B4E52826D1
+Jan 07 12:18:11 执行任务，第1次，浏览会场
+Jan 07 12:18:18 任务完成
+Jan 07 12:18:23 执行任务，第2次，浏览会场
+Jan 07 12:18:26 任务完成
+Jan 07 12:18:31 执行任务，第3次，浏览会场
+Jan 07 12:18:33 任务完成
+Jan 07 12:18:38 执行任务，第1次，浏览店铺
+Jan 07 12:18:42 任务完成
+Jan 07 12:18:47 执行任务，第2次，浏览店铺
+Jan 07 12:18:50 任务完成
+Jan 07 12:18:55 执行任务，第3次，浏览店铺
+Jan 07 12:18:57 任务完成
+Jan 07 12:19:02 执行任务，第4次，浏览店铺
+Jan 07 12:19:04 任务完成
+Jan 07 12:19:09 执行任务，第1次，浏览推荐食品商品
+Jan 07 12:19:11 任务完成
+Jan 07 12:19:16 执行任务，第2次，浏览推荐食品商品
+Jan 07 12:19:19 任务完成
+Jan 07 12:19:24 执行任务，第3次，浏览推荐食品商品
+Jan 07 12:19:26 任务完成
+Jan 07 12:19:31 执行任务，第4次，浏览推荐食品商品
+Jan 07 12:19:35 任务完成
+Jan 07 12:19:40 任务：加购商品,不执行
+Jan 07 12:19:40 任务：观看直播(取消),不执行
+Jan 07 12:19:40 任务：邀请好友,不执行
+Jan 07 12:19:40 任务：首页树领取酷币,不执行
+Jan 07 12:19:40 任务：添加入会,不执行
+Jan 07 12:20:04 首页树金币，开始第1次，领取
+Jan 07 12:20:22 任务完成,获得
+Jan 07 12:20:31 {"success":true,"errorCode":"200","data":{"status":200,"data":"记录成功！","msg":""},"errorMessage":""}
+Jan 07 12:20:36 首页树金币，开始第2次，领取
+Jan 07 12:20:52 任务完成,获得
+Jan 07 12:21:10 {"success":true,"errorCode":"200","data":{"status":200,"data":"记录成功！","msg":""},"errorMessage":""}
+Jan 07 12:21:15 首页树金币，开始第3次，领取
+Jan 07 12:21:15 任务完成,获得
+Jan 07 12:21:16 {"success":true,"errorCode":"200","data":{"status":200,"data":"记录成功！","msg":""},"errorMessage":""}
+Jan 07 12:21:21 开始玩一次游戏,等待10S
+Jan 07 12:21:33 游戏完成
+Jan 07 12:21:33 {"success":true,"errorCode":"200","data":{"status":200,"data":"记录成功！","msg":""},"errorMessage":""}
+Jan 07 12:21:38 第1个宝箱,已经打开
+Jan 07 12:21:38 第2个宝箱,已经打开
+Jan 07 12:21:38 第3个宝箱,已经打开
+Jan 07 12:21:40 
+Jan 07 12:21:40 🔔零食街, 结束! 🕛 220.377 秒
+Jan 07 12:21:40 
+Jan 07 20:18:01 
+Jan 07 20:18:01 🔔零食街, 开始!
+Jan 07 20:18:01 
+Jan 07 20:18:01 ====================共1个京东账号Cookie=========
+Jan 07 20:18:01 
+Jan 07 20:18:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 下午8:18:01=====================
+Jan 07 20:18:01 
+Jan 07 20:18:01 
+Jan 07 20:18:01 *****开始【京东账号1】18055698302_p*****
+Jan 07 20:18:01 
+Jan 07 20:18:01 Token:AAFh2C95ADBEXQNhhI-pH_kYGhWT7fXXfWJzrhlEjlcTxLFgQWvoqF6DRlxSImK7bG0IGCwg7xM
+Jan 07 20:18:02 {"success":true,"errorCode":"200","data":{"status":200,"data":"记录成功！","msg":""},"errorMessage":""}
+Jan 07 20:18:04 助力码：853A32CCB51965A1779D964896D8239C2507CEEE1C82C5FAB3626270813C6972652DFCA338160A7673C5812A45C0EC3FEB6090E56CFD81F696A17988574F70D0DDDA672BF446E2FCC0D1D6B4E52826D1
+Jan 07 20:18:23 执行任务，第1次，浏览会场
+Jan 07 20:18:32 任务完成
+Jan 07 20:18:37 执行任务，第2次，浏览会场
+Jan 07 20:18:56 任务完成
+Jan 07 20:19:01 执行任务，第3次，浏览会场
+Jan 07 20:19:06 任务完成
+Jan 07 20:19:11 执行任务，第1次，浏览店铺
+Jan 07 20:19:23 任务完成
+Jan 07 20:19:28 执行任务，第2次，浏览店铺
+Jan 07 20:19:42 任务完成
+Jan 07 20:19:47 执行任务，第3次，浏览店铺
+Jan 07 20:19:56 任务完成
+Jan 07 20:20:01 执行任务，第4次，浏览店铺
+Jan 07 20:20:13 任务完成
+Jan 07 20:20:18 执行任务，第1次，浏览推荐食品商品
+Jan 07 20:21:12 任务完成
+Jan 07 20:21:17 执行任务，第2次，浏览推荐食品商品
+Jan 07 20:22:17 <html>
+Jan 07 20:22:17 <head><title>404 Not Found</title></head>
+Jan 07 20:22:17 <body>
+Jan 07 20:22:17 <center><h1>404 Not Found</h1></center>
+Jan 07 20:22:17 <hr><center>nginx/1.19.10</center>
+Jan 07 20:22:17 </body>
+Jan 07 20:22:17 </html>
+Jan 07 20:22:17 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 20:22:17 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 20:22:17 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 20:22:17 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 20:22:17 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 20:22:17 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 20:22:17 
+Jan 07 20:22:17 
+Jan 07 20:22:17 ❗️零食街, 错误!
+Jan 07 20:22:17 SyntaxError: Unexpected token < in JSON at position 0
+Jan 07 20:22:17     at JSON.parse (<anonymous>)
+Jan 07 20:22:17     at dealReturn (/scripts/jd_foodRunning.js:273:15)
+Jan 07 20:22:17     at /scripts/jd_foodRunning.js:247:9
+Jan 07 20:22:17     at /scripts/jd_foodRunning.js:483:5858
+Jan 07 20:22:17     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 07 20:22:19 执行任务，第3次，浏览推荐食品商品
+Jan 07 20:22:47 <html>
+Jan 07 20:22:47 <head><title>404 Not Found</title></head>
+Jan 07 20:22:47 <body>
+Jan 07 20:22:47 <center><h1>404 Not Found</h1></center>
+Jan 07 20:22:47 <hr><center>nginx/1.19.10</center>
+Jan 07 20:22:47 </body>
+Jan 07 20:22:47 </html>
+Jan 07 20:22:47 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 20:22:47 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 20:22:47 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 20:22:47 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 20:22:47 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 20:22:47 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 20:22:47 
+Jan 07 20:22:47 
+Jan 07 20:22:47 ❗️零食街, 错误!
+Jan 07 20:22:47 SyntaxError: Unexpected token < in JSON at position 0
+Jan 07 20:22:47     at JSON.parse (<anonymous>)
+Jan 07 20:22:47     at dealReturn (/scripts/jd_foodRunning.js:273:15)
+Jan 07 20:22:47     at /scripts/jd_foodRunning.js:247:9
+Jan 07 20:22:47     at /scripts/jd_foodRunning.js:483:5858
+Jan 07 20:22:47     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 07 20:22:52 执行任务，第4次，浏览推荐食品商品
+Jan 07 20:22:52 <html>
+Jan 07 20:22:52 <head><title>404 Not Found</title></head>
+Jan 07 20:22:52 <body>
+Jan 07 20:22:52 <center><h1>404 Not Found</h1></center>
+Jan 07 20:22:52 <hr><center>nginx/1.19.10</center>
+Jan 07 20:22:52 </body>
+Jan 07 20:22:52 </html>
+Jan 07 20:22:52 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 20:22:52 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 20:22:52 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 20:22:52 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 20:22:52 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 20:22:52 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 20:22:52 
+Jan 07 20:22:52 
+Jan 07 20:22:52 ❗️零食街, 错误!
+Jan 07 20:22:52 SyntaxError: Unexpected token < in JSON at position 0
+Jan 07 20:22:52     at JSON.parse (<anonymous>)
+Jan 07 20:22:52     at dealReturn (/scripts/jd_foodRunning.js:273:15)
+Jan 07 20:22:52     at /scripts/jd_foodRunning.js:247:9
+Jan 07 20:22:52     at /scripts/jd_foodRunning.js:483:5858
+Jan 07 20:22:52     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 07 20:22:54 任务：加购商品,不执行
+Jan 07 20:22:54 任务：观看直播(取消),不执行
+Jan 07 20:22:54 任务：邀请好友,不执行
+Jan 07 20:22:54 任务：首页树领取酷币,不执行
+Jan 07 20:22:54 任务：添加入会,不执行
+Jan 07 20:22:58 <html>
+Jan 07 20:22:58 <head><title>404 Not Found</title></head>
+Jan 07 20:22:58 <body>
+Jan 07 20:22:58 <center><h1>404 Not Found</h1></center>
+Jan 07 20:22:58 <hr><center>nginx/1.19.10</center>
+Jan 07 20:22:58 </body>
+Jan 07 20:22:58 </html>
+Jan 07 20:22:58 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 20:22:58 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 20:22:58 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 20:22:58 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 20:22:58 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 20:22:58 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 20:22:58 
+Jan 07 20:22:58 
+Jan 07 20:22:58 ❗️零食街, 错误!
+Jan 07 20:22:58 SyntaxError: Unexpected token < in JSON at position 0
+Jan 07 20:22:58     at JSON.parse (<anonymous>)
+Jan 07 20:22:58     at dealReturn (/scripts/jd_foodRunning.js:273:15)
+Jan 07 20:22:58     at /scripts/jd_foodRunning.js:247:9
+Jan 07 20:22:58     at /scripts/jd_foodRunning.js:483:5858
+Jan 07 20:22:58     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 07 20:22:58 获取首页树数据失败
+Jan 07 20:22:58 开始玩一次游戏,等待10S
+Jan 07 20:23:33 游戏完成
+Jan 07 20:24:33 <html>
+Jan 07 20:24:33 <head><title>404 Not Found</title></head>
+Jan 07 20:24:33 <body>
+Jan 07 20:24:33 <center><h1>404 Not Found</h1></center>
+Jan 07 20:24:33 <hr><center>nginx/1.19.10</center>
+Jan 07 20:24:33 </body>
+Jan 07 20:24:33 </html>
+Jan 07 20:24:33 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 20:24:33 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 20:24:33 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 20:24:33 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 20:24:33 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 20:24:33 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 20:24:33 
+Jan 07 20:24:33 
+Jan 07 20:24:33 ❗️零食街, 错误!
+Jan 07 20:24:33 SyntaxError: Unexpected token < in JSON at position 0
+Jan 07 20:24:33     at JSON.parse (<anonymous>)
+Jan 07 20:24:33     at dealReturn (/scripts/jd_foodRunning.js:273:15)
+Jan 07 20:24:33     at /scripts/jd_foodRunning.js:247:9
+Jan 07 20:24:33     at /scripts/jd_foodRunning.js:483:5858
+Jan 07 20:24:33     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 07 20:24:35 <html>
+Jan 07 20:24:35 <head><title>404 Not Found</title></head>
+Jan 07 20:24:35 <body>
+Jan 07 20:24:35 <center><h1>404 Not Found</h1></center>
+Jan 07 20:24:35 <hr><center>nginx/1.19.10</center>
+Jan 07 20:24:35 </body>
+Jan 07 20:24:35 </html>
+Jan 07 20:24:35 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 20:24:35 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 20:24:35 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 20:24:35 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 20:24:35 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 20:24:35 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 07 20:24:35 
+Jan 07 20:24:35 
+Jan 07 20:24:35 ❗️零食街, 错误!
+Jan 07 20:24:35 SyntaxError: Unexpected token < in JSON at position 0
+Jan 07 20:24:35     at JSON.parse (<anonymous>)
+Jan 07 20:24:35     at dealReturn (/scripts/jd_foodRunning.js:273:15)
+Jan 07 20:24:35     at /scripts/jd_foodRunning.js:247:9
+Jan 07 20:24:35     at /scripts/jd_foodRunning.js:483:5858
+Jan 07 20:24:35     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 07 20:24:40 
+Jan 07 20:24:40 🔔零食街, 结束! 🕛 399.342 秒
+Jan 07 20:24:40 
+Jan 08 07:18:00 
+Jan 08 07:18:00 🔔零食街, 开始!
+Jan 08 07:18:00 
+Jan 08 07:18:00 ====================共1个京东账号Cookie=========
+Jan 08 07:18:00 
+Jan 08 07:18:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 上午7:18:00=====================
+Jan 08 07:18:00 
+Jan 08 07:18:01 
+Jan 08 07:18:01 *****开始【京东账号1】18055698302_p*****
+Jan 08 07:18:01 
+Jan 08 07:18:01 Token:AAFh2MopADCE-paAy_g986KUBIMDzd4LaFOoaHl3deNpI3lUrLoEBpdDyCCooUtrg124CV_yT0Q
+Jan 08 07:18:02 {"success":true,"errorCode":"200","data":{"status":200,"data":"记录成功！","msg":""},"errorMessage":""}
+Jan 08 07:18:04 助力码：853A32CCB51965A1779D964896D8239C2507CEEE1C82C5FAB3626270813C6972652DFCA338160A7673C5812A45C0EC3FEB6090E56CFD81F696A17988574F70D0DDDA672BF446E2FCC0D1D6B4E52826D1
+Jan 08 07:18:16 执行任务，第1次，浏览会场
+Jan 08 07:18:30 任务完成
+Jan 08 07:18:35 执行任务，第2次，浏览会场
+Jan 08 07:18:55 任务完成
+Jan 08 07:19:00 执行任务，第3次，浏览会场
+Jan 08 07:19:09 任务完成
+Jan 08 07:19:14 执行任务，第1次，浏览店铺
+Jan 08 07:19:27 任务完成
+Jan 08 07:19:33 执行任务，第2次，浏览店铺
+Jan 08 07:19:44 任务完成
+Jan 08 07:19:49 执行任务，第3次，浏览店铺
+Jan 08 07:19:59 任务完成
+Jan 08 07:20:04 执行任务，第4次，浏览店铺
+Jan 08 07:20:42 任务完成
+Jan 08 07:20:47 执行任务，第1次，浏览推荐食品商品
+Jan 08 07:21:04 任务完成
+Jan 08 07:21:09 执行任务，第2次，浏览推荐食品商品
+Jan 08 07:22:09 <html>
+Jan 08 07:22:09 <head><title>404 Not Found</title></head>
+Jan 08 07:22:09 <body>
+Jan 08 07:22:09 <center><h1>404 Not Found</h1></center>
+Jan 08 07:22:09 <hr><center>nginx/1.19.10</center>
+Jan 08 07:22:09 </body>
+Jan 08 07:22:09 </html>
+Jan 08 07:22:09 
+Jan 08 07:22:09 
+Jan 08 07:22:09 ❗️零食街, 错误!
+Jan 08 07:22:09 SyntaxError: Unexpected token < in JSON at position 0
+Jan 08 07:22:09     at JSON.parse (<anonymous>)
+Jan 08 07:22:09     at dealReturn (/scripts/jd_foodRunning.js:273:15)
+Jan 08 07:22:09     at /scripts/jd_foodRunning.js:247:9
+Jan 08 07:22:09     at /scripts/jd_foodRunning.js:483:5858
+Jan 08 07:22:09     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 08 07:22:11 执行任务，第3次，浏览推荐食品商品
+Jan 08 07:23:10 <html>
+Jan 08 07:23:10 <head><title>404 Not Found</title></head>
+Jan 08 07:23:10 <body>
+Jan 08 07:23:10 <center><h1>404 Not Found</h1></center>
+Jan 08 07:23:10 <hr><center>nginx/1.19.10</center>
+Jan 08 07:23:10 </body>
+Jan 08 07:23:10 </html>
+Jan 08 07:23:10 
+Jan 08 07:23:10 
+Jan 08 07:23:10 ❗️零食街, 错误!
+Jan 08 07:23:10 SyntaxError: Unexpected token < in JSON at position 0
+Jan 08 07:23:10     at JSON.parse (<anonymous>)
+Jan 08 07:23:10     at dealReturn (/scripts/jd_foodRunning.js:273:15)
+Jan 08 07:23:10     at /scripts/jd_foodRunning.js:247:9
+Jan 08 07:23:10     at /scripts/jd_foodRunning.js:483:5858
+Jan 08 07:23:10     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 08 07:23:15 执行任务，第4次，浏览推荐食品商品
+Jan 08 07:23:15 <html>
+Jan 08 07:23:15 <head><title>404 Not Found</title></head>
+Jan 08 07:23:15 <body>
+Jan 08 07:23:15 <center><h1>404 Not Found</h1></center>
+Jan 08 07:23:15 <hr><center>nginx/1.19.10</center>
+Jan 08 07:23:15 </body>
+Jan 08 07:23:15 </html>
+Jan 08 07:23:15 
+Jan 08 07:23:15 
+Jan 08 07:23:15 ❗️零食街, 错误!
+Jan 08 07:23:15 SyntaxError: Unexpected token < in JSON at position 0
+Jan 08 07:23:15     at JSON.parse (<anonymous>)
+Jan 08 07:23:15     at dealReturn (/scripts/jd_foodRunning.js:273:15)
+Jan 08 07:23:15     at /scripts/jd_foodRunning.js:247:9
+Jan 08 07:23:15     at /scripts/jd_foodRunning.js:483:5858
+Jan 08 07:23:15     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 08 07:23:17 任务：加购商品,不执行
+Jan 08 07:23:17 任务：观看直播(取消),不执行
+Jan 08 07:23:17 任务：邀请好友,不执行
+Jan 08 07:23:17 任务：首页树领取酷币,不执行
+Jan 08 07:23:17 任务：添加入会,不执行
+Jan 08 07:23:21 <html>
+Jan 08 07:23:21 <head><title>404 Not Found</title></head>
+Jan 08 07:23:21 <body>
+Jan 08 07:23:21 <center><h1>404 Not Found</h1></center>
+Jan 08 07:23:21 <hr><center>nginx/1.19.10</center>
+Jan 08 07:23:21 </body>
+Jan 08 07:23:21 </html>
+Jan 08 07:23:21 
+Jan 08 07:23:21 
+Jan 08 07:23:21 ❗️零食街, 错误!
+Jan 08 07:23:21 SyntaxError: Unexpected token < in JSON at position 0
+Jan 08 07:23:21     at JSON.parse (<anonymous>)
+Jan 08 07:23:21     at dealReturn (/scripts/jd_foodRunning.js:273:15)
+Jan 08 07:23:21     at /scripts/jd_foodRunning.js:247:9
+Jan 08 07:23:21     at /scripts/jd_foodRunning.js:483:5858
+Jan 08 07:23:21     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 08 07:23:21 获取首页树数据失败
+Jan 08 07:23:21 开始玩一次游戏,等待10S
+Jan 08 07:24:31 <html>
+Jan 08 07:24:31 <head><title>404 Not Found</title></head>
+Jan 08 07:24:31 <body>
+Jan 08 07:24:31 <center><h1>404 Not Found</h1></center>
+Jan 08 07:24:31 <hr><center>nginx/1.19.10</center>
+Jan 08 07:24:31 </body>
+Jan 08 07:24:31 </html>
+Jan 08 07:24:31 
+Jan 08 07:24:31 
+Jan 08 07:24:31 ❗️零食街, 错误!
+Jan 08 07:24:31 SyntaxError: Unexpected token < in JSON at position 0
+Jan 08 07:24:31     at JSON.parse (<anonymous>)
+Jan 08 07:24:31     at dealReturn (/scripts/jd_foodRunning.js:273:15)
+Jan 08 07:24:31     at /scripts/jd_foodRunning.js:247:9
+Jan 08 07:24:31     at /scripts/jd_foodRunning.js:483:5858
+Jan 08 07:24:31     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 08 07:25:31 <html>
+Jan 08 07:25:31 <head><title>404 Not Found</title></head>
+Jan 08 07:25:31 <body>
+Jan 08 07:25:31 <center><h1>404 Not Found</h1></center>
+Jan 08 07:25:31 <hr><center>nginx/1.19.10</center>
+Jan 08 07:25:31 </body>
+Jan 08 07:25:31 </html>
+Jan 08 07:25:31 
+Jan 08 07:25:31 
+Jan 08 07:25:31 ❗️零食街, 错误!
+Jan 08 07:25:31 SyntaxError: Unexpected token < in JSON at position 0
+Jan 08 07:25:31     at JSON.parse (<anonymous>)
+Jan 08 07:25:31     at dealReturn (/scripts/jd_foodRunning.js:273:15)
+Jan 08 07:25:31     at /scripts/jd_foodRunning.js:247:9
+Jan 08 07:25:31     at /scripts/jd_foodRunning.js:483:5858
+Jan 08 07:25:31     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 08 07:26:33 <html>
+Jan 08 07:26:33 <head><title>404 Not Found</title></head>
+Jan 08 07:26:33 <body>
+Jan 08 07:26:33 <center><h1>404 Not Found</h1></center>
+Jan 08 07:26:33 <hr><center>nginx/1.19.10</center>
+Jan 08 07:26:33 </body>
+Jan 08 07:26:33 </html>
+Jan 08 07:26:33 
+Jan 08 07:26:33 
+Jan 08 07:26:33 ❗️零食街, 错误!
+Jan 08 07:26:33 SyntaxError: Unexpected token < in JSON at position 0
+Jan 08 07:26:33     at JSON.parse (<anonymous>)
+Jan 08 07:26:33     at dealReturn (/scripts/jd_foodRunning.js:273:15)
+Jan 08 07:26:33     at /scripts/jd_foodRunning.js:247:9
+Jan 08 07:26:33     at /scripts/jd_foodRunning.js:483:5858
+Jan 08 07:26:33     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 08 07:26:38 
+Jan 08 07:26:38 🔔零食街, 结束! 🕛 517.616 秒
+Jan 08 07:26:38 
+Jan 08 12:18:00 
+Jan 08 12:18:00 🔔零食街, 开始!
+Jan 08 12:18:00 
+Jan 08 12:18:00 ====================共1个京东账号Cookie=========
+Jan 08 12:18:00 
+Jan 08 12:18:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 下午12:18:00=====================
+Jan 08 12:18:00 
+Jan 08 12:18:00 
+Jan 08 12:18:00 *****开始【京东账号1】18055698302_p*****
+Jan 08 12:18:00 
+Jan 08 12:18:00 Token:AAFh2RB4ADBkPQVlJ7m7vXzGHyawuWRjC8TsfRf9USioQSVvcoTGhyLywh8U7sYqQor6--xdQLM
+Jan 08 12:18:02 {"success":true,"errorCode":"200","data":{"status":200,"data":"记录成功！","msg":""},"errorMessage":""}
+Jan 08 12:18:04 助力码：853A32CCB51965A1779D964896D8239C2507CEEE1C82C5FAB3626270813C6972652DFCA338160A7673C5812A45C0EC3FEB6090E56CFD81F696A17988574F70D0DDDA672BF446E2FCC0D1D6B4E52826D1
+Jan 08 12:18:08 执行任务，第1次，浏览会场
+Jan 08 12:18:15 任务完成
+Jan 08 12:18:20 执行任务，第2次，浏览会场
+Jan 08 12:18:22 任务完成
+Jan 08 12:18:27 执行任务，第3次，浏览会场
+Jan 08 12:18:30 任务完成
+Jan 08 12:18:35 执行任务，第1次，浏览店铺
+Jan 08 12:18:38 任务完成
+Jan 08 12:18:43 执行任务，第2次，浏览店铺
+Jan 08 12:18:46 任务完成
+Jan 08 12:18:51 执行任务，第3次，浏览店铺
+Jan 08 12:18:53 任务完成
+Jan 08 12:18:58 执行任务，第4次，浏览店铺
+Jan 08 12:19:00 任务完成
+Jan 08 12:19:05 执行任务，第1次，浏览推荐食品商品
+Jan 08 12:19:08 任务完成
+Jan 08 12:19:13 执行任务，第2次，浏览推荐食品商品
+Jan 08 12:19:15 任务完成
+Jan 08 12:19:20 执行任务，第3次，浏览推荐食品商品
+Jan 08 12:19:22 任务完成
+Jan 08 12:19:27 执行任务，第4次，浏览推荐食品商品
+Jan 08 12:19:29 任务完成
+Jan 08 12:19:34 任务：加购商品,不执行
+Jan 08 12:19:34 任务：观看直播(取消),不执行
+Jan 08 12:19:34 任务：邀请好友,不执行
+Jan 08 12:19:34 任务：首页树领取酷币,不执行
+Jan 08 12:19:34 任务：添加入会,不执行
+Jan 08 12:19:42 首页树金币，开始第1次，领取
+Jan 08 12:19:50 任务完成,获得
+Jan 08 12:20:16 {"success":true,"errorCode":"200","data":{"status":200,"data":"记录成功！","msg":""},"errorMessage":""}
+Jan 08 12:20:21 首页树金币，开始第2次，领取
+Jan 08 12:20:25 任务完成,获得
+Jan 08 12:20:30 {"success":true,"errorCode":"200","data":{"status":200,"data":"记录成功！","msg":""},"errorMessage":""}
+Jan 08 12:20:35 首页树金币，开始第3次，领取
+Jan 08 12:20:47 任务完成,获得
+Jan 08 12:20:54 {"success":true,"errorCode":"200","data":{"status":200,"data":"记录成功！","msg":""},"errorMessage":""}
+Jan 08 12:20:59 开始玩一次游戏,等待10S
+Jan 08 12:21:11 游戏完成
+Jan 08 12:21:18 {"success":true,"errorCode":"200","data":{"status":200,"data":"记录成功！","msg":""},"errorMessage":""}
+Jan 08 12:21:25 第1个宝箱,已经打开
+Jan 08 12:21:25 第2个宝箱,已经打开
+Jan 08 12:21:25 第3个宝箱,已经打开
+Jan 08 12:21:27 
+Jan 08 12:21:27 🔔零食街, 结束! 🕛 206.869 秒
+Jan 08 12:21:27 
+Jan 08 20:18:00 
+Jan 08 20:18:00 🔔零食街, 开始!
+Jan 08 20:18:00 
+Jan 08 20:18:00 ====================共1个京东账号Cookie=========
+Jan 08 20:18:00 
+Jan 08 20:18:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 下午8:18:00=====================
+Jan 08 20:18:00 
+Jan 08 20:18:01 
+Jan 08 20:18:01 *****开始【京东账号1】18055698302_p*****
+Jan 08 20:18:01 
+Jan 08 20:18:01 Token:AAFh2YD5ADByuVxNxJ1DseRVUz2SdHnQsnLIq_gy7eFVI8OXAqJw-ackAfY203_59Z9SZWWGQdI
+Jan 08 20:18:02 {"success":true,"errorCode":"200","data":{"status":200,"data":"记录成功！","msg":""},"errorMessage":""}
+Jan 08 20:18:04 助力码：853A32CCB51965A1779D964896D8239C2507CEEE1C82C5FAB3626270813C6972652DFCA338160A7673C5812A45C0EC3FEB6090E56CFD81F696A17988574F70D0DDDA672BF446E2FCC0D1D6B4E52826D1
+Jan 08 20:18:18 执行任务，第1次，浏览会场
+Jan 08 20:18:36 任务完成
+Jan 08 20:18:41 执行任务，第2次，浏览会场
+Jan 08 20:19:00 任务完成
+Jan 08 20:19:05 执行任务，第3次，浏览会场
+Jan 08 20:19:19 任务完成
+Jan 08 20:19:24 执行任务，第1次，浏览店铺
+Jan 08 20:19:35 任务完成
+Jan 08 20:19:40 执行任务，第2次，浏览店铺
+Jan 08 20:19:49 任务完成
+Jan 08 20:19:54 执行任务，第3次，浏览店铺
+Jan 08 20:20:10 任务完成
+Jan 08 20:20:15 执行任务，第4次，浏览店铺
+Jan 08 20:20:22 任务完成
+Jan 08 20:20:27 执行任务，第1次，浏览推荐食品商品
+Jan 08 20:21:19 任务完成
+Jan 08 20:21:24 执行任务，第2次，浏览推荐食品商品
+Jan 08 20:21:28 任务完成
+Jan 08 20:21:33 执行任务，第3次，浏览推荐食品商品
+Jan 08 20:21:37 任务完成
+Jan 08 20:21:42 执行任务，第4次，浏览推荐食品商品
+Jan 08 20:22:02 任务完成
+Jan 08 20:22:07 任务：加购商品,不执行
+Jan 08 20:22:07 任务：观看直播(取消),不执行
+Jan 08 20:22:07 任务：邀请好友,不执行
+Jan 08 20:22:07 任务：首页树领取酷币,不执行
+Jan 08 20:22:07 任务：添加入会,不执行
+Jan 08 20:23:10 <html>
+Jan 08 20:23:10 <head><title>404 Not Found</title></head>
+Jan 08 20:23:10 <body>
+Jan 08 20:23:10 <center><h1>404 Not Found</h1></center>
+Jan 08 20:23:10 <hr><center>nginx/1.19.10</center>
+Jan 08 20:23:10 </body>
+Jan 08 20:23:10 </html>
+Jan 08 20:23:10 
+Jan 08 20:23:10 
+Jan 08 20:23:10 ❗️零食街, 错误!
+Jan 08 20:23:10 SyntaxError: Unexpected token < in JSON at position 0
+Jan 08 20:23:10     at JSON.parse (<anonymous>)
+Jan 08 20:23:10     at dealReturn (/scripts/jd_foodRunning.js:273:15)
+Jan 08 20:23:10     at /scripts/jd_foodRunning.js:247:9
+Jan 08 20:23:10     at /scripts/jd_foodRunning.js:483:5858
+Jan 08 20:23:10     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 08 20:23:10 获取首页树数据失败
+Jan 08 20:23:10 开始玩一次游戏,等待10S
+Jan 08 20:23:21 <html>
+Jan 08 20:23:21 <head><title>404 Not Found</title></head>
+Jan 08 20:23:21 <body>
+Jan 08 20:23:21 <center><h1>404 Not Found</h1></center>
+Jan 08 20:23:21 <hr><center>nginx/1.19.10</center>
+Jan 08 20:23:21 </body>
+Jan 08 20:23:21 </html>
+Jan 08 20:23:21 
+Jan 08 20:23:21 
+Jan 08 20:23:21 ❗️零食街, 错误!
+Jan 08 20:23:21 SyntaxError: Unexpected token < in JSON at position 0
+Jan 08 20:23:21     at JSON.parse (<anonymous>)
+Jan 08 20:23:21     at dealReturn (/scripts/jd_foodRunning.js:273:15)
+Jan 08 20:23:21     at /scripts/jd_foodRunning.js:247:9
+Jan 08 20:23:21     at /scripts/jd_foodRunning.js:483:5858
+Jan 08 20:23:21     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 08 20:23:21 <html>
+Jan 08 20:23:21 <head><title>404 Not Found</title></head>
+Jan 08 20:23:21 <body>
+Jan 08 20:23:21 <center><h1>404 Not Found</h1></center>
+Jan 08 20:23:21 <hr><center>nginx/1.19.10</center>
+Jan 08 20:23:21 </body>
+Jan 08 20:23:21 </html>
+Jan 08 20:23:21 
+Jan 08 20:23:21 
+Jan 08 20:23:21 ❗️零食街, 错误!
+Jan 08 20:23:21 SyntaxError: Unexpected token < in JSON at position 0
+Jan 08 20:23:21     at JSON.parse (<anonymous>)
+Jan 08 20:23:21     at dealReturn (/scripts/jd_foodRunning.js:273:15)
+Jan 08 20:23:21     at /scripts/jd_foodRunning.js:247:9
+Jan 08 20:23:21     at /scripts/jd_foodRunning.js:483:5858
+Jan 08 20:23:21     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 08 20:24:23 <html>
+Jan 08 20:24:23 <head><title>404 Not Found</title></head>
+Jan 08 20:24:23 <body>
+Jan 08 20:24:23 <center><h1>404 Not Found</h1></center>
+Jan 08 20:24:23 <hr><center>nginx/1.19.10</center>
+Jan 08 20:24:23 </body>
+Jan 08 20:24:23 </html>
+Jan 08 20:24:23 
+Jan 08 20:24:23 
+Jan 08 20:24:23 ❗️零食街, 错误!
+Jan 08 20:24:23 SyntaxError: Unexpected token < in JSON at position 0
+Jan 08 20:24:23     at JSON.parse (<anonymous>)
+Jan 08 20:24:23     at dealReturn (/scripts/jd_foodRunning.js:273:15)
+Jan 08 20:24:23     at /scripts/jd_foodRunning.js:247:9
+Jan 08 20:24:23     at /scripts/jd_foodRunning.js:483:5858
+Jan 08 20:24:23     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 08 20:24:28 
+Jan 08 20:24:28 🔔零食街, 结束! 🕛 387.607 秒
+Jan 08 20:24:28 
+Jan 09 07:18:00 
+Jan 09 07:18:00 🔔零食街, 开始!
+Jan 09 07:18:00 
+Jan 09 07:18:00 ====================共1个京东账号Cookie=========
+Jan 09 07:18:00 
+Jan 09 07:18:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 上午7:18:00=====================
+Jan 09 07:18:00 
+Jan 09 07:18:01 
+Jan 09 07:18:01 *****开始【京东账号1】18055698302_p*****
+Jan 09 07:18:01 
+Jan 09 07:18:01 Token:AAFh2hupADCBUsHyKu7w3VcP6MpIei7L9Urr3HDnLYzWkef7ZvD1kjy8lRcjX6-kxSMQeWw_vE8
+Jan 09 07:18:02 {"success":true,"errorCode":"200","data":{"status":200,"data":"记录成功！","msg":""},"errorMessage":""}
+Jan 09 07:18:04 助力码：853A32CCB51965A1779D964896D8239C2507CEEE1C82C5FAB3626270813C6972652DFCA338160A7673C5812A45C0EC3FEB6090E56CFD81F696A17988574F70D0DDDA672BF446E2FCC0D1D6B4E52826D1
+Jan 09 07:18:17 执行任务，第1次，浏览会场
+Jan 09 07:18:36 任务完成
+Jan 09 07:18:41 执行任务，第2次，浏览会场
+Jan 09 07:18:52 任务完成
+Jan 09 07:18:57 执行任务，第3次，浏览会场
+Jan 09 07:19:15 任务完成
+Jan 09 07:19:20 执行任务，第1次，浏览店铺
+Jan 09 07:19:31 任务完成
+Jan 09 07:19:36 执行任务，第2次，浏览店铺
+Jan 09 07:19:43 任务完成
+Jan 09 07:19:48 执行任务，第3次，浏览店铺
+Jan 09 07:19:55 任务完成
+Jan 09 07:20:00 执行任务，第4次，浏览店铺
+Jan 09 07:20:06 任务完成
+Jan 09 07:20:11 执行任务，第1次，浏览推荐食品商品
+Jan 09 07:20:18 任务完成
+Jan 09 07:20:23 执行任务，第2次，浏览推荐食品商品
+Jan 09 07:20:51 任务完成
+Jan 09 07:20:56 执行任务，第3次，浏览推荐食品商品
+Jan 09 07:21:19 任务完成
+Jan 09 07:21:24 执行任务，第4次，浏览推荐食品商品
+Jan 09 07:21:26 任务完成
+Jan 09 07:21:31 任务：加购商品,不执行
+Jan 09 07:21:31 任务：观看直播(取消),不执行
+Jan 09 07:21:31 任务：邀请好友,不执行
+Jan 09 07:21:31 任务：首页树领取酷币,不执行
+Jan 09 07:21:31 任务：添加入会,不执行
+Jan 09 07:21:38 首页树金币，开始第1次，领取
+Jan 09 07:21:59 任务完成,获得
+Jan 09 07:22:00 {"success":true,"errorCode":"200","data":{"status":200,"data":"记录成功！","msg":""},"errorMessage":""}
+Jan 09 07:22:05 首页树金币，开始第2次，领取
+Jan 09 07:22:10 任务完成,获得
+Jan 09 07:22:31 {"success":true,"errorCode":"200","data":{"status":200,"data":"记录成功！","msg":""},"errorMessage":""}
+Jan 09 07:22:36 首页树金币，开始第3次，领取
+Jan 09 07:23:36 <html>
+Jan 09 07:23:36 <head><title>404 Not Found</title></head>
+Jan 09 07:23:36 <body>
+Jan 09 07:23:36 <center><h1>404 Not Found</h1></center>
+Jan 09 07:23:36 <hr><center>nginx/1.19.10</center>
+Jan 09 07:23:36 </body>
+Jan 09 07:23:36 </html>
+Jan 09 07:23:36 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 09 07:23:36 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 09 07:23:36 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 09 07:23:36 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 09 07:23:36 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 09 07:23:36 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 09 07:23:36 
+Jan 09 07:23:36 
+Jan 09 07:23:36 ❗️零食街, 错误!
+Jan 09 07:23:36 SyntaxError: Unexpected token < in JSON at position 0
+Jan 09 07:23:36     at JSON.parse (<anonymous>)
+Jan 09 07:23:36     at dealReturn (/scripts/jd_foodRunning.js:273:15)
+Jan 09 07:23:36     at /scripts/jd_foodRunning.js:247:9
+Jan 09 07:23:36     at /scripts/jd_foodRunning.js:483:5858
+Jan 09 07:23:36     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 09 07:23:36 <html>
+Jan 09 07:23:36 <head><title>404 Not Found</title></head>
+Jan 09 07:23:36 <body>
+Jan 09 07:23:36 <center><h1>404 Not Found</h1></center>
+Jan 09 07:23:36 <hr><center>nginx/1.19.10</center>
+Jan 09 07:23:36 </body>
+Jan 09 07:23:36 </html>
+Jan 09 07:23:36 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 09 07:23:36 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 09 07:23:36 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 09 07:23:36 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 09 07:23:36 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 09 07:23:36 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 09 07:23:36 
+Jan 09 07:23:36 
+Jan 09 07:23:36 ❗️零食街, 错误!
+Jan 09 07:23:36 SyntaxError: Unexpected token < in JSON at position 0
+Jan 09 07:23:36     at JSON.parse (<anonymous>)
+Jan 09 07:23:36     at dealReturn (/scripts/jd_foodRunning.js:273:15)
+Jan 09 07:23:36     at /scripts/jd_foodRunning.js:247:9
+Jan 09 07:23:36     at /scripts/jd_foodRunning.js:483:5858
+Jan 09 07:23:36     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 09 07:23:41 开始玩一次游戏,等待10S
+Jan 09 07:23:57 游戏完成
+Jan 09 07:24:57 <html>
+Jan 09 07:24:57 <head><title>404 Not Found</title></head>
+Jan 09 07:24:57 <body>
+Jan 09 07:24:57 <center><h1>404 Not Found</h1></center>
+Jan 09 07:24:57 <hr><center>nginx/1.19.10</center>
+Jan 09 07:24:57 </body>
+Jan 09 07:24:57 </html>
+Jan 09 07:24:57 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 09 07:24:57 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 09 07:24:57 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 09 07:24:57 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 09 07:24:57 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 09 07:24:57 <!-- a padding to disable MSIE and Chrome friendly error page -->
+Jan 09 07:24:57 
+Jan 09 07:24:57 
+Jan 09 07:24:57 ❗️零食街, 错误!
+Jan 09 07:24:57 SyntaxError: Unexpected token < in JSON at position 0
+Jan 09 07:24:57     at JSON.parse (<anonymous>)
+Jan 09 07:24:57     at dealReturn (/scripts/jd_foodRunning.js:273:15)
+Jan 09 07:24:57     at /scripts/jd_foodRunning.js:247:9
+Jan 09 07:24:57     at /scripts/jd_foodRunning.js:483:5858
+Jan 09 07:24:57     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 09 07:25:53 第1个宝箱,已经打开
+Jan 09 07:25:53 第2个宝箱,已经打开
+Jan 09 07:25:53 第3个宝箱,已经打开
+Jan 09 07:25:55 
+Jan 09 07:25:55 🔔零食街, 结束! 🕛 475.176 秒
+Jan 09 07:25:55 
+Jan 09 12:18:01 
+Jan 09 12:18:01 🔔零食街, 开始!
+Jan 09 12:18:01 
+Jan 09 12:18:01 ====================共1个京东账号Cookie=========
+Jan 09 12:18:01 
+Jan 09 12:18:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 下午12:18:01=====================
+Jan 09 12:18:01 
+Jan 09 12:18:01 
+Jan 09 12:18:01 *****开始【京东账号1】18055698302_p*****
+Jan 09 12:18:01 
+Jan 09 12:18:01 Token:AAFh2mH5ADBllqoUTJjpuN7OCFovDSX1ruk014ASnUwm9YbWK-CXpmILk9wSpFKU5e26V6P7dyg
+Jan 09 12:18:02 {"success":true,"errorCode":"200","data":{"status":200,"data":"记录成功！","msg":""},"errorMessage":""}
+Jan 09 12:18:04 助力码：853A32CCB51965A1779D964896D8239C2507CEEE1C82C5FAB3626270813C6972652DFCA338160A7673C5812A45C0EC3FEB6090E56CFD81F696A17988574F70D0DDDA672BF446E2FCC0D1D6B4E52826D1
+Jan 09 12:18:10 执行任务，第1次，浏览会场
+Jan 09 12:18:18 任务完成
+Jan 09 12:18:23 执行任务，第2次，浏览会场
+Jan 09 12:18:25 任务完成
+Jan 09 12:18:30 执行任务，第3次，浏览会场
+Jan 09 12:18:32 任务完成
+Jan 09 12:18:37 执行任务，第1次，浏览店铺
+Jan 09 12:18:41 任务完成
+Jan 09 12:18:46 执行任务，第2次，浏览店铺
+Jan 09 12:18:49 任务完成
+Jan 09 12:18:54 执行任务，第3次，浏览店铺
+Jan 09 12:18:56 任务完成
+Jan 09 12:19:01 执行任务，第4次，浏览店铺
+Jan 09 12:19:03 任务完成
+Jan 09 12:19:08 执行任务，第1次，浏览推荐食品商品
+Jan 09 12:19:11 任务完成
+Jan 09 12:19:16 执行任务，第2次，浏览推荐食品商品
+Jan 09 12:19:18 任务完成
+Jan 09 12:19:23 执行任务，第3次，浏览推荐食品商品
+Jan 09 12:19:25 任务完成
+Jan 09 12:19:30 执行任务，第4次，浏览推荐食品商品
+Jan 09 12:19:33 任务完成
+Jan 09 12:19:38 任务：加购商品,不执行
+Jan 09 12:19:38 任务：观看直播(取消),不执行
+Jan 09 12:19:38 任务：邀请好友,不执行
+Jan 09 12:19:38 任务：首页树领取酷币,不执行
+Jan 09 12:19:38 任务：添加入会,不执行
+Jan 09 12:19:45 首页树金币，开始第1次，领取
+Jan 09 12:20:00 任务完成,获得
+Jan 09 12:20:12 {"success":true,"errorCode":"200","data":{"status":200,"data":"记录成功！","msg":""},"errorMessage":""}
+Jan 09 12:20:17 首页树金币，开始第2次，领取
+Jan 09 12:20:28 任务完成,获得
+Jan 09 12:20:35 {"success":true,"errorCode":"200","data":{"status":200,"data":"记录成功！","msg":""},"errorMessage":""}
+Jan 09 12:20:40 首页树金币，开始第3次，领取
+Jan 09 12:20:44 任务完成,获得
+Jan 09 12:20:51 {"success":true,"errorCode":"200","data":{"status":200,"data":"记录成功！","msg":""},"errorMessage":""}
+Jan 09 12:20:56 开始玩一次游戏,等待10S
+Jan 09 12:21:09 游戏完成
+Jan 09 12:21:09 {"success":true,"errorCode":"200","data":{"status":200,"data":"记录成功！","msg":""},"errorMessage":""}
+Jan 09 12:21:25 第1个宝箱,已经打开
+Jan 09 12:21:25 第2个宝箱,已经打开
+Jan 09 12:21:25 第3个宝箱,已经打开
+Jan 09 12:21:27 
+Jan 09 12:21:27 🔔零食街, 结束! 🕛 206.657 秒
+Jan 09 12:21:27 
+Jan 09 20:18:00 
+Jan 09 20:18:00 🔔零食街, 开始!
+Jan 09 20:18:00 
+Jan 09 20:18:00 ====================共1个京东账号Cookie=========
+Jan 09 20:18:00 
+Jan 09 20:18:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 下午8:18:00=====================
+Jan 09 20:18:00 
+Jan 09 20:18:00 
+Jan 09 20:18:00 *****开始【京东账号1】18055698302_p*****
+Jan 09 20:18:00 
+Jan 09 20:18:01 Token:AAFh2tJ5ADDKDuhbcara8N7x_X1XEDeYDlvgJWVtFQtBCuXSRWcCvSH1uvrsCpVIQ4nPzNuL8rY
+Jan 09 20:18:02 {"success":true,"errorCode":"200","data":{"status":200,"data":"记录成功！","msg":""},"errorMessage":""}
+Jan 09 20:18:04 助力码：853A32CCB51965A1779D964896D8239C2507CEEE1C82C5FAB3626270813C6972652DFCA338160A7673C5812A45C0EC3FEB6090E56CFD81F696A17988574F70D0DDDA672BF446E2FCC0D1D6B4E52826D1
+Jan 09 20:18:11 执行任务，第1次，浏览会场
+Jan 09 20:18:31 任务完成
+Jan 09 20:18:36 执行任务，第2次，浏览会场
+Jan 09 20:18:36 undefined
+Jan 09 20:18:36 
+Jan 09 20:18:36 ❗️零食街, 错误!
+Jan 09 20:18:36 SyntaxError: Unexpected token u in JSON at position 0
+Jan 09 20:18:36     at JSON.parse (<anonymous>)
+Jan 09 20:18:36     at dealReturn (/scripts/jd_foodRunning.js:273:15)
+Jan 09 20:18:36     at /scripts/jd_foodRunning.js:247:9
+Jan 09 20:18:36     at /scripts/jd_foodRunning.js:483:5858
+Jan 09 20:18:36     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 09 20:18:38 执行任务，第3次，浏览会场
+Jan 09 20:18:53 任务完成
+Jan 09 20:18:58 执行任务，第1次，浏览店铺
+Jan 09 20:19:05 任务完成
+Jan 09 20:19:10 执行任务，第2次，浏览店铺
+Jan 09 20:19:26 任务完成
+Jan 09 20:19:31 执行任务，第3次，浏览店铺
+Jan 09 20:19:38 任务完成
+Jan 09 20:19:43 执行任务，第4次，浏览店铺
+Jan 09 20:19:55 任务完成
+Jan 09 20:20:00 执行任务，第1次，浏览推荐食品商品
+Jan 09 20:20:27 任务完成
+Jan 09 20:20:32 执行任务，第2次，浏览推荐食品商品
+Jan 09 20:21:01 任务完成
+Jan 09 20:21:06 执行任务，第3次，浏览推荐食品商品
+Jan 09 20:22:25 <html>
+Jan 09 20:22:25 <head><title>404 Not Found</title></head>
+Jan 09 20:22:25 <body>
+Jan 09 20:22:25 <center><h1>404 Not Found</h1></center>
+Jan 09 20:22:25 <hr><center>nginx/1.19.10</center>
+Jan 09 20:22:25 </body>
+Jan 09 20:22:25 </html>
+Jan 09 20:22:25 
+Jan 09 20:22:25 
+Jan 09 20:22:25 ❗️零食街, 错误!
+Jan 09 20:22:25 SyntaxError: Unexpected token < in JSON at position 0
+Jan 09 20:22:25     at JSON.parse (<anonymous>)
+Jan 09 20:22:25     at dealReturn (/scripts/jd_foodRunning.js:273:15)
+Jan 09 20:22:25     at /scripts/jd_foodRunning.js:247:9
+Jan 09 20:22:25     at /scripts/jd_foodRunning.js:483:5858
+Jan 09 20:22:25     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 09 20:22:30 执行任务，第4次，浏览推荐食品商品
+Jan 09 20:23:53 <html>
+Jan 09 20:23:53 <head><title>404 Not Found</title></head>
+Jan 09 20:23:53 <body>
+Jan 09 20:23:53 <center><h1>404 Not Found</h1></center>
+Jan 09 20:23:53 <hr><center>nginx/1.19.10</center>
+Jan 09 20:23:53 </body>
+Jan 09 20:23:53 </html>
+Jan 09 20:23:53 
+Jan 09 20:23:53 
+Jan 09 20:23:53 ❗️零食街, 错误!
+Jan 09 20:23:53 SyntaxError: Unexpected token < in JSON at position 0
+Jan 09 20:23:53     at JSON.parse (<anonymous>)
+Jan 09 20:23:53     at dealReturn (/scripts/jd_foodRunning.js:273:15)
+Jan 09 20:23:53     at /scripts/jd_foodRunning.js:247:9
+Jan 09 20:23:53     at /scripts/jd_foodRunning.js:483:5858
+Jan 09 20:23:53     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 09 20:23:58 任务：加购商品,不执行
+Jan 09 20:23:58 任务：观看直播(取消),不执行
+Jan 09 20:23:58 任务：邀请好友,不执行
+Jan 09 20:23:58 任务：首页树领取酷币,不执行
+Jan 09 20:23:58 任务：添加入会,不执行
+Jan 09 20:25:01 <html>
+Jan 09 20:25:01 <head><title>404 Not Found</title></head>
+Jan 09 20:25:01 <body>
+Jan 09 20:25:01 <center><h1>404 Not Found</h1></center>
+Jan 09 20:25:01 <hr><center>nginx/1.19.10</center>
+Jan 09 20:25:01 </body>
+Jan 09 20:25:01 </html>
+Jan 09 20:25:01 
+Jan 09 20:25:01 
+Jan 09 20:25:01 ❗️零食街, 错误!
+Jan 09 20:25:01 SyntaxError: Unexpected token < in JSON at position 0
+Jan 09 20:25:01     at JSON.parse (<anonymous>)
+Jan 09 20:25:01     at dealReturn (/scripts/jd_foodRunning.js:273:15)
+Jan 09 20:25:01     at /scripts/jd_foodRunning.js:247:9
+Jan 09 20:25:01     at /scripts/jd_foodRunning.js:483:5858
+Jan 09 20:25:01     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 09 20:25:01 获取首页树数据失败
+Jan 09 20:25:01 开始玩一次游戏,等待10S
+Jan 09 20:25:11 <html>
+Jan 09 20:25:11 <head><title>404 Not Found</title></head>
+Jan 09 20:25:11 <body>
+Jan 09 20:25:11 <center><h1>404 Not Found</h1></center>
+Jan 09 20:25:11 <hr><center>nginx/1.19.10</center>
+Jan 09 20:25:11 </body>
+Jan 09 20:25:11 </html>
+Jan 09 20:25:11 
+Jan 09 20:25:11 
+Jan 09 20:25:11 ❗️零食街, 错误!
+Jan 09 20:25:11 SyntaxError: Unexpected token < in JSON at position 0
+Jan 09 20:25:11     at JSON.parse (<anonymous>)
+Jan 09 20:25:11     at dealReturn (/scripts/jd_foodRunning.js:273:15)
+Jan 09 20:25:11     at /scripts/jd_foodRunning.js:247:9
+Jan 09 20:25:11     at /scripts/jd_foodRunning.js:483:5858
+Jan 09 20:25:11     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 09 20:25:11 <html>
+Jan 09 20:25:11 <head><title>404 Not Found</title></head>
+Jan 09 20:25:11 <body>
+Jan 09 20:25:11 <center><h1>404 Not Found</h1></center>
+Jan 09 20:25:11 <hr><center>nginx/1.19.10</center>
+Jan 09 20:25:11 </body>
+Jan 09 20:25:11 </html>
+Jan 09 20:25:11 
+Jan 09 20:25:11 
+Jan 09 20:25:11 ❗️零食街, 错误!
+Jan 09 20:25:11 SyntaxError: Unexpected token < in JSON at position 0
+Jan 09 20:25:11     at JSON.parse (<anonymous>)
+Jan 09 20:25:11     at dealReturn (/scripts/jd_foodRunning.js:273:15)
+Jan 09 20:25:11     at /scripts/jd_foodRunning.js:247:9
+Jan 09 20:25:11     at /scripts/jd_foodRunning.js:483:5858
+Jan 09 20:25:11     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 09 20:25:13 <html>
+Jan 09 20:25:13 <head><title>404 Not Found</title></head>
+Jan 09 20:25:13 <body>
+Jan 09 20:25:13 <center><h1>404 Not Found</h1></center>
+Jan 09 20:25:13 <hr><center>nginx/1.19.10</center>
+Jan 09 20:25:13 </body>
+Jan 09 20:25:13 </html>
+Jan 09 20:25:13 
+Jan 09 20:25:13 
+Jan 09 20:25:13 ❗️零食街, 错误!
+Jan 09 20:25:13 SyntaxError: Unexpected token < in JSON at position 0
+Jan 09 20:25:13     at JSON.parse (<anonymous>)
+Jan 09 20:25:13     at dealReturn (/scripts/jd_foodRunning.js:273:15)
+Jan 09 20:25:13     at /scripts/jd_foodRunning.js:247:9
+Jan 09 20:25:13     at /scripts/jd_foodRunning.js:483:5858
+Jan 09 20:25:13     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Jan 09 20:25:18 
+Jan 09 20:25:18 🔔零食街, 结束! 🕛 438.336 秒
+Jan 09 20:25:18 

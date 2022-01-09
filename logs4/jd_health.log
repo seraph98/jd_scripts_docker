@@ -1,0 +1,608 @@
+Jan 07 00:20:01 
+Jan 07 00:20:01 🔔东东健康社区, 开始!
+Jan 07 00:20:01 
+Jan 07 00:20:01 ====================共1个京东账号Cookie=========
+Jan 07 00:20:01 
+Jan 07 00:20:02 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 上午12:20:01=====================
+Jan 07 00:20:02 
+Jan 07 00:20:02 如果出现提示 ?.data. 错误，请升级nodejs版本(进入容器后，apk add nodejs-current)
+Jan 07 00:20:02 开始获取东东健康社区配置文件
+Jan 07 00:20:02 
+Jan 07 00:20:02 共1个京东账号
+Jan 07 00:20:02 
+Jan 07 00:20:02 您提供了0个账号的东东健康社区助力码
+Jan 07 00:20:02 
+Jan 07 00:20:02 
+Jan 07 00:20:02 ******开始【京东账号1】jd_632e000b42ec6*********
+Jan 07 00:20:02 
+Jan 07 00:20:02 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jan 07 00:20:02 
+Jan 07 00:20:02 开始
+Jan 07 00:20:05 随机取20个码放到您固定的互助码后面(不影响已有固定互助)
+Jan 07 00:20:05 第1个京东账号将要助力的好友["T0225KkcRh9P9FbRKUygl_UJcgCjVfnoaW5kRrbA","T0205KkcF3dzsQ-ldnq09pFMCjVfnoaW5kRrbA","T0225KkcRB9No12FJBulwv8LdACjVfnoaW5kRrbA","T0159KUiH11Mq1bSKBoCjVfnoaW5kRrbA","T0205KkcPUh7jROiaWKX965pCjVfnoaW5kRrbA","T0127b8mEVRQpgWVCjVfnoaW5kRrbA","T019-aklB0VrsgyhXHKv5Z4CjVfnoaW5kRrbA","T0225KkcRhwY9gXfKEjyxqMCcwCjVfnoaW5kRrbA","T0205KkcOnhBqSGfWUaP5pBtCjVfnoaW5kRrbA","T022tv1yRxYf_EnRIhj2nfIPdQCjVfnoaW5kRrbA","T0225KkcRBZN9lCFKBv8k6MMIQCjVfnoaW5kRrbA","T0225KkcRh1M8gLVcUjywPMCIACjVfnoaW5kRrbA","T0225KkcRx8R8l2FKBOmwvADJwCjVfnoaW5kRrbA","T0225KkcR0tNo1PTchv8lPRYdwCjVfnoaW5kRrbA","T0225KkcRh0Q9VDXcUz1lqQPIACjVfnoaW5kRrbA","T0076agcGEICjVfnoaW5kRrbA","T012aFf3l6ewINh4CjVfnoaW5kRrbA","T0205KkcAn1Ctj61YUm3yaxXCjVfnoaW5kRrbA","T0225KkcRR4ZoV2GcxzwwaMOdgCjVfnoaW5kRrbA","T0205KkcHGNqrAyNQUGe4KhdCjVfnoaW5kRrbA","T012u_x6SBca8VzQCjVfnoaW5kRrbA","T0225KkcRRdNpgbUKBqikqJcJwCjVfnoaW5kRrbA","T020ufR3RxYQ91TKIRr2nfUNCjVfnoaW5kRrbA","T0225KkcR0xPoVTSIRvxlaZcIACjVfnoaW5kRrbA"]
+Jan 07 00:20:06 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 00:20:06 去助力好友T0225KkcRh9P9FbRKUygl_UJcgCjVfnoaW5kRrbA
+Jan 07 00:20:06 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 00:20:07 去助力好友T0205KkcF3dzsQ-ldnq09pFMCjVfnoaW5kRrbA
+Jan 07 00:20:07 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 00:20:08 去助力好友T0225KkcRB9No12FJBulwv8LdACjVfnoaW5kRrbA
+Jan 07 00:20:08 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 00:20:09 去助力好友T0159KUiH11Mq1bSKBoCjVfnoaW5kRrbA
+Jan 07 00:20:09 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 00:20:10 去助力好友T0205KkcPUh7jROiaWKX965pCjVfnoaW5kRrbA
+Jan 07 00:20:11 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 00:20:12 去助力好友T0127b8mEVRQpgWVCjVfnoaW5kRrbA
+Jan 07 00:20:12 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 00:20:13 去助力好友T019-aklB0VrsgyhXHKv5Z4CjVfnoaW5kRrbA
+Jan 07 00:20:13 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 00:20:14 去助力好友T0225KkcRhwY9gXfKEjyxqMCcwCjVfnoaW5kRrbA
+Jan 07 00:20:14 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 00:20:15 去助力好友T0205KkcOnhBqSGfWUaP5pBtCjVfnoaW5kRrbA
+Jan 07 00:20:15 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 00:20:16 去助力好友T022tv1yRxYf_EnRIhj2nfIPdQCjVfnoaW5kRrbA
+Jan 07 00:20:16 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 00:20:17 去助力好友T0225KkcRBZN9lCFKBv8k6MMIQCjVfnoaW5kRrbA
+Jan 07 00:20:17 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 00:20:18 去助力好友T0225KkcRh1M8gLVcUjywPMCIACjVfnoaW5kRrbA
+Jan 07 00:20:18 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 00:20:19 去助力好友T0225KkcRx8R8l2FKBOmwvADJwCjVfnoaW5kRrbA
+Jan 07 00:20:20 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 00:20:21 去助力好友T0225KkcR0tNo1PTchv8lPRYdwCjVfnoaW5kRrbA
+Jan 07 00:20:21 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 00:20:22 去助力好友T0225KkcRh0Q9VDXcUz1lqQPIACjVfnoaW5kRrbA
+Jan 07 00:20:22 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 00:20:23 去助力好友T0076agcGEICjVfnoaW5kRrbA
+Jan 07 00:20:23 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 00:20:24 去助力好友T012aFf3l6ewINh4CjVfnoaW5kRrbA
+Jan 07 00:20:24 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 00:20:25 去助力好友T0205KkcAn1Ctj61YUm3yaxXCjVfnoaW5kRrbA
+Jan 07 00:20:25 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 00:20:26 去助力好友T0225KkcRR4ZoV2GcxzwwaMOdgCjVfnoaW5kRrbA
+Jan 07 00:20:26 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 00:20:27 去助力好友T0205KkcHGNqrAyNQUGe4KhdCjVfnoaW5kRrbA
+Jan 07 00:20:28 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 00:20:29 去助力好友T012u_x6SBca8VzQCjVfnoaW5kRrbA
+Jan 07 00:20:29 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 00:20:30 去助力好友T0225KkcRRdNpgbUKBqikqJcJwCjVfnoaW5kRrbA
+Jan 07 00:20:30 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 00:20:31 去助力好友T020ufR3RxYQ91TKIRr2nfUNCjVfnoaW5kRrbA
+Jan 07 00:20:31 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 00:20:32 去助力好友T0225KkcR0xPoVTSIRvxlaZcIACjVfnoaW5kRrbA
+Jan 07 00:20:32 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 00:20:33 undefined任务，完成次数：undefined/undefined
+Jan 07 00:20:33 
+Jan 07 00:20:33 ==============📣系统通知📣==============
+Jan 07 00:20:33 东东健康社区
+Jan 07 00:20:33 京东账号1 jd_632e000b42ec6
+Jan 07 00:20:33 本次获得0健康值，累计0健康值
+Jan 07 00:20:33 
+Jan 07 00:20:33 
+Jan 07 00:20:33 🔔东东健康社区, 结束! 🕛 32.047 秒
+Jan 07 00:20:33 
+Jan 07 06:20:01 
+Jan 07 06:20:01 🔔东东健康社区, 开始!
+Jan 07 06:20:01 
+Jan 07 06:20:01 ====================共1个京东账号Cookie=========
+Jan 07 06:20:01 
+Jan 07 06:20:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 上午6:20:01=====================
+Jan 07 06:20:01 
+Jan 07 06:20:01 如果出现提示 ?.data. 错误，请升级nodejs版本(进入容器后，apk add nodejs-current)
+Jan 07 06:20:01 开始获取东东健康社区配置文件
+Jan 07 06:20:01 
+Jan 07 06:20:01 共1个京东账号
+Jan 07 06:20:01 
+Jan 07 06:20:01 您提供了0个账号的东东健康社区助力码
+Jan 07 06:20:01 
+Jan 07 06:20:01 
+Jan 07 06:20:01 ******开始【京东账号1】jd_632e000b42ec6*********
+Jan 07 06:20:01 
+Jan 07 06:20:01 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jan 07 06:20:01 
+Jan 07 06:20:01 开始
+Jan 07 06:20:02 随机取20个码放到您固定的互助码后面(不影响已有固定互助)
+Jan 07 06:20:02 第1个京东账号将要助力的好友["T0225KkcRh9P9FbRKUygl_UJcgCjVfnoaW5kRrbA","T0205KkcF3dzsQ-ldnq09pFMCjVfnoaW5kRrbA","T0225KkcRB9No12FJBulwv8LdACjVfnoaW5kRrbA","T0159KUiH11Mq1bSKBoCjVfnoaW5kRrbA","T0225KkcRhlLoFWDJE7zlvALIgCjVfnoaW5kRrbA","T018v_V1QR0Y9lTUIhmb1ACjVfnoaW5kRrbA","T0225KkcRhxM9lHRIhn8nPQOdgCjVfnoaW5kRrbA","T0225KkcRUgf8ALWchmmxaMDdwCjVfnoaW5kRrbA","T0225KkcRxcb_ACFIhvywPQDJgCjVfnoaW5kRrbA","T019-akQNG1lswGWVmig3oUCjVfnoaW5kRrbA","T0205KkcNGhZqyOgeUuc4q9DCjVfnoaW5kRrbA","T0205KkcMll_nQKORHqB16JjCjVfnoaW5kRrbA","T0225KkcRBgdpgLXJEz3kfAJIgCjVfnoaW5kRrbA","T0225KkcRR9K8QaBcRz2xfUMdwCjVfnoaW5kRrbA","T0225KkcRUoa9leGc0unlP8DdwCjVfnoaW5kRrbA","T0225KkcRktI91HSIh2hwfAMdQCjVfnoaW5kRrbA","T0205KkcIkFIjw-NWkCF6ZVxCjVfnoaW5kRrbA","T020ZkPol6qfIdxR-bBLQXi5CjVfnoaW5kRrbA","T016aVLmlpusI9Fi9p9BCjVfnoaW5kRrbA","T0225KkcRB8eoAaEIR3xlPQLcwCjVfnoaW5kRrbA","T032a0DVlYqOLMJ--L9NQ12-oVt3z1TGkDxLCjVfnoaW5kRrbA","T0225KkcRh9M9QaDKU71wP8LIQCjVfnoaW5kRrbA","T0225KkcRhca_VTQIkmmkKMMcgCjVfnoaW5kRrbA","T0225KkcRB5P8lWCKEz0wKMIcwCjVfnoaW5kRrbA"]
+Jan 07 06:20:03 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 06:20:03 去助力好友T0225KkcRh9P9FbRKUygl_UJcgCjVfnoaW5kRrbA
+Jan 07 06:20:03 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 06:20:04 去助力好友T0205KkcF3dzsQ-ldnq09pFMCjVfnoaW5kRrbA
+Jan 07 06:20:04 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 06:20:05 去助力好友T0225KkcRB9No12FJBulwv8LdACjVfnoaW5kRrbA
+Jan 07 06:20:05 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 06:20:06 去助力好友T0159KUiH11Mq1bSKBoCjVfnoaW5kRrbA
+Jan 07 06:20:07 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 06:20:08 去助力好友T0225KkcRhlLoFWDJE7zlvALIgCjVfnoaW5kRrbA
+Jan 07 06:20:08 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 06:20:09 去助力好友T018v_V1QR0Y9lTUIhmb1ACjVfnoaW5kRrbA
+Jan 07 06:20:09 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 06:20:10 去助力好友T0225KkcRhxM9lHRIhn8nPQOdgCjVfnoaW5kRrbA
+Jan 07 06:20:10 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 06:20:11 去助力好友T0225KkcRUgf8ALWchmmxaMDdwCjVfnoaW5kRrbA
+Jan 07 06:20:11 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 06:20:12 去助力好友T0225KkcRxcb_ACFIhvywPQDJgCjVfnoaW5kRrbA
+Jan 07 06:20:12 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 06:20:13 去助力好友T019-akQNG1lswGWVmig3oUCjVfnoaW5kRrbA
+Jan 07 06:20:13 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 06:20:14 去助力好友T0205KkcNGhZqyOgeUuc4q9DCjVfnoaW5kRrbA
+Jan 07 06:20:14 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 06:20:15 去助力好友T0205KkcMll_nQKORHqB16JjCjVfnoaW5kRrbA
+Jan 07 06:20:16 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 06:20:17 去助力好友T0225KkcRBgdpgLXJEz3kfAJIgCjVfnoaW5kRrbA
+Jan 07 06:20:17 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 06:20:18 去助力好友T0225KkcRR9K8QaBcRz2xfUMdwCjVfnoaW5kRrbA
+Jan 07 06:20:18 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 06:20:19 去助力好友T0225KkcRUoa9leGc0unlP8DdwCjVfnoaW5kRrbA
+Jan 07 06:20:19 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 06:20:20 去助力好友T0225KkcRktI91HSIh2hwfAMdQCjVfnoaW5kRrbA
+Jan 07 06:20:20 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 06:20:21 去助力好友T0205KkcIkFIjw-NWkCF6ZVxCjVfnoaW5kRrbA
+Jan 07 06:20:21 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 06:20:22 去助力好友T020ZkPol6qfIdxR-bBLQXi5CjVfnoaW5kRrbA
+Jan 07 06:20:22 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 06:20:23 去助力好友T016aVLmlpusI9Fi9p9BCjVfnoaW5kRrbA
+Jan 07 06:20:24 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 06:20:25 去助力好友T0225KkcRB8eoAaEIR3xlPQLcwCjVfnoaW5kRrbA
+Jan 07 06:20:25 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 06:20:26 去助力好友T032a0DVlYqOLMJ--L9NQ12-oVt3z1TGkDxLCjVfnoaW5kRrbA
+Jan 07 06:20:26 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 06:20:27 去助力好友T0225KkcRh9M9QaDKU71wP8LIQCjVfnoaW5kRrbA
+Jan 07 06:20:27 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 06:20:28 去助力好友T0225KkcRhca_VTQIkmmkKMMcgCjVfnoaW5kRrbA
+Jan 07 06:20:28 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 06:20:29 去助力好友T0225KkcRB5P8lWCKEz0wKMIcwCjVfnoaW5kRrbA
+Jan 07 06:20:29 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 06:20:30 undefined任务，完成次数：undefined/undefined
+Jan 07 06:20:30 
+Jan 07 06:20:30 ==============📣系统通知📣==============
+Jan 07 06:20:30 东东健康社区
+Jan 07 06:20:30 京东账号1 jd_632e000b42ec6
+Jan 07 06:20:30 本次获得0健康值，累计0健康值
+Jan 07 06:20:30 
+Jan 07 06:20:30 
+Jan 07 06:20:30 🔔东东健康社区, 结束! 🕛 29.435 秒
+Jan 07 06:20:30 
+Jan 07 22:20:01 
+Jan 07 22:20:01 🔔东东健康社区, 开始!
+Jan 07 22:20:01 
+Jan 07 22:20:01 ====================共1个京东账号Cookie=========
+Jan 07 22:20:01 
+Jan 07 22:20:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 下午10:20:01=====================
+Jan 07 22:20:01 
+Jan 07 22:20:01 如果出现提示 ?.data. 错误，请升级nodejs版本(进入容器后，apk add nodejs-current)
+Jan 07 22:20:01 开始获取东东健康社区配置文件
+Jan 07 22:20:01 
+Jan 07 22:20:01 共1个京东账号
+Jan 07 22:20:01 
+Jan 07 22:20:01 您提供了0个账号的东东健康社区助力码
+Jan 07 22:20:01 
+Jan 07 22:20:01 
+Jan 07 22:20:01 ******开始【京东账号1】jd_632e000b42ec6*********
+Jan 07 22:20:01 
+Jan 07 22:20:01 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jan 07 22:20:01 
+Jan 07 22:20:01 开始
+Jan 07 22:20:03 随机取20个码放到您固定的互助码后面(不影响已有固定互助)
+Jan 07 22:20:03 第1个京东账号将要助力的好友["T0225KkcRh9P9FbRKUygl_UJcgCjVfnoaW5kRrbA","T0205KkcF3dzsQ-ldnq09pFMCjVfnoaW5kRrbA","T0225KkcRB9No12FJBulwv8LdACjVfnoaW5kRrbA","T0159KUiH11Mq1bSKBoCjVfnoaW5kRrbA","T018v_h7RBsZ9VPfJRKb1ACjVfnoaW5kRrbA","T0205KkcJktgoSKxUWWB76VOCjVfnoaW5kRrbA","T022v_RySB4Z_V3ePR_3k_UJfACjVfnoaW5kRrbA","T018aXnolpueLe92IBn3lQCjVfnoaW5kRrbA","T0205KkcBWRYlyy1V0yXwoNrCjVfnoaW5kRrbA","T0225KkcRhYb_FLSI07xxvEKcQCjVfnoaW5kRrbA","T019-akoCW9mkymuYWSv_IICjVfnoaW5kRrbA","T0205KkcM0tKlyaFZECRyq1ACjVfnoaW5kRrbA","T0225KkcRBwc81zedBulwPIIcQCjVfnoaW5kRrbA","T01146guH11amgkCjVfnoaW5kRrbA","T016vPh3RB4b_FHSKHWpCjVfnoaW5kRrbA","T0225KkcR0xPp1LTJEjwnfYNfACjVfnoaW5kRrbA","T018v_51Qhwd8lbfJhyb1ACjVfnoaW5kRrbA","T012Z2DGlJafIvhfCjVfnoaW5kRrbA","T0225KkcREsa9geDJhrzwaZcdwCjVfnoaW5kRrbA","T0205KkcI0REpCuAQVqc9pNfCjVfnoaW5kRrbA","T0225KkcRRlL8FXSdkygxvILdACjVfnoaW5kRrbA","T0124KQtF0xGtwmFCjVfnoaW5kRrbA","T018v_5wQBke91HSIBqb1ACjVfnoaW5kRrbA","T0225KkcRBhI9FKGdRunlPMLIgCjVfnoaW5kRrbA"]
+Jan 07 22:20:03 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 22:20:03 去助力好友T0225KkcRh9P9FbRKUygl_UJcgCjVfnoaW5kRrbA
+Jan 07 22:20:04 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 22:20:05 去助力好友T0205KkcF3dzsQ-ldnq09pFMCjVfnoaW5kRrbA
+Jan 07 22:20:05 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 22:20:06 去助力好友T0225KkcRB9No12FJBulwv8LdACjVfnoaW5kRrbA
+Jan 07 22:20:06 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 22:20:07 去助力好友T0159KUiH11Mq1bSKBoCjVfnoaW5kRrbA
+Jan 07 22:20:07 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 22:20:08 去助力好友T018v_h7RBsZ9VPfJRKb1ACjVfnoaW5kRrbA
+Jan 07 22:20:08 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 22:20:09 去助力好友T0205KkcJktgoSKxUWWB76VOCjVfnoaW5kRrbA
+Jan 07 22:20:09 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 22:20:10 去助力好友T022v_RySB4Z_V3ePR_3k_UJfACjVfnoaW5kRrbA
+Jan 07 22:20:10 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 22:20:11 去助力好友T018aXnolpueLe92IBn3lQCjVfnoaW5kRrbA
+Jan 07 22:20:12 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 22:20:13 去助力好友T0205KkcBWRYlyy1V0yXwoNrCjVfnoaW5kRrbA
+Jan 07 22:20:13 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 22:20:14 去助力好友T0225KkcRhYb_FLSI07xxvEKcQCjVfnoaW5kRrbA
+Jan 07 22:20:14 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 22:20:15 去助力好友T019-akoCW9mkymuYWSv_IICjVfnoaW5kRrbA
+Jan 07 22:20:15 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 22:20:16 去助力好友T0205KkcM0tKlyaFZECRyq1ACjVfnoaW5kRrbA
+Jan 07 22:20:16 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 22:20:17 去助力好友T0225KkcRBwc81zedBulwPIIcQCjVfnoaW5kRrbA
+Jan 07 22:20:17 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 22:20:18 去助力好友T01146guH11amgkCjVfnoaW5kRrbA
+Jan 07 22:20:18 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 22:20:19 去助力好友T016vPh3RB4b_FHSKHWpCjVfnoaW5kRrbA
+Jan 07 22:20:20 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 22:20:21 去助力好友T0225KkcR0xPp1LTJEjwnfYNfACjVfnoaW5kRrbA
+Jan 07 22:20:21 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 22:20:22 去助力好友T018v_51Qhwd8lbfJhyb1ACjVfnoaW5kRrbA
+Jan 07 22:20:22 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 22:20:23 去助力好友T012Z2DGlJafIvhfCjVfnoaW5kRrbA
+Jan 07 22:20:23 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 22:20:24 去助力好友T0225KkcREsa9geDJhrzwaZcdwCjVfnoaW5kRrbA
+Jan 07 22:20:24 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 22:20:25 去助力好友T0205KkcI0REpCuAQVqc9pNfCjVfnoaW5kRrbA
+Jan 07 22:20:25 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 22:20:26 去助力好友T0225KkcRRlL8FXSdkygxvILdACjVfnoaW5kRrbA
+Jan 07 22:20:26 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 22:20:27 去助力好友T0124KQtF0xGtwmFCjVfnoaW5kRrbA
+Jan 07 22:20:27 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 22:20:28 去助力好友T018v_5wQBke91HSIBqb1ACjVfnoaW5kRrbA
+Jan 07 22:20:29 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 22:20:30 去助力好友T0225KkcRBhI9FKGdRunlPMLIgCjVfnoaW5kRrbA
+Jan 07 22:20:30 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 07 22:20:31 undefined任务，完成次数：undefined/undefined
+Jan 07 22:20:31 
+Jan 07 22:20:31 ==============📣系统通知📣==============
+Jan 07 22:20:31 东东健康社区
+Jan 07 22:20:31 京东账号1 jd_632e000b42ec6
+Jan 07 22:20:31 本次获得0健康值，累计0健康值
+Jan 07 22:20:31 
+Jan 07 22:20:31 
+Jan 07 22:20:31 🔔东东健康社区, 结束! 🕛 30.209 秒
+Jan 07 22:20:31 
+Jan 08 00:20:01 
+Jan 08 00:20:01 🔔东东健康社区, 开始!
+Jan 08 00:20:01 
+Jan 08 00:20:01 ====================共1个京东账号Cookie=========
+Jan 08 00:20:01 
+Jan 08 00:20:02 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 上午12:20:01=====================
+Jan 08 00:20:02 
+Jan 08 00:20:02 如果出现提示 ?.data. 错误，请升级nodejs版本(进入容器后，apk add nodejs-current)
+Jan 08 00:20:02 开始获取东东健康社区配置文件
+Jan 08 00:20:02 
+Jan 08 00:20:02 共1个京东账号
+Jan 08 00:20:02 
+Jan 08 00:20:02 您提供了0个账号的东东健康社区助力码
+Jan 08 00:20:02 
+Jan 08 00:20:02 
+Jan 08 00:20:02 ******开始【京东账号1】jd_632e000b42ec6*********
+Jan 08 00:20:02 
+Jan 08 00:20:02 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jan 08 00:20:02 
+Jan 08 00:20:02 开始
+Jan 08 00:20:04 随机取20个码放到您固定的互助码后面(不影响已有固定互助)
+Jan 08 00:20:04 第1个京东账号将要助力的好友["T0225KkcRh9P9FbRKUygl_UJcgCjVfnoaW5kRrbA","T0205KkcF3dzsQ-ldnq09pFMCjVfnoaW5kRrbA","T0225KkcRB9No12FJBulwv8LdACjVfnoaW5kRrbA","T0159KUiH11Mq1bSKBoCjVfnoaW5kRrbA","T0205KkcKlxgiiWiR0uB3rdYCjVfnoaW5kRrbA","T0205KkcAl5ztxaraVyWzopgCjVfnoaW5kRrbA","T0225KkcRBgQp1WEdhv1xfUDJwCjVWnYaS5kRrbA","T0225KkcREsQ9wHSdR-gk6RbJwCjVfnoaW5kRrbA","T0205KkcAkBChAy0Vm2D_K5wCjVfnoaW5kRrbA","T0083pwSGUBOCjVfnoaW5kRrbA","T0205KkcCHRngRexfXmA8ZZtCjVfnoaW5kRrbA","T0225KkcRRwZp1TWJRrzxaZecQCjVfnoaW5kRrbA","T0225KkcRRwZ9QfWIRryx_dcJQCjVfnoaW5kRrbA","T0225KkcRUsf8wKDJRiixaQDIgCjVfnoaW5kRrbA","T0225KkcRR9KoVXeJEiiwqQLdwCjVfnoaW5kRrbA","T0225KkcR00f8ALedRz1kv5bdACjVfnoaW5kRrbA","T0205KkcAEBIszOKfkygy61yCjVfnoaW5kRrbA","T0205KkcGGlGoyKSVH2P3pR9CjVfnoaW5kRrbA","T019-ackQRoe8V3fKBPxk_UCjVfnoaW5kRrbA","T022Z1fMlJCWIOtM9JJEQH-QCwCjVfnoaW5kRrbA","T0225KkcRxgb9wXTdBr3wPcDIACjVfnoaW5kRrbA","T0225KkcRBZMpF3QJ0mmk6MJJQCjVfnoaW5kRrbA","T0225KkcRE0Q9FzSdk_wwPdefACjVfnoaW5kRrbA","T019_boiHEJGsjsCoKUiOE4CjVfnoaW5kRrbA"]
+Jan 08 00:20:05 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 00:20:05 去助力好友T0225KkcRh9P9FbRKUygl_UJcgCjVfnoaW5kRrbA
+Jan 08 00:20:05 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 00:20:06 去助力好友T0205KkcF3dzsQ-ldnq09pFMCjVfnoaW5kRrbA
+Jan 08 00:20:06 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 00:20:07 去助力好友T0225KkcRB9No12FJBulwv8LdACjVfnoaW5kRrbA
+Jan 08 00:20:07 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 00:20:08 去助力好友T0159KUiH11Mq1bSKBoCjVfnoaW5kRrbA
+Jan 08 00:20:09 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 00:20:10 去助力好友T0205KkcKlxgiiWiR0uB3rdYCjVfnoaW5kRrbA
+Jan 08 00:20:10 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 00:20:11 去助力好友T0205KkcAl5ztxaraVyWzopgCjVfnoaW5kRrbA
+Jan 08 00:20:11 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 00:20:12 去助力好友T0225KkcRBgQp1WEdhv1xfUDJwCjVWnYaS5kRrbA
+Jan 08 00:20:12 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 00:20:13 去助力好友T0225KkcREsQ9wHSdR-gk6RbJwCjVfnoaW5kRrbA
+Jan 08 00:20:13 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 00:20:14 去助力好友T0205KkcAkBChAy0Vm2D_K5wCjVfnoaW5kRrbA
+Jan 08 00:20:14 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 00:20:15 去助力好友T0083pwSGUBOCjVfnoaW5kRrbA
+Jan 08 00:20:15 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 00:20:16 去助力好友T0205KkcCHRngRexfXmA8ZZtCjVfnoaW5kRrbA
+Jan 08 00:20:17 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 00:20:18 去助力好友T0225KkcRRwZp1TWJRrzxaZecQCjVfnoaW5kRrbA
+Jan 08 00:20:18 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 00:20:19 去助力好友T0225KkcRRwZ9QfWIRryx_dcJQCjVfnoaW5kRrbA
+Jan 08 00:20:19 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 00:20:20 去助力好友T0225KkcRUsf8wKDJRiixaQDIgCjVfnoaW5kRrbA
+Jan 08 00:20:20 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 00:20:21 去助力好友T0225KkcRR9KoVXeJEiiwqQLdwCjVfnoaW5kRrbA
+Jan 08 00:20:21 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 00:20:22 去助力好友T0225KkcR00f8ALedRz1kv5bdACjVfnoaW5kRrbA
+Jan 08 00:20:22 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 00:20:23 去助力好友T0205KkcAEBIszOKfkygy61yCjVfnoaW5kRrbA
+Jan 08 00:20:23 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 00:20:24 去助力好友T0205KkcGGlGoyKSVH2P3pR9CjVfnoaW5kRrbA
+Jan 08 00:20:24 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 00:20:25 去助力好友T019-ackQRoe8V3fKBPxk_UCjVfnoaW5kRrbA
+Jan 08 00:20:26 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 00:20:27 去助力好友T022Z1fMlJCWIOtM9JJEQH-QCwCjVfnoaW5kRrbA
+Jan 08 00:20:27 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 00:20:28 去助力好友T0225KkcRxgb9wXTdBr3wPcDIACjVfnoaW5kRrbA
+Jan 08 00:20:28 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 00:20:29 去助力好友T0225KkcRBZMpF3QJ0mmk6MJJQCjVfnoaW5kRrbA
+Jan 08 00:20:29 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 00:20:30 去助力好友T0225KkcRE0Q9FzSdk_wwPdefACjVfnoaW5kRrbA
+Jan 08 00:20:30 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 00:20:31 去助力好友T019_boiHEJGsjsCoKUiOE4CjVfnoaW5kRrbA
+Jan 08 00:20:31 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 00:20:32 undefined任务，完成次数：undefined/undefined
+Jan 08 00:20:33 
+Jan 08 00:20:33 ==============📣系统通知📣==============
+Jan 08 00:20:33 东东健康社区
+Jan 08 00:20:33 京东账号1 jd_632e000b42ec6
+Jan 08 00:20:33 本次获得0健康值，累计0健康值
+Jan 08 00:20:33 
+Jan 08 00:20:33 
+Jan 08 00:20:33 🔔东东健康社区, 结束! 🕛 31.354 秒
+Jan 08 00:20:33 
+Jan 08 06:20:00 
+Jan 08 06:20:00 🔔东东健康社区, 开始!
+Jan 08 06:20:00 
+Jan 08 06:20:00 ====================共1个京东账号Cookie=========
+Jan 08 06:20:00 
+Jan 08 06:20:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 上午6:20:00=====================
+Jan 08 06:20:00 
+Jan 08 06:20:00 如果出现提示 ?.data. 错误，请升级nodejs版本(进入容器后，apk add nodejs-current)
+Jan 08 06:20:00 开始获取东东健康社区配置文件
+Jan 08 06:20:00 
+Jan 08 06:20:00 共1个京东账号
+Jan 08 06:20:00 
+Jan 08 06:20:00 您提供了0个账号的东东健康社区助力码
+Jan 08 06:20:00 
+Jan 08 06:20:00 
+Jan 08 06:20:00 ******开始【京东账号1】jd_632e000b42ec6*********
+Jan 08 06:20:00 
+Jan 08 06:20:00 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jan 08 06:20:00 
+Jan 08 06:20:00 开始
+Jan 08 06:20:02 随机取20个码放到您固定的互助码后面(不影响已有固定互助)
+Jan 08 06:20:02 第1个京东账号将要助力的好友["T0225KkcRh9P9FbRKUygl_UJcgCjVfnoaW5kRrbA","T0205KkcF3dzsQ-ldnq09pFMCjVfnoaW5kRrbA","T0225KkcRB9No12FJBulwv8LdACjVfnoaW5kRrbA","T0159KUiH11Mq1bSKBoCjVfnoaW5kRrbA","T0205KkcN0JAoBOiV0a9yKl5CjVfnoaW5kRrbA","T0225KkcRRYd8QDSIU_2k6FecQCjVfnoaW5kRrbA","T022v_9yRhYQ9FXUPRLzlv8JcgCjVfnoaW5kRrbA","T020uvt1RRkY9VPKIhL0kv8DCjVfnoaW5kRrbA","T0225KkcRkoboVbWKUynlaYKcgCjVfnoaW5kRrbA","T0205KkcMlxEtQOMYV-R0JBxCjVfnoaW5kRrbA","T0225KkcRB9KplaCJxPylfdedgCjVfnoaW5kRrbA","T0225KkcRh8eoVyBdh32k_MJdgCjVfnoaW5kRrbA","T0225KkcRxYeo1DRJx_3x_RcdACjVfnoaW5kRrbA","T0225KkcRE1LpFHedkzxnKEDcACjVfnoaW5kRrbA","T0205KkcCE1ojAKWZGiu_YlWCjVfnoaW5kRrbA","T0205KkcPlRKnyeeQEml8pV9CjVfnoaW5kRrbA","T0225KkcRRwaoVXeckmhk_4LcgCjVfnoaW5kRrbA","T019-akZIkhdtzedYEeIyKUCjVfnoaW5kRrbA","T0225KkcRUsf_VCCJxz3lf8IcACjVfnoaW5kRrbA","T0086KE6HEdKCjVfnoaW5kRrbA","T0165qUrGEZBrQyPeHWpCjVWnYaS5kRrbA","T0225KkcRkgdpFyEKR2mkfFffACjVfnoaW5kRrbA","T0225KkcRx5PpF2GJRLyxqFccQCjVfnoaW5kRrbA","T020v_57Rxwc9VXKJB78kvQJCjVfnoaW5kRrbA"]
+Jan 08 06:20:02 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 06:20:02 去助力好友T0225KkcRh9P9FbRKUygl_UJcgCjVfnoaW5kRrbA
+Jan 08 06:20:02 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 06:20:03 去助力好友T0205KkcF3dzsQ-ldnq09pFMCjVfnoaW5kRrbA
+Jan 08 06:20:04 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 06:20:05 去助力好友T0225KkcRB9No12FJBulwv8LdACjVfnoaW5kRrbA
+Jan 08 06:20:05 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 06:20:06 去助力好友T0159KUiH11Mq1bSKBoCjVfnoaW5kRrbA
+Jan 08 06:20:06 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 06:20:07 去助力好友T0205KkcN0JAoBOiV0a9yKl5CjVfnoaW5kRrbA
+Jan 08 06:20:07 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 06:20:08 去助力好友T0225KkcRRYd8QDSIU_2k6FecQCjVfnoaW5kRrbA
+Jan 08 06:20:08 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 06:20:09 去助力好友T022v_9yRhYQ9FXUPRLzlv8JcgCjVfnoaW5kRrbA
+Jan 08 06:20:09 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 06:20:10 去助力好友T020uvt1RRkY9VPKIhL0kv8DCjVfnoaW5kRrbA
+Jan 08 06:20:10 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 06:20:11 去助力好友T0225KkcRkoboVbWKUynlaYKcgCjVfnoaW5kRrbA
+Jan 08 06:20:12 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 06:20:13 去助力好友T0205KkcMlxEtQOMYV-R0JBxCjVfnoaW5kRrbA
+Jan 08 06:20:13 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 06:20:14 去助力好友T0225KkcRB9KplaCJxPylfdedgCjVfnoaW5kRrbA
+Jan 08 06:20:14 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 06:20:15 去助力好友T0225KkcRh8eoVyBdh32k_MJdgCjVfnoaW5kRrbA
+Jan 08 06:20:15 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 06:20:16 去助力好友T0225KkcRxYeo1DRJx_3x_RcdACjVfnoaW5kRrbA
+Jan 08 06:20:16 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 06:20:17 去助力好友T0225KkcRE1LpFHedkzxnKEDcACjVfnoaW5kRrbA
+Jan 08 06:20:17 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 06:20:18 去助力好友T0205KkcCE1ojAKWZGiu_YlWCjVfnoaW5kRrbA
+Jan 08 06:20:18 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 06:20:19 去助力好友T0205KkcPlRKnyeeQEml8pV9CjVfnoaW5kRrbA
+Jan 08 06:20:20 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 06:20:21 去助力好友T0225KkcRRwaoVXeckmhk_4LcgCjVfnoaW5kRrbA
+Jan 08 06:20:21 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 06:20:22 去助力好友T019-akZIkhdtzedYEeIyKUCjVfnoaW5kRrbA
+Jan 08 06:20:22 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 06:20:23 去助力好友T0225KkcRUsf_VCCJxz3lf8IcACjVfnoaW5kRrbA
+Jan 08 06:20:23 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 06:20:24 去助力好友T0086KE6HEdKCjVfnoaW5kRrbA
+Jan 08 06:20:24 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 06:20:25 去助力好友T0165qUrGEZBrQyPeHWpCjVWnYaS5kRrbA
+Jan 08 06:20:25 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 06:20:26 去助力好友T0225KkcRkgdpFyEKR2mkfFffACjVfnoaW5kRrbA
+Jan 08 06:20:26 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 06:20:27 去助力好友T0225KkcRx5PpF2GJRLyxqFccQCjVfnoaW5kRrbA
+Jan 08 06:20:27 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 06:20:28 去助力好友T020v_57Rxwc9VXKJB78kvQJCjVfnoaW5kRrbA
+Jan 08 06:20:29 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 06:20:30 undefined任务，完成次数：undefined/undefined
+Jan 08 06:20:30 
+Jan 08 06:20:30 ==============📣系统通知📣==============
+Jan 08 06:20:30 东东健康社区
+Jan 08 06:20:30 京东账号1 jd_632e000b42ec6
+Jan 08 06:20:30 本次获得0健康值，累计0健康值
+Jan 08 06:20:30 
+Jan 08 06:20:30 
+Jan 08 06:20:30 🔔东东健康社区, 结束! 🕛 29.915 秒
+Jan 08 06:20:30 
+Jan 08 22:20:00 
+Jan 08 22:20:00 🔔东东健康社区, 开始!
+Jan 08 22:20:00 
+Jan 08 22:20:00 ====================共1个京东账号Cookie=========
+Jan 08 22:20:00 
+Jan 08 22:20:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 下午10:20:00=====================
+Jan 08 22:20:01 
+Jan 08 22:20:01 如果出现提示 ?.data. 错误，请升级nodejs版本(进入容器后，apk add nodejs-current)
+Jan 08 22:20:01 开始获取东东健康社区配置文件
+Jan 08 22:20:01 
+Jan 08 22:20:01 共1个京东账号
+Jan 08 22:20:01 
+Jan 08 22:20:01 您提供了0个账号的东东健康社区助力码
+Jan 08 22:20:01 
+Jan 08 22:20:01 
+Jan 08 22:20:01 ******开始【京东账号1】jd_632e000b42ec6*********
+Jan 08 22:20:01 
+Jan 08 22:20:01 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jan 08 22:20:01 
+Jan 08 22:20:01 开始
+Jan 08 22:20:12 第1个京东账号将要助力的好友["T0225KkcRh9P9FbRKUygl_UJcgCjVfnoaW5kRrbA","T0205KkcF3dzsQ-ldnq09pFMCjVfnoaW5kRrbA","T0225KkcRB9No12FJBulwv8LdACjVfnoaW5kRrbA","T0159KUiH11Mq1bSKBoCjVfnoaW5kRrbA"]
+Jan 08 22:20:12 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 22:20:12 去助力好友T0225KkcRh9P9FbRKUygl_UJcgCjVfnoaW5kRrbA
+Jan 08 22:20:12 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 22:20:13 去助力好友T0205KkcF3dzsQ-ldnq09pFMCjVfnoaW5kRrbA
+Jan 08 22:20:13 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 22:20:14 随机取20个码放到您固定的互助码后面(不影响已有固定互助)
+Jan 08 22:20:14 去助力好友T0225KkcRB9No12FJBulwv8LdACjVfnoaW5kRrbA
+Jan 08 22:20:15 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 22:20:16 去助力好友T0159KUiH11Mq1bSKBoCjVfnoaW5kRrbA
+Jan 08 22:20:16 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 08 22:20:17 undefined任务，完成次数：undefined/undefined
+Jan 08 22:20:17 
+Jan 08 22:20:17 ==============📣系统通知📣==============
+Jan 08 22:20:17 东东健康社区
+Jan 08 22:20:17 京东账号1 jd_632e000b42ec6
+Jan 08 22:20:17 本次获得0健康值，累计0健康值
+Jan 08 22:20:17 
+Jan 08 22:20:17 
+Jan 08 22:20:17 🔔东东健康社区, 结束! 🕛 16.728 秒
+Jan 08 22:20:17 
+Jan 09 00:20:01 
+Jan 09 00:20:01 🔔东东健康社区, 开始!
+Jan 09 00:20:01 
+Jan 09 00:20:01 ====================共1个京东账号Cookie=========
+Jan 09 00:20:01 
+Jan 09 00:20:02 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 上午12:20:01=====================
+Jan 09 00:20:02 
+Jan 09 00:20:02 如果出现提示 ?.data. 错误，请升级nodejs版本(进入容器后，apk add nodejs-current)
+Jan 09 00:20:02 开始获取东东健康社区配置文件
+Jan 09 00:20:02 
+Jan 09 00:20:02 共1个京东账号
+Jan 09 00:20:02 
+Jan 09 00:20:02 您提供了0个账号的东东健康社区助力码
+Jan 09 00:20:02 
+Jan 09 00:20:02 
+Jan 09 00:20:02 ******开始【京东账号1】jd_632e000b42ec6*********
+Jan 09 00:20:02 
+Jan 09 00:20:02 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jan 09 00:20:02 
+Jan 09 00:20:02 开始
+Jan 09 00:20:04 随机取20个码放到您固定的互助码后面(不影响已有固定互助)
+Jan 09 00:20:04 第1个京东账号将要助力的好友["T0225KkcRh9P9FbRKUygl_UJcgCjVfnoaW5kRrbA","T0205KkcF3dzsQ-ldnq09pFMCjVfnoaW5kRrbA","T0225KkcRB9No12FJBulwv8LdACjVfnoaW5kRrbA","T0159KUiH11Mq1bSKBoCjVfnoaW5kRrbA","T0205KkcIn9dkBGwfUiF1axdCjVfnoaW5kRrbA","T0225KkcRU1L8VzXdkj1k6MNJQCjVfnoaW5kRrbA","T0205KkcAHptlQKLcmOu7JByCjVfnoaW5kRrbA","T0114rglFlce9FwCjVfnoaW5kRrbA","T0205KkcMkhuqQuCclKzxbB8CjVfnoaW5kRrbA","T0159qEyRhoe8F3RJB4CjVfnoaW5kRrbA","T0155rgqE0ZMq1TXIBoCjVfnoaW5kRrbA","T0225KkcR00Q_VKCdUjxkKMLcwCjVfnoaW5kRrbA","T0205KkcBUhbjwiEWHC95rBDCjVfnoaW5kRrbA","T0225KkcRhdMplDedE7xl_QMdwCjVfnoaW5kRrbA","T018v_5xRhce8lfTIhub1ACjVfnoaW5kRrbA","T0205KkcHV56lgaSVW6n7apjCjVfnoaW5kRrbA","T0225KkcRR1PoFLVIE-hxvFcJQCjVfnoaW5kRrbA","T0225KkcRx9KplHXIRj9l_QJdQCjVWnYaS5kRrbA","T0205KkcOUt4ogWGWFCm6IpCCjVfnoaW5kRrbA","T0115qg5GUBApAsCjVfnoaW5kRrbA","T0225KkcR0wdowHfIhj1kPQPcwCjVfnoaW5kRrbA","T0225KkcRksZo1bTJknynKVbfACjVfnoaW5kRrbA","T022aEnclq-AIv5j9ZVHkfELdQCjVfnoaW5kRrbA","T0124qI2HklMmgiSCjVfnoaW5kRrbA"]
+Jan 09 00:20:05 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 00:20:05 去助力好友T0225KkcRh9P9FbRKUygl_UJcgCjVfnoaW5kRrbA
+Jan 09 00:20:05 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 00:20:06 去助力好友T0205KkcF3dzsQ-ldnq09pFMCjVfnoaW5kRrbA
+Jan 09 00:20:06 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 00:20:07 去助力好友T0225KkcRB9No12FJBulwv8LdACjVfnoaW5kRrbA
+Jan 09 00:20:07 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 00:20:08 去助力好友T0159KUiH11Mq1bSKBoCjVfnoaW5kRrbA
+Jan 09 00:20:08 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 00:20:09 去助力好友T0205KkcIn9dkBGwfUiF1axdCjVfnoaW5kRrbA
+Jan 09 00:20:09 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 00:20:10 去助力好友T0225KkcRU1L8VzXdkj1k6MNJQCjVfnoaW5kRrbA
+Jan 09 00:20:10 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 00:20:11 去助力好友T0205KkcAHptlQKLcmOu7JByCjVfnoaW5kRrbA
+Jan 09 00:20:12 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 00:20:13 去助力好友T0114rglFlce9FwCjVfnoaW5kRrbA
+Jan 09 00:20:13 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 00:20:14 去助力好友T0205KkcMkhuqQuCclKzxbB8CjVfnoaW5kRrbA
+Jan 09 00:20:14 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 00:20:15 去助力好友T0159qEyRhoe8F3RJB4CjVfnoaW5kRrbA
+Jan 09 00:20:15 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 00:20:16 去助力好友T0155rgqE0ZMq1TXIBoCjVfnoaW5kRrbA
+Jan 09 00:20:16 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 00:20:17 去助力好友T0225KkcR00Q_VKCdUjxkKMLcwCjVfnoaW5kRrbA
+Jan 09 00:20:17 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 00:20:18 去助力好友T0205KkcBUhbjwiEWHC95rBDCjVfnoaW5kRrbA
+Jan 09 00:20:18 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 00:20:19 去助力好友T0225KkcRhdMplDedE7xl_QMdwCjVfnoaW5kRrbA
+Jan 09 00:20:20 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 00:20:21 去助力好友T018v_5xRhce8lfTIhub1ACjVfnoaW5kRrbA
+Jan 09 00:20:21 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 00:20:22 去助力好友T0205KkcHV56lgaSVW6n7apjCjVfnoaW5kRrbA
+Jan 09 00:20:22 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 00:20:23 去助力好友T0225KkcRR1PoFLVIE-hxvFcJQCjVfnoaW5kRrbA
+Jan 09 00:20:23 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 00:20:24 去助力好友T0225KkcRx9KplHXIRj9l_QJdQCjVWnYaS5kRrbA
+Jan 09 00:20:24 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 00:20:25 去助力好友T0205KkcOUt4ogWGWFCm6IpCCjVfnoaW5kRrbA
+Jan 09 00:20:25 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 00:20:26 去助力好友T0115qg5GUBApAsCjVfnoaW5kRrbA
+Jan 09 00:20:26 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 00:20:27 去助力好友T0225KkcR0wdowHfIhj1kPQPcwCjVfnoaW5kRrbA
+Jan 09 00:20:28 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 00:20:29 去助力好友T0225KkcRksZo1bTJknynKVbfACjVfnoaW5kRrbA
+Jan 09 00:20:29 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 00:20:30 去助力好友T022aEnclq-AIv5j9ZVHkfELdQCjVfnoaW5kRrbA
+Jan 09 00:20:30 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 00:20:31 去助力好友T0124qI2HklMmgiSCjVfnoaW5kRrbA
+Jan 09 00:20:31 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 00:20:32 undefined任务，完成次数：undefined/undefined
+Jan 09 00:20:32 
+Jan 09 00:20:32 ==============📣系统通知📣==============
+Jan 09 00:20:32 东东健康社区
+Jan 09 00:20:32 京东账号1 jd_632e000b42ec6
+Jan 09 00:20:32 本次获得0健康值，累计0健康值
+Jan 09 00:20:32 
+Jan 09 00:20:32 
+Jan 09 00:20:32 🔔东东健康社区, 结束! 🕛 31.043 秒
+Jan 09 00:20:32 
+Jan 09 06:20:01 
+Jan 09 06:20:01 🔔东东健康社区, 开始!
+Jan 09 06:20:01 
+Jan 09 06:20:01 ====================共1个京东账号Cookie=========
+Jan 09 06:20:01 
+Jan 09 06:20:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 上午6:20:01=====================
+Jan 09 06:20:01 
+Jan 09 06:20:01 如果出现提示 ?.data. 错误，请升级nodejs版本(进入容器后，apk add nodejs-current)
+Jan 09 06:20:01 开始获取东东健康社区配置文件
+Jan 09 06:20:01 
+Jan 09 06:20:01 共1个京东账号
+Jan 09 06:20:01 
+Jan 09 06:20:01 您提供了0个账号的东东健康社区助力码
+Jan 09 06:20:01 
+Jan 09 06:20:01 
+Jan 09 06:20:01 ******开始【京东账号1】jd_632e000b42ec6*********
+Jan 09 06:20:01 
+Jan 09 06:20:01 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jan 09 06:20:01 
+Jan 09 06:20:01 开始
+Jan 09 06:20:02 随机取20个码放到您固定的互助码后面(不影响已有固定互助)
+Jan 09 06:20:02 第1个京东账号将要助力的好友["T0225KkcRh9P9FbRKUygl_UJcgCjVfnoaW5kRrbA","T0205KkcF3dzsQ-ldnq09pFMCjVfnoaW5kRrbA","T0225KkcRB9No12FJBulwv8LdACjVfnoaW5kRrbA","T0159KUiH11Mq1bSKBoCjVfnoaW5kRrbA","T019-aklP1xTtjypY0-j5oUCjVfnoaW5kRrbA","T0225KkcRBpI9FbXJxr0waUPcwCjVfnoaW5kRrbA","T010a33Mlra9mgCjVfnoaW5kRrbA","T008uP97RhkcCjVfnoaW5kRrbA","T0225KkcRU0Z9gDeIRP3kf9eJwCjVfnoaW5kRrbA","T020a3rll7KVI_xp9YBekvULCjVfnoaW5kRrbA","T0225KkcRR9IoFbeJ0n9lP9YIACjVfnoaW5kRrbA","T022uv1yQBYe_VzTPR78nf8IfQCjVfnoaW5kRrbA","T018v_57QhYa81fQIxKb1ACjVfnoaW5kRrbA","T0225KkcRxkQoVTfdUjxnPMPfQCjVfnoaW5kRrbA","T0225KkcRRoQplTRJhnykaIKcQCjVfnoaW5kRrbA","T0225KkcRB1P_VGFIhn2kqICcwCjVfnoaW5kRrbA","T018v_h7SRsd9VPeIR-b1ACjVfnoaW5kRrbA","T0225KkcRU9P8AfSIkuhkaNecwCjVfnoaW5kRrbA","T0225KkcRR0c_VyEKE_3wqQNIQCjVfnoaW5kRrbA","T0205KkcPlhGiC2WX2un3bJ-CjVfnoaW5kRrbA","T0205KkcJnhkkgmPX0Ol9JV_CjVfnoaW5kRrbA","T0205KkcKndzqyCdWV6D7rFtCjVfnoaW5kRrbA","T0205KkcM1l6kx6QdX6w9IF_CjVfnoaW5kRrbA","T0225KkcRBxP8VTfcUmlxqYOIQCjVfnoaW5kRrbA"]
+Jan 09 06:20:03 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:20:03 去助力好友T0225KkcRh9P9FbRKUygl_UJcgCjVfnoaW5kRrbA
+Jan 09 06:20:03 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:20:04 去助力好友T0205KkcF3dzsQ-ldnq09pFMCjVfnoaW5kRrbA
+Jan 09 06:20:04 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:20:05 去助力好友T0225KkcRB9No12FJBulwv8LdACjVfnoaW5kRrbA
+Jan 09 06:20:05 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:20:06 去助力好友T0159KUiH11Mq1bSKBoCjVfnoaW5kRrbA
+Jan 09 06:20:06 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:20:07 去助力好友T019-aklP1xTtjypY0-j5oUCjVfnoaW5kRrbA
+Jan 09 06:20:07 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:20:08 去助力好友T0225KkcRBpI9FbXJxr0waUPcwCjVfnoaW5kRrbA
+Jan 09 06:20:09 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:20:10 去助力好友T010a33Mlra9mgCjVfnoaW5kRrbA
+Jan 09 06:20:10 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:20:11 去助力好友T008uP97RhkcCjVfnoaW5kRrbA
+Jan 09 06:20:11 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:20:12 去助力好友T0225KkcRU0Z9gDeIRP3kf9eJwCjVfnoaW5kRrbA
+Jan 09 06:20:12 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:20:13 去助力好友T020a3rll7KVI_xp9YBekvULCjVfnoaW5kRrbA
+Jan 09 06:20:13 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:20:14 去助力好友T0225KkcRR9IoFbeJ0n9lP9YIACjVfnoaW5kRrbA
+Jan 09 06:20:14 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:20:15 去助力好友T022uv1yQBYe_VzTPR78nf8IfQCjVfnoaW5kRrbA
+Jan 09 06:20:15 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:20:16 去助力好友T018v_57QhYa81fQIxKb1ACjVfnoaW5kRrbA
+Jan 09 06:20:17 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:20:18 去助力好友T0225KkcRxkQoVTfdUjxnPMPfQCjVfnoaW5kRrbA
+Jan 09 06:20:18 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:20:19 去助力好友T0225KkcRRoQplTRJhnykaIKcQCjVfnoaW5kRrbA
+Jan 09 06:20:19 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:20:20 去助力好友T0225KkcRB1P_VGFIhn2kqICcwCjVfnoaW5kRrbA
+Jan 09 06:20:20 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:20:21 去助力好友T018v_h7SRsd9VPeIR-b1ACjVfnoaW5kRrbA
+Jan 09 06:20:21 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:20:22 去助力好友T0225KkcRU9P8AfSIkuhkaNecwCjVfnoaW5kRrbA
+Jan 09 06:20:22 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:20:23 去助力好友T0225KkcRR0c_VyEKE_3wqQNIQCjVfnoaW5kRrbA
+Jan 09 06:20:23 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:20:24 去助力好友T0205KkcPlhGiC2WX2un3bJ-CjVfnoaW5kRrbA
+Jan 09 06:20:25 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:20:26 去助力好友T0205KkcJnhkkgmPX0Ol9JV_CjVfnoaW5kRrbA
+Jan 09 06:20:26 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:20:27 去助力好友T0205KkcKndzqyCdWV6D7rFtCjVfnoaW5kRrbA
+Jan 09 06:20:27 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:20:28 去助力好友T0205KkcM1l6kx6QdX6w9IF_CjVfnoaW5kRrbA
+Jan 09 06:20:28 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:20:29 去助力好友T0225KkcRBxP8VTfcUmlxqYOIQCjVfnoaW5kRrbA
+Jan 09 06:20:29 任务完成失败：{"code":-30001,"msg":"登陆失败"}
+Jan 09 06:20:30 undefined任务，完成次数：undefined/undefined
+Jan 09 06:20:30 
+Jan 09 06:20:30 ==============📣系统通知📣==============
+Jan 09 06:20:30 东东健康社区
+Jan 09 06:20:30 京东账号1 jd_632e000b42ec6
+Jan 09 06:20:30 本次获得0健康值，累计0健康值
+Jan 09 06:20:30 
+Jan 09 06:20:30 
+Jan 09 06:20:30 🔔东东健康社区, 结束! 🕛 29.38 秒
+Jan 09 06:20:30 

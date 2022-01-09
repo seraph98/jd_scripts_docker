@@ -1,0 +1,383 @@
+Jan 07 00:06:01 
+Jan 07 00:06:01 🔔摇京豆, 开始!
+Jan 07 00:06:01 
+Jan 07 00:06:01 ====================共1个京东账号Cookie=========
+Jan 07 00:06:01 
+Jan 07 00:06:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 上午12:06:01=====================
+Jan 07 00:06:01 
+Jan 07 00:06:04 "Response code 403 (Forbidden)"
+Jan 07 00:06:04 摇京豆 welcomeHome API请求失败，请检查网路重试
+Jan 07 00:06:04 
+Jan 07 00:06:04 ********开始【京东账号1】jd_739d55b768da0*****
+Jan 07 00:06:04 
+Jan 07 00:06:04 {"code":"-1","echo":"503"}
+Jan 07 00:06:04 摇京豆——摇奖次数3
+Jan 07 00:06:05 京东会员——摇奖次数0
+Jan 07 00:06:05 开始 【摇京豆】 摇奖
+Jan 07 00:06:06 开始 【摇京豆】 摇奖
+Jan 07 00:06:07 开始 【摇京豆】 摇奖
+Jan 07 00:06:09 京东会员第1天签到结果；{"data":{"pin":"jd_739d55b768da0","rewardVos":[{"couponVo":null,"drawInfoVo":null,"hongBaoVo":null,"jingBeanVo":{"beanNum":1},"pitType":0,"rewardSource":0,"signItemId":"686001776775666944","signTime":"2022-01-07 00:06:08","signType":0},{"couponVo":null,"drawInfoVo":null,"hongBaoVo":null,"jingBeanVo":null,"pitType":3,"rewardSource":1,"signItemId":"686001776775666944","signTime":"2022-01-07 00:06:08","signType":0},{"couponVo":null,"drawInfoVo":{"drawNum":4},"hongBaoVo":null,"jingBeanVo":null,"pitType":2,"rewardSource":2,"signItemId":"686001776775666944","signTime":"2022-01-07 00:06:08","signType":0}],"signActId":"1","signActInstanceId":"686001775911731712"},"dataAbInfoList":null,"expInfo":null,"expLabel":null,"message":null,"officialDocument":null,"pftid":null,"resultCode":null,"resultTips":null,"success":true,"traceId":"0b620981.1641485156424.001207.148667"}
+Jan 07 00:06:09 京东会员第1天签到成功。获得1京豆
+Jan 07 00:06:09 
+Jan 07 00:06:09 2022.01.07嘉士伯集团超级摇一摇 当前共有积分：0，可抽奖：0次(最多4次摇奖机会)
+Jan 07 00:06:09 
+Jan 07 00:06:09 开始做 关注店铺
+Jan 07 00:06:09 做任务结果 {"code":"0","data":{"success":true,"bizCode":"0","bizMsg":"任务完成","result":{"encryptProjectId":"2MCHf2nmuuMvRLaoYjk7XcGVZNZE","encryptAssignmentId":"24rRGAkGiD4tUN8wvfLNEKmoMSZa","assignmentType":3,"brandRegUrl":null,"quantity":100,"restScore":100,"errorCode":null,"rewards":[{"awardType":1,"quantity":100,"beanNum":null,"awardName":null,"awardImg":null,"encryptRewardValue":null,"quota":null,"useRange":null,"usageThreshold":null,"useTimeRange":null}],"waterMarkCode":"aebbfedeed9f13b03ee232cf68f03142"}}}
+Jan 07 00:06:09 开始做 浏览会场，需等待8秒
+Jan 07 00:06:09 做任务结果 {"code":"0","data":{"success":true,"bizCode":"1","bizMsg":"任务领取成功","result":{"encryptProjectId":"2MCHf2nmuuMvRLaoYjk7XcGVZNZE","encryptAssignmentId":"4Rwq7wXLoPsU9tgLsTdF8guGLsnL","assignmentType":1,"brandRegUrl":null,"quantity":null,"restScore":100,"errorCode":null,"rewards":null,"waterMarkCode":"aebbfedeed9f13b03ee232cf68f03142"}}}
+Jan 07 00:06:17 做任务结果 {"code":"0","data":{"success":true,"bizCode":"0","bizMsg":"任务完成","result":{"encryptProjectId":"2MCHf2nmuuMvRLaoYjk7XcGVZNZE","encryptAssignmentId":"4Rwq7wXLoPsU9tgLsTdF8guGLsnL","assignmentType":1,"brandRegUrl":null,"quantity":100,"restScore":200,"errorCode":null,"rewards":[{"awardType":1,"quantity":100,"beanNum":null,"awardName":null,"awardImg":null,"encryptRewardValue":null,"quota":null,"useRange":null,"usageThreshold":null,"useTimeRange":null}],"waterMarkCode":"aebbfedeed9f13b03ee232cf68f03142"}}}
+Jan 07 00:06:17 助力任务好友邀请码： S5KkcRx0QoVHSch3ynKNbdA
+Jan 07 00:06:18 2022.01.07嘉士伯集团超级摇一摇 当前共有积分：200，可抽奖：2次(最多4次摇奖机会)
+Jan 07 00:06:18 
+Jan 07 00:06:19 超级摇一摇 抽奖结果:{"beanList":null,"couponList":null,"realList":null,"collectCardList":null,"successRewards":{}}
+Jan 07 00:06:20 超级摇一摇 抽奖结果:{"beanList":[{"awardType":3,"quantity":8}],"couponList":null,"realList":null,"collectCardList":null,"successRewards":{"3":[{"rewardName":"8京豆","rewardId":137038,"quantity":8,"rewardImg":"","rewardDesc":"8京豆","poolId":1}]}}
+Jan 07 00:06:20 获得8京豆
+Jan 07 00:06:20 
+Jan 07 00:06:20 
+Jan 07 00:06:20 京东APP首页超级摇一摇：目前暂无活动
+Jan 07 00:06:20 
+Jan 07 00:06:20 
+Jan 07 00:06:20 
+Jan 07 00:06:20 
+Jan 07 00:06:20 【1.7福临门 brandActivityId】：7928f54b-d659-4591-87ec-704642316298
+Jan 07 00:06:20 【cmsTaskGroupId】：12335418
+Jan 07 00:06:20 超级品牌日，做关注店铺 任务
+Jan 07 00:06:21 超级品牌日活动做任务结果：{"code":0,"data":{"bizCode":0,"bizMsg":"success","result":{"taskStatus":1},"success":true},"msg":"调用成功"}
+Jan 07 00:06:21 
+Jan 07 00:06:21 超级品牌日，逛品牌会场 任务
+Jan 07 00:06:21 超级品牌日活动做任务结果：{"code":0,"data":{"bizCode":0,"bizMsg":"success","result":{"taskStatus":1},"success":true},"msg":"调用成功"}
+Jan 07 00:06:21 
+Jan 07 00:06:21 超级品牌日，浏览下方指定商品 任务
+Jan 07 00:06:21 超级品牌日活动做任务结果：{"code":0,"data":{"bizCode":0,"bizMsg":"success","result":{"taskStatus":1},"success":true},"msg":"调用成功"}
+Jan 07 00:06:21 
+Jan 07 00:06:21 超级品牌日活动做任务结果：{"code":0,"data":{"bizCode":0,"bizMsg":"success","result":{"taskStatus":1},"success":true},"msg":"调用成功"}
+Jan 07 00:06:21 
+Jan 07 00:06:21 超级品牌日活动做任务结果：{"code":0,"data":{"bizCode":0,"bizMsg":"success","result":{"taskStatus":1},"success":true},"msg":"调用成功"}
+Jan 07 00:06:21 
+Jan 07 00:06:21 超级品牌日 抽奖 获得：10京豆🐶
+Jan 07 00:06:21 
+Jan 07 00:06:21 ==============📣系统通知📣==============
+Jan 07 00:06:21 摇京豆
+Jan 07 00:06:21 京东账号1 
+Jan 07 00:06:21 
+Jan 07 00:06:21 京东会员签到：获得1京豆
+Jan 07 00:06:21 
+Jan 07 00:06:21 2022.01.07嘉士伯集团超级摇一摇：获得8京豆
+Jan 07 00:06:21 【超级品牌日】获得：10京豆🐶
+Jan 07 00:06:21 
+Jan 07 00:06:21 
+Jan 07 00:06:21 账号 1 jd_739d55b768da0 开始给 S5KkcRx0QoVHSch3ynKNbdA 进行助力
+Jan 07 00:06:22 助力好友 S5KkcRx0QoVHSch3ynKNbdA结果 {"code":"0","data":{"success":true,"bizCode":"109","bizMsg":"不能自己给自己助力","result":{"encryptProjectId":"2MCHf2nmuuMvRLaoYjk7XcGVZNZE","encryptAssignmentId":"2zcwR2WBDEwEatMbKymgZiG8D2L","assignmentType":2,"brandRegUrl":null,"quantity":null,"restScore":0,"errorCode":null,"rewards":null,"waterMarkCode":"aebbfedeed9f13b03ee232cf68f03142"}}}
+Jan 07 00:06:22 
+Jan 07 00:06:22 账号 1 jd_739d55b768da0 开始给 SZm_olqSxIOtH97BATGmKoWraLaw 进行助力
+Jan 07 00:06:22 助力好友 SZm_olqSxIOtH97BATGmKoWraLaw结果 {"code":"0","data":{"success":true,"bizCode":"103","bizMsg":"任务已完成","result":{"encryptProjectId":"2MCHf2nmuuMvRLaoYjk7XcGVZNZE","encryptAssignmentId":"2zcwR2WBDEwEatMbKymgZiG8D2L","assignmentType":2,"brandRegUrl":null,"quantity":null,"restScore":0,"errorCode":null,"rewards":null,"waterMarkCode":"aebbfedeed9f13b03ee232cf68f03142"}}}
+Jan 07 00:06:22 超级摇一摇 抽奖失败：积分不足
+Jan 07 00:06:22 超级摇一摇 抽奖失败：积分不足
+Jan 07 00:06:23 超级摇一摇 抽奖失败：积分不足
+Jan 07 00:06:24 超级摇一摇 抽奖失败：积分不足
+Jan 07 00:06:24 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jan 07 00:06:24 
+Jan 07 00:06:30 发送通知调用API失败！！
+Jan 07 00:06:30 
+Jan 07 00:06:30 RequestError: socket hang up
+Jan 07 00:06:30     at ClientRequest.<anonymous> (/scripts/node_modules/.pnpm/got@11.8.3/node_modules/got/dist/source/core/index.js:962:111)
+Jan 07 00:06:30     at Object.onceWrapper (node:events:510:26)
+Jan 07 00:06:30     at ClientRequest.emit (node:events:402:35)
+Jan 07 00:06:30     at ClientRequest.origin.emit (/scripts/node_modules/.pnpm/@szmarczak+http-timer@4.0.6/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)
+Jan 07 00:06:30     at Socket.socketOnEnd (node:_http_client:471:9)
+Jan 07 00:06:30     at Socket.emit (node:events:402:35)
+Jan 07 00:06:30     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 07 00:06:30     at connResetException (node:internal/errors:691:14)
+Jan 07 00:06:30     at Socket.socketOnEnd (node:_http_client:471:23)
+Jan 07 00:06:30     at Socket.emit (node:events:402:35)
+Jan 07 00:06:30     at endReadableNT (node:internal/streams/readable:1343:12)
+Jan 07 00:06:30     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+Jan 07 00:06:30   code: 'ECONNRESET',
+Jan 07 00:06:30   timings: {
+Jan 07 00:06:30     start: 1641485186853,
+Jan 07 00:06:30     socket: 1641485186853,
+Jan 07 00:06:30     lookup: 1641485186854,
+Jan 07 00:06:30     connect: 1641485189478,
+Jan 07 00:06:30     secureConnect: undefined,
+Jan 07 00:06:30     upload: 1641485189478,
+Jan 07 00:06:30     response: undefined,
+Jan 07 00:06:30     end: undefined,
+Jan 07 00:06:30     error: 1641485190290,
+Jan 07 00:06:30     abort: undefined,
+Jan 07 00:06:30     phases: {
+Jan 07 00:06:30       wait: 0,
+Jan 07 00:06:30       dns: 1,
+Jan 07 00:06:30       tcp: 2624,
+Jan 07 00:06:30       tls: undefined,
+Jan 07 00:06:30       request: 0,
+Jan 07 00:06:30       firstByte: undefined,
+Jan 07 00:06:30       download: undefined,
+Jan 07 00:06:30       total: 3437
+Jan 07 00:06:30     }
+Jan 07 00:06:30   }
+Jan 07 00:06:30 }
+Jan 07 00:06:30 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jan 07 00:06:30 
+Jan 07 00:06:30 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jan 07 00:06:30 
+Jan 07 00:06:30 您未提供钉钉机器人推送所需的DD_BOT_TOKEN或者DD_BOT_SECRET，取消钉钉推送消息通知🚫
+Jan 07 00:06:30 
+Jan 07 00:06:30 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jan 07 00:06:30 
+Jan 07 00:06:30 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jan 07 00:06:30 
+Jan 07 00:06:30 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jan 07 00:06:30 
+Jan 07 00:06:30 您未提供go-cqhttp所需的GO_CQHTTP_URL、GO_CQHTTP_QQ、GO_CQHTTP_METHOD，取消QQ推送消息通知🚫
+Jan 07 00:06:30 
+Jan 07 00:06:30 
+Jan 07 00:06:30 🔔摇京豆, 结束! 🕛 28.871 秒
+Jan 07 00:06:30 
+Jan 07 23:06:00 
+Jan 07 23:06:00 🔔摇京豆, 开始!
+Jan 07 23:06:00 
+Jan 07 23:06:00 ====================共1个京东账号Cookie=========
+Jan 07 23:06:00 
+Jan 07 23:06:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/7 下午11:06:00=====================
+Jan 07 23:06:00 
+Jan 07 23:06:01 "Response code 403 (Forbidden)"
+Jan 07 23:06:01 摇京豆 welcomeHome API请求失败，请检查网路重试
+Jan 07 23:06:01 
+Jan 07 23:06:01 ********开始【京东账号1】jd_739d55b768da0*****
+Jan 07 23:06:01 
+Jan 07 23:06:01 开始做浏览页面任务
+Jan 07 23:06:14 开始做关注店铺任务
+Jan 07 23:06:17 摇京豆——摇奖次数11
+Jan 07 23:06:17 京东会员——摇奖次数11
+Jan 07 23:06:17 开始 【京东会员】 摇奖
+Jan 07 23:06:18 京东会员-剩余摇奖次数：10
+Jan 07 23:06:18 恭喜你，京东会员中奖了，获得1京豆
+Jan 07 23:06:18 
+Jan 07 23:06:18 开始 【京东会员】 摇奖
+Jan 07 23:06:19 京东会员-剩余摇奖次数：9
+Jan 07 23:06:19 未中奖
+Jan 07 23:06:19 
+Jan 07 23:06:19 开始 【京东会员】 摇奖
+Jan 07 23:06:21 京东会员-剩余摇奖次数：8
+Jan 07 23:06:21 未中奖
+Jan 07 23:06:21 
+Jan 07 23:06:21 开始 【京东会员】 摇奖
+Jan 07 23:06:22 京东会员-剩余摇奖次数：7
+Jan 07 23:06:22 未中奖
+Jan 07 23:06:22 
+Jan 07 23:06:22 开始 【京东会员】 摇奖
+Jan 07 23:06:23 京东会员-剩余摇奖次数：6
+Jan 07 23:06:23 未中奖
+Jan 07 23:06:23 
+Jan 07 23:06:23 开始 【京东会员】 摇奖
+Jan 07 23:06:24 开始 【京东会员】 摇奖
+Jan 07 23:06:26 京东会员-剩余摇奖次数：5
+Jan 07 23:06:26 未中奖
+Jan 07 23:06:26 
+Jan 07 23:06:26 开始 【京东会员】 摇奖
+Jan 07 23:06:27 开始 【京东会员】 摇奖
+Jan 07 23:06:28 京东会员-剩余摇奖次数：4
+Jan 07 23:06:28 未中奖
+Jan 07 23:06:28 
+Jan 07 23:06:28 开始 【京东会员】 摇奖
+Jan 07 23:06:29 京东会员-剩余摇奖次数：3
+Jan 07 23:06:29 未中奖
+Jan 07 23:06:29 
+Jan 07 23:06:29 开始 【京东会员】 摇奖
+Jan 07 23:06:31 京东会员-剩余摇奖次数：2
+Jan 07 23:06:31 未中奖
+Jan 07 23:06:31 
+Jan 07 23:06:31 开始 【摇京豆】 摇奖
+Jan 07 23:06:32 开始 【摇京豆】 摇奖
+Jan 07 23:06:33 开始 【摇京豆】 摇奖
+Jan 07 23:06:34 开始 【摇京豆】 摇奖
+Jan 07 23:06:35 开始 【摇京豆】 摇奖
+Jan 07 23:06:36 开始 【摇京豆】 摇奖
+Jan 07 23:06:37 开始 【摇京豆】 摇奖
+Jan 07 23:06:39 开始 【摇京豆】 摇奖
+Jan 07 23:06:40 开始 【摇京豆】 摇奖
+Jan 07 23:06:41 开始 【摇京豆】 摇奖
+Jan 07 23:06:42 开始 【摇京豆】 摇奖
+Jan 07 23:06:43 京东会员第1天已签到
+Jan 07 23:06:43 2022.01.07嘉士伯集团超级摇一摇 当前共有积分：0，可抽奖：0次(最多4次摇奖机会)
+Jan 07 23:06:43 
+Jan 07 23:06:44 助力任务好友邀请码： S5KkcRx0QoVHSch3ynKNbdA
+Jan 07 23:06:44 2022.01.07嘉士伯集团超级摇一摇 当前共有积分：0，可抽奖：0次(最多4次摇奖机会)
+Jan 07 23:06:44 
+Jan 07 23:06:44 
+Jan 07 23:06:44 
+Jan 07 23:06:44 京东APP首页超级摇一摇：目前暂无活动
+Jan 07 23:06:44 
+Jan 07 23:06:44 
+Jan 07 23:06:44 
+Jan 07 23:06:44 
+Jan 07 23:06:44 【1.7福临门 brandActivityId】：7928f54b-d659-4591-87ec-704642316298
+Jan 07 23:06:44 【1.7福临门 超级品牌日】：已完成抽奖
+Jan 07 23:06:44 
+Jan 07 23:06:44 ==============📣系统通知📣==============
+Jan 07 23:06:44 摇京豆
+Jan 07 23:06:44 京东账号1 
+Jan 07 23:06:44 摇京豆：获得1京豆
+Jan 07 23:06:44 
+Jan 07 23:06:44 账号 1 jd_739d55b768da0 开始给 S5KkcRx0QoVHSch3ynKNbdA 进行助力
+Jan 07 23:06:44 助力好友 S5KkcRx0QoVHSch3ynKNbdA结果 {"code":"0","data":{"success":true,"bizCode":"109","bizMsg":"不能自己给自己助力","result":{"encryptProjectId":"2MCHf2nmuuMvRLaoYjk7XcGVZNZE","encryptAssignmentId":"2zcwR2WBDEwEatMbKymgZiG8D2L","assignmentType":2,"brandRegUrl":null,"quantity":null,"restScore":0,"errorCode":null,"rewards":null,"waterMarkCode":"aebbfedeed9f13b03ee232cf68f03142"}}}
+Jan 07 23:06:44 
+Jan 07 23:06:44 账号 1 jd_739d55b768da0 开始给 SZm_olqSxIOtH97BATGmKoWraLaw 进行助力
+Jan 07 23:06:44 助力好友 SZm_olqSxIOtH97BATGmKoWraLaw结果 {"code":"0","data":{"success":true,"bizCode":"103","bizMsg":"任务已完成","result":{"encryptProjectId":"2MCHf2nmuuMvRLaoYjk7XcGVZNZE","encryptAssignmentId":"2zcwR2WBDEwEatMbKymgZiG8D2L","assignmentType":2,"brandRegUrl":null,"quantity":null,"restScore":0,"errorCode":null,"rewards":null,"waterMarkCode":"aebbfedeed9f13b03ee232cf68f03142"}}}
+Jan 07 23:06:44 超级摇一摇 抽奖失败：积分不足
+Jan 07 23:06:45 超级摇一摇 抽奖失败：积分不足
+Jan 07 23:06:46 超级摇一摇 抽奖失败：积分不足
+Jan 07 23:06:46 超级摇一摇 抽奖失败：积分不足
+Jan 07 23:06:47 
+Jan 07 23:06:47 🔔摇京豆, 结束! 🕛 46.592 秒
+Jan 07 23:06:47 
+Jan 08 00:06:01 
+Jan 08 00:06:01 🔔摇京豆, 开始!
+Jan 08 00:06:01 
+Jan 08 00:06:01 ====================共1个京东账号Cookie=========
+Jan 08 00:06:01 
+Jan 08 00:06:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 上午12:06:01=====================
+Jan 08 00:06:01 
+Jan 08 00:06:03 "Response code 403 (Forbidden)"
+Jan 08 00:06:03 摇京豆 welcomeHome API请求失败，请检查网路重试
+Jan 08 00:06:04 
+Jan 08 00:06:04 ********开始【京东账号1】jd_739d55b768da0*****
+Jan 08 00:06:04 
+Jan 08 00:06:04 开始做浏览页面任务
+Jan 08 00:06:17 开始做关注店铺任务
+Jan 08 00:06:19 摇京豆——摇奖次数3
+Jan 08 00:06:20 京东会员——摇奖次数0
+Jan 08 00:06:20 开始 【摇京豆】 摇奖
+Jan 08 00:06:21 开始 【摇京豆】 摇奖
+Jan 08 00:06:22 开始 【摇京豆】 摇奖
+Jan 08 00:06:23 京东会员第2天签到结果；{"data":{"pin":"jd_739d55b768da0","rewardVos":[{"couponVo":null,"drawInfoVo":null,"hongBaoVo":null,"jingBeanVo":{"beanNum":1},"pitType":0,"rewardSource":0,"signItemId":"686364227040043776","signTime":"2022-01-08 00:06:23","signType":0},{"couponVo":null,"drawInfoVo":null,"hongBaoVo":null,"jingBeanVo":null,"pitType":3,"rewardSource":1,"signItemId":"686364227040043776","signTime":"2022-01-08 00:06:23","signType":0},{"couponVo":null,"drawInfoVo":{"drawNum":4},"hongBaoVo":null,"jingBeanVo":null,"pitType":2,"rewardSource":2,"signItemId":"686364227040043776","signTime":"2022-01-08 00:06:23","signType":0}],"signActId":"1","signActInstanceId":"686001775911731712"},"dataAbInfoList":null,"expInfo":null,"expLabel":null,"message":null,"officialDocument":null,"pftid":null,"resultCode":null,"resultTips":null,"success":true,"traceId":"0b43f234.1641571504660.000430.001487"}
+Jan 08 00:06:23 京东会员第2天签到成功。获得1京豆
+Jan 08 00:06:23 
+Jan 08 00:06:24 
+Jan 08 00:06:24 【新版本 超级摇一摇】获取信息失败：没有查询到活动信息
+Jan 08 00:06:24 
+Jan 08 00:06:24 
+Jan 08 00:06:24 
+Jan 08 00:06:24 京东APP首页超级摇一摇：目前暂无活动
+Jan 08 00:06:24 
+Jan 08 00:06:24 
+Jan 08 00:06:24 
+Jan 08 00:06:24 
+Jan 08 00:06:24 【1.7福临门 brandActivityId】：7928f54b-d659-4591-87ec-704642316298
+Jan 08 00:06:24 超级超级品牌日 getHomeData 失败： 活动不在进行中哦
+Jan 08 00:06:24 去看看其他活动吧~
+Jan 08 00:06:24 【1.7福临门 超级品牌日】：活动不在进行中
+Jan 08 00:06:24 
+Jan 08 00:06:24 ==============📣系统通知📣==============
+Jan 08 00:06:24 摇京豆
+Jan 08 00:06:24 京东账号1 
+Jan 08 00:06:24 
+Jan 08 00:06:24 京东会员签到：获得1京豆
+Jan 08 00:06:24 
+Jan 08 00:06:24 
+Jan 08 00:06:24 🔔摇京豆, 结束! 🕛 23.076 秒
+Jan 08 00:06:24 
+Jan 08 23:06:00 
+Jan 08 23:06:00 🔔摇京豆, 开始!
+Jan 08 23:06:00 
+Jan 08 23:06:00 ====================共1个京东账号Cookie=========
+Jan 08 23:06:00 
+Jan 08 23:06:00 ==================脚本执行- 北京时间(UTC+8)：2022/1/8 下午11:06:00=====================
+Jan 08 23:06:00 
+Jan 08 23:06:00 "Response code 403 (Forbidden)"
+Jan 08 23:06:00 摇京豆 welcomeHome API请求失败，请检查网路重试
+Jan 08 23:06:00 
+Jan 08 23:06:00 ********开始【京东账号1】jd_739d55b768da0*****
+Jan 08 23:06:00 
+Jan 08 23:06:00 {"code":"-1","echo":"503"}
+Jan 08 23:06:01 开始做关注店铺任务
+Jan 08 23:06:03 摇京豆——摇奖次数3
+Jan 08 23:06:03 京东会员——摇奖次数4
+Jan 08 23:06:03 开始 【京东会员】 摇奖
+Jan 08 23:06:04 京东会员-剩余摇奖次数：3
+Jan 08 23:06:04 恭喜你，京东会员中奖了，获得1京豆
+Jan 08 23:06:04 
+Jan 08 23:06:04 开始 【京东会员】 摇奖
+Jan 08 23:06:06 京东会员-剩余摇奖次数：2
+Jan 08 23:06:06 未中奖
+Jan 08 23:06:06 
+Jan 08 23:06:06 开始 【京东会员】 摇奖
+Jan 08 23:06:07 京东会员-剩余摇奖次数：1
+Jan 08 23:06:07 未中奖
+Jan 08 23:06:07 
+Jan 08 23:06:07 开始 【京东会员】 摇奖
+Jan 08 23:06:08 京东会员-剩余摇奖次数：0
+Jan 08 23:06:08 恭喜你，京东会员中奖了，获得1京豆
+Jan 08 23:06:08 
+Jan 08 23:06:08 开始 【摇京豆】 摇奖
+Jan 08 23:06:09 开始 【摇京豆】 摇奖
+Jan 08 23:06:10 开始 【摇京豆】 摇奖
+Jan 08 23:06:12 京东会员第2天已签到
+Jan 08 23:06:12 
+Jan 08 23:06:12 【新版本 超级摇一摇】获取信息失败：没有查询到活动信息
+Jan 08 23:06:12 
+Jan 08 23:06:12 
+Jan 08 23:06:12 
+Jan 08 23:06:12 京东APP首页超级摇一摇：目前暂无活动
+Jan 08 23:06:12 
+Jan 08 23:06:12 
+Jan 08 23:06:12 
+Jan 08 23:06:12 
+Jan 08 23:06:12 【1.7福临门 brandActivityId】：7928f54b-d659-4591-87ec-704642316298
+Jan 08 23:06:12 超级超级品牌日 getHomeData 失败： 活动不在进行中哦
+Jan 08 23:06:12 去看看其他活动吧~
+Jan 08 23:06:12 【1.7福临门 超级品牌日】：活动不在进行中
+Jan 08 23:06:12 
+Jan 08 23:06:12 ==============📣系统通知📣==============
+Jan 08 23:06:12 摇京豆
+Jan 08 23:06:12 京东账号1 
+Jan 08 23:06:12 摇京豆：获得2京豆
+Jan 08 23:06:12 
+Jan 08 23:06:12 🔔摇京豆, 结束! 🕛 12.487 秒
+Jan 08 23:06:12 
+Jan 09 00:06:01 
+Jan 09 00:06:01 🔔摇京豆, 开始!
+Jan 09 00:06:01 
+Jan 09 00:06:01 ====================共1个京东账号Cookie=========
+Jan 09 00:06:01 
+Jan 09 00:06:01 ==================脚本执行- 北京时间(UTC+8)：2022/1/9 上午12:06:01=====================
+Jan 09 00:06:01 
+Jan 09 00:06:04 "Response code 403 (Forbidden)"
+Jan 09 00:06:04 摇京豆 welcomeHome API请求失败，请检查网路重试
+Jan 09 00:06:04 
+Jan 09 00:06:04 ********开始【京东账号1】jd_739d55b768da0*****
+Jan 09 00:06:04 
+Jan 09 00:06:04 {"code":"-1","echo":"503"}
+Jan 09 00:06:05 开始做关注店铺任务
+Jan 09 00:06:07 摇京豆——摇奖次数3
+Jan 09 00:06:07 京东会员——摇奖次数0
+Jan 09 00:06:07 开始 【摇京豆】 摇奖
+Jan 09 00:06:08 开始 【摇京豆】 摇奖
+Jan 09 00:06:10 开始 【摇京豆】 摇奖
+Jan 09 00:06:11 京东会员第3天签到结果；{"data":{"pin":"jd_739d55b768da0","rewardVos":[{"couponVo":null,"drawInfoVo":null,"hongBaoVo":null,"jingBeanVo":{"beanNum":1},"pitType":0,"rewardSource":0,"signItemId":"686726563743400320","signTime":"2022-01-09 00:06:11","signType":0},{"couponVo":null,"drawInfoVo":null,"hongBaoVo":null,"jingBeanVo":null,"pitType":3,"rewardSource":1,"signItemId":"686726563743400320","signTime":"2022-01-09 00:06:11","signType":0},{"couponVo":null,"drawInfoVo":{"drawNum":4},"hongBaoVo":null,"jingBeanVo":null,"pitType":2,"rewardSource":2,"signItemId":"686726563743400320","signTime":"2022-01-09 00:06:11","signType":0},{"couponVo":null,"drawInfoVo":null,"hongBaoVo":null,"jingBeanVo":{"beanNum":8},"pitType":0,"rewardSource":0,"signItemId":"686726563776954752","signTime":"2022-01-09 00:06:11","signType":1}],"signActId":"1","signActInstanceId":"686001775911731712"},"dataAbInfoList":null,"expInfo":null,"expLabel":null,"message":null,"officialDocument":null,"pftid":null,"resultCode":null,"resultTips":null,"success":true,"traceId":"0b742647.1641657904195.000876.018326"}
+Jan 09 00:06:11 京东会员第3天签到成功。获得1京豆
+Jan 09 00:06:11 
+Jan 09 00:06:11 
+Jan 09 00:06:11 【新版本 超级摇一摇】获取信息失败：没有查询到活动信息
+Jan 09 00:06:11 
+Jan 09 00:06:11 
+Jan 09 00:06:11 
+Jan 09 00:06:11 京东APP首页超级摇一摇：目前暂无活动
+Jan 09 00:06:11 
+Jan 09 00:06:11 
+Jan 09 00:06:12 
+Jan 09 00:06:12 
+Jan 09 00:06:12 【1.7福临门 brandActivityId】：7928f54b-d659-4591-87ec-704642316298
+Jan 09 00:06:12 超级超级品牌日 getHomeData 失败： 活动不在进行中哦
+Jan 09 00:06:12 去看看其他活动吧~
+Jan 09 00:06:12 【1.7福临门 超级品牌日】：活动不在进行中
+Jan 09 00:06:12 
+Jan 09 00:06:12 ==============📣系统通知📣==============
+Jan 09 00:06:12 摇京豆
+Jan 09 00:06:12 京东账号1 
+Jan 09 00:06:12 
+Jan 09 00:06:12 京东会员签到：获得1京豆
+Jan 09 00:06:12 
+Jan 09 00:06:12 
+Jan 09 00:06:12 🔔摇京豆, 结束! 🕛 11.019 秒
+Jan 09 00:06:12 
